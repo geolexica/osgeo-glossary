@@ -1,11 +1,15 @@
+---
 term: WCPS
 termid: 443
 eng:
   id: 443
-  term: WCPS
   definition: OGC Web Coverage Processing Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: WCPS
+    normative_status: 

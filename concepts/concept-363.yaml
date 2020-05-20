@@ -1,11 +1,15 @@
+---
 term: SCOTS
 termid: 363
 eng:
   id: 363
-  term: SCOTS
   definition: Standards based Commercial Off-The-Shelf software
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SCOTS
+    normative_status: 

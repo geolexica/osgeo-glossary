@@ -1,15 +1,18 @@
+---
 term: GeoServer
 termid: 163
 eng:
   id: 163
-  term: GeoServer
-  definition: >-
-    GeoServer is an open source software server written in Java that allows
-    users to share and edit geospatial data. Designed for interoperability, it
-    publishes data from any major spatial data source using open standards.
+  definition: GeoServer is an open source software server written in Java that allows
+    users to share and edit geospatial data. Designed for interoperability, it publishes
+    data from any major spatial data source using open standards.
   language_code: eng
   notes: []
   examples: []
   type: soft
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: GeoServer
+    normative_status: 

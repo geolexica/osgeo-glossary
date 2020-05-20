@@ -1,11 +1,15 @@
+---
 term: GODAN
 termid: 185
 eng:
   id: 185
-  term: GODAN
   definition: Global Open Data for Agriculture and Nutrition
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: GODAN
+    normative_status: 

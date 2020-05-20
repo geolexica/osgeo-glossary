@@ -1,11 +1,15 @@
+---
 term: ebXML
 termid: 110
 eng:
   id: 110
-  term: ebXML
   definition: Enterprise Business XML.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: ebXML
+    normative_status: 

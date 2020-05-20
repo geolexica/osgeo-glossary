@@ -1,11 +1,15 @@
+---
 term: WCTS
 termid: 447
 eng:
   id: 447
-  term: WCTS
   definition: OGC Web Coordinate Transformation Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: WCTS
+    normative_status: 

@@ -1,13 +1,16 @@
+---
 term: FOSS4G
 termid: 147
 eng:
   id: 147
-  term: FOSS4G
-  definition: >-
-    Free and Open Source Software for Geospatial. Conference of the Open Source
-    Geospatial Foundation.
+  definition: Free and Open Source Software for Geospatial. Conference of the Open
+    Source Geospatial Foundation.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
     link: Combo of a couple of sources
+  terms:
+  - type: expression
+    designation: FOSS4G
+    normative_status: 

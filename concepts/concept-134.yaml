@@ -1,13 +1,16 @@
+---
 term: ESRI
 termid: 134
 eng:
   id: 134
-  term: ESRI
-  definition: >-
-    Environmental Systems Research Instititue, Inc. This is a registered
+  definition: Environmental Systems Research Instititue, Inc. This is a registered
     trademark.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://wiki.osgeo.org/wiki/Starter_Dictionary'
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+  terms:
+  - type: expression
+    designation: ESRI
+    normative_status: 

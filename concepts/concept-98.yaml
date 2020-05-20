@@ -1,11 +1,15 @@
+---
 term: DTM
 termid: 98
 eng:
   id: 98
-  term: DTM
   definition: Digital Terrain Model
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: DTM
+    normative_status: 

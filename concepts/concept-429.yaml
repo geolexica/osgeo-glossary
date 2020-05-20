@@ -1,15 +1,18 @@
+---
 term: UNEP
 termid: 429
 eng:
   id: 429
-  term: UNEP
-  definition: >-
-    The UN Environment Programme (UNEP) coordinates United Nations environmental
-    activities, assisting developing countries in implementing environmentally
-    sound policies and encourages sustainable development through sound
-    environmental practices. http://www.unep.org
+  definition: The UN Environment Programme (UNEP) coordinates United Nations environmental
+    activities, assisting developing countries in implementing environmentally sound
+    policies and encourages sustainable development through sound environmental practices.
+    http://www.unep.org
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: UNEP
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: TML
 termid: 424
 eng:
   id: 424
-  term: TML
   definition: OGC Transducer Markup Language Encoding Standard (retired)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: TML
+    normative_status: 

@@ -1,15 +1,17 @@
+---
 term: SOA
 termid: 389
 eng:
   id: 389
-  term: SOA
-  definition: >-
-    Service Oriented Architecture provides methods for systems development and
-    integration where systems package functionality as interoperable services. A
-    SOA infrastructure allows different applications to exchange data with one
-    another.
+  definition: Service Oriented Architecture provides methods for systems development
+    and integration where systems package functionality as interoperable services.
+    A SOA infrastructure allows different applications to exchange data with one another.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: SOA
+    normative_status: 

@@ -1,15 +1,18 @@
+---
 term: Vector Layer
 termid: 438
 eng:
   id: 438
-  term: Vector Layer
-  definition: >-
-    A published GeoServer representation of a collection of vector feature types
-    (featureType) stored as mathematical paths—a point as a single x, y
-    coordinate, lines as a series of x, y coordinates, and polygons as a series
-    of x, y coordinates that start and end on the same location. See also Layer.
+  definition: A published GeoServer representation of a collection of vector feature
+    types (featureType) stored as mathematical paths—a point as a single x, y coordinate,
+    lines as a series of x, y coordinates, and polygons as a series of x, y coordinates
+    that start and end on the same location. See also Layer.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: Vector Layer
+    normative_status: 

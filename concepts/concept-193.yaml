@@ -1,13 +1,16 @@
+---
 term: GRASPgfs
 termid: 193
 eng:
   id: 193
-  term: GRASPgfs
-  definition: >-
-    Geospatial Resource for Agricultural Species and Pests and Pathogens with
-    workflow integrated modeling to support Global Food Security
+  definition: Geospatial Resource for Agricultural Species and Pests and Pathogens
+    with workflow integrated modeling to support Global Food Security
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: GRASPgfs
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: GITA
 termid: 175
 eng:
   id: 175
-  term: GITA
   definition: Geospatial Information & Technology Association
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: GITA
+    normative_status: 

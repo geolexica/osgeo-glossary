@@ -1,11 +1,15 @@
+---
 term: AM/FM
 termid: 10
 eng:
   id: 10
-  term: AM/FM
   definition: Automated Mapping/Facilities Management
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: AM/FM
+    normative_status: 

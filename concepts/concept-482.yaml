@@ -1,11 +1,15 @@
+---
 term: XSEDE
 termid: 482
 eng:
   id: 482
-  term: XSEDE
   definition: Extreme Science and Engineering Discovery Environment
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: XSEDE
+    normative_status: 

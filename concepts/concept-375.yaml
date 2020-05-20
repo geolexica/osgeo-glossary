@@ -1,15 +1,17 @@
+---
 term: Shapefile
 termid: 375
 eng:
   id: 375
-  term: Shapefile
-  definition: >-
-    Shapefiles are simple GIS vector files containing points, lines or areas.
-    The format was designed and published by ESRI and is widely supported in the
-    GIS world. It is effectively the native and highest performance format for
-    MapServer.
+  definition: Shapefiles are simple GIS vector files containing points, lines or areas.
+    The format was designed and published by ESRI and is widely supported in the GIS
+    world. It is effectively the native and highest performance format for MapServer.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: Shapefile
+    normative_status: 

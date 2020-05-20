@@ -1,11 +1,15 @@
+---
 term: DCP
 termid: 84
 eng:
   id: 84
-  term: DCP
   definition: Distributed Computing Platform
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: DCP
+    normative_status: 

@@ -1,13 +1,16 @@
+---
 term: GeoRSS
 termid: 161
 eng:
   id: 161
-  term: GeoRSS
-  definition: >-
-    RSS feed containing geographic information in GML (Geographic Markup
+  definition: RSS feed containing geographic information in GML (Geographic Markup
     Language) format.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: GeoRSS
+    normative_status: 

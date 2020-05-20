@@ -1,11 +1,15 @@
+---
 term: SWE
 termid: 409
 eng:
   id: 409
-  term: SWE
   definition: OGC Sensor Web Enablement activity
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SWE
+    normative_status: 

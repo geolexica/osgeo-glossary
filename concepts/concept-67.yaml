@@ -1,11 +1,15 @@
+---
 term: CSW
 termid: 67
 eng:
   id: 67
-  term: CSW
   definition: OGC Catalog Service Interface Standard for the Web
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: CSW
+    normative_status: 

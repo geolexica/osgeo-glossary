@@ -1,13 +1,16 @@
+---
 term: OpenLayers
 termid: 320
 eng:
   id: 320
-  term: OpenLayers
-  definition: >-
-    OpenLayers is a JavaScript library for developing draggable, “slippy map”
-    web applications.
+  definition: OpenLayers is a JavaScript library for developing draggable, “slippy
+    map” web applications.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: OpenLayers
+    normative_status: 

@@ -1,14 +1,16 @@
+---
 term: SLD
 termid: 381
 eng:
   id: 381
-  term: SLD
-  definition: >-
-    The Styled Layer Descriptor (SLD) specification from the Open Geospatial
-    Consortium defines an format for describing cartographic rendering of vector
-    features.
+  definition: The Styled Layer Descriptor (SLD) specification from the Open Geospatial
+    Consortium defines an format for describing cartographic rendering of vector features.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: SLD
+    normative_status: 

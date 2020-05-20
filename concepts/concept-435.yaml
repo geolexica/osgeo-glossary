@@ -1,11 +1,15 @@
+---
 term: USGS
 termid: 435
 eng:
   id: 435
-  term: USGS
   definition: U.S. Geological Survey
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: USGS
+    normative_status: 

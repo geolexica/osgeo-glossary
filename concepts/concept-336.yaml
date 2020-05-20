@@ -1,11 +1,15 @@
+---
 term: PNG
 termid: 336
 eng:
   id: 336
-  term: PNG
   definition: Portable Network Graphic
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: PNG
+    normative_status: 

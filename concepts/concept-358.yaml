@@ -1,11 +1,15 @@
+---
 term: SAA Pilot
 termid: 358
 eng:
   id: 358
-  term: SAA Pilot
   definition: Special Activity Airspace Pilot
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SAA Pilot
+    normative_status: 

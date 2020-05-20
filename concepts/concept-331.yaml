@@ -1,11 +1,15 @@
+---
 term: OWSC
 termid: 331
 eng:
   id: 331
-  term: OWSC
   definition: OGC Web Services Common
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: OWSC
+    normative_status: 

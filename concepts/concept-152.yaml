@@ -1,14 +1,17 @@
+---
 term: GDAL
 termid: 152
 eng:
   id: 152
-  term: GDAL
-  definition: >-
-    Geospatial Data Abstraction Library, pronounced “GOO-duhl”, an open source
-    raster access library with support for a large number of formats, used
+  definition: Geospatial Data Abstraction Library, pronounced “GOO-duhl”, an open
+    source raster access library with support for a large number of formats, used
     widely in both open source and proprietary software.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: GDAL
+    normative_status: 

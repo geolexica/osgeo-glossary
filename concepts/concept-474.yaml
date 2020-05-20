@@ -1,11 +1,15 @@
+---
 term: WPS
 termid: 474
 eng:
   id: 474
-  term: WPS
   definition: OGC Web Processing Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: WPS
+    normative_status: 

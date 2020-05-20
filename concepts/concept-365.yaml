@@ -1,19 +1,20 @@
+---
 term: SDI
 termid: 365
 eng:
   id: 365
-  term: SDI
-  definition: >-
-    An SDI (Spatial Data Infrastructure) is a computer system integrated by a
-    set of resources (catalogues, servers, programs, data, applications, web
-    pages, and so on), for manage Geographic Information (maps, satellite
-    images, toponymes, etc.), available from the Internet, that follow a set of
-    interoperational capacity conditions (rules, specifications, protocols,
-    interfaces, etc) that allow an user to use them using a simple browser and
-    combine then for his/her needs.
+  definition: An SDI (Spatial Data Infrastructure) is a computer system integrated
+    by a set of resources (catalogues, servers, programs, data, applications, web
+    pages, and so on), for manage Geographic Information (maps, satellite images,
+    toponymes, etc.), available from the Internet, that follow a set of interoperational
+    capacity conditions (rules, specifications, protocols, interfaces, etc) that allow
+    an user to use them using a simple browser and combine then for his/her needs.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: SDI
+    normative_status: 

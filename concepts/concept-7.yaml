@@ -1,14 +1,16 @@
+---
 term: AGG
 termid: 7
 eng:
   id: 7
-  term: AGG
-  definition: >-
-    Anti-Grain Geometry A high quality graphics rendering engine that MapServer
-    5.0+ can use. It supports sub-pixel anti-aliasing, as well as many more
-    features.
+  definition: Anti-Grain Geometry A high quality graphics rendering engine that MapServer
+    5.0+ can use. It supports sub-pixel anti-aliasing, as well as many more features.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: AGG
+    normative_status: 

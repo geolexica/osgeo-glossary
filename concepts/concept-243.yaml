@@ -1,11 +1,15 @@
+---
 term: JIBX
 termid: 243
 eng:
   id: 243
-  term: JIBX
   definition: Binding XML to Java Code.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: JIBX
+    normative_status: 

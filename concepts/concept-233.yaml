@@ -1,11 +1,15 @@
+---
 term: ISO Technical Committee 204
 termid: 233
 eng:
   id: 233
-  term: ISO Technical Committee 204
   definition: Intelligent transport systems
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: ISO Technical Committee 204
+    normative_status: 

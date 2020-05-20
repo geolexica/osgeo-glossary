@@ -1,11 +1,15 @@
+---
 term: OMG
 termid: 316
 eng:
   id: 316
-  term: OMG
   definition: Object Management Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: OMG
+    normative_status: 

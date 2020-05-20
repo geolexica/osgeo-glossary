@@ -1,11 +1,15 @@
+---
 term: SMAC
 termid: 386
 eng:
   id: 386
-  term: SMAC
   definition: OGC Strategic Member Advisory Committee
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SMAC
+    normative_status: 

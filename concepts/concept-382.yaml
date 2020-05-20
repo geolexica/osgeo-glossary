@@ -1,13 +1,16 @@
+---
 term: SLD
 termid: 382
 eng:
   id: 382
-  term: SLD
-  definition: >-
-    SLD is an OGC standard which allows for custom symbolization for portrayal
+  definition: SLD is an OGC standard which allows for custom symbolization for portrayal
     of data.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: SLD
+    normative_status: 

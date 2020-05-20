@@ -1,11 +1,15 @@
+---
 term: SF OLE/COM
 termid: 372
 eng:
   id: 372
-  term: SF OLE/COM
   definition: Simple Features OLE/COM
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SF OLE/COM
+    normative_status: 

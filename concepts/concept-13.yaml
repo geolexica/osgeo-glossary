@@ -1,13 +1,16 @@
+---
 term: API
 termid: 13
 eng:
   id: 13
-  term: API
-  definition: >-
-    Application Programming Interface. A set of routines, procedures, protocols,
+  definition: Application Programming Interface. A set of routines, procedures, protocols,
     and tools for building software applications.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: API
+    normative_status: 

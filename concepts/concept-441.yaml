@@ -1,11 +1,15 @@
+---
 term: W3C
 termid: 441
 eng:
   id: 441
-  term: W3C
   definition: World Wide Web Consortium
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: W3C
+    normative_status: 

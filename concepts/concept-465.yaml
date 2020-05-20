@@ -1,13 +1,16 @@
+---
 term: WMS
 termid: 465
 eng:
   id: 465
-  term: WMS
-  definition: >-
-    WMS is an OGC standard that describes how to systematically produce rendered
-    map images from a service and return them to a client
+  definition: WMS is an OGC standard that describes how to systematically produce
+    rendered map images from a service and return them to a client
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: WMS
+    normative_status: 

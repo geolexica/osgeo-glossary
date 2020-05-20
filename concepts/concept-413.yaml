@@ -1,14 +1,17 @@
+---
 term: SWIG
 termid: 413
 eng:
   id: 413
-  term: SWIG
-  definition: >-
-    Simplified Wrapper Interface Generator is the library that MapServer uses
-    for generating the language bindings for all languages other than C/C++ and
+  definition: Simplified Wrapper Interface Generator is the library that MapServer
+    uses for generating the language bindings for all languages other than C/C++ and
     PHP. MapScript describes these bindings.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: SWIG
+    normative_status: 

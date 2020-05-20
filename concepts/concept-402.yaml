@@ -1,15 +1,18 @@
+---
 term: SRID
 termid: 402
 eng:
   id: 402
-  term: SRID
-  definition: >-
-    Spatial reference ID. This a unique number assigned to a particular
-    “coordinate reference system”. The PostGIS table spatial_ref_sys contains a
-    large collection of well-known SRID values and text representations of the
-    coordinate reference systems.
+  definition: Spatial reference ID. This a unique number assigned to a particular
+    “coordinate reference system”. The PostGIS table spatial_ref_sys contains a large
+    collection of well-known SRID values and text representations of the coordinate
+    reference systems.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: SRID
+    normative_status: 

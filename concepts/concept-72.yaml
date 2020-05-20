@@ -1,11 +1,15 @@
+---
 term: CUDA
 termid: 72
 eng:
   id: 72
-  term: CUDA
   definition: Compute Unified Device Architecture
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: CUDA
+    normative_status: 

@@ -1,15 +1,17 @@
+---
 term: Grid
 termid: 195
 eng:
   id: 195
-  term: Grid
-  definition: >-
-    Is a net composed by two or more series of arcs in which the member of each
-    series intersects with the members of the other series in an algorithmic
+  definition: Is a net composed by two or more series of arcs in which the member
+    of each series intersects with the members of the other series in an algorithmic
     way.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Grid
+    normative_status: 

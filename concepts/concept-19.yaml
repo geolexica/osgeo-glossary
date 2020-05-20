@@ -1,11 +1,15 @@
+---
 term: AURIN
 termid: 19
 eng:
   id: 19
-  term: AURIN
   definition: Australian Urban Research Infrastructure Network
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: AURIN
+    normative_status: 

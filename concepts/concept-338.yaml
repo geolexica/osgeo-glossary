@@ -1,13 +1,16 @@
+---
 term: Projection
 termid: 338
 eng:
   id: 338
-  term: Projection
-  definition: >-
-    A method of representing the earth’s three-dimensional surface on a
+  definition: A method of representing the earth’s three-dimensional surface on a
     two-dimensional plan. See also CRS.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: Projection
+    normative_status: 

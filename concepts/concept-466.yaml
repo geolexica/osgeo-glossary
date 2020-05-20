@@ -1,11 +1,15 @@
+---
 term: WMS
 termid: 466
 eng:
   id: 466
-  term: WMS
   definition: OGC Web Map Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: WMS
+    normative_status: 

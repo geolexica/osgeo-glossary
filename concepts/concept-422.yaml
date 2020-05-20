@@ -1,11 +1,15 @@
+---
 term: TIN
 termid: 422
 eng:
   id: 422
-  term: TIN
   definition: Triangulated Irregular Network
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: TIN
+    normative_status: 

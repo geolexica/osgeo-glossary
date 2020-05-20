@@ -1,11 +1,15 @@
+---
 term: SDI
 termid: 364
 eng:
   id: 364
-  term: SDI
   definition: Spatial Data Infrastructure
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: SDI
+    normative_status: 

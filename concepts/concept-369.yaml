@@ -1,11 +1,15 @@
+---
 term: SensorML
 termid: 369
 eng:
   id: 369
-  term: SensorML
   definition: OGC Sensor Model Language Encoding Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SensorML
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: OGC-E
 termid: 309
 eng:
   id: 309
-  term: OGC-E
   definition: OGC Europe
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: OGC-E
+    normative_status: 

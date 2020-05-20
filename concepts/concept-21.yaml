@@ -1,14 +1,16 @@
+---
 term: Band
 termid: 21
 eng:
   id: 21
-  term: Band
-  definition: >-
-    Frequency interval from the electromagnetic spectrum. For example, the first
-    band of the TM sensor is defined in the range of 0.45­.052 mm.
+  definition: Frequency interval from the electromagnetic spectrum. For example, the
+    first band of the TM sensor is defined in the range of 0.45­.052 mm.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Band
+    normative_status: 

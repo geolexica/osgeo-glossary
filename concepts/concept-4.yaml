@@ -1,14 +1,16 @@
+---
 term: ADL Gazetter Protocol
 termid: 4
 eng:
   id: 4
-  term: ADL Gazetter Protocol
-  definition: >-
-    Standard defining how the communication between ADL gazetteer clients and
-    servers must be.
+  definition: Standard defining how the communication between ADL gazetteer clients
+    and servers must be.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: ADL Gazetter Protocol
+    normative_status: 

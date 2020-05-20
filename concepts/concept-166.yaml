@@ -1,20 +1,23 @@
+---
 term: Geospatial Metadata
 termid: 166
 eng:
   id: 166
-  term: Geospatial Metadata
-  definition: >-
-    Information about geospatial data that may not be contained in, or readily
+  definition: Information about geospatial data that may not be contained in, or readily
     apparent from, the geospatial data itself.
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - |
-      TMG_NP
-      ISO 19115-1:2014, 4.10
-      metadata
-      information about a resource
+  - |
+    TMG_NP
+    ISO 19115-1:2014, 4.10
+    metadata
+    information about a resource
   authoritative_source:
-    link: 'https://wiki.osgeo.org/wiki/Starter_Dictionary'
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+  terms:
+  - type: expression
+    designation: Geospatial Metadata
+    normative_status: 

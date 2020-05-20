@@ -1,11 +1,15 @@
+---
 term: DEMTS
 termid: 87
 eng:
   id: 87
-  term: DEMTS
   definition: Digital and Electronic Maps Transfer Standard (Russia)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: DEMTS
+    normative_status: 

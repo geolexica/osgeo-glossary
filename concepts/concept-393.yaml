@@ -1,13 +1,16 @@
+---
 term: SOS
 termid: 393
 eng:
   id: 393
-  term: SOS
-  definition: >-
-    SOS is an OGC standard which provides an API for managing deployed sensors
+  definition: SOS is an OGC standard which provides an API for managing deployed sensors
     and retrieving sensor and observation data.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: SOS
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: NMA
 termid: 288
 eng:
   id: 288
-  term: NMA
   definition: National Mapping Agency
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: NMA
+    normative_status: 

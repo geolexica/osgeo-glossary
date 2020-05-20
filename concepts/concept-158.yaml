@@ -1,15 +1,17 @@
+---
 term: GeoNetwork
 termid: 158
 eng:
   id: 158
-  term: GeoNetwork
-  definition: >-
-    GeoNetwork opensource is a standards based, Free and Open Source catalog
-    application to manage spatially referenced resources through the web.
-    http://geonetwork-opensource.org
+  definition: GeoNetwork opensource is a standards based, Free and Open Source catalog
+    application to manage spatially referenced resources through the web. http://geonetwork-opensource.org
   language_code: eng
   notes: []
   examples: []
   type: other
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: GeoNetwork
+    normative_status: 

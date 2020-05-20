@@ -1,13 +1,16 @@
+---
 term: WMC
 termid: 460
 eng:
   id: 460
-  term: WMC
-  definition: >-
-    Web Map Context is an OGC standard which allows for sharing of map views of
-    WMS layers in multiple applications.
+  definition: Web Map Context is an OGC standard which allows for sharing of map views
+    of WMS layers in multiple applications.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: WMC
+    normative_status: 

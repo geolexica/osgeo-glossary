@@ -1,13 +1,16 @@
+---
 term: ImageMosaic
 termid: 221
 eng:
   id: 221
-  term: ImageMosaic
-  definition: >-
-    A GeoServer data store supporting the creation of a mosaic based on a number
-    of georeferenced raster data sources. See also Data Store and Mosaic.
+  definition: A GeoServer data store supporting the creation of a mosaic based on
+    a number of georeferenced raster data sources. See also Data Store and Mosaic.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: ImageMosaic
+    normative_status: 

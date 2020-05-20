@@ -1,11 +1,15 @@
+---
 term: MCP
 termid: 264
 eng:
   id: 264
-  term: MCP
   definition: OGC Marketing & Communications Program
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: MCP
+    normative_status: 

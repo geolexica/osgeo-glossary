@@ -1,11 +1,15 @@
+---
 term: DBF
 termid: 80
 eng:
   id: 80
-  term: DBF
-  definition: 'Data Base File, the Dbase file format'
+  definition: Data Base File, the Dbase file format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: DBF
+    normative_status: 

@@ -1,17 +1,20 @@
+---
 term: ESRI Shapefile
 termid: 135
 eng:
   id: 135
-  term: ESRI Shapefile
-  definition: >-
-    A file format created by ESRI that is used to store simple geospatial
-    features.
+  definition: |-
+    A file format created by ESRI that is used to store simple geospatial features.
      Example: The United States Census Bureau TIGER Data can be obtained for most counties in the United States as ESRI Shapefiles.
   language_code: eng
   notes: []
   examples: []
   type: soft
   comments:
-    - TMG_NP
+  - TMG_NP
   authoritative_source:
-    link: 'https://wiki.osgeo.org/wiki/Starter_Dictionary'
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+  terms:
+  - type: expression
+    designation: ESRI Shapefile
+    normative_status: 

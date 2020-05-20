@@ -1,49 +1,38 @@
+---
 term: CRS
 termid: 59
 eng:
   id: 59
-  term: CRS
-  definition: >-
-    Coordinate reference system. The combination of a geographic and projected
-    coordinate systems that define how two-dimensional maps relate to locations
-    on the earth’s surface. Geographic coordinate systems use a
-    three-dimensional spherical surface to define those locations, referencing
-    points on that surface through angles (latitude and longitude values)
-    measured from the earth’s center. Projected coordinate systems are based on
-    flat two-dimensional surfaces, with locations referenced by x, y coordinates
-    measured as constant lengths and distances across that surface. See also
-    SRID and SRS.
+  definition: Coordinate reference system. The combination of a geographic and projected
+    coordinate systems that define how two-dimensional maps relate to locations on
+    the earth’s surface. Geographic coordinate systems use a three-dimensional spherical
+    surface to define those locations, referencing points on that surface through
+    angles (latitude and longitude values) measured from the earth’s center. Projected
+    coordinate systems are based on flat two-dimensional surfaces, with locations
+    referenced by x, y coordinates measured as constant lengths and distances across
+    that surface. See also SRID and SRS.
   language_code: eng
   notes: []
   examples: []
   type: check
   comments:
-    - >-
-      TMG_P
+  - |-
+    TMG_P
+    ISO 19111:2019, 3.1.9
+    coordinate reference system
+    coordinate system that is related to an object by a datum
 
-      ISO 19111:2019, 3.1.9
+    Note 1 to entry: Geodetic and vertical datums are referred to as reference frames.
 
-      coordinate reference system
+    Note 2 to entry: For geodetic and vertical reference frames, the object will be the Earth. In planetary applications, geodetic and vertical reference frames may be applied to other celestial bodies.
 
-      coordinate system that is related to an object by a datum
-
-
-      Note 1 to entry: Geodetic and vertical datums are referred to as reference
-      frames.
-
-
-      Note 2 to entry: For geodetic and vertical reference frames, the object
-      will be the Earth. In planetary applications, geodetic and vertical
-      reference frames may be applied to other celestial bodies.
-
-
-      regarding spatial reference system (SRS)
-
-      This entry has been excluded from the revision of ISO 19112:2003(E) (See
-      ISO 19112:2019(E)) the new authoritative definition of SRS is
-
-      ISO 19155:2012, 4.20 (source was 19112:2003)
-
-      system for identifying position in the real world
+    regarding spatial reference system (SRS)
+    This entry has been excluded from the revision of ISO 19112:2003(E) (See ISO 19112:2019(E)) the new authoritative definition of SRS is
+    ISO 19155:2012, 4.20 (source was 19112:2003)
+    system for identifying position in the real world
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: CRS
+    normative_status: 

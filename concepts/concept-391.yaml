@@ -1,14 +1,16 @@
+---
 term: SOAP
 termid: 391
 eng:
   id: 391
-  term: SOAP
-  definition: >-
-    Simple Object Access Protocol is a protocol specification for exchanging
-    structured information in the implementation of Web Services in computer
-    networks.
+  definition: Simple Object Access Protocol is a protocol specification for exchanging
+    structured information in the implementation of Web Services in computer networks.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: SOAP
+    normative_status: 

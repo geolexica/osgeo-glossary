@@ -1,13 +1,17 @@
+---
 term: CRS
 termid: 61
 eng:
   id: 61
-  term: CRS
   definition: Coordinate Reference System. Also CRS Domain Working Group.
   language_code: eng
   notes: []
   examples: []
   comments:
-    - TMG_P
+  - TMG_P
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: CRS
+    normative_status: 

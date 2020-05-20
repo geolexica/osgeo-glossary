@@ -1,13 +1,16 @@
+---
 term: UCAR
 termid: 426
 eng:
   id: 426
-  term: UCAR
-  definition: >-
-    University Corporation for Atmospheric Research / National Center for
+  definition: University Corporation for Atmospheric Research / National Center for
     Atmospheric Research (NCAR)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: UCAR
+    normative_status: 

@@ -1,15 +1,18 @@
+---
 term: FOSS
 termid: 146
 eng:
   id: 146
-  term: FOSS
-  definition: >-
-    Free and Open Source Software, also F/OSS, FOSS, or FLOSS (free/libre/open
-    source software) is software which is liberally licensed to grant the right
-    of users to study, change, and improve its design through the availability
-    of its source code. http://en.wikipedia.org/wiki/FOSS
+  definition: Free and Open Source Software, also F/OSS, FOSS, or FLOSS (free/libre/open
+    source software) is software which is liberally licensed to grant the right of
+    users to study, change, and improve its design through the availability of its
+    source code. http://en.wikipedia.org/wiki/FOSS
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: FOSS
+    normative_status: 

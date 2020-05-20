@@ -1,15 +1,17 @@
+---
 term: SVG
 termid: 406
 eng:
   id: 406
-  term: SVG
-  definition: >-
-    Scalable Vector Graphics This is a family of specifications of an XML-based
-    file format for describing two-dimensional vector graphics, both static and
-    dynamic (i.e. interactive or animated). See
-    http://en.wikipedia.org/wiki/Scalable_Vector_Graphics.
+  definition: Scalable Vector Graphics This is a family of specifications of an XML-based
+    file format for describing two-dimensional vector graphics, both static and dynamic
+    (i.e. interactive or animated). See http://en.wikipedia.org/wiki/Scalable_Vector_Graphics.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: SVG
+    normative_status: 

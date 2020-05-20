@@ -1,13 +1,16 @@
+---
 term: PubSub SWG
 termid: 340
 eng:
   id: 340
-  term: PubSub SWG
-  definition: >-
-    OGC Standards Working Group defining a standard that clearly defines a
-    standard way to enable publish/subscribe functionality for OGC Web Services
+  definition: OGC Standards Working Group defining a standard that clearly defines
+    a standard way to enable publish/subscribe functionality for OGC Web Services
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: PubSub SWG
+    normative_status: 

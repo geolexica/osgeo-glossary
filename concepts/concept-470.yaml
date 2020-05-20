@@ -1,11 +1,15 @@
+---
 term: WOIS
 termid: 470
 eng:
   id: 470
-  term: WOIS
   definition: Water Observation Information System
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: WOIS
+    normative_status: 

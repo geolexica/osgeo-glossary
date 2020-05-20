@@ -1,11 +1,15 @@
+---
 term: WMC
 termid: 461
 eng:
   id: 461
-  term: WMC
   definition: OGC Web Map Context Encoding Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: WMC
+    normative_status: 

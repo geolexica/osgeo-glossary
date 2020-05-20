@@ -1,11 +1,15 @@
+---
 term: COM
 termid: 53
 eng:
   id: 53
-  term: COM
-  definition: 'Common Object Model, a Microsoft paradigm to connect components'
+  definition: Common Object Model, a Microsoft paradigm to connect components
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: COM
+    normative_status: 

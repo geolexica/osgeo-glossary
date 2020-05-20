@@ -1,11 +1,15 @@
+---
 term: CEN
 termid: 38
 eng:
   id: 38
-  term: CEN
   definition: Comite Europeen de Normalisation (European Committee for Standardization)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: CEN
+    normative_status: 

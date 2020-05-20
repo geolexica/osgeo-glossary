@@ -1,11 +1,15 @@
+---
 term: XIMA
 termid: 478
 eng:
   id: 478
-  term: XIMA
   definition: XML for Imagery and Map Annotations
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: XIMA
+    normative_status: 

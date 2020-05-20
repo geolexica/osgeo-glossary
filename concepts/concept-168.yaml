@@ -1,22 +1,22 @@
+---
 term: Geospatial Metadata Standard
 termid: 168
 eng:
   id: 168
-  term: Geospatial Metadata Standard
-  definition: >-
-    Also known as a specification. Rules or guidelines for the content of
-    metadata.
+  definition: |-
+    Also known as a specification. Rules or guidelines for the content of metadata.
      Example: The FGDC Metadata Standard is an example of a metadata standard.
   language_code: eng
   notes: []
   examples: []
   comments:
-    - >-
-      TMG_NP
-
-      nothing specific for metadata;
-
-      perhaps the key term is "standard" or this is not a specific term but an
-      example of "standard" as a term
+  - |-
+    TMG_NP
+    nothing specific for metadata;
+    perhaps the key term is "standard" or this is not a specific term but an example of "standard" as a term
   authoritative_source:
-    link: 'https://wiki.osgeo.org/wiki/Starter_Dictionary'
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+  terms:
+  - type: expression
+    designation: Geospatial Metadata Standard
+    normative_status: 

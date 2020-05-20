@@ -1,14 +1,17 @@
+---
 term: ISO
 termid: 228
 eng:
   id: 228
-  term: ISO
-  definition: >-
-    International Standards Organisation is an international-standard-setting
-    body composed of representatives from various national standards
-    organizations. http://www.iso.org
+  definition: International Standards Organisation is an international-standard-setting
+    body composed of representatives from various national standards organizations.
+    http://www.iso.org
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: ISO
+    normative_status: 

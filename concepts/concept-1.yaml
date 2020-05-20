@@ -1,11 +1,15 @@
+---
 term: 3DEP
 termid: 1
 eng:
   id: 1
-  term: 3DEP
   definition: 3-D Elevation Program
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: 3DEP
+    normative_status: 

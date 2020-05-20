@@ -1,11 +1,15 @@
+---
 term: NGO
 termid: 283
 eng:
   id: 283
-  term: NGO
   definition: Non-Governmental Organization
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: NGO
+    normative_status: 

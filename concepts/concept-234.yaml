@@ -1,11 +1,15 @@
+---
 term: ISO Technical Committee 211 (ISO TC/211)
 termid: 234
 eng:
   id: 234
-  term: ISO Technical Committee 211 (ISO TC/211)
   definition: Geographic information/Geomatics
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: ISO Technical Committee 211 (ISO TC/211)
+    normative_status: 

@@ -1,37 +1,28 @@
+---
 term: Geospatial Data Set
 termid: 165
 eng:
   id: 165
-  term: Geospatial Data Set
-  definition: >-
-    A set or group of geospatial data with a common theme or association.
-    Geospatial datasets are often represented in a GIS by a thematic layer.
-    Geospatial datasets are typically the main elements in a GIS Data Model.
+  definition: |-
+    A set or group of geospatial data with a common theme or association. Geospatial datasets are often represented in a GIS by a thematic layer. Geospatial datasets are typically the main elements in a GIS Data Model.
      Example: An ESRI Shapefile with a set of line features representing city streets could be called a Geospatial data set.
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - >
-      TMG_NP
-
-      ISO 19115-1:2014, 4.3
-
-      dataset
-
-      identifiable collection of data;
-
-      Note 1 to entry:  A dataset can be a smaller grouping of data which,
-      though limited by some constraint such as spatial extent or feature type,
-      is located physically within a larger dataset. Theoretically, a dataset
-      can be as small as a single feature or feature attribute contained within
-      a larger dataset. A hardcopy map or chart can be considered a dataset.;
-
-      ISO 19107:2003, 4.69
-
-      spatial object
-
-      object used for representing a spatial characteristic of a feature
+  - |
+    TMG_NP
+    ISO 19115-1:2014, 4.3
+    dataset
+    identifiable collection of data;
+    Note 1 to entry:  A dataset can be a smaller grouping of data which, though limited by some constraint such as spatial extent or feature type, is located physically within a larger dataset. Theoretically, a dataset can be as small as a single feature or feature attribute contained within a larger dataset. A hardcopy map or chart can be considered a dataset.;
+    ISO 19107:2003, 4.69
+    spatial object
+    object used for representing a spatial characteristic of a feature
   authoritative_source:
-    link: 'https://wiki.osgeo.org/wiki/Starter_Dictionary'
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+  terms:
+  - type: expression
+    designation: Geospatial Data Set
+    normative_status: 

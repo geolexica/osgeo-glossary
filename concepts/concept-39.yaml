@@ -1,17 +1,18 @@
+---
 term: CEN
 termid: 39
 eng:
   id: 39
-  term: CEN
-  definition: >-
-    (European Committee of Standardization) Official organization for
-    normalization of the European Union. Replaces country specific techniques by
-    common rules for the whole Union in collaboration with international
-    organizations and its members in Europe (CENELEC for electronics and ETSI
-    for telecommunications).
+  definition: "(European Committee of Standardization) Official organization for normalization
+    of the European Union. Replaces country specific techniques by common rules for
+    the whole Union in collaboration with international organizations and its members
+    in Europe (CENELEC for electronics and ETSI for telecommunications)."
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: CEN
+    normative_status: 

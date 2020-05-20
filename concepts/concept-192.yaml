@@ -1,13 +1,16 @@
+---
 term: GPX
 termid: 192
 eng:
   id: 192
-  term: GPX
-  definition: >-
-    GPS eXchange Format is an XML Schema for describing GPS data. OGR can be
-    used to transform and render this data with MapServer.
+  definition: GPS eXchange Format is an XML Schema for describing GPS data. OGR can
+    be used to transform and render this data with MapServer.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: GPX
+    normative_status: 

@@ -1,13 +1,16 @@
+---
 term: EPSG
 termid: 130
 eng:
   id: 130
-  term: EPSG
-  definition: >-
-    European Petroleum Survey GroupEuroSDR European Spatial Data Research
+  definition: European Petroleum Survey GroupEuroSDR European Spatial Data Research
     Network
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: EPSG
+    normative_status: 

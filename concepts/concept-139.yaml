@@ -1,11 +1,15 @@
+---
 term: EuroSDR
 termid: 139
 eng:
   id: 139
-  term: EuroSDR
   definition: European Spatial Data Research
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: EuroSDR
+    normative_status: 

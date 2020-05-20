@@ -1,11 +1,15 @@
+---
 term: WISERD
 termid: 457
 eng:
   id: 457
-  term: WISERD
-  definition: 'Wales Institute of Social & Economic Research, Data & Methods'
+  definition: Wales Institute of Social & Economic Research, Data & Methods
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: WISERD
+    normative_status: 

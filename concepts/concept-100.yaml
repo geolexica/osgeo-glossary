@@ -1,11 +1,15 @@
+---
 term: DWG
 termid: 100
 eng:
   id: 100
-  term: DWG
   definition: Design file format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: DWG
+    normative_status: 

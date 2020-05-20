@@ -1,11 +1,15 @@
+---
 term: MoU
 termid: 273
 eng:
   id: 273
-  term: MoU
   definition: Memorandum of Understanding
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: MoU
+    normative_status: 

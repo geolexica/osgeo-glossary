@@ -1,23 +1,25 @@
+---
 term: Database
 termid: 77
 eng:
   id: 77
-  term: Database
-  definition: >-
-    Set of data structured in order to enable the storage, consultation and
-    upgrading in a computer system. The relational database is a concrete case
-    in which the information is organized in relations (often known as
-    “tables”). Relations are a set of tuples (“records”) and a tuple integrates
-    information about an element in a set of fields (one field for each
-    attribute of the element); if two tables share a field containing values
-    within the same domain then it is possible to apply a union operation. The
-    union links the tuples according on the values in the linking field.
+  definition: Set of data structured in order to enable the storage, consultation
+    and upgrading in a computer system. The relational database is a concrete case
+    in which the information is organized in relations (often known as “tables”).
+    Relations are a set of tuples (“records”) and a tuple integrates information about
+    an element in a set of fields (one field for each attribute of the element); if
+    two tables share a field containing values within the same domain then it is possible
+    to apply a union operation. The union links the tuples according on the values
+    in the linking field.
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - TMG_NP
+  - TMG_NP
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Database
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: AGILE
 termid: 8
 eng:
   id: 8
-  term: AGILE
   definition: Association of Geographic Information Laboratories in Europe
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: AGILE
+    normative_status: 

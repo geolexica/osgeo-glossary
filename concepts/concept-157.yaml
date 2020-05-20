@@ -1,15 +1,18 @@
+---
 term: GeoJSON
 termid: 157
 eng:
   id: 157
-  term: GeoJSON
-  definition: >-
-    Javascript Object Notation. A text format that is very fast to parse in
-    JavaScript virtual machines. In spatial, the extended specification for
-    GeoJSON is commonly used.
+  definition: Javascript Object Notation. A text format that is very fast to parse
+    in JavaScript virtual machines. In spatial, the extended specification for GeoJSON
+    is commonly used.
   language_code: eng
   notes: []
   examples: []
   type: other
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: GeoJSON
+    normative_status: 

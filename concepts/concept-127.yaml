@@ -1,11 +1,15 @@
+---
 term: EPSG
 termid: 127
 eng:
   id: 127
-  term: EPSG
   definition: European Petrol Survey Group (used in projection IDs)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: EPSG
+    normative_status: 

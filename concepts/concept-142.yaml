@@ -1,18 +1,22 @@
+---
 term: Feature Type
 termid: 142
 eng:
   id: 142
-  term: Feature Type
   definition: A GeoServer feature type (featureType) represents a data source table.
   language_code: eng
   notes: []
   examples: []
   type: soft
   comments:
-    - |-
-      TMG_P
-      ISO 19156:2011, 4.7
-      feature type
-      class of features having common characteristics
+  - |-
+    TMG_P
+    ISO 19156:2011, 4.7
+    feature type
+    class of features having common characteristics
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: Feature Type
+    normative_status: 

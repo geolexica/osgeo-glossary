@@ -1,11 +1,15 @@
+---
 term: GCP
 termid: 150
 eng:
   id: 150
-  term: GCP
   definition: Ground Control Point
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: GCP
+    normative_status: 

@@ -1,17 +1,19 @@
+---
 term: Cartography
 termid: 32
 eng:
   id: 32
-  term: Cartography
-  definition: >-
-    Set of operations and processes that take part in the creation, edition and
-    analysis of maps.
+  definition: Set of operations and processes that take part in the creation, edition
+    and analysis of maps.
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - TMG_NP
+  - TMG_NP
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Cartography
+    normative_status: 

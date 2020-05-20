@@ -1,11 +1,15 @@
+---
 term: SOS
 termid: 394
 eng:
   id: 394
-  term: SOS
   definition: OGC Sensor Observation Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SOS
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: SAR
 termid: 361
 eng:
   id: 361
-  term: SAR
   definition: Synthetic Aperture Radar
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: SAR
+    normative_status: 

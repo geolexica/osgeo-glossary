@@ -1,11 +1,15 @@
+---
 term: GSoC
 termid: 200
 eng:
   id: 200
-  term: GSoC
   definition: Google Summer of Code
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: GSoC
+    normative_status: 

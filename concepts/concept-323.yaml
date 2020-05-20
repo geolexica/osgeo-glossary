@@ -1,11 +1,15 @@
+---
 term: OSCRE
 termid: 323
 eng:
   id: 323
-  term: OSCRE
   definition: Open Standards Consortium for Real Estate
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: OSCRE
+    normative_status: 

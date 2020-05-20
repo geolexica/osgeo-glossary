@@ -1,11 +1,15 @@
+---
 term: WCS
 termid: 446
 eng:
   id: 446
-  term: WCS
   definition: OGC Web Coverage Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: WCS
+    normative_status: 

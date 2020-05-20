@@ -1,11 +1,15 @@
+---
 term: OSF
 termid: 325
 eng:
   id: 325
-  term: OSF
   definition: Ordering Services Framework for Earth Observation Products
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: OSF
+    normative_status: 

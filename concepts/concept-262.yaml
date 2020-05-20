@@ -1,17 +1,20 @@
+---
 term: Mapfile
 termid: 262
 eng:
   id: 262
-  term: Mapfile
-  definition: >-
-    Mapfile is the declarative language that MapServer uses to define data
-    connections, map styling, templating, and server directives. Its format is
-    xml-like and hierarchical, with closing END tags, but the format is not xml.
+  definition: Mapfile is the declarative language that MapServer uses to define data
+    connections, map styling, templating, and server directives. Its format is xml-like
+    and hierarchical, with closing END tags, but the format is not xml.
   language_code: eng
   notes: []
   examples: []
   type: soft
   comments:
-    - TMG_NP
+  - TMG_NP
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: Mapfile
+    normative_status: 

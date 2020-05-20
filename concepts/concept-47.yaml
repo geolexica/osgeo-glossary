@@ -1,11 +1,15 @@
+---
 term: CityGML
 termid: 47
 eng:
   id: 47
-  term: CityGML
   definition: OGC City Geography Markup Language (CityGML) Encoding Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: CityGML
+    normative_status: 

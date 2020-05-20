@@ -1,11 +1,15 @@
+---
 term: NEPAD
 termid: 280
 eng:
   id: 280
-  term: NEPAD
   definition: NEw Partnership for African Development
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: NEPAD
+    normative_status: 

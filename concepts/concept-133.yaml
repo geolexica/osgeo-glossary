@@ -1,11 +1,15 @@
+---
 term: ESERO
 termid: 133
 eng:
   id: 133
-  term: ESERO
   definition: European Space Education Resource Office
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: ESERO
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: GML
 termid: 181
 eng:
   id: 181
-  term: GML
   definition: OGC Geography Markup Language Encoding Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: GML
+    normative_status: 

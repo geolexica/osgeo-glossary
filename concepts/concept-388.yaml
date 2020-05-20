@@ -1,13 +1,16 @@
+---
 term: SMTP
 termid: 388
 eng:
   id: 388
-  term: SMTP
-  definition: >-
-    Simple Mail Transfer Protocol is an Internet standard for electronic mail
-    (e-mail) transmission across Internet Protocol (IP) networks.
+  definition: Simple Mail Transfer Protocol is an Internet standard for electronic
+    mail (e-mail) transmission across Internet Protocol (IP) networks.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: SMTP
+    normative_status: 

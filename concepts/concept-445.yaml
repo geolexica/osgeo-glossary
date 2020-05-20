@@ -1,14 +1,16 @@
+---
 term: WCS
 termid: 445
 eng:
   id: 445
-  term: WCS
-  definition: >-
-    WCS is an OGC standard that describes how to systematically produce
-    structured Raster cartographic data from a service and return them to a
-    client
+  definition: WCS is an OGC standard that describes how to systematically produce
+    structured Raster cartographic data from a service and return them to a client
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: WCS
+    normative_status: 

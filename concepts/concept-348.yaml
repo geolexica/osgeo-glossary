@@ -1,11 +1,15 @@
+---
 term: RESTful
 termid: 348
 eng:
   id: 348
-  term: RESTful
   definition: REpresentational State Transfer programming style
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: RESTful
+    normative_status: 

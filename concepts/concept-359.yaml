@@ -1,11 +1,15 @@
+---
 term: SaaS
 termid: 359
 eng:
   id: 359
-  term: SaaS
   definition: Software as a Service
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: SaaS
+    normative_status: 

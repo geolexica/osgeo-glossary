@@ -1,11 +1,15 @@
+---
 term: ISO
 termid: 229
 eng:
   id: 229
-  term: ISO
   definition: International Organization for Standardization
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: ISO
+    normative_status: 

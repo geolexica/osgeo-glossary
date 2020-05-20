@@ -1,18 +1,18 @@
+---
 term: OSGeo
 termid: 326
 eng:
   id: 326
-  term: OSGeo
-  definition: >-
-    The Open Source Geospatial Foundation (OSGeo), is a non-profit
-    non-governmental organization whose mission is to support and promote the
-    collaborative development of open geospatial technologies and data.
-    http://www.osgeo.org
+  definition: The Open Source Geospatial Foundation (OSGeo), is a non-profit non-governmental
+    organization whose mission is to support and promote the collaborative development
+    of open geospatial technologies and data. http://www.osgeo.org
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      Combo of
-      https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: Combo of https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
       and
+  terms:
+  - type: expression
+    designation: OSGeo
+    normative_status: 

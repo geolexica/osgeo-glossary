@@ -1,22 +1,21 @@
+---
 term: Compression
 termid: 54
 eng:
   id: 54
-  term: Compression
-  definition: >-
-    Technique for reducing the amount of bits needed for storing or transmitting
-    information. There are lossless or destructive compressions (for instance,
-    GIF and JPG for the digital images respectively).
+  definition: Technique for reducing the amount of bits needed for storing or transmitting
+    information. There are lossless or destructive compressions (for instance, GIF
+    and JPG for the digital images respectively).
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - |-
-      TMG_P; 
-      ISO 19145:2013, 4.1.1
-      compression
-      technique used for the reduction of space used by data
+  - "TMG_P; \nISO 19145:2013, 4.1.1\ncompression\ntechnique used for the reduction
+    of space used by data"
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Compression
+    normative_status: 

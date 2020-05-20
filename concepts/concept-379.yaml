@@ -1,11 +1,15 @@
+---
 term: SIGTE
 termid: 379
 eng:
   id: 379
-  term: SIGTE
-  definition: 'The GIS and Remote Sensing Service of the University of Girona, Spain'
+  definition: The GIS and Remote Sensing Service of the University of Girona, Spain
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: SIGTE
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: EPA
 termid: 126
 eng:
   id: 126
-  term: EPA
   definition: Environmental Protection Agency
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: EPA
+    normative_status: 

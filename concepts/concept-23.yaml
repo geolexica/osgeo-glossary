@@ -1,11 +1,15 @@
+---
 term: BIM
 termid: 23
 eng:
   id: 23
-  term: BIM
   definition: Building Information Modelling
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: BIM
+    normative_status: 

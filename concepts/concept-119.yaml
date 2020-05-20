@@ -1,27 +1,24 @@
+---
 term: Ellipsoid
 termid: 119
 eng:
   id: 119
-  term: Ellipsoid
-  definition: >-
-    Simplified description of the Earth shape. The ellipsoids are defined by
-    equatorial and polar radiuses.
+  definition: Simplified description of the Earth shape. The ellipsoids are defined
+    by equatorial and polar radiuses.
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - >-
-      TMG_P
-
-      ellipsoid<geodessy>
-
-      ISO 19111:2019, 3.1.22
-
-      also: reference ellipsoid
-
-      geometric reference surface embedded in 3D Euclidean space formed by an
-      ellipse that is rotated about a main axis
+  - |-
+    TMG_P
+    ellipsoid<geodessy>
+    ISO 19111:2019, 3.1.22
+    also: reference ellipsoid
+    geometric reference surface embedded in 3D Euclidean space formed by an ellipse that is rotated about a main axis
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Ellipsoid
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: D&I DWG
 termid: 73
 eng:
   id: 73
-  term: D&I DWG
   definition: Defense and Intelligence Domain Working Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: D&I DWG
+    normative_status: 

@@ -1,13 +1,16 @@
+---
 term: Open GeoSMS
 termid: 319
 eng:
   id: 319
-  term: Open GeoSMS
-  definition: >-
-    OGC standard providing an extended Short Messaging Service (SMS) encoding
+  definition: OGC standard providing an extended Short Messaging Service (SMS) encoding
     and interface for communicating location content
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: Open GeoSMS
+    normative_status: 

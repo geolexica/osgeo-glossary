@@ -1,11 +1,15 @@
+---
 term: Cat DWG
 termid: 33
 eng:
   id: 33
-  term: Cat DWG
   definition: OGC Catalog Domain Working Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: Cat DWG
+    normative_status: 

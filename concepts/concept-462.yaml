@@ -1,11 +1,15 @@
+---
 term: WMO
 termid: 462
 eng:
   id: 462
-  term: WMO
   definition: World Meteorological Organization
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: WMO
+    normative_status: 

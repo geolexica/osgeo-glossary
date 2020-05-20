@@ -1,11 +1,15 @@
+---
 term: RFC
 termid: 349
 eng:
   id: 349
-  term: RFC
   definition: Request for Comment
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: RFC
+    normative_status: 

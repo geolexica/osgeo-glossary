@@ -1,11 +1,15 @@
+---
 term: SF CORBA
 termid: 371
 eng:
   id: 371
-  term: SF CORBA
   definition: Simple Features CORBA
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SF CORBA
+    normative_status: 

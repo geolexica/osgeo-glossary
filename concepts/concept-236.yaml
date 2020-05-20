@@ -1,11 +1,15 @@
+---
 term: ISPRS
 termid: 236
 eng:
   id: 236
-  term: ISPRS
   definition: International Society for Photogrammetry and Remote Sensing
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: ISPRS
+    normative_status: 

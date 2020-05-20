@@ -1,11 +1,15 @@
+---
 term: VGI
 termid: 439
 eng:
   id: 439
-  term: VGI
   definition: Volunteered Geographic Information
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: VGI
+    normative_status: 

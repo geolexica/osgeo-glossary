@@ -1,11 +1,15 @@
+---
 term: SIF
 termid: 377
 eng:
   id: 377
-  term: SIF
   definition: Standard Interchange Format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SIF
+    normative_status: 

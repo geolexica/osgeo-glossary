@@ -1,11 +1,15 @@
+---
 term: OO
 termid: 317
 eng:
   id: 317
-  term: OO
   definition: Object Oriented.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: OO
+    normative_status: 

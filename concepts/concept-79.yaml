@@ -1,15 +1,18 @@
+---
 term: DB (or DBMS)
 termid: 79
 eng:
   id: 79
-  term: DB (or DBMS)
-  definition: >-
-    A database management system (DBMS) is computer software that manages
-    databases. DBMSes may use any of a variety of database models, such as the
-    network model or relational model. In large systems, a DBMS allows users and
-    other software to store and retrieve data in a structured way.
+  definition: A database management system (DBMS) is computer software that manages
+    databases. DBMSes may use any of a variety of database models, such as the network
+    model or relational model. In large systems, a DBMS allows users and other software
+    to store and retrieve data in a structured way.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: DB (or DBMS)
+    normative_status: 

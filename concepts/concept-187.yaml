@@ -1,14 +1,17 @@
+---
 term: GPL
 termid: 187
 eng:
   id: 187
-  term: GPL
-  definition: >-
-    The GNU General Public License is a free, copyleft license for software and
-    other kinds of works. GeoNetwork opensource is released under the GPL 2
-    license. http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+  definition: The GNU General Public License is a free, copyleft license for software
+    and other kinds of works. GeoNetwork opensource is released under the GPL 2 license.
+    http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: GPL
+    normative_status: 

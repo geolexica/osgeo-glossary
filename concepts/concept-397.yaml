@@ -1,18 +1,20 @@
+---
 term: Spindle
 termid: 397
 eng:
   id: 397
-  term: Spindle
-  definition: >-
-    Part of a sphere limited by two meridians or maximum circles. In the UTM
-    projection each spindle is defined by two meridians separated by a distance
-    of 6 degrees (for a total circle round of 360 degrees) and by two parallels
-    of 80 degrees latitude North and South.
+  definition: Part of a sphere limited by two meridians or maximum circles. In the
+    UTM projection each spindle is defined by two meridians separated by a distance
+    of 6 degrees (for a total circle round of 360 degrees) and by two parallels of
+    80 degrees latitude North and South.
   language_code: eng
   notes: []
   examples: []
   comments:
-    - TMG_NP
+  - TMG_NP
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Spindle
+    normative_status: 

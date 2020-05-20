@@ -1,11 +1,15 @@
+---
 term: CS
 termid: 63
 eng:
   id: 63
-  term: CS
   definition: OGC Catalogue Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: CS
+    normative_status: 

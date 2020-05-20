@@ -1,11 +1,15 @@
+---
 term: GPX
 termid: 191
 eng:
   id: 191
-  term: GPX
   definition: GPS Exchange Format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: GPX
+    normative_status: 

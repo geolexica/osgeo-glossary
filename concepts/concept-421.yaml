@@ -1,19 +1,21 @@
+---
 term: Tileindex
 termid: 421
 eng:
   id: 421
-  term: Tileindex
-  definition: >-
-    A tileindex is a Shapefile or other Vector data source that contains
-    footprints of Raster data coverage. MapServer can use a tileindex to render
-    a directory of raster data. The tileindex allows MapServer to only read the
-    data that intersects the requested map extent, rather than reading all of
-    the data.
+  definition: A tileindex is a Shapefile or other Vector data source that contains
+    footprints of Raster data coverage. MapServer can use a tileindex to render a
+    directory of raster data. The tileindex allows MapServer to only read the data
+    that intersects the requested map extent, rather than reading all of the data.
   language_code: eng
   notes: []
   examples: []
   type: soft
   comments:
-    - TMG_NP
+  - TMG_NP
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: Tileindex
+    normative_status: 

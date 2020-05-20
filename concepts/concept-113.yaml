@@ -1,11 +1,15 @@
+---
 term: EC08 Pilot
 termid: 113
 eng:
   id: 113
-  term: EC08 Pilot
   definition: Empire Challenge 08 Pilot Project
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: EC08 Pilot
+    normative_status: 

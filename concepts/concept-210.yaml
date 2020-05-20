@@ -1,11 +1,15 @@
+---
 term: ICT
 termid: 210
 eng:
   id: 210
-  term: ICT
   definition: Information and Communications Technology
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: ICT
+    normative_status: 

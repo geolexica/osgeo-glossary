@@ -1,11 +1,15 @@
+---
 term: STISA 2024
 termid: 404
 eng:
   id: 404
-  term: STISA 2024
   definition: Science Technology Innovation Strategy for Africa
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: STISA 2024
+    normative_status: 

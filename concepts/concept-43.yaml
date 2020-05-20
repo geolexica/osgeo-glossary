@@ -1,11 +1,15 @@
+---
 term: CGI
 termid: 43
 eng:
   id: 43
-  term: CGI
   definition: Wikipedia provides excellent coverage of CGI.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: CGI
+    normative_status: 

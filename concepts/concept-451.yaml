@@ -1,15 +1,18 @@
+---
 term: WFS
 termid: 451
 eng:
   id: 451
-  term: WFS
-  definition: >-
-    The Web Feature Service (WFS) specification from the Open Geospatial
-    Consortium defines an interface for reading and writing geographic features
-    across the web using platform-independent calls. One can think of
-    geographical features as the “source code” behind a map.
+  definition: The Web Feature Service (WFS) specification from the Open Geospatial
+    Consortium defines an interface for reading and writing geographic features across
+    the web using platform-independent calls. One can think of geographical features
+    as the “source code” behind a map.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: WFS
+    normative_status: 

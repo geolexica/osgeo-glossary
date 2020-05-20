@@ -1,40 +1,31 @@
+---
 term: Georreference
 termid: 160
 eng:
   id: 160
-  term: Georreference
-  definition: >-
-    The art of assigning geographic coordinates to an object or structure. This
-    concept applied to a digital image involves a set of geometric operations
-    that allow assigning to each image pixel a pair of coordinates (x, y) in a
-    projection system.
+  definition: The art of assigning geographic coordinates to an object or structure.
+    This concept applied to a digital image involves a set of geometric operations
+    that allow assigning to each image pixel a pair of coordinates (x, y) in a projection
+    system.
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - >-
-      TMG_NP
-
-      ISO 19130-1:2018, 3.38
-
-      georeferencing
-
-      geopositioning an object using a Correspondence Model derived from a set
-      of points for which both ground and image coordinates are known;
-
-      ISO 19130-1:2018, 3.36
-
-      geopositioning
-
-      determination of the geographic position of an object;
-
-      ISO 19115-2:2019, 3.11
-
-      georectified
-
-      corrected for positional displacement with respect to the surface of the
-      Earth
+  - |-
+    TMG_NP
+    ISO 19130-1:2018, 3.38
+    georeferencing
+    geopositioning an object using a Correspondence Model derived from a set of points for which both ground and image coordinates are known;
+    ISO 19130-1:2018, 3.36
+    geopositioning
+    determination of the geographic position of an object;
+    ISO 19115-2:2019, 3.11
+    georectified
+    corrected for positional displacement with respect to the surface of the Earth
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Georreference
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: UDDI
 termid: 427
 eng:
   id: 427
-  term: UDDI
-  definition: 'Universal Description, Discovery, and Integration'
+  definition: Universal Description, Discovery, and Integration
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: UDDI
+    normative_status: 

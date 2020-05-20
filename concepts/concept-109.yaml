@@ -1,14 +1,16 @@
+---
 term: ebRS
 termid: 109
 eng:
   id: 109
-  term: ebRS
-  definition: >-
-    (ebXML Registry Services and Protocols) Defines the services that the ebXML
-    Registry and other related protocols offer.
+  definition: "(ebXML Registry Services and Protocols) Defines the services that the
+    ebXML Registry and other related protocols offer."
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: ebRS
+    normative_status: 

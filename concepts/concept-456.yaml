@@ -1,11 +1,15 @@
+---
 term: WGS
 termid: 456
 eng:
   id: 456
-  term: WGS
   definition: World Geodetic System
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: WGS
+    normative_status: 

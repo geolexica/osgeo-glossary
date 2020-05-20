@@ -1,14 +1,16 @@
+---
 term: FGDC
 termid: 144
 eng:
   id: 144
-  term: FGDC
-  definition: >-
-    (Federal Geographic Data Committee) Organization in charge of developing the
-    National Spatial Data Infrastructure (NSDI) of the United States of America.
+  definition: "(Federal Geographic Data Committee) Organization in charge of developing
+    the National Spatial Data Infrastructure (NSDI) of the United States of America."
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: FGDC
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: LiDAR
 termid: 255
 eng:
   id: 255
-  term: LiDAR
   definition: Light Detection and Ranging
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: LiDAR
+    normative_status: 

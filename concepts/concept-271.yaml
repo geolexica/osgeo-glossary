@@ -1,11 +1,15 @@
+---
 term: MMI
 termid: 271
 eng:
   id: 271
-  term: MMI
   definition: OGC`s Multi-Hazard Mapping Initiative (MMI) Phase I (2001)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: MMI
+    normative_status: 

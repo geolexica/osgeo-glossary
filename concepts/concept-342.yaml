@@ -1,14 +1,17 @@
+---
 term: Raster
 termid: 342
 eng:
   id: 342
-  term: Raster
-  definition: >-
-    A raster is a rectangular grid of pixels. Essentially an image. Rasters are
-    supported in MapServer with a layer type of RASTER, and a variety of formats
+  definition: A raster is a rectangular grid of pixels. Essentially an image. Rasters
+    are supported in MapServer with a layer type of RASTER, and a variety of formats
     are supported including GeoTIFF, JPEG, and PNG.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: Raster
+    normative_status: 

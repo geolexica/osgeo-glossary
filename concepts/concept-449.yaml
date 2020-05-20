@@ -1,14 +1,17 @@
+---
 term: WebDAV
 termid: 449
 eng:
   id: 449
-  term: WebDAV
-  definition: >-
-    Web-based Distributed Authoring and Versioning. WebDAV is a set of
-    extensions to the Hypertext Transfer Protocol (HTTP) that allows users to
-    edit and manage files collaboratively on remote World Wide Web servers.
+  definition: Web-based Distributed Authoring and Versioning. WebDAV is a set of extensions
+    to the Hypertext Transfer Protocol (HTTP) that allows users to edit and manage
+    files collaboratively on remote World Wide Web servers.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: WebDAV
+    normative_status: 

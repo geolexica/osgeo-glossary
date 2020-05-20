@@ -1,11 +1,15 @@
+---
 term: GML in JPEG 2000
 termid: 180
 eng:
   id: 180
-  term: GML in JPEG 2000
   definition: OGC standard that defines how GML is used in JPEG 2000 images
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: GML in JPEG 2000
+    normative_status: 

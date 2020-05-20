@@ -1,11 +1,15 @@
+---
 term: RUFORUM
 termid: 357
 eng:
   id: 357
-  term: RUFORUM
   definition: Regional Universities Forum for capacity building in agriculture
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: RUFORUM
+    normative_status: 

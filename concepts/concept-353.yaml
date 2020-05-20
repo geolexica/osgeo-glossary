@@ -1,11 +1,15 @@
+---
 term: RM-ODP
 termid: 353
 eng:
   id: 353
-  term: RM-ODP
   definition: Reference Model for Open Distributed Processing
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: RM-ODP
+    normative_status: 

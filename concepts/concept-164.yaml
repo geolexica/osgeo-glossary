@@ -1,14 +1,17 @@
+---
 term: GeoSPARQL SWG
 termid: 164
 eng:
   id: 164
-  term: GeoSPARQL SWG
-  definition: >-
-    GeoSPARQL Standards Working Group (SPARQL is a recursive acronym for the
-    W3C's "SPARQL Protocol And RDF Query Language")
+  definition: GeoSPARQL Standards Working Group (SPARQL is a recursive acronym for
+    the W3C's "SPARQL Protocol And RDF Query Language")
   language_code: eng
   notes: []
   examples: []
   type: other
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: GeoSPARQL SWG
+    normative_status: 

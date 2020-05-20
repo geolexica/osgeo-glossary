@@ -1,15 +1,18 @@
+---
 term: Shibboleth
 termid: 376
 eng:
   id: 376
-  term: Shibboleth
-  definition: >-
-    The Shibboleth System is a standards based, open source software package for
-    web single sign-on across or within organisational boundaries. It allows
-    sites to make informed authorisation decisions for individual access of
-    protected online resources in a privacy-preserving manner.
+  definition: The Shibboleth System is a standards based, open source software package
+    for web single sign-on across or within organisational boundaries. It allows sites
+    to make informed authorisation decisions for individual access of protected online
+    resources in a privacy-preserving manner.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: Shibboleth
+    normative_status: 

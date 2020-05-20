@@ -1,11 +1,15 @@
+---
 term: ARML
 termid: 15
 eng:
   id: 15
-  term: ARML
   definition: Augmented Reality Markup Language
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: ARML
+    normative_status: 

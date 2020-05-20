@@ -1,11 +1,15 @@
+---
 term: DBMS
 termid: 81
 eng:
   id: 81
-  term: DBMS
   definition: Data Base Management System
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: DBMS
+    normative_status: 

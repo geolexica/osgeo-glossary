@@ -1,11 +1,15 @@
+---
 term: OO
 termid: 318
 eng:
   id: 318
-  term: OO
   definition: Object Oriented
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: OO
+    normative_status: 

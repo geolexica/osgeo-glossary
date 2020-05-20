@@ -1,13 +1,16 @@
+---
 term: OGC
 termid: 303
 eng:
   id: 303
-  term: OGC
-  definition: >-
-    The Open Geospatial Consortium (OGC) is a standards organization responsible
+  definition: The Open Geospatial Consortium (OGC) is a standards organization responsible
     for developing specifications for geospatial services.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: OGC
+    normative_status: 

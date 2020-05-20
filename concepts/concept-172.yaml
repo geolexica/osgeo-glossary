@@ -1,11 +1,15 @@
+---
 term: GETIS
 termid: 172
 eng:
   id: 172
-  term: GETIS
   definition: Geoprocessing networks in a European Territorial Interoperability Study
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: GETIS
+    normative_status: 

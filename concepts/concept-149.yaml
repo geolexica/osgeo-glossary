@@ -1,14 +1,17 @@
+---
 term: GAST
 termid: 149
 eng:
   id: 149
-  term: GAST
-  definition: >-
-    GeoNetwork Administrator Survival Tool. A desktop application that allows
-    administrators of a GeoNetwork catalog to perform simple database
-    configuration using a GUI.
+  definition: GeoNetwork Administrator Survival Tool. A desktop application that allows
+    administrators of a GeoNetwork catalog to perform simple database configuration
+    using a GUI.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: GAST
+    normative_status: 

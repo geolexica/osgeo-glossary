@@ -1,30 +1,24 @@
+---
 term: Datum
 termid: 78
 eng:
   id: 78
-  term: Datum
-  definition: >-
-    Geometric reference system used to numerically express the geodesic position
-    of a point over the terrain. Each datum is defined according of an ellipsoid
-    and a point where the ellipsoid and the Earth are tangent. In Spain for
-    example, the datum uses the Hayford (or International 1924) ellipsoid and
-    the tangency point is Postdam (Germany).
+  definition: Geometric reference system used to numerically express the geodesic
+    position of a point over the terrain. Each datum is defined according of an ellipsoid
+    and a point where the ellipsoid and the Earth are tangent. In Spain for example,
+    the datum uses the Hayford (or International 1924) ellipsoid and the tangency
+    point is Postdam (Germany).
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - >-
-      TMG_P: 
-
-      ISO 19111:2019, 3.1.15
-
-      reference frame
-
-      datum
-
-      parameter or set of parameters that realize the position of the origin,
-      the scale, and the orientation of a coordinate system
+  - "TMG_P: \nISO 19111:2019, 3.1.15\nreference frame\ndatum\nparameter or set of
+    parameters that realize the position of the origin, the scale, and the orientation
+    of a coordinate system"
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Datum
+    normative_status: 

@@ -1,13 +1,16 @@
+---
 term: EO2heaven
 termid: 122
 eng:
   id: 122
-  term: EO2heaven
-  definition: >-
-    Earth Observation and Environmental Modelling for the Mitigation of Health
-    Risks
+  definition: Earth Observation and Environmental Modelling for the Mitigation of
+    Health Risks
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: EO2heaven
+    normative_status: 

@@ -1,13 +1,16 @@
+---
 term: ebXML RegRep SWG
 termid: 112
 eng:
   id: 112
-  term: ebXML RegRep SWG
-  definition: >-
-    OGC Standards Working Group developing an an extension to the OASIS ebXML
-    RegRep standard
+  definition: OGC Standards Working Group developing an an extension to the OASIS
+    ebXML RegRep standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: ebXML RegRep SWG
+    normative_status: 

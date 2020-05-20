@@ -1,11 +1,15 @@
+---
 term: NIST
 termid: 286
 eng:
   id: 286
-  term: NIST
   definition: National Institute of Standards and Technology
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: NIST
+    normative_status: 

@@ -1,13 +1,16 @@
+---
 term: LDAP
 termid: 253
 eng:
   id: 253
-  term: LDAP
-  definition: >-
-    Lightweight Directory Access Protocol is an application protocol for
+  definition: Lightweight Directory Access Protocol is an application protocol for
     querying and modifying directory services running over TCP/IP.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: LDAP
+    normative_status: 

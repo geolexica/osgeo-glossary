@@ -1,12 +1,15 @@
+---
 term: EPSG
 termid: 128
 eng:
   id: 128
-  term: EPSG
   definition: European Petroleum Survey Group.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: EPSG
+    normative_status: 

@@ -1,19 +1,21 @@
+---
 term: GIF
 termid: 173
 eng:
   id: 173
-  term: GIF
-  definition: >-
-    Graphic Interchange Format. Developed by CompuServe to provide a standard
-    and platform­independent format. The GIF format is limited to a maximum of
-    256 colours. It is a reasonable limitation since most of the PC screens
-    support 256 colours at most. In general, GIF is recommended for simple
-    images. When the background has textures they are not useful because the
-    computer tries to find the closest colour, and some distortions may appear
-    in this process and the result is an inaccurate displaying for the image.
+  definition: Graphic Interchange Format. Developed by CompuServe to provide a standard
+    and platform­independent format. The GIF format is limited to a maximum of 256
+    colours. It is a reasonable limitation since most of the PC screens support 256
+    colours at most. In general, GIF is recommended for simple images. When the background
+    has textures they are not useful because the computer tries to find the closest
+    colour, and some distortions may appear in this process and the result is an inaccurate
+    displaying for the image.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: GIF
+    normative_status: 

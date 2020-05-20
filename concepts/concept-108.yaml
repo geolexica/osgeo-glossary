@@ -1,14 +1,16 @@
+---
 term: ebRIM
 termid: 108
 eng:
   id: 108
-  term: ebRIM
-  definition: >-
-    (ebXML Registry Information Model) Specifies a set of services that make the
-    communication between companies easier using ebXML.
+  definition: "(ebXML Registry Information Model) Specifies a set of services that
+    make the communication between companies easier using ebXML."
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: ebRIM
+    normative_status: 

@@ -1,16 +1,17 @@
+---
 term: GPS
 termid: 189
 eng:
   id: 189
-  term: GPS
-  definition: >-
-    Acronym for global positioning system. It refers to the system by means of
-    which it is possible to approximately calculate a position in the Earth
-    using a signal received from several satellites (called the GPS
-    constellation) simultaneously.
+  definition: Acronym for global positioning system. It refers to the system by means
+    of which it is possible to approximately calculate a position in the Earth using
+    a signal received from several satellites (called the GPS constellation) simultaneously.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: GPS
+    normative_status: 

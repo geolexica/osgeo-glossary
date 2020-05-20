@@ -1,13 +1,16 @@
+---
 term: URL
 termid: 432
 eng:
   id: 432
-  term: URL
-  definition: >-
-    A Uniform Resource Locator specifies where an identified resource is
+  definition: A Uniform Resource Locator specifies where an identified resource is
     available and the mechanism for retrieving it.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: URL
+    normative_status: 

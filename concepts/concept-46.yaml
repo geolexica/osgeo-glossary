@@ -1,13 +1,16 @@
+---
 term: CITE
 termid: 46
 eng:
   id: 46
-  term: CITE
-  definition: >-
-    OGC Compliance and Interoperability Testing Initiative, the OGC's Compliance
+  definition: OGC Compliance and Interoperability Testing Initiative, the OGC's Compliance
     Testing Program.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: CITE
+    normative_status: 

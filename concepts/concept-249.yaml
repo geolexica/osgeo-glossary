@@ -1,14 +1,17 @@
+---
 term: KML
 termid: 249
 eng:
   id: 249
-  term: KML
-  definition: >-
-    Keyhole Markup Language. This is the spatial XML format used by Google
-    Earth. Google Earth was originally written by a company named “Keyhole”,
-    hence the (now obscure) reference in the name.
+  definition: Keyhole Markup Language. This is the spatial XML format used by Google
+    Earth. Google Earth was originally written by a company named “Keyhole”, hence
+    the (now obscure) reference in the name.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: KML
+    normative_status: 

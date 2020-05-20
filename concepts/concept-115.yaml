@@ -1,11 +1,15 @@
+---
 term: EDM DWG
 termid: 115
 eng:
   id: 115
-  term: EDM DWG
   definition: Emergency & Disaster Management Domain Working Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: EDM DWG
+    normative_status: 

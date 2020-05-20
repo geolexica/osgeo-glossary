@@ -1,11 +1,15 @@
+---
 term: DGN
 termid: 89
 eng:
   id: 89
-  term: DGN
-  definition: 'DesiGN file, the Microstation drawing format'
+  definition: DesiGN file, the Microstation drawing format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: DGN
+    normative_status: 

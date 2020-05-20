@@ -1,11 +1,15 @@
+---
 term: OSDM
 termid: 324
 eng:
   id: 324
-  term: OSDM
   definition: Office of Spatial Data Management (Australia)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: OSDM
+    normative_status: 

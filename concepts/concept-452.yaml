@@ -1,14 +1,16 @@
+---
 term: WFS
 termid: 452
 eng:
   id: 452
-  term: WFS
-  definition: >-
-    WFS is an OGC standard that describes how to systematically produce
-    structured Vector cartographic data from a service and return them to a
-    client.
+  definition: WFS is an OGC standard that describes how to systematically produce
+    structured Vector cartographic data from a service and return them to a client.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: WFS
+    normative_status: 

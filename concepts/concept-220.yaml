@@ -1,11 +1,15 @@
+---
 term: ILAF
 termid: 220
 eng:
   id: 220
-  term: ILAF
   definition: OGC Iberian and Latin-American Forum
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: ILAF
+    normative_status: 

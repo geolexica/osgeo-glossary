@@ -1,39 +1,34 @@
+---
 term: Nomenclator Service
 termid: 289
 eng:
   id: 289
-  term: Nomenclator Service
-  definition: >-
-    Offers the possibility of locating a geographic place by its name. It is
-    defined as a service that receives an input that is the name of the place
-    (toponym), with the common possibilities exact match, starting with,
-    contains, etc. and returns the location, by means of the coordinates, of the
-    place. Additionally, the query by name also handles other criteria such as
-    the spatial extension where to look up, orthe type of the place (river,
-    mountain, towns …). If one or more occurrences are found, the service
-    supplies a list of the places found with any additional attribute describing
-    it for the user can choose the desired one. There is an Open Geospatial
-    Consortium spec describing how a Nomenclator Service must be to be standard
-    and interoperable.
+  definition: Offers the possibility of locating a geographic place by its name. It
+    is defined as a service that receives an input that is the name of the place (toponym),
+    with the common possibilities exact match, starting with, contains, etc. and returns
+    the location, by means of the coordinates, of the place. Additionally, the query
+    by name also handles other criteria such as the spatial extension where to look
+    up, orthe type of the place (river, mountain, towns …). If one or more occurrences
+    are found, the service supplies a list of the places found with any additional
+    attribute describing it for the user can choose the desired one. There is an Open
+    Geospatial Consortium spec describing how a Nomenclator Service must be to be
+    standard and interoperable.
   language_code: eng
   notes: []
   examples: []
   comments:
-    - >-
-      is this like a gazetteer service?
+  - |-
+    is this like a gazetteer service?
 
+    ISO 19112:2019, 3.1.1
+    gazetteer
 
-      ISO 19112:2019, 3.1.1
+    register of location instances of one or more location sub-types, containing some information regarding position
 
-      gazetteer
-
-
-      register of location instances of one or more location sub-types,
-      containing some information regarding position
-
-
-      Note 1 to entry: The positional information need not be coordinates, but
-      could be descriptive.
+    Note 1 to entry: The positional information need not be coordinates, but could be descriptive.
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Nomenclator Service
+    normative_status: 

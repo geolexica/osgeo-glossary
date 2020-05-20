@@ -1,13 +1,16 @@
+---
 term: SQL/MM
 termid: 401
 eng:
   id: 401
-  term: SQL/MM
-  definition: >-
-    SQL Multimedia; includes several sections on extended types, including a
-    substantial section on spatial types.
+  definition: SQL Multimedia; includes several sections on extended types, including
+    a substantial section on spatial types.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: SQL/MM
+    normative_status: 

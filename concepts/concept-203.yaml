@@ -1,11 +1,15 @@
+---
 term: HOT
 termid: 203
 eng:
   id: 203
-  term: HOT
   definition: Humanitarian OpenStreetMap Team
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: HOT
+    normative_status: 

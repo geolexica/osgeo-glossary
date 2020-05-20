@@ -1,15 +1,17 @@
+---
 term: Creative Commons
 termid: 58
 eng:
   id: 58
-  term: Creative Commons
-  definition: >-
-    GeoNetwork documentation is released under the Creative Commons
-    Attribution-ShareAlike 3.0 Unported License. Find more information at
-    http://creativecommons.org/licenses/by-sa/3.0/
+  definition: GeoNetwork documentation is released under the Creative Commons Attribution-ShareAlike
+    3.0 Unported License. Find more information at http://creativecommons.org/licenses/by-sa/3.0/
   language_code: eng
   notes: []
   examples: []
   type: check
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: Creative Commons
+    normative_status: 

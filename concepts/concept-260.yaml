@@ -1,17 +1,19 @@
+---
 term: MAC address
 termid: 260
 eng:
   id: 260
-  term: MAC address
-  definition: >-
-    Media Access Control address (MAC address) is a unique identifier assigned
-    to most network adapters or network interface cards (NICs) by the
-    manufacturer for identification, and used in the Media Access Control
-    protocol sublayer. See also http://en.wikipedia.org/wiki/MAC_address on
-    Wikipedia
+  definition: Media Access Control address (MAC address) is a unique identifier assigned
+    to most network adapters or network interface cards (NICs) by the manufacturer
+    for identification, and used in the Media Access Control protocol sublayer. See
+    also http://en.wikipedia.org/wiki/MAC_address on Wikipedia
   language_code: eng
   notes: []
   examples: []
   type: term
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: MAC address
+    normative_status: 

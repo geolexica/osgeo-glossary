@@ -1,16 +1,19 @@
+---
 term: MapScript
 termid: 263
 eng:
   id: 263
-  term: MapScript
-  definition: >-
-    MapScript is an alternative the the CGI application of mapserv that allows
-    you to program the MapServer object API in many languages.
+  definition: MapScript is an alternative the the CGI application of mapserv that
+    allows you to program the MapServer object API in many languages.
   language_code: eng
   notes: []
   examples: []
   type: soft
   comments:
-    - TMG_NP
+  - TMG_NP
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: MapScript
+    normative_status: 

@@ -1,22 +1,27 @@
+---
 term: Geospatial Metadata Instance
 termid: 167
 eng:
   id: 167
-  term: Geospatial Metadata Instance
-  definition: >-
-    A single and specific metadata document, typically created in conformance
-    with a metadata standard. There is typically a metadata instance for each
-    geospatial dataset in a GIS. 
-     Example: If you had a GIS that managed road data and car accident data in ESRI Shapefiles, you would have a metadata instance for each shapefile. One metadata instance might be named roads_metadata.txt while the other was named car_accidents_metadata.txt.
+  definition: "A single and specific metadata document, typically created in conformance
+    with a metadata standard. There is typically a metadata instance for each geospatial
+    dataset in a GIS. \n Example: If you had a GIS that managed road data and car
+    accident data in ESRI Shapefiles, you would have a metadata instance for each
+    shapefile. One metadata instance might be named roads_metadata.txt while the other
+    was named car_accidents_metadata.txt."
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - |-
-      TMG_NP
-      ISO 19107:2003, 4.57
-      instance
-      object that realizes a class;
+  - |-
+    TMG_NP
+    ISO 19107:2003, 4.57
+    instance
+    object that realizes a class;
   authoritative_source:
-    link: 'https://wiki.osgeo.org/wiki/Starter_Dictionary'
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+  terms:
+  - type: expression
+    designation: Geospatial Metadata Instance
+    normative_status: 

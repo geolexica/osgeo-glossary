@@ -1,11 +1,15 @@
+---
 term: ebRIM
 termid: 106
 eng:
   id: 106
-  term: ebRIM
   definition: Enterprise Business Registry Information Model..
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: ebRIM
+    normative_status: 

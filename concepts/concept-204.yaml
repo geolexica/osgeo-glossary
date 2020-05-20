@@ -1,11 +1,15 @@
+---
 term: HPC
 termid: 204
 eng:
   id: 204
-  term: HPC
   definition: high performance computing
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf'
+    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+  terms:
+  - type: expression
+    designation: HPC
+    normative_status: 

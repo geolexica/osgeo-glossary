@@ -1,14 +1,17 @@
+---
 term: IndoorGML
 termid: 222
 eng:
   id: 222
-  term: IndoorGML
-  definition: >-
-    common schema framework for interoperability between indoor and outdoor
-    navigation applications, being drafted by the OGC IndoorGML Standards
-    Working Group
+  definition: common schema framework for interoperability between indoor and outdoor
+    navigation applications, being drafted by the OGC IndoorGML Standards Working
+    Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: IndoorGML
+    normative_status: 

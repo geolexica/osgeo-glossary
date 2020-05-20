@@ -1,14 +1,17 @@
+---
 term: OCHA
 termid: 300
 eng:
   id: 300
-  term: OCHA
-  definition: >-
-    United Nations Office for the Coordination of Humanitarian Affairs is
-    designed to strengthen the UN’s response to complex emergencies and natural
-    disasters. http://ochaonline.un.org/
+  definition: United Nations Office for the Coordination of Humanitarian Affairs is
+    designed to strengthen the UN’s response to complex emergencies and natural disasters.
+    http://ochaonline.un.org/
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+  terms:
+  - type: expression
+    designation: OCHA
+    normative_status: 

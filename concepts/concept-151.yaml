@@ -1,15 +1,18 @@
+---
 term: GD
 termid: 151
 eng:
   id: 151
-  term: GD
-  definition: >-
-    GD is a graphics library for dynamic generation of images. It was the first
-    graphics renderer that was available for MapServer, and was required by
+  definition: GD is a graphics library for dynamic generation of images. It was the
+    first graphics renderer that was available for MapServer, and was required by
     MapServer to operate.Warning GD support was removed in MapServer 7.0.
   language_code: eng
   notes: []
   examples: []
   type: check
   authoritative_source:
-    link: 'https://mapserver.org/glossary.html'
+    link: https://mapserver.org/glossary.html
+  terms:
+  - type: expression
+    designation: GD
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: CT SWG
 termid: 69
 eng:
   id: 69
-  term: CT SWG
   definition: OGC Coordinate Transformation Standards Working Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: CT SWG
+    normative_status: 

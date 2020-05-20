@@ -1,18 +1,18 @@
+---
 term: ADL GCS
 termid: 5
 eng:
   id: 5
-  term: ADL GCS
-  definition: >-
-    ADL Gazetteer Content Standard.
-
-    Although it is not an official standard, it is the de facto set of rules
-    used to defined the relationship between a toponym and its coordinates. It
-    can supply other attributes such as the region where the toponym is settled,
-    or the nature of this datum.
+  definition: "(ADL Gazetteer Content Standard) Although it is not an official standard
+    it is the de facto set of rules used to defined the relationship between a toponym
+    and its coordinates. It can supply other attributes such as the region where the
+    toponym is settled, or the nature of this datum."
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: ADL GCS
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: OWS
 termid: 330
 eng:
   id: 330
-  term: OWS
   definition: OGC Web Services
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: OWS
+    normative_status: 

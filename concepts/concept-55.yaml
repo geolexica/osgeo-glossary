@@ -1,21 +1,20 @@
+---
 term: Coordinate
 termid: 55
 eng:
   id: 55
-  term: Coordinate
-  definition: >-
-    Value defining the position in a reference system. The coordinates can be
-    lineal (Cartesian) or polar (spherical), depending on the reference system.
+  definition: Value defining the position in a reference system. The coordinates can
+    be lineal (Cartesian) or polar (spherical), depending on the reference system.
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - |-
-      TMG_P; 
-      ISO 19111:2019, 3.1.5
-      coordinate
-      one of a sequence of numbers designating the position of a point
+  - "TMG_P; \nISO 19111:2019, 3.1.5\ncoordinate\none of a sequence of numbers designating
+    the position of a point"
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Coordinate
+    normative_status: 

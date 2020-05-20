@@ -1,25 +1,24 @@
+---
 term: Namespace
 termid: 276
 eng:
   id: 276
-  term: Namespace
-  definition: >-
-    A GeoServer namespace defines the XML namespace of a feature type. An XML
-    namespace uniquely describes elements and attributes in an XML document. See
+  definition: A GeoServer namespace defines the XML namespace of a feature type. An
+    XML namespace uniquely describes elements and attributes in an XML document. See
     also Feature Type. Can also refer to a GeoServer Workspace.
   language_code: eng
   notes: []
   examples: []
   type: soft
   comments:
-    - >-
-      TMG_P
-
-      ISO 19136:2007, 4.1.43
-
-      namespace <XML>
-
-      collection of names, identified by a URI reference, which are used in XML
-      documents as element names and attribute names
+  - |-
+    TMG_P
+    ISO 19136:2007, 4.1.43
+    namespace <XML>
+    collection of names, identified by a URI reference, which are used in XML documents as element names and attribute names
   authoritative_source:
-    link: 'http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary'
+    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+  terms:
+  - type: expression
+    designation: Namespace
+    normative_status: 

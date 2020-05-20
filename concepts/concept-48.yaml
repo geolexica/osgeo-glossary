@@ -1,19 +1,21 @@
+---
 term: Clearinghouse
 termid: 48
 eng:
   id: 48
-  term: Clearinghouse
-  definition: >-
-    A distributed service for metadata about geospatial data locating. Allows to
-    search in one or several nodes or servers that have been registered in the
-    Clearinghouse of the Internet. It is the term used by FGDC, equivalent to
-    the OGC’s Catalogue Service.
+  definition: A distributed service for metadata about geospatial data locating. Allows
+    to search in one or several nodes or servers that have been registered in the
+    Clearinghouse of the Internet. It is the term used by FGDC, equivalent to the
+    OGC’s Catalogue Service.
   language_code: eng
   notes: []
   examples: []
   type: term
   comments:
-    - TMG_NP
+  - TMG_NP
   authoritative_source:
-    link: >-
-      https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+  terms:
+  - type: expression
+    designation: Clearinghouse
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: GeoAPI
 termid: 154
 eng:
   id: 154
-  term: GeoAPI
   definition: OGC GeoAPI Interface Standard (a Java application programming interface)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: GeoAPI
+    normative_status: 

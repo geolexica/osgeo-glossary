@@ -1,13 +1,16 @@
+---
 term: IEC
 termid: 214
 eng:
   id: 214
-  term: IEC
-  definition: >-
-    ISO IEC JTC 1/SC 24/WG 8 - Computer graphics, image processing and
-    environmental presentation
+  definition: ISO IEC JTC 1/SC 24/WG 8 - Computer graphics, image processing and environmental
+    presentation
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: IEC
+    normative_status: 

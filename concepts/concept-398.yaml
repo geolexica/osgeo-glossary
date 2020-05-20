@@ -1,11 +1,15 @@
+---
 term: SPS
 termid: 398
 eng:
   id: 398
-  term: SPS
   definition: OGC Sensor Planning Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: SPS
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: EOSDIS
 termid: 125
 eng:
   id: 125
-  term: EOSDIS
   definition: Earth Observing System Data and Information System
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: EOSDIS
+    normative_status: 

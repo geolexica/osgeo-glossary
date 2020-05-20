@@ -1,11 +1,15 @@
+---
 term: CORBA
 termid: 56
 eng:
   id: 56
-  term: CORBA
   definition: Common Object Request Broker Architecture
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: CORBA
+    normative_status: 

@@ -1,11 +1,15 @@
+---
 term: OSGEO
 termid: 327
 eng:
   id: 327
-  term: OSGEO
   definition: Open Source Geospatial Foundation
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: OSGEO
+    normative_status: 

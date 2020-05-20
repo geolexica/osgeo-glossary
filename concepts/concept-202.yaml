@@ -1,11 +1,15 @@
+---
 term: HDF
 termid: 202
 eng:
   id: 202
-  term: HDF
   definition: Hierarchical Data Format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: 'https://www.opengeospatial.org/acronyms'
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: HDF
+    normative_status: 
