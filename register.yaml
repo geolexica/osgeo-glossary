@@ -1,0 +1,17 @@
+name: OSGeo Lexicon
+
+description: >-
+  Online glossary for OSGeo.
+
+uri: "https://osgeo.geolexica.org"
+
+owner:
+  entity:
+  	name: OSGeo
+
+manager:
+  entity:
+  	name: OSGeo Lexicon Committee
+
+subregisters:
+  eng:
