@@ -1,18 +1,16 @@
 ---
-term: UNEP
+term: TC P&P
 termid: 429
 eng:
   id: 429
-  definition: The UN Environment Programme (UNEP) coordinates United Nations environmental
-    activities, assisting developing countries in implementing environmentally sound
-    policies and encourages sustainable development through sound environmental practices.
-    http://www.unep.org
+  definition: Technical Committee Policies and Procedures
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: UNEP
-    normative_status: 
+    designation: TC P&P
+    normative_status: preferred
+    abbrev: true

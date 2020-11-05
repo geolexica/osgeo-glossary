@@ -1,9 +1,11 @@
 ---
-term: GeoRM DWG
+term: GeoJSON
 termid: 159
 eng:
   id: 159
-  definition: Geospatial Rights Management Domain Working Group
+  definition: Javascript Object Notation. A text format that is very fast to parse
+    in JavaScript virtual machines. In spatial, the extended specification for GeoJSON
+    is commonly used.
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +13,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GeoRM DWG
-    normative_status: 
+    designation: GeoJSON
+    normative_status: preferred
+    abbrev: true

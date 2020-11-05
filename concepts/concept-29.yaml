@@ -1,16 +1,16 @@
 ---
-term: CAD
+term: CAADP
 termid: 29
 eng:
   id: 29
-  definition: Acronym for Computer Assistant Design. It is an automatic system oriented
-    to design, draw and graphical visualization.
+  definition: Comprehensive African Agricultural Development Programme
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CAD
-    normative_status: 
+    designation: CAADP
+    normative_status: preferred
+    abbrev: true

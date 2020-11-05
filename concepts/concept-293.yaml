@@ -1,15 +1,16 @@
 ---
-term: NSF
+term: NGO
 termid: 293
 eng:
   id: 293
-  definition: National Science Foundation
+  definition: Non-Governmental Organization
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NSF
-    normative_status: 
+    designation: NGO
+    normative_status: preferred
+    abbrev: true

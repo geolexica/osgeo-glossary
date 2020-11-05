@@ -1,15 +1,16 @@
 ---
-term: CRUD
+term: CRS
 termid: 62
 eng:
   id: 62
-  definition: Create Read Update and Delete.
+  definition: Coordinate Reference System
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CRUD
-    normative_status: 
+    designation: CRS
+    normative_status: preferred
+    abbrev: true

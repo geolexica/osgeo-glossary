@@ -3,15 +3,16 @@ term: GDAL
 termid: 153
 eng:
   id: 153
-  definition: GDAL (Geospatial Data Abstraction Library) is a multi-format raster
-    reading and writing library. It is used as the primary mechanism for reading raster
-    data in MapServer. It is hosted at https://gdal.org/
+  definition: Geospatial Data Abstraction Library, pronounced “GOO-duhl”, an open
+    source raster access library with support for a large number of formats, used
+    widely in both open source and proprietary software.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
     designation: GDAL
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

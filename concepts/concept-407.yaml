@@ -1,10 +1,10 @@
 ---
-term: SVG
+term: SOS
 termid: 407
 eng:
   id: 407
-  definition: Scalable Vector Graphics is an XML format that MapServer can output.
-    It is frequently used in browser and mobile devices.
+  definition: SOS is an OGC standard which provides an API for managing deployed sensors
+    and retrieving sensor and observation data.
   language_code: eng
   notes: []
   examples: []
@@ -12,5 +12,6 @@ eng:
     link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: SVG
-    normative_status: 
+    designation: SOS
+    normative_status: preferred
+    abbrev: true

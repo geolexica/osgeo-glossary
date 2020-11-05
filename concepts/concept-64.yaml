@@ -1,15 +1,18 @@
 ---
-term: CSA
+term: CRS
 termid: 64
 eng:
   id: 64
-  definition: Canadian Space Agency
+  definition: Coordinate Reference System
   language_code: eng
   notes: []
   examples: []
+  comments:
+  - TMG_P
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: CSA
-    normative_status: 
+    designation: CRS
+    normative_status: preferred
+    abbrev: true

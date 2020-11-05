@@ -1,15 +1,16 @@
 ---
-term: HTI
+term: HQL
 termid: 206
 eng:
   id: 206
-  definition: Human Technology Interface
+  definition: Hibernate Query Language.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: HTI
-    normative_status: 
+    designation: HQL
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,16 @@
 ---
-term: NIBS
+term: NAD
 termid: 285
 eng:
   id: 285
-  definition: National Institute for Building Standards
+  definition: North American Datum
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: NIBS
-    normative_status: 
+    designation: NAD
+    normative_status: preferred
+    abbrev: true

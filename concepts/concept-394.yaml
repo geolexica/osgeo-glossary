@@ -1,15 +1,18 @@
 ---
-term: SOS
+term: SKOS
 termid: 394
 eng:
   id: 394
-  definition: OGC Sensor Observation Service Interface Standard
+  definition: The Simple Knowledge Organisation Systems (SKOS) is an area of work
+    developing specifications and standards to support the use of knowledge organisation
+    systems (KOS) such as thesauri, classification schemes. http://www.w3.org/2004/02/skos/
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: SOS
-    normative_status: 
+    designation: SKOS
+    normative_status: preferred
+    abbrev: true

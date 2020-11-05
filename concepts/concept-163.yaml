@@ -1,18 +1,21 @@
 ---
-term: GeoServer
+term: georeferencing
 termid: 163
 eng:
   id: 163
-  definition: GeoServer is an open source software server written in Java that allows
-    users to share and edit geospatial data. Designed for interoperability, it publishes
-    data from any major spatial data source using open standards.
+  definition: geopositioning an object using a Correspondence Model derived from a
+    set of points for which both ground and image coordinates are known
   language_code: eng
   notes: []
   examples: []
-  type: soft
+  comments:
+  - The art of assigning geographic coordinates to an object or structure. This concept
+    applied to a digital image involves a set of geometric operations that allow assigning
+    to each image pixel a pair of coordinates (x, y) in a projection system.
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    ref: ISO 19130-1:2018
+    clause: '3.38'
   terms:
   - type: expression
-    designation: GeoServer
-    normative_status: 
+    designation: georeferencing
+    normative_status: preferred

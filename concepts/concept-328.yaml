@@ -1,15 +1,16 @@
 ---
-term: OSM
+term: OO
 termid: 328
 eng:
   id: 328
-  definition: OpenStreetMap
+  definition: Object Oriented.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: OSM
-    normative_status: 
+    designation: OO
+    normative_status: preferred
+    abbrev: true

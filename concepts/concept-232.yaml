@@ -1,19 +1,16 @@
 ---
-term: ISO TC211
+term: ISO
 termid: 232
 eng:
   id: 232
-  definition: ISO/TC 211 is a standard technical committee formed within ISO, tasked
-    with covering the areas of digital geographic information (such as used by geographic
-    information systems) and geomatics. It is responsible for preparation of a series
-    of International Standards and Technical Specifications numbered in the range
-    starting at 19101.
+  definition: International Organization for Standardization
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ISO TC211
-    normative_status: 
+    designation: ISO
+    normative_status: preferred
+    abbrev: true

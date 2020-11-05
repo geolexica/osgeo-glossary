@@ -1,9 +1,9 @@
 ---
-term: OSDM
+term: OLS
 termid: 324
 eng:
   id: 324
-  definition: Office of Spatial Data Management (Australia)
+  definition: OGC Location Services
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OSDM
-    normative_status: 
+    designation: OLS
+    normative_status: preferred
+    abbrev: true

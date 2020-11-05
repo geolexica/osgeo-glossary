@@ -1,15 +1,17 @@
 ---
-term: XIMA
+term: WMC
 termid: 478
 eng:
   id: 478
-  definition: XML for Imagery and Map Annotations
+  definition: Web Map Context is an OGC standard which allows for sharing of map views
+    of WMS layers in multiple applications.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: XIMA
-    normative_status: 
+    designation: WMC
+    normative_status: preferred
+    abbrev: true

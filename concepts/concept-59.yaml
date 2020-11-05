@@ -1,38 +1,27 @@
 ---
-term: CRS
+term: coverage
 termid: 59
 eng:
   id: 59
-  definition: Coordinate reference system. The combination of a geographic and projected
-    coordinate systems that define how two-dimensional maps relate to locations on
-    the earth’s surface. Geographic coordinate systems use a three-dimensional spherical
-    surface to define those locations, referencing points on that surface through
-    angles (latitude and longitude values) measured from the earth’s center. Projected
-    coordinate systems are based on flat two-dimensional surfaces, with locations
-    referenced by x, y coordinates measured as constant lengths and distances across
-    that surface. See also SRID and SRS.
+  definition: |-
+    feature that acts as a function to return values from its range for any direct position within its spatial,
+    temporal or spatiotemporal domain
+
+    EXAMPLE: Examples include a raster image, polygon overlay or digital elevation matrix.
+
+    Note 1 to entry: In other words, a coverage is a feature that has multiple values for each attribute type, where each direct
+    position within the geometric representation of the feature has a single value for each attribute type.
   language_code: eng
   notes: []
   examples: []
-  type: check
   comments:
-  - |-
-    TMG_P
-    ISO 19111:2019, 3.1.9
-    coordinate reference system
-    coordinate system that is related to an object by a datum
-
-    Note 1 to entry: Geodetic and vertical datums are referred to as reference frames.
-
-    Note 2 to entry: For geodetic and vertical reference frames, the object will be the Earth. In planetary applications, geodetic and vertical reference frames may be applied to other celestial bodies.
-
-    regarding spatial reference system (SRS)
-    This entry has been excluded from the revision of ISO 19112:2003(E) (See ISO 19112:2019(E)) the new authoritative definition of SRS is
-    ISO 19155:2012, 4.20 (source was 19112:2003)
-    system for identifying position in the real world
+  - A type of spatial data that represents different values at different locations.
+    Satellite imagery, aerial photography, and digital elevation models (DEMs) are
+    examples of coverage data.
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    ref: ISO 19123:2005
+    clause: '4.1.7'
   terms:
   - type: expression
-    designation: CRS
-    normative_status: 
+    designation: coverage
+    normative_status: preferred

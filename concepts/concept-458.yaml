@@ -1,16 +1,16 @@
 ---
-term: WKB
+term: WCPS
 termid: 458
 eng:
   id: 458
-  definition: Well-Known Binary. This refers to the binary representation of geometries
-    described in the Simple Features for SQL specification (SFSQL).
+  definition: OGC Web Coverage Processing Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: WKB
-    normative_status: 
+    designation: WCPS
+    normative_status: preferred
+    abbrev: true

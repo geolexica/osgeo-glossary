@@ -1,26 +1,16 @@
 ---
-term: Digital Image
+term: DGN
 termid: 91
 eng:
   id: 91
-  definition: Graphical representation of an object which is, in fact, a regular matrix
-    that is a collection of a reflectance values. The reflectance values are usually
-    measured by sensors of a specific range of light wavelengths; examples of these
-    sensors are those aerial­transported such are aircrafts or satellites or those
-    integrated in a scanner used to digitalize printed documents.
+  definition: DesiGN file, the Microstation drawing format
   language_code: eng
   notes: []
   examples: []
-  type: term
-  comments:
-  - |-
-    TMG_NP
-    ISO 19115-2:2019, 3.1.18
-    image:
-    gridded coverage whose attribute values are a numerical representation of a physical parameter
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Digital Image
-    normative_status: 
+    designation: DGN
+    normative_status: preferred
+    abbrev: true

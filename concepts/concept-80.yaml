@@ -1,15 +1,19 @@
 ---
-term: DBF
+term: dataset
 termid: 80
 eng:
   id: 80
-  definition: Data Base File, the Dbase file format
+  definition: |-
+    identifiable collection of data
+
+    Note 1 to entry:  A dataset can be a smaller grouping of data which, though limited by some constraint such as spatial extent or feature type, is located physically within a larger dataset. Theoretically, a dataset can be as small as a single feature or feature attribute contained within a larger dataset. A hardcopy map or chart can be considered a dataset.;
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19115-1:2014
+    clause: '4.3'
   terms:
   - type: expression
-    designation: DBF
-    normative_status: 
+    designation: dataset
+    normative_status: preferred

@@ -1,15 +1,18 @@
 ---
-term: CS
+term: CRS
 termid: 63
 eng:
   id: 63
-  definition: OGC Catalogue Service Interface Standard
+  definition: Coordinate Reference System. Also CRS Domain Working Group.
   language_code: eng
   notes: []
   examples: []
+  comments:
+  - TMG_P
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: CS
-    normative_status: 
+    designation: CRS
+    normative_status: preferred
+    abbrev: true

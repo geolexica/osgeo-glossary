@@ -1,16 +1,16 @@
 ---
-term: SOS
+term: SIGTE
 termid: 393
 eng:
   id: 393
-  definition: SOS is an OGC standard which provides an API for managing deployed sensors
-    and retrieving sensor and observation data.
+  definition: The GIS and Remote Sensing Service of the University of Girona, Spain
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SOS
-    normative_status: 
+    designation: SIGTE
+    normative_status: preferred
+    abbrev: true

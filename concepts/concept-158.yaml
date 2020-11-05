@@ -1,17 +1,21 @@
 ---
-term: GeoNetwork
+term: Geoid
 termid: 158
 eng:
   id: 158
-  definition: GeoNetwork opensource is a standards based, Free and Open Source catalog
-    application to manage spatially referenced resources through the web. http://geonetwork-opensource.org
+  definition: Is the level surface, equipotential in the gravitational field, which
+    adopts an irregular three­dimensional spheroid. Due to the dependency on the mass
+    distribution inside the Earth, it is impossible to represent it mathematically.
+    The mathematical shape used to do it is the ellipsoid that approximately fits
+    better the Earth shape. The geoid is coincident with the mean ocean surface when
+    they are quiet, virtually extended for the continents land.
   language_code: eng
   notes: []
   examples: []
-  type: other
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: GeoNetwork
-    normative_status: 
+    designation: Geoid
+    normative_status: preferred
+    abbrev: true

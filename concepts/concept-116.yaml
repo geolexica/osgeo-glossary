@@ -1,9 +1,9 @@
 ---
-term: EEA
+term: EDM DWG
 termid: 116
 eng:
   id: 116
-  definition: European Environment Agency
+  definition: Emergency & Disaster Management Domain Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: EEA
-    normative_status: 
+    designation: EDM DWG
+    normative_status: preferred
+    abbrev: true

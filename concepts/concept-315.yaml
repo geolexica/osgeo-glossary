@@ -1,15 +1,16 @@
 ---
-term: OMA
+term: OGC
 termid: 315
 eng:
   id: 315
-  definition: Open Mobile Alliance
+  definition: Open Geospatial Consortium
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: OMA
-    normative_status: 
+    designation: OGC
+    normative_status: preferred
+    abbrev: true

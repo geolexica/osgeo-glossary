@@ -1,17 +1,16 @@
 ---
-term: CSW
+term: CS
 termid: 66
 eng:
   id: 66
-  definition: Catalog Service for the Web. The OGC Catalog Service defines common
-    interfaces to discover, browse, and query metadata about data, services, and other
-    potential resources.
+  definition: OGC Catalogue Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: CSW
-    normative_status: 
+    designation: CS
+    normative_status: preferred
+    abbrev: true

@@ -1,17 +1,16 @@
 ---
-term: WebDAV
+term: USGIF
 termid: 449
 eng:
   id: 449
-  definition: Web-based Distributed Authoring and Versioning. WebDAV is a set of extensions
-    to the Hypertext Transfer Protocol (HTTP) that allows users to edit and manage
-    files collaboratively on remote World Wide Web servers.
+  definition: US Geospatial Intelligence Foundation
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: WebDAV
-    normative_status: 
+    designation: USGIF
+    normative_status: preferred
+    abbrev: true

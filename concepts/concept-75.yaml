@@ -1,15 +1,16 @@
 ---
-term: DAO
+term: CUDA
 termid: 75
 eng:
   id: 75
-  definition: Data Access Object.
+  definition: Compute Unified Device Architecture
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: DAO
-    normative_status: 
+    designation: CUDA
+    normative_status: preferred
+    abbrev: true

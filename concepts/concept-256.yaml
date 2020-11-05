@@ -1,15 +1,18 @@
 ---
-term: LOC
+term: KML
 termid: 256
 eng:
   id: 256
-  definition: Local Organizing Committee
+  definition: Keyhole Markup Language. This is the spatial XML format used by Google
+    Earth. Google Earth was originally written by a company named “Keyhole”, hence
+    the (now obscure) reference in the name.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: LOC
-    normative_status: 
+    designation: KML
+    normative_status: preferred
+    abbrev: true

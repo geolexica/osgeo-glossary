@@ -1,15 +1,16 @@
 ---
-term: VGI
+term: UAV
 termid: 439
 eng:
   id: 439
-  definition: Volunteered Geographic Information
+  definition: Unmanned Aerial Vehicle
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: VGI
-    normative_status: 
+    designation: UAV
+    normative_status: preferred
+    abbrev: true

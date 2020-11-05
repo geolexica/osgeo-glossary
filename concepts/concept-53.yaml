@@ -1,15 +1,16 @@
 ---
-term: COM
+term: CODATA
 termid: 53
 eng:
   id: 53
-  definition: Common Object Model, a Microsoft paradigm to connect components
+  definition: Committee on Data for Science and Technology
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: COM
-    normative_status: 
+    designation: CODATA
+    normative_status: preferred
+    abbrev: true

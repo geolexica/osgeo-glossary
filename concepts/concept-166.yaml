@@ -1,23 +1,19 @@
 ---
-term: Geospatial Metadata
+term: GEOS
 termid: 166
 eng:
   id: 166
-  definition: Information about geospatial data that may not be contained in, or readily
-    apparent from, the geospatial data itself.
+  definition: Geometry Engine Open Source is a C/C++ port of the Java Topology Suite.
+    It is used for geometric algebra operations like determining if a polygon is contained
+    in another polygon or determining the resultant intersection of two or more polygons.
+    MapServer optionally uses GEOS for geometric algebra operations.
   language_code: eng
   notes: []
   examples: []
-  type: term
-  comments:
-  - |
-    TMG_NP
-    ISO 19115-1:2014, 4.10
-    metadata
-    information about a resource
   authoritative_source:
-    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Geospatial Metadata
-    normative_status: 
+    designation: GEOS
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,16 @@
 ---
-term: SDI
+term: RFT
 termid: 364
 eng:
   id: 364
-  definition: Spatial Data Infrastructure
+  definition: Request for Technology
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SDI
-    normative_status: 
+    designation: RFT
+    normative_status: preferred
+    abbrev: true

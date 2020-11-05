@@ -1,15 +1,16 @@
 ---
-term: WG
+term: VGI
 termid: 454
 eng:
   id: 454
-  definition: Working Group
+  definition: Volunteered Geographic Information
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: WG
-    normative_status: 
+    designation: VGI
+    normative_status: preferred
+    abbrev: true

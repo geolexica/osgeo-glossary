@@ -1,15 +1,16 @@
 ---
-term: OECD
+term: NSDI
 termid: 301
 eng:
   id: 301
-  definition: Organisation for Economic Co-Operation and Development
+  definition: National Spatial Data Infrastructure
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OECD
-    normative_status: 
+    designation: NSDI
+    normative_status: preferred
+    abbrev: true

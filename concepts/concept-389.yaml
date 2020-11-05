@@ -1,11 +1,12 @@
 ---
-term: SOA
+term: Shibboleth
 termid: 389
 eng:
   id: 389
-  definition: Service Oriented Architecture provides methods for systems development
-    and integration where systems package functionality as interoperable services.
-    A SOA infrastructure allows different applications to exchange data with one another.
+  definition: The Shibboleth System is a standards based, open source software package
+    for web single sign-on across or within organisational boundaries. It allows sites
+    to make informed authorisation decisions for individual access of protected online
+    resources in a privacy-preserving manner.
   language_code: eng
   notes: []
   examples: []
@@ -13,5 +14,6 @@ eng:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: SOA
-    normative_status: 
+    designation: Shibboleth
+    normative_status: preferred
+    abbrev: true

@@ -1,21 +1,17 @@
 ---
-term: Clearinghouse
+term: CITE
 termid: 48
 eng:
   id: 48
-  definition: A distributed service for metadata about geospatial data locating. Allows
-    to search in one or several nodes or servers that have been registered in the
-    Clearinghouse of the Internet. It is the term used by FGDC, equivalent to the
-    OGC’s Catalogue Service.
+  definition: OGC Compliance and Interoperability Testing Initiative, the OGC's Compliance
+    Testing Program.
   language_code: eng
   notes: []
   examples: []
-  type: term
-  comments:
-  - TMG_NP
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Clearinghouse
-    normative_status: 
+    designation: CITE
+    normative_status: preferred
+    abbrev: true

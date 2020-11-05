@@ -1,15 +1,16 @@
 ---
-term: NED
+term: MISMO
 termid: 279
 eng:
   id: 279
-  definition: National Elevation Dataset
+  definition: Mortgage Information Standards Maintenance Organization
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NED
-    normative_status: 
+    designation: MISMO
+    normative_status: preferred
+    abbrev: true

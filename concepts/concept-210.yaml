@@ -1,15 +1,16 @@
 ---
-term: ICT
+term: ICSU-WDS
 termid: 210
 eng:
   id: 210
-  definition: Information and Communications Technology
+  definition: International Council for Science – World Data System
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: ICT
-    normative_status: 
+    designation: ICSU-WDS
+    normative_status: preferred
+    abbrev: true

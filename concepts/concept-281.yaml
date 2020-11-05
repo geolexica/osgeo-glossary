@@ -1,10 +1,9 @@
 ---
-term: NetCDF
+term: MMI
 termid: 281
 eng:
   id: 281
-  definition: OGC Network Common Data Form (NetCDF) Core Encoding Standard version
-    1.0 comprises earlier NetCDF Classic and 64bit Offset Format standards from UCAR/Unidata.
+  definition: OGC`s Multi-Hazard Mapping Initiative (MMI) Phase I (2001)
   language_code: eng
   notes: []
   examples: []
@@ -12,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NetCDF
-    normative_status: 
+    designation: MMI
+    normative_status: preferred
+    abbrev: true

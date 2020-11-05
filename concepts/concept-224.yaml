@@ -1,10 +1,10 @@
 ---
-term: IP
+term: ImageMosaic
 termid: 224
 eng:
   id: 224
-  definition: Depending on context, either Intellectual Property or Interoperability
-    Program
+  definition: A GeoServer data store supporting the creation of a mosaic based on
+    a number of georeferenced raster data sources. See also Data Store and Mosaic.
   language_code: eng
   notes: []
   examples: []
@@ -12,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: IP
-    normative_status: 
+    designation: ImageMosaic
+    normative_status: preferred
+    abbrev: true

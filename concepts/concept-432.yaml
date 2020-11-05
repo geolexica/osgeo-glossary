@@ -1,16 +1,16 @@
 ---
-term: URL
+term: TEAM Engine
 termid: 432
 eng:
   id: 432
-  definition: A Uniform Resource Locator specifies where an identified resource is
-    available and the mechanism for retrieving it.
+  definition: Test, Evaluation, And Measurement Engine
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: URL
-    normative_status: 
+    designation: TEAM Engine
+    normative_status: preferred
+    abbrev: true

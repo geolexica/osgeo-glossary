@@ -1,15 +1,16 @@
 ---
-term: NTF
+term: NHD
 termid: 294
 eng:
   id: 294
-  definition: Neutral Transfer Format (in UK)
+  definition: National Hydrologic Dataset
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: NTF
-    normative_status: 
+    designation: NHD
+    normative_status: preferred
+    abbrev: true

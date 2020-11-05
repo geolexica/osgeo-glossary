@@ -1,9 +1,10 @@
 ---
-term: EO
+term: EO2heaven
 termid: 121
 eng:
   id: 121
-  definition: Earth Observation
+  definition: Earth Observation and Environmental Modelling for the Mitigation of
+    Health Risks
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: EO
-    normative_status: 
+    designation: EO2heaven
+    normative_status: preferred
+    abbrev: true

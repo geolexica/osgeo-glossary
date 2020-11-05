@@ -1,9 +1,9 @@
 ---
-term: OSCRE
+term: OLE/COM
 termid: 323
 eng:
   id: 323
-  definition: Open Standards Consortium for Real Estate
+  definition: Object Linking and Embedding/Common Object Model (Microsoft)
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OSCRE
-    normative_status: 
+    designation: OLE/COM
+    normative_status: preferred
+    abbrev: true

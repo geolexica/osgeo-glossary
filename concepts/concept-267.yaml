@@ -1,15 +1,23 @@
 ---
-term: Met Ocean DWG
+term: MAC address
 termid: 267
 eng:
   id: 267
-  definition: Meteorology & Oceanography Domain Working Group
+  definition: "Media Access Control address (MAC address) is a unique identifier assigned
+    to most network adapters or network interface cards (NICs) by the manufacturer
+    for identification, and used in the Media Access Control protocol sublayer. \n\nNote
+    1 to entry: See also http://en.wikipedia.org/wiki/MAC_address on Wikipedia"
   language_code: eng
   notes: []
   examples: []
+  comments:
+  - Media Access Control address (MAC address) is a unique identifier assigned to
+    most network adapters or network interface cards (NICs) by the manufacturer for
+    identification, and used in the Media Access Control protocol sublayer. See also
+    http://en.wikipedia.org/wiki/MAC_address on Wikipedia
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    comment: GEONETWOK_OPENSOURCE
   terms:
   - type: expression
-    designation: Met Ocean DWG
-    normative_status: 
+    designation: MAC address
+    normative_status: preferred

@@ -1,16 +1,19 @@
 ---
-term: GeoRSS
+term: geopositioning
 termid: 161
 eng:
   id: 161
-  definition: RSS feed containing geographic information in GML (Geographic Markup
-    Language) format.
+  definition: |-
+    determination of the geographic position of an object
+
+    Note 1 to entry: While there are many methods for geopositioning, this document is focused on geopositioning from image coordinates.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    ref: ISO 19130-1:2018
+    clause: '3.36'
   terms:
   - type: expression
-    designation: GeoRSS
-    normative_status: 
+    designation: geopositioning
+    normative_status: preferred

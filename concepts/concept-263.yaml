@@ -1,19 +1,16 @@
 ---
-term: MapScript
+term: LOC
 termid: 263
 eng:
   id: 263
-  definition: MapScript is an alternative the the CGI application of mapserv that
-    allows you to program the MapServer object API in many languages.
+  definition: Local Organizing Committee
   language_code: eng
   notes: []
   examples: []
-  type: soft
-  comments:
-  - TMG_NP
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: MapScript
-    normative_status: 
+    designation: LOC
+    normative_status: preferred
+    abbrev: true

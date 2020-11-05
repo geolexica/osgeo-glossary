@@ -1,15 +1,19 @@
 ---
-term: LOD
+term: layer
 termid: 257
 eng:
   id: 257
-  definition: Level Of Detail
+  definition: basic unit of geographic information that may be requested as a map
+    from a server
   language_code: eng
   notes: []
   examples: []
+  comments:
+  - A published GeoServer resource representing a raster or vector spatial data source.
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    ref: ISO 19128:2005
+    clause: '4.6'
   terms:
   - type: expression
-    designation: LOD
-    normative_status: 
+    designation: layer
+    normative_status: preferred

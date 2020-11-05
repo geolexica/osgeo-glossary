@@ -1,17 +1,16 @@
 ---
-term: JSTL
+term: JIBX
 termid: 248
 eng:
   id: 248
-  definition: JavaServer Page Template Library. A tag library for JSP that encapsulates
-    many of the standard functions handled in JSP (database queries, iteration, conditionals)
-    into a terse syntax.
+  definition: Binding XML to Java Code.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: JSTL
-    normative_status: 
+    designation: JIBX
+    normative_status: preferred
+    abbrev: true

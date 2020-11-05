@@ -1,16 +1,16 @@
 ---
-term: SLD
+term: SensorML
 termid: 382
 eng:
   id: 382
-  definition: SLD is an OGC standard which allows for custom symbolization for portrayal
-    of data.
+  definition: OGC Sensor Model Language Encoding Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SLD
-    normative_status: 
+    designation: SensorML
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,16 @@
 ---
-term: WGS
+term: W3C
 termid: 456
 eng:
   id: 456
-  definition: World Geodetic System
+  definition: World Wide Web Consortium
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: WGS
-    normative_status: 
+    designation: W3C
+    normative_status: preferred
+    abbrev: true

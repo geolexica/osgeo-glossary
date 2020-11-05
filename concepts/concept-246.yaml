@@ -1,17 +1,16 @@
 ---
-term: JSON
+term: JAXA
 termid: 246
 eng:
   id: 246
-  definition: JavaScript Object Notation. A text format that is very fast to parse
-    in JavaScript virtual machines. In spatial, the extended specification for GeoJSON
-    is commonly used.
+  definition: Japan Aerospace Exploration Agency
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: JSON
-    normative_status: 
+    designation: JAXA
+    normative_status: preferred
+    abbrev: true

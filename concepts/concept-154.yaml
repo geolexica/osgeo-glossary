@@ -1,15 +1,18 @@
 ---
-term: GeoAPI
+term: GDAL
 termid: 154
 eng:
   id: 154
-  definition: OGC GeoAPI Interface Standard (a Java application programming interface)
+  definition: GDAL (Geospatial Data Abstraction Library) is a multi-format raster
+    reading and writing library. It is used as the primary mechanism for reading raster
+    data in MapServer. It is hosted at https://gdal.org/
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: GeoAPI
-    normative_status: 
+    designation: GDAL
+    normative_status: preferred
+    abbrev: true

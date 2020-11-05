@@ -1,15 +1,18 @@
 ---
-term: ISO Technical Committee 204
+term: ISO
 termid: 233
 eng:
   id: 233
-  definition: Intelligent transport systems
+  definition: International Standards Organisation is an international-standard-setting
+    body composed of representatives from various national standards organizations.
+    http://www.iso.org
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: ISO Technical Committee 204
-    normative_status: 
+    designation: ISO
+    normative_status: preferred
+    abbrev: true

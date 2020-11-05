@@ -3,14 +3,14 @@ term: GML
 termid: 178
 eng:
   id: 178
-  definition: Geography Markup Language (GML) is the Open Geospatial Consortium standard
-    XML format for representing spatial feature information.
+  definition: OGC Geography Markup Language Encoding Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
     designation: GML
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

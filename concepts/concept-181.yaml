@@ -1,9 +1,9 @@
 ---
-term: GML
+term: GML in JPEG 2000
 termid: 181
 eng:
   id: 181
-  definition: OGC Geography Markup Language Encoding Standard
+  definition: OGC standard that defines how GML is used in JPEG 2000 images
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GML
-    normative_status: 
+    designation: GML in JPEG 2000
+    normative_status: preferred
+    abbrev: true

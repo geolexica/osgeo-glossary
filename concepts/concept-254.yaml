@@ -1,15 +1,16 @@
 ---
-term: LEAPS DWG
+term: KML
 termid: 254
 eng:
   id: 254
-  definition: Law Enforcement and Public Safety Domain Working Group
+  definition: Keyhole Markup Language
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: LEAPS DWG
-    normative_status: 
+    designation: KML
+    normative_status: preferred
+    abbrev: true

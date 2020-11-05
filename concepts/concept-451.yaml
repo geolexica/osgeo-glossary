@@ -1,12 +1,11 @@
 ---
-term: WFS
+term: UUID
 termid: 451
 eng:
   id: 451
-  definition: The Web Feature Service (WFS) specification from the Open Geospatial
-    Consortium defines an interface for reading and writing geographic features across
-    the web using platform-independent calls. One can think of geographical features
-    as the “source code” behind a map.
+  definition: A Universally Unique Identifier (UUID) is an identifier standard used
+    in software construction, standardized by the Open Software Foundation (OSF) as
+    part of the Distributed Computing Environment (DCE).
   language_code: eng
   notes: []
   examples: []
@@ -14,5 +13,6 @@ eng:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: WFS
-    normative_status: 
+    designation: UUID
+    normative_status: preferred
+    abbrev: true

@@ -1,19 +1,17 @@
 ---
-term: Spherical Mercator
+term: SLD
 termid: 396
 eng:
   id: 396
-  definition: Spherical Mercator is a term used to describe the PROJECTION used by
-    many commercial API providers.
+  definition: SLD is an OGC standard which allows for custom symbolization for portrayal
+    of data.
   language_code: eng
   notes: []
   examples: []
-  type: term
-  comments:
-  - TMG_NP
   authoritative_source:
     link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Spherical Mercator
-    normative_status: 
+    designation: SLD
+    normative_status: preferred
+    abbrev: true

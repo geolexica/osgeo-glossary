@@ -1,15 +1,18 @@
 ---
-term: UDDI
+term: SWIG
 termid: 427
 eng:
   id: 427
-  definition: Universal Description, Discovery, and Integration
+  definition: Simplified Wrapper Interface Generator is the library that MapServer
+    uses for generating the language bindings for all languages other than C/C++ and
+    PHP. MapScript describes these bindings.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: UDDI
-    normative_status: 
+    designation: SWIG
+    normative_status: preferred
+    abbrev: true

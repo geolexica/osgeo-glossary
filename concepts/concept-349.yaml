@@ -1,15 +1,16 @@
 ---
-term: RFC
+term: PPGIS
 termid: 349
 eng:
   id: 349
-  definition: Request for Comment
+  definition: Public Participation in Geographic Information Systems
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: RFC
-    normative_status: 
+    designation: PPGIS
+    normative_status: preferred
+    abbrev: true

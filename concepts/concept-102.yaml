@@ -1,15 +1,16 @@
 ---
-term: DXF
+term: DWG
 termid: 102
 eng:
   id: 102
-  definition: Drawing Interchange File
+  definition: Design file format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: DXF
-    normative_status: 
+    designation: DWG
+    normative_status: preferred
+    abbrev: true

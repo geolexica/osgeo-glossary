@@ -1,16 +1,16 @@
 ---
-term: CITE
+term: CI
 termid: 46
 eng:
   id: 46
-  definition: OGC Compliance and Interoperability Testing Initiative, the OGC's Compliance
-    Testing Program.
+  definition: CyberInfrastructure
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CITE
-    normative_status: 
+    designation: CI
+    normative_status: preferred
+    abbrev: true

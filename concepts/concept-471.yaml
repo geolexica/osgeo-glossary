@@ -1,19 +1,16 @@
 ---
-term: Workspace
+term: WG
 termid: 471
 eng:
   id: 471
-  definition: An organizational structure in GeoServer for grouping related data stores.
-    See also Data Store.
+  definition: Working Group
   language_code: eng
   notes: []
   examples: []
-  type: soft
-  comments:
-  - TMG_NP
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Workspace
-    normative_status: 
+    designation: WG
+    normative_status: preferred
+    abbrev: true

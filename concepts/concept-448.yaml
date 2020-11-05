@@ -1,15 +1,16 @@
 ---
-term: Web3D ConsortiumWfMC
+term: USGIF
 termid: 448
 eng:
   id: 448
-  definition: Workflow Management Coalition
+  definition: United States Geospatial Intelligence Foundation
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Web3D ConsortiumWfMC
-    normative_status: 
+    designation: USGIF
+    normative_status: preferred
+    abbrev: true

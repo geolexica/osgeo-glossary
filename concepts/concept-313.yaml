@@ -1,15 +1,16 @@
 ---
-term: OLS
+term: OGC
 termid: 313
 eng:
   id: 313
-  definition: OGC Location Services
+  definition: Open Geospatial Consortium
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OLS
-    normative_status: 
+    designation: OGC
+    normative_status: preferred
+    abbrev: true

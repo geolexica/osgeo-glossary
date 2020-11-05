@@ -1,19 +1,16 @@
 ---
-term: JAI
+term: ISOC
 termid: 240
 eng:
   id: 240
-  definition: Java Advanced Imaging (JAI) is a Java platform extension API that provides
-    a set of object-oriented interfaces that support a simple, high-level programming
-    model which allows developers to create their own image manipulation routines
-    without the additional cost or licensing restrictions, associated with commercial
-    image processing software.
+  definition: Internet Society
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: JAI
-    normative_status: 
+    designation: ISOC
+    normative_status: preferred
+    abbrev: true

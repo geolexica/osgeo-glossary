@@ -1,9 +1,9 @@
 ---
-term: OWScontextSWG
+term: ORM
 termid: 333
 eng:
   id: 333
-  definition: OWS Context SWG
+  definition: OGC Reference Model
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OWScontextSWG
-    normative_status: 
+    designation: ORM
+    normative_status: preferred
+    abbrev: true

@@ -1,9 +1,10 @@
 ---
-term: TC P&P
+term: SQL/MM
 termid: 415
 eng:
   id: 415
-  definition: Technical Committee Policies and Procedures
+  definition: SQL Multimedia; includes several sections on extended types, including
+    a substantial section on spatial types.
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: TC P&P
-    normative_status: 
+    designation: SQL/MM
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,16 @@
 ---
-term: EOSDIS
+term: EPA
 termid: 125
 eng:
   id: 125
-  definition: Earth Observing System Data and Information System
+  definition: Environmental Protection Agency
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: EOSDIS
-    normative_status: 
+    designation: EPA
+    normative_status: preferred
+    abbrev: true

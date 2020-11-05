@@ -1,15 +1,17 @@
 ---
-term: WMS
+term: WFP
 termid: 466
 eng:
   id: 466
-  definition: OGC Web Map Service Interface Standard
+  definition: World Food Programme of the United Nations is the food aid branch of
+    the United Nations, and the world’s largest humanitarian organization. http://www.wfp.org
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: WMS
-    normative_status: 
+    designation: WFP
+    normative_status: preferred
+    abbrev: true

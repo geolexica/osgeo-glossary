@@ -1,9 +1,10 @@
 ---
-term: ARML
+term: API
 termid: 15
 eng:
   id: 15
-  definition: Augmented Reality Markup Language
+  definition: Application Programming Interface. A set of routines, procedures, protocols,
+    and tools for building software applications.
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ARML
-    normative_status: 
+    designation: API
+    normative_status: preferred
+    abbrev: true

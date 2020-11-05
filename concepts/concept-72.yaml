@@ -1,15 +1,16 @@
 ---
-term: CUDA
+term: CT SWG
 termid: 72
 eng:
   id: 72
-  definition: Compute Unified Device Architecture
+  definition: OGC Coordinate Transformation Standards Working Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: CUDA
-    normative_status: 
+    designation: CT SWG
+    normative_status: preferred
+    abbrev: true

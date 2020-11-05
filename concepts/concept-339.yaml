@@ -1,17 +1,19 @@
 ---
-term: Projection
+term: OSGeo
 termid: 339
 eng:
   id: 339
-  definition: A map projection is a mathematical transformation of the surface of
-    a sphere (3D) onto a 2D plane. Due to the laws of the universe, each type of projection
-    must make tradeoffs on how and what features it distorts.
+  definition: The Open Source Geospatial Foundation (OSGeo), is a non-profit non-governmental
+    organization whose mission is to support and promote the collaborative development
+    of open geospatial technologies and data. http://www.osgeo.org
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: Combo of https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+      and
   terms:
   - type: expression
-    designation: Projection
-    normative_status: 
+    designation: OSGeo
+    normative_status: preferred
+    abbrev: true

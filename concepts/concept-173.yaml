@@ -18,4 +18,5 @@ eng:
   terms:
   - type: expression
     designation: GIF
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

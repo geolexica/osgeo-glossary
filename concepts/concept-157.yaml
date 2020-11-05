@@ -1,18 +1,17 @@
 ---
-term: GeoJSON
+term: Geodesy
 termid: 157
 eng:
   id: 157
-  definition: Javascript Object Notation. A text format that is very fast to parse
-    in JavaScript virtual machines. In spatial, the extended specification for GeoJSON
-    is commonly used.
+  definition: The science that studies the shape of the Earch in the gravitational
+    field.
   language_code: eng
   notes: []
   examples: []
-  type: other
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: GeoJSON
-    normative_status: 
+    designation: Geodesy
+    normative_status: preferred
+    abbrev: true

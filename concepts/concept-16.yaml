@@ -1,9 +1,9 @@
 ---
-term: AS
+term: Arch DWG
 termid: 16
 eng:
   id: 16
-  definition: Abstract Specification
+  definition: Architecture Domain Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: AS
-    normative_status: 
+    designation: Arch DWG
+    normative_status: preferred
+    abbrev: true

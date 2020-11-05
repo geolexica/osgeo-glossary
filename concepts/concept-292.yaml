@@ -1,15 +1,16 @@
 ---
-term: NSDI
+term: NGA
 termid: 292
 eng:
   id: 292
-  definition: National Spatial Data Infrastructure
+  definition: National Geospatial Intelligence Agency
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: NSDI
-    normative_status: 
+    designation: NGA
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,16 @@
 ---
-term: NGO
+term: MoU
 termid: 283
 eng:
   id: 283
-  definition: Non-Governmental Organization
+  definition: Memorandum of Understanding
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: NGO
-    normative_status: 
+    designation: MoU
+    normative_status: preferred
+    abbrev: true

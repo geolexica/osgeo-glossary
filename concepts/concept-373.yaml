@@ -1,15 +1,16 @@
 ---
-term: SFS
+term: SAR
 termid: 373
 eng:
   id: 373
-  definition: OGC Simple FeaturesSQL Encoding Standard
+  definition: Synthetic Aperture Radar
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SFS
-    normative_status: 
+    designation: SAR
+    normative_status: preferred
+    abbrev: true

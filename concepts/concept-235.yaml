@@ -1,9 +1,9 @@
 ---
-term: ISOC
+term: ISO IEC JTC 1/SC 24/WG 8
 termid: 235
 eng:
   id: 235
-  definition: Internet Society
+  definition: Computer graphics, image processing and environmental presentation
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ISOC
-    normative_status: 
+    designation: ISO IEC JTC 1/SC 24/WG 8
+    normative_status: preferred
+    abbrev: true

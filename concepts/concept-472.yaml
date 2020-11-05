@@ -1,20 +1,16 @@
 ---
-term: WPS
+term: WGCapD
 termid: 472
 eng:
   id: 472
-  definition: The Web Processing Service (WPS) specification from the Open Geospatial
-    Consortium provides rules for standardizing inputs and outputs (requests and responses)
-    for geospatial processing services. The Web Processing Service is designed to
-    standardize the way that GIS calculations are made available to the Internet.
-    WPS can describe any calculation (i.e. process) including all of its inputs and
-    outputs, and trigger its execution as a Web Service.
+  definition: Working Group on Capacity Building and Data Democracy
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: WPS
-    normative_status: 
+    designation: WGCapD
+    normative_status: preferred
+    abbrev: true

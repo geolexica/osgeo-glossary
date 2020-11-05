@@ -1,15 +1,16 @@
 ---
-term: ORM
+term: OHI
 termid: 322
 eng:
   id: 322
-  definition: OGC Reference Model
+  definition: International Hydrographic Office
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: ORM
-    normative_status: 
+    designation: OHI
+    normative_status: preferred
+    abbrev: true

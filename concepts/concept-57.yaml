@@ -1,22 +1,34 @@
 ---
-term: Coverage
+term: coordinate reference system
 termid: 57
 eng:
   id: 57
-  definition: A type of spatial data that represents different values at different
-    locations. Satellite imagery, aerial photography, and digital elevation models
-    (DEMs) are examples of coverage data.
+  definition: |
+    coordinate system that is related to an object by a datum
+
+    Note 1 to entry: Geodetic and vertical datums are referred to as reference frames.
+
+    Note 2 to entry: For geodetic and vertical reference frames, the object will be the Earth. In planetary applications, geodetic and vertical reference frames may be applied to other celestial bodies.
   language_code: eng
   notes: []
   examples: []
-  type: term
   comments:
-  - "TMG_P: \nISO 19123:2005, 4.1.7\ncoverage\nfeature that acts as a function to
-    return values from its range for any direct position within its spatial, temporal
-    or spatiotemporal domain"
+  - Coordinate reference system. The combination of a geographic and projected coordinate
+    systems that define how two-dimensional maps relate to locations on the earth’s
+    surface. Geographic coordinate systems use a three-dimensional spherical surface
+    to define those locations, referencing points on that surface through angles (latitude
+    and longitude values) measured from the earth’s center. Projected coordinate systems
+    are based on flat two-dimensional surfaces, with locations referenced by x, y
+    coordinates measured as constant lengths and distances across that surface. See
+    also SRID and SRS.
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    ref: ISO 19111:2019
+    clause: '3.1.9'
   terms:
   - type: expression
-    designation: Coverage
-    normative_status: 
+    designation: coordinate reference system
+    normative_status: preferred
+  - type: expression
+    designation: CRS
+    normative_status: preferred
+    abbrev: true

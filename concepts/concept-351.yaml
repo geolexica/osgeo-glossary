@@ -1,15 +1,18 @@
 ---
-term: RFP
+term: PROJ
 termid: 351
 eng:
   id: 351
-  definition: Request for Proposals (or Participation)
+  definition: PROJ (formerly referred to as PROJ.4) is a library for projecting map
+    data. It is used by MapServer and GDAL and a multitude of other Open Source GIS
+    libraries.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: RFP
-    normative_status: 
+    designation: PROJ
+    normative_status: preferred
+    abbrev: true

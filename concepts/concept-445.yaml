@@ -1,16 +1,19 @@
 ---
-term: WCS
+term: UNEP
 termid: 445
 eng:
   id: 445
-  definition: WCS is an OGC standard that describes how to systematically produce
-    structured Raster cartographic data from a service and return them to a client
+  definition: The UN Environment Programme (UNEP) coordinates United Nations environmental
+    activities, assisting developing countries in implementing environmentally sound
+    policies and encourages sustainable development through sound environmental practices.
+    http://www.unep.org
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: WCS
-    normative_status: 
+    designation: UNEP
+    normative_status: preferred
+    abbrev: true

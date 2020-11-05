@@ -1,15 +1,17 @@
 ---
-term: Arch DWG
+term: ANZLIC
 termid: 14
 eng:
   id: 14
-  definition: Architecture Domain Working Group
+  definition: "(Australian and New Zealand Land Information Council) Is the organization
+    in charge of the development of the SDI in these two countries."
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: Arch DWG
-    normative_status: 
+    designation: ANZLIC
+    normative_status: preferred
+    abbrev: true

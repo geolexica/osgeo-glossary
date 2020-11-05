@@ -1,15 +1,17 @@
 ---
-term: NGA
+term: Mosaic
 termid: 282
 eng:
   id: 282
-  definition: National Geospatial Intelligence Agency
+  definition: A collection of georeferenced raster data sources merged together to
+    create a seamless raster dataset. See also ImageMosaic.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NGA
-    normative_status: 
+    designation: Mosaic
+    normative_status: preferred
+    abbrev: true

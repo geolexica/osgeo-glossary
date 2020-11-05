@@ -1,15 +1,16 @@
 ---
-term: JAXA
+term: ISPRS
 termid: 241
 eng:
   id: 241
-  definition: Japan Aerospace Exploration Agency
+  definition: International Society for Photogrammetry and Remote Sensing
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: JAXA
-    normative_status: 
+    designation: ISPRS
+    normative_status: preferred
+    abbrev: true

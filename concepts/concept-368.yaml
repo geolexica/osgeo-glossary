@@ -1,9 +1,9 @@
 ---
-term: SE
+term: RTD
 termid: 368
 eng:
   id: 368
-  definition: Symbology Encoding
+  definition: Research and Technology Development (Europe)
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SE
-    normative_status: 
+    designation: RTD
+    normative_status: preferred
+    abbrev: true

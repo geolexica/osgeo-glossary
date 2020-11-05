@@ -1,15 +1,16 @@
 ---
-term: SWG
+term: SQL
 termid: 412
 eng:
   id: 412
-  definition: Standards Working Group
+  definition: Structured Query Language
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SWG
-    normative_status: 
+    designation: SQL
+    normative_status: preferred
+    abbrev: true

@@ -1,27 +1,18 @@
 ---
-term: Geospatial Metadata Instance
+term: GeoServer
 termid: 167
 eng:
   id: 167
-  definition: "A single and specific metadata document, typically created in conformance
-    with a metadata standard. There is typically a metadata instance for each geospatial
-    dataset in a GIS. \n Example: If you had a GIS that managed road data and car
-    accident data in ESRI Shapefiles, you would have a metadata instance for each
-    shapefile. One metadata instance might be named roads_metadata.txt while the other
-    was named car_accidents_metadata.txt."
+  definition: GeoServer is an open source software server written in Java that allows
+    users to share and edit geospatial data. Designed for interoperability, it publishes
+    data from any major spatial data source using open standards.
   language_code: eng
   notes: []
   examples: []
-  type: term
-  comments:
-  - |-
-    TMG_NP
-    ISO 19107:2003, 4.57
-    instance
-    object that realizes a class;
   authoritative_source:
-    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Geospatial Metadata Instance
-    normative_status: 
+    designation: GeoServer
+    normative_status: preferred
+    abbrev: true

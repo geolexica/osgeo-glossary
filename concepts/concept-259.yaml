@@ -1,15 +1,16 @@
 ---
-term: LS DWG
+term: LBS
 termid: 259
 eng:
   id: 259
-  definition: Location Services Domain Working Group
+  definition: Location-Based Service
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: LS DWG
-    normative_status: 
+    designation: LBS
+    normative_status: preferred
+    abbrev: true

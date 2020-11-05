@@ -1,9 +1,9 @@
 ---
-term: Univ DWG
+term: TDWG
 termid: 431
 eng:
   id: 431
-  definition: University Domain Working GroupVPFVector Product Format (US)
+  definition: Taxonomic Data Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Univ DWG
-    normative_status: 
+    designation: TDWG
+    normative_status: preferred
+    abbrev: true

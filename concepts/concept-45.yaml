@@ -1,16 +1,16 @@
 ---
-term: CIPI
+term: CGI
 termid: 45
 eng:
   id: 45
-  definition: A 2002 OGC Interoperability Initiative focused on critical infrastructure
-    protection
+  definition: Wikipedia provides excellent coverage of CGI.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: CIPI
-    normative_status: 
+    designation: CGI
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,20 @@
 ---
-term: MISMO
+term: Mapfile
 termid: 269
 eng:
   id: 269
-  definition: Mortgage Information Standards Maintenance Organization
+  definition: Mapfile is the declarative language that MapServer uses to define data
+    connections, map styling, templating, and server directives. Its format is xml-like
+    and hierarchical, with closing END tags, but the format is not xml.
   language_code: eng
   notes: []
   examples: []
+  comments:
+  - TMG_NP
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: MISMO
-    normative_status: 
+    designation: Mapfile
+    normative_status: preferred
+    abbrev: true

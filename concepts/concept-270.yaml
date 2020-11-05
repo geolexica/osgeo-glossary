@@ -1,16 +1,19 @@
 ---
-term: MLS DWG
+term: MapScript
 termid: 270
 eng:
   id: 270
-  definition: Mobile Location Services Domian Working Group - merger of Mass Market
-    and Location Services DWGs
+  definition: MapScript is an alternative the the CGI application of mapserv that
+    allows you to program the MapServer object API in many languages.
   language_code: eng
   notes: []
   examples: []
+  comments:
+  - TMG_NP
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: MLS DWG
-    normative_status: 
+    designation: MapScript
+    normative_status: preferred
+    abbrev: true

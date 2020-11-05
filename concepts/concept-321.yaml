@@ -1,15 +1,17 @@
 ---
-term: OpenLS ­
+term: OGR
 termid: 321
 eng:
   id: 321
-  definition: OGC Open Location Services Interface Standard
+  definition: OGR is the vector data access portion of the GDAL library. It provides
+    access to a multitude of data formats.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OpenLS ­
-    normative_status: 
+    designation: OGR
+    normative_status: preferred
+    abbrev: true

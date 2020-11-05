@@ -1,9 +1,9 @@
 ---
-term: OMG
+term: OGC
 termid: 316
 eng:
   id: 316
-  definition: Object Management Group
+  definition: Open Geospatial Consortium
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OMG
-    normative_status: 
+    designation: OGC
+    normative_status: preferred
+    abbrev: true

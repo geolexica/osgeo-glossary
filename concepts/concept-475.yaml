@@ -1,9 +1,10 @@
 ---
-term: WS
+term: WKB
 termid: 475
 eng:
   id: 475
-  definition: Web Services
+  definition: Well-Known Binary. This refers to the binary representation of geometries
+    described in the Simple Features for SQL specification (SFSQL).
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: WS
-    normative_status: 
+    designation: WKB
+    normative_status: preferred
+    abbrev: true

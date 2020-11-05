@@ -1,15 +1,16 @@
 ---
-term: DSM
+term: DS DWG
 termid: 97
 eng:
   id: 97
-  definition: Digital Surface Models
+  definition: Decision Support Domain Working Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DSM
-    normative_status: 
+    designation: DS DWG
+    normative_status: preferred
+    abbrev: true

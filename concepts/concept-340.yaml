@@ -1,16 +1,16 @@
 ---
-term: PubSub SWG
+term: OSM
 termid: 340
 eng:
   id: 340
-  definition: OGC Standards Working Group defining a standard that clearly defines
-    a standard way to enable publish/subscribe functionality for OGC Web Services
+  definition: OpenStreetMap
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: PubSub SWG
-    normative_status: 
+    designation: OSM
+    normative_status: preferred
+    abbrev: true

@@ -15,4 +15,5 @@ eng:
   terms:
   - type: expression
     designation: ADL GCS
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

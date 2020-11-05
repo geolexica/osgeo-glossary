@@ -1,15 +1,16 @@
 ---
-term: ASPRS
+term: AS
 termid: 18
 eng:
   id: 18
-  definition: American Society for Photogrammetry and Remote Sensing
+  definition: Abstract Specification
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ASPRS
-    normative_status: 
+    designation: AS
+    normative_status: preferred
+    abbrev: true

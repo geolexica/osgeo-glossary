@@ -1,9 +1,9 @@
 ---
-term: TDWG
+term: SRS
 termid: 417
 eng:
   id: 417
-  definition: Taxonomic Data Working Group
+  definition: Spatial reference system. See SRID and CRS.
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: TDWG
-    normative_status: 
+    designation: SRS
+    normative_status: preferred
+    abbrev: true

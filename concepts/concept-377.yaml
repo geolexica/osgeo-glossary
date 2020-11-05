@@ -1,15 +1,16 @@
 ---
-term: SIF
+term: SDI
 termid: 377
 eng:
   id: 377
-  definition: Standard Interchange Format
+  definition: Spatial Data Infrastructure
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SIF
-    normative_status: 
+    designation: SDI
+    normative_status: preferred
+    abbrev: true

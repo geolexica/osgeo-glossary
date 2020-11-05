@@ -1,15 +1,16 @@
 ---
-term: STISA 2024
+term: SOA
 termid: 404
 eng:
   id: 404
-  definition: Science Technology Innovation Strategy for Africa
+  definition: Services Oriented Architecture
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: STISA 2024
-    normative_status: 
+    designation: SOA
+    normative_status: preferred
+    abbrev: true

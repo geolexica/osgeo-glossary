@@ -1,15 +1,16 @@
 ---
-term: ebRIM
+term: EASIG
 termid: 106
 eng:
   id: 106
-  definition: Enterprise Business Registry Information Model..
+  definition: Enterprise Architecture Special Interest Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ebRIM
-    normative_status: 
+    designation: EASIG
+    normative_status: preferred
+    abbrev: true

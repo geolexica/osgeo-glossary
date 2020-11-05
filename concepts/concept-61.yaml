@@ -1,17 +1,17 @@
 ---
-term: CRS
+term: Creative Commons
 termid: 61
 eng:
   id: 61
-  definition: Coordinate Reference System. Also CRS Domain Working Group.
+  definition: GeoNetwork documentation is released under the Creative Commons Attribution-ShareAlike
+    3.0 Unported License. Find more information at http://creativecommons.org/licenses/by-sa/3.0/
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - TMG_P
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: CRS
-    normative_status: 
+    designation: Creative Commons
+    normative_status: preferred
+    abbrev: true
