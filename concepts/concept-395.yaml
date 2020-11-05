@@ -1,9 +1,10 @@
 ---
-term: SP
+term: SLD
 termid: 395
 eng:
   id: 395
-  definition: Standards Program
+  definition: The Styled Layer Descriptor (SLD) specification from the Open Geospatial
+    Consortium defines an format for describing cartographic rendering of vector features.
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SP
-    normative_status: 
+    designation: SLD
+    normative_status: preferred
+    abbrev: true

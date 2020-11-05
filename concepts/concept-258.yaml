@@ -1,9 +1,9 @@
 ---
-term: LOS
+term: LBS
 termid: 258
 eng:
   id: 258
-  definition: Location Organizer Folder
+  definition: Location Based Services
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: LOS
-    normative_status: 
+    designation: LBS
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,17 @@
 ---
-term: OSF
+term: OM
 termid: 325
 eng:
   id: 325
-  definition: Ordering Services Framework for Earth Observation Products
+  definition: Observations and Measurements is an OGC standard which defines an abstract
+    model for sensor based data.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OSF
-    normative_status: 
+    designation: OM
+    normative_status: preferred
+    abbrev: true

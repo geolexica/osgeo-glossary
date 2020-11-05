@@ -1,15 +1,19 @@
 ---
-term: WMTS
+term: WFS
 termid: 468
 eng:
   id: 468
-  definition: Web Map Tiles Services
+  definition: The Web Feature Service (WFS) specification from the Open Geospatial
+    Consortium defines an interface for reading and writing geographic features across
+    the web using platform-independent calls. One can think of geographical features
+    as the “source code” behind a map.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: WMTS
-    normative_status: 
+    designation: WFS
+    normative_status: preferred
+    abbrev: true

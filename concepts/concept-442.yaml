@@ -1,9 +1,9 @@
 ---
-term: WaterML 2.0
+term: UML
 termid: 442
 eng:
   id: 442
-  definition: OGC Water Markup Language Encoding Standard
+  definition: Unified Modeling Language
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: WaterML 2.0
-    normative_status: 
+    designation: UML
+    normative_status: preferred
+    abbrev: true

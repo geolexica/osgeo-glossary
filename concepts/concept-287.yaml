@@ -1,15 +1,16 @@
 ---
-term: NLCD
+term: NCOIC
 termid: 287
 eng:
   id: 287
-  definition: National Land Cover Dataset
+  definition: Net Centric Operations Infrastructure Committee
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NLCD
-    normative_status: 
+    designation: NCOIC
+    normative_status: preferred
+    abbrev: true

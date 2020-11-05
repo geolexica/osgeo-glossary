@@ -1,16 +1,16 @@
 ---
-term: OGR
+term: OER
 termid: 311
 eng:
   id: 311
-  definition: OGR is the vector data access portion of the GDAL library. It provides
-    access to a multitude of data formats.
+  definition: Open Educational Resources
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OGR
-    normative_status: 
+    designation: OER
+    normative_status: preferred
+    abbrev: true

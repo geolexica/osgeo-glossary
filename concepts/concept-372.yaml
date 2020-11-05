@@ -1,9 +1,9 @@
 ---
-term: SF OLE/COM
+term: SANY
 termid: 372
 eng:
   id: 372
-  definition: Simple Features OLE/COM
+  definition: Sensors Anywhere Consortium
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SF OLE/COM
-    normative_status: 
+    designation: SANY
+    normative_status: preferred
+    abbrev: true

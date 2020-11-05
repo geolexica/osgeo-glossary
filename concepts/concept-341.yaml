@@ -1,15 +1,16 @@
 ---
-term: PUCK
+term: OTB
 termid: 341
 eng:
   id: 341
-  definition: OGC standard defining a protocol for RS232 and Ethernet connected instruments
+  definition: Orfeo Tool Box
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: PUCK
-    normative_status: 
+    designation: OTB
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,17 @@
 ---
-term: OLE/COM
+term: OGC
 termid: 312
 eng:
   id: 312
-  definition: Object Linking and Embedding/Common Object Model (Microsoft)
+  definition: The Open Geospatial Consortium is a standards organization body in the
+    GIS domain. MapServer supports numerous OGC standards.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OLE/COM
-    normative_status: 
+    designation: OGC
+    normative_status: preferred
+    abbrev: true

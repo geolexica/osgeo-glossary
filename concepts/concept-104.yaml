@@ -1,9 +1,9 @@
 ---
-term: EA
+term: DXF
 termid: 104
 eng:
   id: 104
-  definition: Enterprise Architecture
+  definition: Drawing eXchange Format (AutoCAD exchange format)
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: EA
-    normative_status: 
+    designation: DXF
+    normative_status: preferred
+    abbrev: true

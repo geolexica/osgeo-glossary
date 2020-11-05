@@ -1,18 +1,16 @@
 ---
-term: OSGeo
+term: OMA
 termid: 326
 eng:
   id: 326
-  definition: The Open Source Geospatial Foundation (OSGeo), is a non-profit non-governmental
-    organization whose mission is to support and promote the collaborative development
-    of open geospatial technologies and data. http://www.osgeo.org
+  definition: Open Mobile Alliance
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: Combo of https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
-      and
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OSGeo
-    normative_status: 
+    designation: OMA
+    normative_status: preferred
+    abbrev: true

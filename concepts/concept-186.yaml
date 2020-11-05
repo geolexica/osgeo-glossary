@@ -12,4 +12,5 @@ eng:
   terms:
   - type: expression
     designation: GPC/GIS
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

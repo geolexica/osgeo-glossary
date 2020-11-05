@@ -1,9 +1,9 @@
 ---
-term: SF
+term: SAA Pilot
 termid: 370
 eng:
   id: 370
-  definition: Simple Features
+  definition: Special Activity Airspace Pilot
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SF
-    normative_status: 
+    designation: SAA Pilot
+    normative_status: preferred
+    abbrev: true

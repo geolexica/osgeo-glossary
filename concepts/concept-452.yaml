@@ -1,10 +1,10 @@
 ---
-term: WFS
+term: Vector
 termid: 452
 eng:
   id: 452
-  definition: WFS is an OGC standard that describes how to systematically produce
-    structured Vector cartographic data from a service and return them to a client.
+  definition: Geographic features described by geometries (point, line, polygon) on
+    a (typically) cartesian plane.
   language_code: eng
   notes: []
   examples: []
@@ -12,5 +12,6 @@ eng:
     link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: WFS
-    normative_status: 
+    designation: Vector
+    normative_status: preferred
+    abbrev: true

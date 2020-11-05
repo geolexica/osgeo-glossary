@@ -1,16 +1,17 @@
 ---
-term: EPSG
+term: ESA
 termid: 130
 eng:
   id: 130
-  definition: European Petroleum Survey GroupEuroSDR European Spatial Data Research
-    Network
+  definition: European Space Agency is an intergovernmental organisation dedicated
+    to the exploration of space. http://www.esa.int
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: EPSG
-    normative_status: 
+    designation: ESA
+    normative_status: preferred
+    abbrev: true

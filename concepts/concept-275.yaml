@@ -1,15 +1,23 @@
 ---
-term: NAD
+term: metadata
 termid: 275
 eng:
   id: 275
-  definition: North American Datum
+  definition: information about a resource
   language_code: eng
   notes: []
   examples: []
+  comments:
+  - Information about geospatial data that may not be contained in, or readily apparent
+    from, the geospatial data itself.
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    ref: ISO 19115-1:2014
+    clause: '4.10'
+    comment: modified — An admitted term from OSGeo has been added.
   terms:
   - type: expression
-    designation: NAD
-    normative_status: 
+    designation: metadata
+    normative_status: preferred
+  - type: expression
+    designation: geospatial metadata
+    normative_status: preferred

@@ -1,18 +1,16 @@
 ---
-term: Shibboleth
+term: SDG
 termid: 376
 eng:
   id: 376
-  definition: The Shibboleth System is a standards based, open source software package
-    for web single sign-on across or within organisational boundaries. It allows sites
-    to make informed authorisation decisions for individual access of protected online
-    resources in a privacy-preserving manner.
+  definition: Sustainable Development Goal
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Shibboleth
-    normative_status: 
+    designation: SDG
+    normative_status: preferred
+    abbrev: true

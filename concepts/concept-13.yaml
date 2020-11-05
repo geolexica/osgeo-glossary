@@ -1,16 +1,16 @@
 ---
-term: API
+term: ANSI
 termid: 13
 eng:
   id: 13
-  definition: Application Programming Interface. A set of routines, procedures, protocols,
-    and tools for building software applications.
+  definition: American National Standards Institute
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: API
-    normative_status: 
+    designation: ANSI
+    normative_status: preferred
+    abbrev: true

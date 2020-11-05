@@ -1,24 +1,23 @@
 ---
-term: Namespace
+term: metadata element
 termid: 276
 eng:
   id: 276
-  definition: A GeoServer namespace defines the XML namespace of a feature type. An
-    XML namespace uniquely describes elements and attributes in an XML document. See
-    also Feature Type. Can also refer to a GeoServer Workspace.
+  definition: |-
+    discrete unit of metadata
+
+    Note 1 to entry: Metadata elements are unique within a metadata class.
+    Note 2 to entry: Equivalent to an attribute and/or an association in UML terminology.
+    Note 3 to entry: Class attributes and relationships are referred to collectively as metadata elements.
   language_code: eng
   notes: []
   examples: []
-  type: soft
   comments:
-  - |-
-    TMG_P
-    ISO 19136:2007, 4.1.43
-    namespace <XML>
-    collection of names, identified by a URI reference, which are used in XML documents as element names and attribute names
+  - Discrete metadata unit.
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    ref: ISO 19115-1:2014
+    clause: '4.11'
   terms:
   - type: expression
-    designation: Namespace
-    normative_status: 
+    designation: metadata element
+    normative_status: preferred

@@ -1,16 +1,16 @@
 ---
-term: ImageMosaic
+term: IJIS Institute
 termid: 221
 eng:
   id: 221
-  definition: A GeoServer data store supporting the creation of a mosaic based on
-    a number of georeferenced raster data sources. See also Data Store and Mosaic.
+  definition: Integrated Justice Information Systems (IJIS) Institute
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ImageMosaic
-    normative_status: 
+    designation: IJIS Institute
+    normative_status: preferred
+    abbrev: true

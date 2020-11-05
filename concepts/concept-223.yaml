@@ -1,15 +1,25 @@
 ---
-term: INSPIRE
+term: image
 termid: 223
 eng:
   id: 223
-  definition: Infrastructure for Spatial Information in Europe
+  definition: |-
+    gridded coverage whose attribute values are a numerical representation of a physical parameter
+
+    Note 1 to entry: The physical parameters are the result of measurement by a sensor (3.27) or a prediction from a model.
   language_code: eng
   notes: []
   examples: []
+  comments:
+  - Graphical representation of an object which is, in fact, a regular matrix that
+    is a collection of a reflectance values. The reflectance values are usually measured
+    by sensors of a specific range of light wavelengths; examples of these sensors
+    are those aerial­transported such are aircrafts or satellites or those integrated
+    in a scanner used to digitalize printed documents.
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    ref: ISO 19115-2:2019
+    clause: '3.1.18'
   terms:
   - type: expression
-    designation: INSPIRE
-    normative_status: 
+    designation: image
+    normative_status: preferred

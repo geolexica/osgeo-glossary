@@ -1,16 +1,16 @@
 ---
-term: ebXML RegRep SWG
+term: ebXML
 termid: 112
 eng:
   id: 112
-  definition: OGC Standards Working Group developing an an extension to the OASIS
-    ebXML RegRep standard
+  definition: Enterprise Business XML.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: ebXML RegRep SWG
-    normative_status: 
+    designation: ebXML
+    normative_status: preferred
+    abbrev: true

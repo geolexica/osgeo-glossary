@@ -1,15 +1,16 @@
 ---
-term: AM/FM
+term: AGS
 termid: 10
 eng:
   id: 10
-  definition: Automated Mapping/Facilities Management
+  definition: American Geographical Society
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: AM/FM
-    normative_status: 
+    designation: AGS
+    normative_status: preferred
+    abbrev: true

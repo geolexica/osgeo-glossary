@@ -1,15 +1,16 @@
 ---
-term: SensorML
+term: RUFORUM
 termid: 369
 eng:
   id: 369
-  definition: OGC Sensor Model Language Encoding Standard
+  definition: Regional Universities Forum for capacity building in agriculture
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SensorML
-    normative_status: 
+    designation: RUFORUM
+    normative_status: preferred
+    abbrev: true

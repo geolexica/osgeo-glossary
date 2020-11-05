@@ -1,15 +1,16 @@
 ---
-term: OGF
+term: OECD
 termid: 310
 eng:
   id: 310
-  definition: Open Grid Forum
+  definition: Organisation for Economic Co-Operation and Development
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OGF
-    normative_status: 
+    designation: OECD
+    normative_status: preferred
+    abbrev: true

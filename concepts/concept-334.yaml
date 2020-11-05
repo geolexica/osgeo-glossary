@@ -1,9 +1,9 @@
 ---
-term: P&P
+term: OSCRE
 termid: 334
 eng:
   id: 334
-  definition: Policies and Procedures
+  definition: Open Standards Consortium for Real Estate
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: P&P
-    normative_status: 
+    designation: OSCRE
+    normative_status: preferred
+    abbrev: true

@@ -1,17 +1,16 @@
 ---
-term: Raster
+term: OWS
 termid: 342
 eng:
   id: 342
-  definition: A raster is a rectangular grid of pixels. Essentially an image. Rasters
-    are supported in MapServer with a layer type of RASTER, and a variety of formats
-    are supported including GeoTIFF, JPEG, and PNG.
+  definition: OGC Web Services
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Raster
-    normative_status: 
+    designation: OWS
+    normative_status: preferred
+    abbrev: true

@@ -1,9 +1,9 @@
 ---
-term: OASIS
+term: NMA
 termid: 298
 eng:
   id: 298
-  definition: Organization for the Advancement of Structured Information Standards
+  definition: National Mapping Agency
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OASIS
-    normative_status: 
+    designation: NMA
+    normative_status: preferred
+    abbrev: true

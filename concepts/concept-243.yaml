@@ -1,15 +1,16 @@
 ---
-term: JIBX
+term: ITU
 termid: 243
 eng:
   id: 243
-  definition: Binding XML to Java Code.
+  definition: International Telecommunication Union
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: JIBX
-    normative_status: 
+    designation: ITU
+    normative_status: preferred
+    abbrev: true

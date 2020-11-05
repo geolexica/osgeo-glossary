@@ -1,0 +1,16 @@
+---
+term: WSC
+termid: 494
+eng:
+  id: 494
+  definition: OGC Web Service Common Interface Standard
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: WSC
+    normative_status: preferred
+    abbrev: true

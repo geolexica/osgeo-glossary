@@ -1,16 +1,16 @@
 ---
-term: EO2heaven
+term: EOS
 termid: 122
 eng:
   id: 122
-  definition: Earth Observation and Environmental Modelling for the Mitigation of
-    Health Risks
+  definition: Earth Observation Science
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: EO2heaven
-    normative_status: 
+    designation: EOS
+    normative_status: preferred
+    abbrev: true

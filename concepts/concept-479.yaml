@@ -1,16 +1,16 @@
 ---
-term: XML
+term: WMO
 termid: 479
 eng:
   id: 479
-  definition: Extensible Markup Language is a general-purpose specification for creating
-    custom markup languages; designed for data transport and storage.
+  definition: World Meteorological Organization
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: XML
-    normative_status: 
+    designation: WMO
+    normative_status: preferred
+    abbrev: true

@@ -1,16 +1,23 @@
 ---
-term: JSP
+term: JDBC
 termid: 247
 eng:
   id: 247
-  definition: JavaServer Pages. A scripting system for Java server applications that
-    allows the interleaving of markup and Java procedural code.
+  definition: The Java Database Connectivity (JDBC) API is the industry standard for
+    database-independent connectivity between the Java programming language and a
+    wide range of databases – SQL databases and other tabular data sources, such as
+    spreadsheets or flat files. The JDBC API provides a call-level API for SQL-based
+    database access. JDBC technology allows you to use the Java programming language
+    to exploit “Write Once, Run Anywhere” capabilities for applications that require
+    access to enterprise data. With a JDBC technology-enabled driver, you can connect
+    all corporate data even in a heterogeneous environment.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: JSP
-    normative_status: 
+    designation: JDBC
+    normative_status: preferred
+    abbrev: true

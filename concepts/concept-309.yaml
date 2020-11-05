@@ -1,15 +1,18 @@
 ---
-term: OGC-E
+term: OCHA
 termid: 309
 eng:
   id: 309
-  definition: OGC Europe
+  definition: United Nations Office for the Coordination of Humanitarian Affairs is
+    designed to strengthen the UN’s response to complex emergencies and natural disasters.
+    http://ochaonline.un.org/
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: OGC-E
-    normative_status: 
+    designation: OCHA
+    normative_status: preferred
+    abbrev: true

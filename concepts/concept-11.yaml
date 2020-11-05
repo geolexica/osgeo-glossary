@@ -1,15 +1,16 @@
 ---
-term: ANSI
+term: AGU
 termid: 11
 eng:
   id: 11
-  definition: American National Standards Institute
+  definition: American Geophysical Union
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: ANSI
-    normative_status: 
+    designation: AGU
+    normative_status: preferred
+    abbrev: true

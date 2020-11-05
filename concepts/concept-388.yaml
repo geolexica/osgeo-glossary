@@ -1,16 +1,18 @@
 ---
-term: SMTP
+term: Shapefile
 termid: 388
 eng:
   id: 388
-  definition: Simple Mail Transfer Protocol is an Internet standard for electronic
-    mail (e-mail) transmission across Internet Protocol (IP) networks.
+  definition: Shapefiles are simple GIS vector files containing points, lines or areas.
+    The format was designed and published by ESRI and is widely supported in the GIS
+    world. It is effectively the native and highest performance format for MapServer.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: SMTP
-    normative_status: 
+    designation: Shapefile
+    normative_status: preferred
+    abbrev: true

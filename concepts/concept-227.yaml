@@ -1,9 +1,10 @@
 ---
-term: IS
+term: IP
 termid: 227
 eng:
   id: 227
-  definition: Implementation Standard
+  definition: Depending on context, either Intellectual Property or Interoperability
+    Program
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: IS
-    normative_status: 
+    designation: IP
+    normative_status: preferred
+    abbrev: true

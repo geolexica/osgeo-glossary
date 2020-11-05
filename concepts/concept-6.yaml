@@ -12,4 +12,5 @@ eng:
   terms:
   - type: expression
     designation: AECOO
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

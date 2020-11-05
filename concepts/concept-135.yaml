@@ -9,7 +9,6 @@ eng:
   language_code: eng
   notes: []
   examples: []
-  type: soft
   comments:
   - TMG_NP
   authoritative_source:
@@ -17,4 +16,5 @@ eng:
   terms:
   - type: expression
     designation: ESRI Shapefile
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

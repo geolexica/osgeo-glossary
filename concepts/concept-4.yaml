@@ -13,4 +13,5 @@ eng:
   terms:
   - type: expression
     designation: ADL Gazetter Protocol
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

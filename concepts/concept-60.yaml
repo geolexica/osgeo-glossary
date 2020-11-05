@@ -1,17 +1,16 @@
 ---
-term: CRS
+term: CRC
 termid: 60
 eng:
   id: 60
-  definition: Coordinate Reference System
+  definition: Census Research Centre
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - TMG_P
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CRS
-    normative_status: 
+    designation: CRC
+    normative_status: preferred
+    abbrev: true

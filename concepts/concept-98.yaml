@@ -1,15 +1,16 @@
 ---
-term: DTM
+term: DSM
 termid: 98
 eng:
   id: 98
-  definition: Digital Terrain Model
+  definition: Digital Surface Models
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: DTM
-    normative_status: 
+    designation: DSM
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,16 @@
 ---
-term: CODATA
+term: CLGE
 termid: 51
 eng:
   id: 51
-  definition: Committee on Data for Science and Technology
+  definition: The Council of European Geodetic Surveyors
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CODATA
-    normative_status: 
+    designation: CLGE
+    normative_status: preferred
+    abbrev: true

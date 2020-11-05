@@ -1,18 +1,16 @@
 ---
-term: Mercator
+term: LS DWG
 termid: 266
 eng:
   id: 266
-  definition: Wikipedia provides excellent coverage of the Mercator projection.
+  definition: Location Services Domain Working Group
   language_code: eng
   notes: []
   examples: []
-  type: check
-  comments:
-  - TMG_NP
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Mercator
-    normative_status: 
+    designation: LS DWG
+    normative_status: preferred
+    abbrev: true

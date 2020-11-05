@@ -1,17 +1,16 @@
 ---
-term: Z39.50 protocol
+term: WMS
 termid: 484
 eng:
   id: 484
-  definition: Z39.50 is a client-server protocol for searching and retrieving information
-    from remote computer databases. It is covered by ANSI/NISO standard Z39.50, and
-    ISO standard 23950. The standard’s maintenance agency is the Library of Congress.
+  definition: OGC Web Map Service Interface Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Z39.50 protocol
-    normative_status: 
+    designation: WMS
+    normative_status: preferred
+    abbrev: true

@@ -1,22 +1,16 @@
 ---
-term: Element of a metadata
+term: EJB
 termid: 118
 eng:
   id: 118
-  definition: Discrete metadata unit.
+  definition: Enterprise Java Beans.
   language_code: eng
   notes: []
   examples: []
-  type: term
-  comments:
-  - |-
-    TMG_P
-    metadata element
-    ISO 19115-1:2014, 4.11
-    discrete unit of metadata
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Element of a metadata
-    normative_status: 
+    designation: EJB
+    normative_status: preferred
+    abbrev: true

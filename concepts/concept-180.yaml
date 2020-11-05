@@ -1,9 +1,10 @@
 ---
-term: GML in JPEG 2000
+term: GML
 termid: 180
 eng:
   id: 180
-  definition: OGC standard that defines how GML is used in JPEG 2000 images
+  definition: Geography Markup Language (GML) is the Open Geospatial Consortium standard
+    XML format for representing spatial feature information.
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GML in JPEG 2000
-    normative_status: 
+    designation: GML
+    normative_status: preferred
+    abbrev: true

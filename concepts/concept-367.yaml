@@ -1,9 +1,9 @@
 ---
-term: SDTS
+term: RPC
 termid: 367
 eng:
   id: 367
-  definition: Spatial Data Transfer Standard
+  definition: Remote Procedure Call
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SDTS
-    normative_status: 
+    designation: RPC
+    normative_status: preferred
+    abbrev: true

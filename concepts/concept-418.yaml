@@ -1,15 +1,16 @@
 ---
-term: TEAM Engine
+term: STISA 2024
 termid: 418
 eng:
   id: 418
-  definition: Test, Evaluation, And Measurement Engine
+  definition: Science Technology Innovation Strategy for Africa
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: TEAM Engine
-    normative_status: 
+    designation: STISA 2024
+    normative_status: preferred
+    abbrev: true

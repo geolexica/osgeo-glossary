@@ -3,14 +3,14 @@ term: ESA
 termid: 131
 eng:
   id: 131
-  definition: European Space Agency is an intergovernmental organisation dedicated
-    to the exploration of space. http://www.esa.int
+  definition: European Space Agency
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
     designation: ESA
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

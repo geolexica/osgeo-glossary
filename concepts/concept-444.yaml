@@ -1,19 +1,16 @@
 ---
-term: WCS
+term: UN-GGIM
 termid: 444
 eng:
   id: 444
-  definition: The Web Coverage Service (WCS) specification from the Open Geospatial
-    Consortium defines an interface for reading and writing geospatial data as “coverages”
-    across the web. The Web Coverage Service provides an interface allowing requests
-    for geographical coverages across the web using platform-independent calls. The
-    coverages are objects (or images) in a geographical area
+  definition: United Nations Global Geospatial Information Management
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: WCS
-    normative_status: 
+    designation: UN-GGIM
+    normative_status: preferred
+    abbrev: true

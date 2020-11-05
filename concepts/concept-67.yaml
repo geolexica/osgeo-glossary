@@ -1,15 +1,16 @@
 ---
-term: CSW
+term: CSA
 termid: 67
 eng:
   id: 67
-  definition: OGC Catalog Service Interface Standard for the Web
+  definition: Canadian Space Agency
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CSW
-    normative_status: 
+    designation: CSA
+    normative_status: preferred
+    abbrev: true

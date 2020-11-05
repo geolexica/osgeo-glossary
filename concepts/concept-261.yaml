@@ -1,26 +1,16 @@
 ---
-term: Map Scale
+term: LEAPS DWG
 termid: 261
 eng:
   id: 261
-  definition: A treatise of mapping scale can be found on about.com.
+  definition: Law Enforcement and Public Safety Domain Working Group
   language_code: eng
   notes: []
   examples: []
-  type: term
-  comments:
-  - |
-    TMG_NP
-    ISO 19108:2002, 4.1.18
-    interval scale
-    scale with an arbitrary origin which can be used to describe both ordering of values and distances between values
-
-    ISO 19108:2002, 4.1.25
-    ordinal scale
-    scale which provides a basis for measuring only the relative position of an object
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Map Scale
-    normative_status: 
+    designation: LEAPS DWG
+    normative_status: preferred
+    abbrev: true

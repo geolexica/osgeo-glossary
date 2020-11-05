@@ -13,4 +13,5 @@ eng:
   terms:
   - type: expression
     designation: ESRI
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

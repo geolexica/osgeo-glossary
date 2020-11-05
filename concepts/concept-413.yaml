@@ -1,17 +1,17 @@
 ---
-term: SWIG
+term: SQL
 termid: 413
 eng:
   id: 413
-  definition: Simplified Wrapper Interface Generator is the library that MapServer
-    uses for generating the language bindings for all languages other than C/C++ and
-    PHP. MapScript describes these bindings.
+  definition: Structured query language. This is the standard programming language
+    for querying relational databases. See http://en.wikipedia.org/wiki/SQL.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SWIG
-    normative_status: 
+    designation: SQL
+    normative_status: preferred
+    abbrev: true

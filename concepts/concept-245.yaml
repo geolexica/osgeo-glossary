@@ -1,15 +1,20 @@
 ---
-term: JPEG
+term: JAI
 termid: 245
 eng:
   id: 245
-  definition: Joint Photographics Group
+  definition: Java Advanced Imaging (JAI) is a Java platform extension API that provides
+    a set of object-oriented interfaces that support a simple, high-level programming
+    model which allows developers to create their own image manipulation routines
+    without the additional cost or licensing restrictions, associated with commercial
+    image processing software.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: JPEG
-    normative_status: 
+    designation: JAI
+    normative_status: preferred
+    abbrev: true

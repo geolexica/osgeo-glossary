@@ -1,16 +1,16 @@
 ---
-term: ISO SQL/MM
+term: IS
 termid: 231
 eng:
   id: 231
-  definition: 'ISO/IEC 13249-3:2016 Information technology -- Database languages --
-    SQL multimedia and application packages -- Part 3: Spatial'
+  definition: Implementation Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: Sandro
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ISO SQL/MM
-    normative_status: 
+    designation: IS
+    normative_status: preferred
+    abbrev: true

@@ -1,9 +1,9 @@
 ---
-term: MPP
+term: Met Ocean DWG
 termid: 274
 eng:
   id: 274
-  definition: OGC`s Military Pilot Project (MPP) (2001)
+  definition: Meteorology & Oceanography Domain Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: MPP
-    normative_status: 
+    designation: Met Ocean DWG
+    normative_status: preferred
+    abbrev: true

@@ -1,17 +1,16 @@
 ---
-term: PROJ
+term: OSGEO
 termid: 337
 eng:
   id: 337
-  definition: PROJ (formerly referred to as PROJ.4) is a library for projecting map
-    data. It is used by MapServer and GDAL and a multitude of other Open Source GIS
-    libraries.
+  definition: Open Source Geospatial Foundation
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: PROJ
-    normative_status: 
+    designation: OSGEO
+    normative_status: preferred
+    abbrev: true

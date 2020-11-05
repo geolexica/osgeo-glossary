@@ -1,15 +1,16 @@
 ---
-term: UN-GGIM
+term: TDD
 termid: 430
 eng:
   id: 430
-  definition: United Nations Global Geospatial Information Management
+  definition: Test Driven Development.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: UN-GGIM
-    normative_status: 
+    designation: TDD
+    normative_status: preferred
+    abbrev: true

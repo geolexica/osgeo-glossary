@@ -1,16 +1,18 @@
 ---
-term: LDAP
+term: JSTL
 termid: 253
 eng:
   id: 253
-  definition: Lightweight Directory Access Protocol is an application protocol for
-    querying and modifying directory services running over TCP/IP.
+  definition: JavaServer Page Template Library. A tag library for JSP that encapsulates
+    many of the standard functions handled in JSP (database queries, iteration, conditionals)
+    into a terse syntax.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: LDAP
-    normative_status: 
+    designation: JSTL
+    normative_status: preferred
+    abbrev: true

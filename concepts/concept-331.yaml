@@ -1,15 +1,17 @@
 ---
-term: OWSC
+term: OpenLayers
 termid: 331
 eng:
   id: 331
-  definition: OGC Web Services Common
+  definition: OpenLayers is a JavaScript library for developing draggable, “slippy
+    map” web applications.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OWSC
-    normative_status: 
+    designation: OpenLayers
+    normative_status: preferred
+    abbrev: true

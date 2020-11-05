@@ -1,15 +1,16 @@
 ---
-term: MIL
+term: map projection
 termid: 268
 eng:
   id: 268
-  definition: Media and Information Literacy
+  definition: coordinate conversion from an ellipsoidal coordinate system to a plane
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    ref: ISO 19111:2019
+    clause: '3.1.40'
   terms:
   - type: expression
-    designation: MIL
-    normative_status: 
+    designation: map projection
+    normative_status: preferred

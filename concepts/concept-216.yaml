@@ -1,9 +1,10 @@
 ---
-term: iEMSs
+term: IEC
 termid: 216
 eng:
   id: 216
-  definition: International Modeling & Software Society Secretariat
+  definition: ISO IEC JTC 1/SC 24/WG 8 - Computer graphics, image processing and environmental
+    presentation
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: iEMSs
-    normative_status: 
+    designation: IEC
+    normative_status: preferred
+    abbrev: true

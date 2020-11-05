@@ -1,15 +1,16 @@
 ---
-term: UAV
+term: SWF
 termid: 425
 eng:
   id: 425
-  definition: Unmanned Aerial Vehicle
+  definition: Shockwave Flash format that MapServer can generate for output.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: UAV
-    normative_status: 
+    designation: SWF
+    normative_status: preferred
+    abbrev: true

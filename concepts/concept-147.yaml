@@ -13,4 +13,5 @@ eng:
   terms:
   - type: expression
     designation: FOSS4G
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

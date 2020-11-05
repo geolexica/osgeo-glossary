@@ -1,18 +1,16 @@
 ---
-term: CEN
+term: CEGIS
 termid: 39
 eng:
   id: 39
-  definition: "(European Committee of Standardization) Official organization for normalization
-    of the European Union. Replaces country specific techniques by common rules for
-    the whole Union in collaboration with international organizations and its members
-    in Europe (CENELEC for electronics and ETSI for telecommunications)."
+  definition: Center of Excellence for Geospatial Information Science
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CEN
-    normative_status: 
+    designation: CEGIS
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,16 @@
 ---
-term: RFI
+term: PPSR
 termid: 350
 eng:
   id: 350
-  definition: Request for Information
+  definition: Public Participation in Scientific Research
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: RFI
-    normative_status: 
+    designation: PPSR
+    normative_status: preferred
+    abbrev: true

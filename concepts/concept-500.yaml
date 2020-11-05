@@ -1,0 +1,16 @@
+---
+term: XSEDE
+termid: 500
+eng:
+  id: 500
+  definition: Extreme Science and Engineering Discovery Environment
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+  terms:
+  - type: expression
+    designation: XSEDE
+    normative_status: preferred
+    abbrev: true

@@ -1,19 +1,16 @@
 ---
-term: Cartography
+term: CADD or CAD
 termid: 32
 eng:
   id: 32
-  definition: Set of operations and processes that take part in the creation, edition
-    and analysis of maps.
+  definition: Computer-aided design and drafting
   language_code: eng
   notes: []
   examples: []
-  type: term
-  comments:
-  - TMG_NP
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Cartography
-    normative_status: 
+    designation: CADD or CAD
+    normative_status: preferred
+    abbrev: true

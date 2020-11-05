@@ -1,15 +1,16 @@
 ---
-term: USGIF
+term: TIFF
 termid: 433
 eng:
   id: 433
-  definition: United States Geospatial Intelligence Foundation
+  definition: Tagged Image File Format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: USGIF
-    normative_status: 
+    designation: TIFF
+    normative_status: preferred
+    abbrev: true

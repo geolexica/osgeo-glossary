@@ -1,0 +1,16 @@
+---
+term: WS
+termid: 493
+eng:
+  id: 493
+  definition: Web Services
+  language_code: eng
+  notes: []
+  examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms
+  terms:
+  - type: expression
+    designation: WS
+    normative_status: preferred
+    abbrev: true

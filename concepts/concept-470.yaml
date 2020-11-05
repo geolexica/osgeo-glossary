@@ -1,15 +1,17 @@
 ---
-term: WOIS
+term: WFS
 termid: 470
 eng:
   id: 470
-  definition: Water Observation Information System
+  definition: WFS is an OGC standard that describes how to systematically produce
+    structured Vector cartographic data from a service and return them to a client.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: WOIS
-    normative_status: 
+    designation: WFS
+    normative_status: preferred
+    abbrev: true

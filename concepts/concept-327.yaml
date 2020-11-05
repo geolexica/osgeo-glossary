@@ -1,9 +1,9 @@
 ---
-term: OSGEO
+term: OMG
 termid: 327
 eng:
   id: 327
-  definition: Open Source Geospatial Foundation
+  definition: Object Management Group
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OSGEO
-    normative_status: 
+    designation: OMG
+    normative_status: preferred
+    abbrev: true

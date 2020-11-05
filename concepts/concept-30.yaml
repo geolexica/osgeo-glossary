@@ -1,15 +1,16 @@
 ---
-term: CADD or CAD
+term: CAD
 termid: 30
 eng:
   id: 30
-  definition: Computer-aided design and drafting
+  definition: Computer Aided Design
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CADD or CAD
-    normative_status: 
+    designation: CAD
+    normative_status: preferred
+    abbrev: true

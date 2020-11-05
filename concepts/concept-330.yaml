@@ -1,9 +1,10 @@
 ---
-term: OWS
+term: Open GeoSMS
 termid: 330
 eng:
   id: 330
-  definition: OGC Web Services
+  definition: OGC standard providing an extended Short Messaging Service (SMS) encoding
+    and interface for communicating location content
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OWS
-    normative_status: 
+    designation: Open GeoSMS
+    normative_status: preferred
+    abbrev: true

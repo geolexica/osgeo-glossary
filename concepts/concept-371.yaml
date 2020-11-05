@@ -1,15 +1,16 @@
 ---
-term: SF CORBA
+term: SaaS
 termid: 371
 eng:
   id: 371
-  definition: Simple Features CORBA
+  definition: Software as a Service
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SF CORBA
-    normative_status: 
+    designation: SaaS
+    normative_status: preferred
+    abbrev: true

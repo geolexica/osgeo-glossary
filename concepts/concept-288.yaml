@@ -1,15 +1,16 @@
 ---
-term: NMA
+term: NCSA
 termid: 288
 eng:
   id: 288
-  definition: National Mapping Agency
+  definition: National Center for Supercomputing Applications
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: NMA
-    normative_status: 
+    designation: NCSA
+    normative_status: preferred
+    abbrev: true

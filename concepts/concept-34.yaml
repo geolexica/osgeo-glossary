@@ -1,9 +1,9 @@
 ---
-term: Cat SWG
+term: Cat DWG
 termid: 34
 eng:
   id: 34
-  definition: OGC Catalog Revision Standards Working Group
+  definition: OGC Catalog Domain Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Cat SWG
-    normative_status: 
+    designation: Cat DWG
+    normative_status: preferred
+    abbrev: true

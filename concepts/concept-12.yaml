@@ -1,16 +1,16 @@
 ---
-term: ANZLIC
+term: AM/FM
 termid: 12
 eng:
   id: 12
-  definition: "(Australian and New Zealand Land Information Council) Is the organization
-    in charge of the development of the SDI in these two countries."
+  definition: Automated Mapping/Facilities Management
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: ANZLIC
-    normative_status: 
+    designation: AM/FM
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,16 @@
 ---
-term: TIFF
+term: STSM
 termid: 419
 eng:
   id: 419
-  definition: Tagged Image File Format
+  definition: Short Term Scientific Missions
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: TIFF
-    normative_status: 
+    designation: STSM
+    normative_status: preferred
+    abbrev: true

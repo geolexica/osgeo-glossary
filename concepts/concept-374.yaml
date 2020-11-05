@@ -1,16 +1,18 @@
 ---
-term: SFSQL
+term: scale, of a map
 termid: 374
 eng:
   id: 374
-  definition: The Simple Features for SQL (SFSQL) specification from the Open Geospatial
-    Consortium defines the types and functions that make up a standard spatial database.
+  definition: constant relation between a distance in a map and the corresponding
+    real distance
   language_code: eng
   notes: []
   examples: []
+  comments:
+  - Constant relation between a distance in a map and the corresponding real distance.
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    comment: GVSIG_1-0_2011
   terms:
   - type: expression
-    designation: SFSQL
-    normative_status: 
+    designation: scale, of a map
+    normative_status: preferred

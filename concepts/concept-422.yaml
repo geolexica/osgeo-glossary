@@ -1,15 +1,17 @@
 ---
-term: TIN
+term: SVG
 termid: 422
 eng:
   id: 422
-  definition: Triangulated Irregular Network
+  definition: Scalable Vector Graphics is an XML format that MapServer can output.
+    It is frequently used in browser and mobile devices.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/wp-content/uploads/Newsletter-Vol-5_01.pdf
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: TIN
-    normative_status: 
+    designation: SVG
+    normative_status: preferred
+    abbrev: true

@@ -1,9 +1,9 @@
 ---
-term: KML
+term: JPEG
 termid: 250
 eng:
   id: 250
-  definition: OGC KML Encoding Standard (formerly Keyhole Markup Language)
+  definition: Joint Photographics Group
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: KML
-    normative_status: 
+    designation: JPEG
+    normative_status: preferred
+    abbrev: true

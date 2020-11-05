@@ -1,20 +1,16 @@
 ---
-term: IDEE
+term: ICT
 termid: 211
 eng:
   id: 211
-  definition: Acronym for Infraestructura de Datos Espaciales de España, or Spanish
-    Spatial Data Infrastructure. The goal of the IDEE is to integrate through Internet
-    the geographic data, metadata, services and information produced in Spain. So,
-    any potential can identify, select, and access to these resources from the IDEE’s
-    site where any node and other site of other geographic information producers of
-    local, regional or even national wide areas available in Spain.
+  definition: Information and Communications Technology
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: IDEE
-    normative_status: 
+    designation: ICT
+    normative_status: preferred
+    abbrev: true

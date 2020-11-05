@@ -1,15 +1,16 @@
 ---
-term: IPTeam
+term: INSPIRE
 termid: 226
 eng:
   id: 226
-  definition: Interoperability Program Team
+  definition: Infrastructure for Spatial Information in Europe
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: IPTeam
-    normative_status: 
+    designation: INSPIRE
+    normative_status: preferred
+    abbrev: true

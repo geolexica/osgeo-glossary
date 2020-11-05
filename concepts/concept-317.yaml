@@ -1,15 +1,16 @@
 ---
-term: OO
+term: OGC Reference Model
 termid: 317
 eng:
   id: 317
-  definition: Object Oriented.
+  definition: a complete set of the OGC's reference models
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OO
-    normative_status: 
+    designation: OGC Reference Model
+    normative_status: preferred
+    abbrev: true

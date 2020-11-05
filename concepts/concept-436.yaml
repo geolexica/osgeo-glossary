@@ -1,17 +1,16 @@
 ---
-term: UUID
+term: TIN
 termid: 436
 eng:
   id: 436
-  definition: A Universally Unique Identifier (UUID) is an identifier standard used
-    in software construction, standardized by the Open Software Foundation (OSF) as
-    part of the Distributed Computing Environment (DCE).
+  definition: Triangulated Irregular Network
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: UUID
-    normative_status: 
+    designation: TIN
+    normative_status: preferred
+    abbrev: true

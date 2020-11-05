@@ -9,8 +9,9 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
     designation: GIS
-    normative_status: 
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,16 @@
 ---
-term: BMP
+term: BIM
 termid: 25
 eng:
   id: 25
-  definition: Bitmap. A Microsoft Windows image format
+  definition: Building Information Modelling
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: BMP
-    normative_status: 
+    designation: BIM
+    normative_status: preferred
+    abbrev: true

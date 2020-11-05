@@ -1,15 +1,16 @@
 ---
-term: OGC
+term: O&M
 termid: 304
 eng:
   id: 304
-  definition: Open Geospatial Consortium
+  definition: OGC Observations and Measurements Encoding Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC
-    normative_status: 
+    designation: O&M
+    normative_status: preferred
+    abbrev: true

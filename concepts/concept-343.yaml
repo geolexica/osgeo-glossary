@@ -1,18 +1,16 @@
 ---
-term: Raster Layer
+term: OWSC
 termid: 343
 eng:
   id: 343
-  definition: A published GeoServer representation of raster format data stored as
-    a cell-based representation of features on the earth surface. Each cell has a
-    distinct value, and all cells with the same value represent a specific feature.
-    Raster layers are analogous to coverages. See also Layer and Coverage.
+  definition: OGC Web Services Common
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://93.187.166.52:8081/opengeo-docs/glossary.html#glossary
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Raster Layer
-    normative_status: 
+    designation: OWSC
+    normative_status: preferred
+    abbrev: true

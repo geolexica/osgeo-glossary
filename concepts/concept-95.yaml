@@ -1,9 +1,9 @@
 ---
-term: DQ DWG
+term: DP
 termid: 95
 eng:
   id: 95
-  definition: Data Quality Domain Working Group
+  definition: Discussion Paper
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +11,6 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DQ DWG
-    normative_status: 
+    designation: DP
+    normative_status: preferred
+    abbrev: true

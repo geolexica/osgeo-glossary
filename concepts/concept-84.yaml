@@ -1,15 +1,18 @@
 ---
-term: DCP
+term: DC
 termid: 84
 eng:
   id: 84
-  definition: Distributed Computing Platform
+  definition: The Dublin Core metadata element set is a standard for cross-domain
+    information resource description. It provides a simple and standardised set of
+    conventions for describing things online in ways that make them easier to find.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: DCP
-    normative_status: 
+    designation: DC
+    normative_status: preferred
+    abbrev: true

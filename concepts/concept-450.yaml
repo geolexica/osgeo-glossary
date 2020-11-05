@@ -1,16 +1,16 @@
 ---
-term: WFP
+term: USGS
 termid: 450
 eng:
   id: 450
-  definition: World Food Programme of the United Nations is the food aid branch of
-    the United Nations, and the world’s largest humanitarian organization. http://www.wfp.org
+  definition: U.S. Geological Survey
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: WFP
-    normative_status: 
+    designation: USGS
+    normative_status: preferred
+    abbrev: true

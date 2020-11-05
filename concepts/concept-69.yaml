@@ -1,15 +1,18 @@
 ---
-term: CT SWG
+term: CSW
 termid: 69
 eng:
   id: 69
-  definition: OGC Coordinate Transformation Standards Working Group
+  definition: Catalog Service for the Web. The OGC Catalog Service defines common
+    interfaces to discover, browse, and query metadata about data, services, and other
+    potential resources.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: CT SWG
-    normative_status: 
+    designation: CSW
+    normative_status: preferred
+    abbrev: true

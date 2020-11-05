@@ -1,15 +1,16 @@
 ---
-term: AUTH ie
+term: ASPRS
 termid: 20
 eng:
   id: 20
-  definition: Authentication Interoperability Experiment
+  definition: American Society for Photogrammetry and Remote Sensing
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: AUTH ie
-    normative_status: 
+    designation: ASPRS
+    normative_status: preferred
+    abbrev: true

@@ -1,15 +1,17 @@
 ---
-term: WMC
+term: WCS
 termid: 461
 eng:
   id: 461
-  definition: OGC Web Map Context Encoding Standard
+  definition: WCS is an OGC standard that describes how to systematically produce
+    structured Raster cartographic data from a service and return them to a client
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: WMC
-    normative_status: 
+    designation: WCS
+    normative_status: preferred
+    abbrev: true
