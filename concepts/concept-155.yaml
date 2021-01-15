@@ -1,16 +1,18 @@
 ---
-term: GEO
+term: Global Spatial Data Infrastructure
 termid: 155
 eng:
   id: 155
-  definition: Group on Earth Observations
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GEO
+    designation: Global Spatial Data Infrastructure
+    normative_status: preferred
+  - type: expression
+    designation: GSDI
     normative_status: preferred
     abbrev: true

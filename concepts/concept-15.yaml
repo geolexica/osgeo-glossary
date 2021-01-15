@@ -1,10 +1,8 @@
 ---
-term: API
+term: Architecture Domain Working Group
 termid: 15
 eng:
   id: 15
-  definition: Application Programming Interface. A set of routines, procedures, protocols,
-    and tools for building software applications.
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: API
+    designation: Architecture Domain Working Group
+    normative_status: preferred
+  - type: expression
+    designation: Arch DWG
     normative_status: preferred
     abbrev: true

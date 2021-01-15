@@ -1,16 +1,18 @@
 ---
-term: UDDI
+term: World Meteorological Organization
 termid: 441
 eng:
   id: 441
-  definition: Universal Description, Discovery, and Integration
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: UDDI
+    designation: World Meteorological Organization
+    normative_status: preferred
+  - type: expression
+    designation: WMO
     normative_status: preferred
     abbrev: true

@@ -1,18 +1,18 @@
 ---
-term: CRS
+term: CyberInfrastructure
 termid: 63
 eng:
   id: 63
-  definition: Coordinate Reference System. Also CRS Domain Working Group.
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - TMG_P
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CRS
+    designation: CyberInfrastructure
+    normative_status: preferred
+  - type: expression
+    designation: CI
     normative_status: preferred
     abbrev: true

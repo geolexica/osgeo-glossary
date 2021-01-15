@@ -1,16 +1,19 @@
 ---
-term: IE
+term: Joint Photographics Group
 termid: 214
 eng:
   id: 214
-  definition: Interoperability Experiment
   language_code: eng
-  notes: []
+  notes:
+  - Additionally a reference to a common image compression method
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: IE
+    designation: Joint Photographics Group
+    normative_status: preferred
+  - type: expression
+    designation: JPEG
     normative_status: preferred
     abbrev: true

@@ -1,9 +1,8 @@
 ---
-term: OGC
+term: Open Grid Forum
 termid: 316
 eng:
   id: 316
-  definition: Open Geospatial Consortium
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC
+    designation: Open Grid Forum
+    normative_status: preferred
+  - type: expression
+    designation: OGF
     normative_status: preferred
     abbrev: true

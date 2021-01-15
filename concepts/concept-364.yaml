@@ -1,16 +1,21 @@
 ---
-term: RFT
+term: Shockwave Flash format
 termid: 364
 eng:
   id: 364
-  definition: Request for Technology
+  definition: 'digital file format supporing multimedia, vector graphics, and object
+    oriented scripting '
   language_code: eng
-  notes: []
+  notes:
+  - MapServer can generate output in SWF.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: RFT
+    designation: Shockwave Flash format
+    normative_status: preferred
+  - type: expression
+    designation: SWF
     normative_status: preferred
     abbrev: true

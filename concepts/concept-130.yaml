@@ -1,17 +1,21 @@
 ---
-term: ESA
+term: Geometry Engine Open Source
 termid: 130
 eng:
   id: 130
-  definition: European Space Agency is an intergovernmental organisation dedicated
-    to the exploration of space. http://www.esa.int
+  definition: C/C++ port of the Java Topology Suite used for geometric algebra operations
   language_code: eng
-  notes: []
+  notes:
+  - Can be used for applications such as determining if a polygon is contained in
+    another polygon or determining the resultant intersection of two or more polygons.
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: ESA
+    designation: Geometry Engine Open Source
+    normative_status: preferred
+  - type: expression
+    designation: GEOS
     normative_status: preferred
     abbrev: true

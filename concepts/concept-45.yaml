@@ -1,16 +1,19 @@
 ---
-term: CGI
+term: Common Object Model
 termid: 45
 eng:
   id: 45
-  definition: Wikipedia provides excellent coverage of CGI.
+  definition: binary-interface standard for software components introduced by Microsoft
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: CGI
+    designation: Common Object Model
+    normative_status: preferred
+  - type: expression
+    designation: COM
     normative_status: preferred
     abbrev: true

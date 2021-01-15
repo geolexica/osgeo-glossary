@@ -1,17 +1,16 @@
 ---
-term: FOSS4G
+term: geospatial metadata standard
 termid: 147
 eng:
   id: 147
-  definition: Free and Open Source Software for Geospatial. Conference of the Open
-    Source Geospatial Foundation.
+  definition: "guidelines for creating the content and structure of a metadata file\n "
   language_code: eng
   notes: []
-  examples: []
+  examples:
+  - The FGDC metadata standard.
   authoritative_source:
-    link: Combo of a couple of sources
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
   terms:
   - type: expression
-    designation: FOSS4G
+    designation: geospatial metadata standard
     normative_status: preferred
-    abbrev: true

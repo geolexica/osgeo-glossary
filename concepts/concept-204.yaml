@@ -1,16 +1,19 @@
 ---
-term: HOT
+term: ISO Technical Committee 204
 termid: 204
 eng:
   id: 204
-  definition: Humanitarian OpenStreetMap Team
+  definition: ISO technical committee responsible for intelligent transport systems
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: HOT
+    designation: ISO Technical Committee 204
+    normative_status: preferred
+  - type: expression
+    designation: ISO TC/204
     normative_status: preferred
     abbrev: true

@@ -1,9 +1,10 @@
 ---
-term: TIGER
+term: Well-Known Text
 termid: 434
 eng:
   id: 434
-  definition: Topologically Integrated Geographic Encoding and Reference file (US)
+  definition: text representation of geometries described in the Simple Features for
+    SQL (SFSQL) specification
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +12,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: TIGER
+    designation: Well-Known Text
+    normative_status: preferred
+  - type: expression
+    designation: WKT
     normative_status: preferred
     abbrev: true

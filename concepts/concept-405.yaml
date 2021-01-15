@@ -1,16 +1,18 @@
 ---
-term: SOAP
+term: Triangulated Irregular Network
 termid: 405
 eng:
   id: 405
-  definition: Simple Object Access Protocol
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SOAP
+    designation: Triangulated Irregular Network
+    normative_status: preferred
+  - type: expression
+    designation: TIN
     normative_status: preferred
     abbrev: true

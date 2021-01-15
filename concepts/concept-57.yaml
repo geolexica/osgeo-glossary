@@ -1,34 +1,18 @@
 ---
-term: coordinate reference system
+term: Coordinate geometry
 termid: 57
 eng:
   id: 57
-  definition: |
-    coordinate system that is related to an object by a datum
-
-    Note 1 to entry: Geodetic and vertical datums are referred to as reference frames.
-
-    Note 2 to entry: For geodetic and vertical reference frames, the object will be the Earth. In planetary applications, geodetic and vertical reference frames may be applied to other celestial bodies.
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - Coordinate reference system. The combination of a geographic and projected coordinate
-    systems that define how two-dimensional maps relate to locations on the earth’s
-    surface. Geographic coordinate systems use a three-dimensional spherical surface
-    to define those locations, referencing points on that surface through angles (latitude
-    and longitude values) measured from the earth’s center. Projected coordinate systems
-    are based on flat two-dimensional surfaces, with locations referenced by x, y
-    coordinates measured as constant lengths and distances across that surface. See
-    also SRID and SRS.
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.9'
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: coordinate reference system
+    designation: Coordinate geometry
     normative_status: preferred
   - type: expression
-    designation: CRS
+    designation: COGO
     normative_status: preferred
     abbrev: true

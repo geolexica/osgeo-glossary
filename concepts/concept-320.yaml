@@ -1,9 +1,9 @@
 ---
-term: OGF
+term: OpenLS ­
 termid: 320
 eng:
   id: 320
-  definition: Open Grid Forum
+  definition: OGC Open Location Services Interface Standard
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +11,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGF
+    designation: OpenLS ­
     normative_status: preferred
-    abbrev: true

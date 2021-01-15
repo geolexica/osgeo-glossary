@@ -1,11 +1,8 @@
 ---
-term: JSTL
+term: Net Centric Operations Infrastructure Committee
 termid: 253
 eng:
   id: 253
-  definition: JavaServer Page Template Library. A tag library for JSP that encapsulates
-    many of the standard functions handled in JSP (database queries, iteration, conditionals)
-    into a terse syntax.
   language_code: eng
   notes: []
   examples: []
@@ -13,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: JSTL
+    designation: Net Centric Operations Infrastructure Committee
+    normative_status: preferred
+  - type: expression
+    designation: NCOIC
     normative_status: preferred
     abbrev: true

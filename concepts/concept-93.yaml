@@ -1,16 +1,20 @@
 ---
-term: DLG
+term: Earth Observing System and Data Information System
 termid: 93
 eng:
   id: 93
-  definition: Digital Line Graph
+  definition: NASA system that provides end-to-end capabilities for managing NASA
+    Earth science data from various sources
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: DLG
+    designation: Earth Observing System and Data Information System
+    normative_status: preferred
+  - type: expression
+    designation: EOSDIS
     normative_status: preferred
     abbrev: true

@@ -1,17 +1,18 @@
 ---
-term: SLD
+term: Taxonomic Data Working Group
 termid: 396
 eng:
   id: 396
-  definition: SLD is an OGC standard which allows for custom symbolization for portrayal
-    of data.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SLD
+    designation: Taxonomic Data Working Group
+    normative_status: preferred
+  - type: expression
+    designation: TDWG
     normative_status: preferred
     abbrev: true

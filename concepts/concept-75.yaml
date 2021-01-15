@@ -1,9 +1,8 @@
 ---
-term: CUDA
+term: Digital Elevation Model
 termid: 75
 eng:
   id: 75
-  definition: Compute Unified Device Architecture
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CUDA
+    designation: Digital Elevation Model
+    normative_status: preferred
+  - type: expression
+    designation: DEM
     normative_status: preferred
     abbrev: true

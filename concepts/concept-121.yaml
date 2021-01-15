@@ -1,17 +1,20 @@
 ---
-term: EO2heaven
+term: Food and Agriculture Organisation
 termid: 121
 eng:
   id: 121
-  definition: Earth Observation and Environmental Modelling for the Mitigation of
-    Health Risks
+  definition: specialised agency of the United Nations that leads international efforts
+    to defeat hunger
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: EO2heaven
+    designation: Food and Agriculture Organisation
+    normative_status: preferred
+  - type: expression
+    designation: FAO
     normative_status: preferred
     abbrev: true

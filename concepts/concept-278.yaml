@@ -1,16 +1,18 @@
 ---
-term: MIL
+term: OGC Filter Encoding Standard
 termid: 278
 eng:
   id: 278
-  definition: Media and Information Literacy
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: MIL
+    designation: OGC Filter Encoding Standard
+    normative_status: preferred
+  - type: expression
+    designation: FE or FES
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,18 @@
 ---
-term: IPR
+term: Media and Information Literacy
 termid: 229
 eng:
   id: 229
-  definition: Intellectual Property Rights
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: IPR
+    designation: Media and Information Literacy
+    normative_status: preferred
+  - type: expression
+    designation: MIL
     normative_status: preferred
     abbrev: true

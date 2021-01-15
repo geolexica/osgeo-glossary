@@ -1,16 +1,17 @@
 ---
-term: GeoRM DWG
+term: GRASPgfs
 termid: 164
 eng:
   id: 164
-  definition: Geospatial Rights Management Domain Working Group
+  definition: prototype of the Nottingham Geospatial Institute for Geospatial Resource
+    for Agricultural Species and Pests with integrated workflow modelling to support
+    Global Food Security
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GeoRM DWG
+    designation: GRASPgfs
     normative_status: preferred
-    abbrev: true

@@ -1,9 +1,10 @@
 ---
-term: HDF
+term: ISO IEC JTC 1/SC 24/WG 8
 termid: 202
 eng:
   id: 202
-  definition: Hierarchical Data Format
+  definition: ISO working group responsible for computer graphics, image processing
+    and environmental presentation
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +12,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: HDF
+    designation: ISO IEC JTC 1/SC 24/WG 8
     normative_status: preferred
-    abbrev: true

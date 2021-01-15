@@ -1,9 +1,8 @@
 ---
-term: ISO Technical Committee 204
+term: Mortgage Information Standards Maintenance Organization
 termid: 238
 eng:
   id: 238
-  definition: Intelligent transport systems
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ISO Technical Committee 204
+    designation: Mortgage Information Standards Maintenance Organization
+    normative_status: preferred
+  - type: expression
+    designation: MISMO
     normative_status: preferred
     abbrev: true

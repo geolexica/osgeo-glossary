@@ -1,18 +1,18 @@
 ---
-term: GPL
+term: Intellectual Property Rights
 termid: 187
 eng:
   id: 187
-  definition: The GNU General Public License is a free, copyleft license for software
-    and other kinds of works. GeoNetwork opensource is released under the GPL 2 license.
-    http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GPL
+    designation: Intellectual Property Rights
+    normative_status: preferred
+  - type: expression
+    designation: IPR
     normative_status: preferred
     abbrev: true

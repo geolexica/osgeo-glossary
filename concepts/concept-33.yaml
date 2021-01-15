@@ -1,16 +1,16 @@
 ---
-term: CaGIS
+term: cartography
 termid: 33
 eng:
   id: 33
-  definition: Cartograhy and Geographic Information Society
+  definition: set of operations and processes that take part in the creation, edition
+    and analysis of maps.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: GVSIG_1-0_2011
   terms:
   - type: expression
-    designation: CaGIS
+    designation: cartography
     normative_status: preferred
-    abbrev: true

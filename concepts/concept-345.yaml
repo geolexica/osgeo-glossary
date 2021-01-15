@@ -1,9 +1,8 @@
 ---
-term: OWScontextSWG
+term: REpresentational State Transfer programming style
 termid: 345
 eng:
   id: 345
-  definition: OWS Context SWG
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OWScontextSWG
+    designation: REpresentational State Transfer programming style
+    normative_status: preferred
+  - type: expression
+    designation: RESTful
     normative_status: preferred
     abbrev: true

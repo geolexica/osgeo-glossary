@@ -1,17 +1,17 @@
 ---
-term: GML
+term: IndoorGML
 termid: 180
 eng:
   id: 180
-  definition: Geography Markup Language (GML) is the Open Geospatial Consortium standard
-    XML format for representing spatial feature information.
+  definition: OGC standardized common schema framework for interoperability between
+    indoor and outdoor navigation applications
   language_code: eng
-  notes: []
+  notes:
+  - Standardized by the OGC IndoorGML Standards Working Group.
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GML
+    designation: IndoorGML
     normative_status: preferred
-    abbrev: true

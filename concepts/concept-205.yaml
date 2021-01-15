@@ -1,16 +1,19 @@
 ---
-term: HPC
+term: ISO Technical Committee 211
 termid: 205
 eng:
   id: 205
-  definition: high performance computing
+  definition: ISO technical committee responsible for geographic information and geomatics
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: HPC
+    designation: ISO Technical Committee 211
+    normative_status: preferred
+  - type: expression
+    designation: ISO TC/211
     normative_status: preferred
     abbrev: true

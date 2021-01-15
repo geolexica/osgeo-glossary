@@ -1,10 +1,8 @@
 ---
-term: JSP
+term: Natural Resources and Environment
 termid: 252
 eng:
   id: 252
-  definition: JavaServer Pages. A scripting system for Java server applications that
-    allows the interleaving of markup and Java procedural code.
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: JSP
+    designation: Natural Resources and Environment
+    normative_status: preferred
+  - type: expression
+    designation: NRE
     normative_status: preferred
     abbrev: true

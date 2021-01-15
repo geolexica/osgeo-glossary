@@ -1,19 +1,18 @@
 ---
-term: MapScript
+term: OGC City Geography Markup Language (CityGML) Encoding Standard
 termid: 270
 eng:
   id: 270
-  definition: MapScript is an alternative the the CGI application of mapserv that
-    allows you to program the MapServer object API in many languages.
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - TMG_NP
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: MapScript
+    designation: OGC City Geography Markup Language (CityGML) Encoding Standard
+    normative_status: preferred
+  - type: expression
+    designation: CityGML
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,17 @@
 ---
-term: ISO Technical Committee 211 (ISO TC/211)
+term: mosaic
 termid: 239
 eng:
   id: 239
-  definition: Geographic information/Geomatics
+  definition: collection of georeferenced raster data sources merged together to create
+    a seamless raster dataset
   language_code: eng
-  notes: []
+  notes:
+  - 'See also: imagemosaic'
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ISO Technical Committee 211 (ISO TC/211)
+    designation: mosaic
     normative_status: preferred
-    abbrev: true

@@ -1,16 +1,18 @@
 ---
-term: Geosync SWG
+term: Hibernate Query Language.
 termid: 170
 eng:
   id: 170
-  definition: GeoSynchronization 1.0 Standards Working Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Geosync SWG
+    designation: Hibernate Query Language.
+    normative_status: preferred
+  - type: expression
+    designation: HQL
     normative_status: preferred
     abbrev: true

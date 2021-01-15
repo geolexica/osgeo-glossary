@@ -1,16 +1,20 @@
 ---
-term: CI
+term: Common Object Request Broker Architecture
 termid: 46
 eng:
   id: 46
-  definition: CyberInfrastructure
+  definition: standard defined by the Object Management Group designed to facilitate
+    the communication of systems that are deployed on diverse platforms
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: CI
+    designation: Common Object Request Broker Architecture
+    normative_status: preferred
+  - type: expression
+    designation: CORBA
     normative_status: preferred
     abbrev: true

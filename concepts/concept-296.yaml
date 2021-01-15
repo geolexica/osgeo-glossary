@@ -1,9 +1,8 @@
 ---
-term: NIST
+term: OGC Simple FeaturesSQL Encoding Standard
 termid: 296
 eng:
   id: 296
-  definition: National Institute of Standards and Technology
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NIST
+    designation: OGC Simple FeaturesSQL Encoding Standard
+    normative_status: preferred
+  - type: expression
+    designation: SFS
     normative_status: preferred
     abbrev: true

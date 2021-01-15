@@ -1,16 +1,16 @@
 ---
-term: PPSR
+term: Request for Proposals
 termid: 350
 eng:
   id: 350
-  definition: Public Participation in Scientific Research
   language_code: eng
   notes: []
   examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: PPSR
+    designation: Request for Proposals
+    normative_status: preferred
+  - type: expression
+    designation: RFP
     normative_status: preferred
     abbrev: true

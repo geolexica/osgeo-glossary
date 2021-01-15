@@ -1,23 +1,18 @@
 ---
-term: clearinghouse
+term: Compute Unified Device Architecture
 termid: 50
 eng:
   id: 50
-  definition: distributed service for metadata about geospatial data locating. Allows
-    to search in one or several nodes or servers that have been registered in the
-    Clearinghouse of the Internet. It is the term used by FGDC, equivalent to the
-    OGC’s Catalogue Service.
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - A distributed service for metadata about geospatial data locating. Allows to search
-    in one or several nodes or servers that have been registered in the Clearinghouse
-    of the Internet. It is the term used by FGDC, equivalent to the OGC’s Catalogue
-    Service.
   authoritative_source:
-    comment: GVSIG_1-0_2011
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: clearinghouse
+    designation: Compute Unified Device Architecture
     normative_status: preferred
+  - type: expression
+    designation: CUDA
+    normative_status: preferred
+    abbrev: true

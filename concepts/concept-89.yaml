@@ -1,16 +1,15 @@
 ---
-term: DEMTS
+term: DWG file
 termid: 89
 eng:
   id: 89
-  definition: Digital and Electronic Maps Transfer Standard (Russia)
+  definition: binary file format used for containing 2D and 3D design data
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: DEMTS
+    designation: DWG file
     normative_status: preferred
-    abbrev: true

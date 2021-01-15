@@ -1,21 +1,20 @@
 ---
-term: EPSG
+term: geographic information system
 termid: 126
 eng:
   id: 126
-  definition: EPSG codes are numeric codes associated with coordinate system definitions.
-    For instance, EPSG:4326 is geographic WGS84, and EPSG:32611 is “UTM zone 11 North,
-    WGS84”. The WMS protocol uses EPSG codes to describe coordinate systems. EPSG
-    codes are published by the OGP Surveying and Positioning Committee. A list of
-    PROJ definitions corresponding to the EPSG codes can be found in the file /usr/local/share/proj/epsg.
-    PROJECTION describes how to use these in your Mapfile.
+  definition: system that captures, stores, analyzes, manages, and presents data that
+    is linked to location
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: EPSG
+    designation: geographic information system
+    normative_status: preferred
+  - type: expression
+    designation: GIS
     normative_status: preferred
     abbrev: true

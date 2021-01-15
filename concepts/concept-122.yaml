@@ -1,16 +1,21 @@
 ---
-term: EOS
+term: Free and Open Source Software
 termid: 122
 eng:
   id: 122
-  definition: Earth Observation Science
+  definition: software which is liberally licensed to grant the right of users to
+    study, change, and improve its design through the availability of its source code
   language_code: eng
-  notes: []
+  notes:
+  - Also F/OSS, FOSS, or FLOSS (free/libre/open source software). See http://en.wikipedia.org/wiki/FOSS
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: EOS
+    designation: Free and Open Source Software
+    normative_status: preferred
+  - type: expression
+    designation: FOSS
     normative_status: preferred
     abbrev: true

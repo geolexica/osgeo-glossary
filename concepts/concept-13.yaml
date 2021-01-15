@@ -1,16 +1,20 @@
 ---
-term: ANSI
+term: Anti-Grain Geometry
 termid: 13
 eng:
   id: 13
-  definition: American National Standards Institute
+  definition: graphic rendering engine, supporting sub-pixel anti-aliasing, for MapServer
+    5.0 or greater
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: ANSI
+    designation: Anti-Grain Geometry
+    normative_status: preferred
+  - type: expression
+    designation: AGG
     normative_status: preferred
     abbrev: true

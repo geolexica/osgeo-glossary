@@ -1,9 +1,8 @@
 ---
-term: Arch DWG
+term: Architecture, Engineering, Construction, Owner and Operator
 termid: 16
 eng:
   id: 16
-  definition: Architecture Domain Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Arch DWG
+    designation: Architecture, Engineering, Construction, Owner and Operator
+    normative_status: preferred
+  - type: expression
+    designation: AECOO
     normative_status: preferred
     abbrev: true

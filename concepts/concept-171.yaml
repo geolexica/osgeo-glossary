@@ -1,9 +1,8 @@
 ---
-term: GeoXACML
+term: Hierarchical Data Format
 termid: 171
 eng:
   id: 171
-  definition: OGC Geospatial eXtensible Access Control Markup Language Standard
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GeoXACML
+    designation: Hierarchical Data Format
+    normative_status: preferred
+  - type: expression
+    designation: HDF
     normative_status: preferred
     abbrev: true

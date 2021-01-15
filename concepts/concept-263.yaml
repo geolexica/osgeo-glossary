@@ -1,16 +1,19 @@
 ---
-term: LOC
+term: Observations and Measurements
 termid: 263
 eng:
   id: 263
-  definition: Local Organizing Committee
+  definition: OGC standard which defines an abstract model for sensor based data
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: LOC
+    designation: Observations and Measurements
+    normative_status: preferred
+  - type: expression
+    designation: OM
     normative_status: preferred
     abbrev: true

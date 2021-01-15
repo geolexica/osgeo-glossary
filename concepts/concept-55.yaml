@@ -1,16 +1,22 @@
 ---
-term: COM
+term: Content Standard for Digital Geospatial Metadata
 termid: 55
 eng:
   id: 55
-  definition: Common Object Model, a Microsoft paradigm to connect components
+  definition: determines metadata that exists in a geographical position and how to
+    access to them
   language_code: eng
-  notes: []
+  notes:
+  - Does not dictate how to organize the data in a computer nor which software to
+    use.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: COM
+    designation: Content Standard for Digital Geospatial Metadata
+    normative_status: preferred
+  - type: expression
+    designation: CSDGM
     normative_status: preferred
     abbrev: true

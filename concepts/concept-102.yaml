@@ -1,16 +1,18 @@
 ---
-term: DWG
+term: Enterprise Java Beans.
 termid: 102
 eng:
   id: 102
-  definition: Design file format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: DWG
+    designation: Enterprise Java Beans.
+    normative_status: preferred
+  - type: expression
+    designation: EJB
     normative_status: preferred
     abbrev: true

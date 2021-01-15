@@ -1,16 +1,20 @@
 ---
-term: FOSS4G
+term: Geospatial Objects
 termid: 148
 eng:
   id: 148
-  definition: Free and Open Source Software For Geospatial
+  definition: 'OGC OpenGIS Geographic Objects Implementation Specification '
   language_code: eng
-  notes: []
+  notes:
+  - Retired OGC standard.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: FOSS4G
+    designation: Geospatial Objects
+    normative_status: preferred
+  - type: expression
+    designation: GO
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,20 @@
 ---
-term: SIF
+term: Structured Query Language
 termid: 390
 eng:
   id: 390
-  definition: Standard Interchange Format
+  definition: standard programming language for querying relational databases
   language_code: eng
-  notes: []
+  notes:
+  - See http://en.wikipedia.org/wiki/SQL
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SIF
+    designation: Structured Query Language
+    normative_status: preferred
+  - type: expression
+    designation: SQL
     normative_status: preferred
     abbrev: true

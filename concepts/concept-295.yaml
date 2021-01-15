@@ -1,16 +1,21 @@
 ---
-term: NIBS
+term: OGC Simple Features for SQL
 termid: 295
 eng:
   id: 295
-  definition: National Institute for Building Standards
+  definition: specification that defines the types and functions that make up a standard
+    spatial database
   language_code: eng
-  notes: []
+  notes:
+  - An OGC specification
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NIBS
+    designation: OGC Simple Features for SQL
+    normative_status: preferred
+  - type: expression
+    designation: SFSQL
     normative_status: preferred
     abbrev: true

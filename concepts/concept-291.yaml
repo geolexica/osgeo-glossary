@@ -1,10 +1,9 @@
 ---
-term: NetCDF
+term: OGC Reference Model
 termid: 291
 eng:
   id: 291
-  definition: OGC Network Common Data Form (NetCDF) Core Encoding Standard version
-    1.0 comprises earlier NetCDF Classic and 64bit Offset Format standards from UCAR/Unidata.
+  definition: complete set of OGC reference models
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +11,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NetCDF
+    designation: OGC Reference Model
+    normative_status: preferred
+  - type: expression
+    designation: ORM
     normative_status: preferred
     abbrev: true

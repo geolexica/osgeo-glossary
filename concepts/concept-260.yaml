@@ -1,17 +1,18 @@
 ---
-term: LDAP
+term: Object Linking and Embedding/Common Object Model (Microsoft)
 termid: 260
 eng:
   id: 260
-  definition: Lightweight Directory Access Protocol is an application protocol for
-    querying and modifying directory services running over TCP/IP.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: LDAP
+    designation: Object Linking and Embedding/Common Object Model (Microsoft)
+    normative_status: preferred
+  - type: expression
+    designation: OLE/COM
     normative_status: preferred
     abbrev: true

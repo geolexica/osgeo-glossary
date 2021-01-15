@@ -1,9 +1,8 @@
 ---
-term: GMLJP2 1.1 SWG
+term: Information Communities and Semantics
 termid: 182
 eng:
   id: 182
-  definition: GML in JPEG 2000 Standards Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GMLJP2 1.1 SWG
+    designation: Information Communities and Semantics
+    normative_status: preferred
+  - type: expression
+    designation: ICS
     normative_status: preferred
     abbrev: true

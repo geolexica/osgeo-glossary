@@ -1,20 +1,16 @@
 ---
-term: ESRI Shapefile
+term: georectified
 termid: 135
 eng:
   id: 135
-  definition: |-
-    A file format created by ESRI that is used to store simple geospatial features.
-     Example: The United States Census Bureau TIGER Data can be obtained for most counties in the United States as ESRI Shapefiles.
+  definition: corrected for positional displacement with respect to the surface of
+    the Earth
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - TMG_NP
   authoritative_source:
-    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    link: ISO 19115-2:2019, 3.11
   terms:
   - type: expression
-    designation: ESRI Shapefile
+    designation: georectified
     normative_status: preferred
-    abbrev: true

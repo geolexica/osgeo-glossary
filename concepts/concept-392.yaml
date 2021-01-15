@@ -1,16 +1,18 @@
 ---
-term: SIG
+term: Sustainable Development Goal
 termid: 392
 eng:
   id: 392
-  definition: Special Interest Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SIG
+    designation: Sustainable Development Goal
+    normative_status: preferred
+  - type: expression
+    designation: SDG
     normative_status: preferred
     abbrev: true

@@ -1,18 +1,18 @@
 ---
-term: MEF
+term: OGC Coordinate Transformation Encoding Standard
 termid: 272
 eng:
   id: 272
-  definition: Metadata Exchange Format. An export format developed by the GeoNetwork
-    community. More details can be found in this manual in Chapter Metadata Exchange
-    Format.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: MEF
+    designation: OGC Coordinate Transformation Encoding Standard
+    normative_status: preferred
+  - type: expression
+    designation: CT
     normative_status: preferred
     abbrev: true

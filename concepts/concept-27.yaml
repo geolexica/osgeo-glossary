@@ -1,16 +1,18 @@
 ---
-term: BMP
+term: Biotechnology and Biological Sciences Research Council
 termid: 27
 eng:
   id: 27
-  definition: Bitmap. A Microsoft Windows image format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: BMP
+    designation: Biotechnology and Biological Sciences Research Council
+    normative_status: preferred
+  - type: expression
+    designation: BBSRC
     normative_status: preferred
     abbrev: true

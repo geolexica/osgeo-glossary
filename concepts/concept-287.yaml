@@ -1,9 +1,8 @@
 ---
-term: NCOIC
+term: OGC Marketing & Communications Program
 termid: 287
 eng:
   id: 287
-  definition: Net Centric Operations Infrastructure Committee
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NCOIC
+    designation: OGC Marketing & Communications Program
+    normative_status: preferred
+  - type: expression
+    designation: MCP
     normative_status: preferred
     abbrev: true

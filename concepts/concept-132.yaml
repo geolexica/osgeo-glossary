@@ -1,16 +1,20 @@
 ---
-term: ESDI
+term: GeoNetwork Administrator Survival Tool
 termid: 132
 eng:
   id: 132
-  definition: European Spatial Data Information Infrastructure
+  definition: desktop application that allows administrators of a GeoNetwork catalog
+    to perform simple database configuration using a GUI
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: ESDI
+    designation: GeoNetwork Administrator Survival Tool
+    normative_status: preferred
+  - type: expression
+    designation: GAST
     normative_status: preferred
     abbrev: true

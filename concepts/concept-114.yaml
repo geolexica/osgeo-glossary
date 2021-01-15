@@ -1,16 +1,18 @@
 ---
-term: EC08 Pilot
+term: European Spatial Data Research
 termid: 114
 eng:
   id: 114
-  definition: Empire Challenge 08 Pilot Project
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: EC08 Pilot
+    designation: European Spatial Data Research
+    normative_status: preferred
+  - type: expression
+    designation: EuroSDR
     normative_status: preferred
     abbrev: true

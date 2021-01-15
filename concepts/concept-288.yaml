@@ -1,16 +1,20 @@
 ---
-term: NCSA
+term: OGC Military Pilot Project
 termid: 288
 eng:
   id: 288
-  definition: National Center for Supercomputing Applications
+  definition: Military Pilot Project
   language_code: eng
-  notes: []
+  notes:
+  - Open Geospatial Consortium (OGC) Project from 2001
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NCSA
+    designation: OGC Military Pilot Project
+    normative_status: preferred
+  - type: expression
+    designation: MPP
     normative_status: preferred
     abbrev: true

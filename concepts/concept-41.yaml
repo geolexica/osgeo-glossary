@@ -1,19 +1,17 @@
 ---
-term: CEN
+term: CNIDR z39.50 Server
 termid: 41
 eng:
   id: 41
-  definition: "(European Committee of Standardization) Official organization for normalization
-    of the European Union. Replaces country specific techniques by common rules for
-    the whole Union in collaboration with international organizations and its members
-    in Europe (CENELEC for electronics and ETSI for telecommunications)."
+  definition: Clearinghouse for Networked Information Discovery and Retrieval z39.50
+    server
   language_code: eng
-  notes: []
+  notes:
+  - Also known as zDist.
   examples: []
   authoritative_source:
     link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: CEN
+    designation: CNIDR z39.50 Server
     normative_status: preferred
-    abbrev: true

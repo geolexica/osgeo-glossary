@@ -1,19 +1,18 @@
 ---
-term: geopositioning
+term: GPC Global Information Solutions
 termid: 161
 eng:
   id: 161
-  definition: |-
-    determination of the geographic position of an object
-
-    Note 1 to entry: While there are many methods for geopositioning, this document is focused on geopositioning from image coordinates.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19130-1:2018
-    clause: '3.36'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: geopositioning
+    designation: GPC Global Information Solutions
     normative_status: preferred
+  - type: expression
+    designation: GPC/GIS
+    normative_status: preferred
+    abbrev: true

@@ -1,16 +1,16 @@
 ---
-term: ISOC
+term: namespace
 termid: 240
 eng:
   id: 240
-  definition: Internet Society
+  definition: "<XML> collection of names, identified by a URI reference, which are
+    used in XML documents as element names and attribute names (W3C XML Namespaces)\n"
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: ISO 19136:2007, 4.1.43
   terms:
   - type: expression
-    designation: ISOC
+    designation: namespace
     normative_status: preferred
-    abbrev: true

@@ -1,16 +1,23 @@
 ---
-term: BP
+term: Bit Map Picture
 termid: 28
 eng:
   id: 28
-  definition: Best Practice
+  definition: uncompressed image format developed by Microsoft
   language_code: eng
-  notes: []
+  notes:
+  - BMP is simple and pretty normalized; it is a excellent format for sharing data
+    and fast when analyzing and processing images. However, since it is not compressed
+    it does not improve the transmission and disk accessing times. BMP is often used
+    with RGB 24 bits.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: BP
+    designation: Bit Map Picture
+    normative_status: preferred
+  - type: expression
+    designation: BMP
     normative_status: preferred
     abbrev: true

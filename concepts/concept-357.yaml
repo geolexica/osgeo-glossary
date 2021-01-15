@@ -1,16 +1,16 @@
 ---
-term: RDA
+term: scale, of a map
 termid: 357
 eng:
   id: 357
-  definition: Research Data Alliance
+  definition: constant relation between a distance in a map and the corresponding
+    real distance
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: GVSIG_1-0_2011
   terms:
   - type: expression
-    designation: RDA
+    designation: scale, of a map
     normative_status: preferred
-    abbrev: true

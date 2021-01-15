@@ -1,18 +1,18 @@
 ---
-term: CRS
+term: Data Access Object
 termid: 64
 eng:
   id: 64
-  definition: Coordinate Reference System
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - TMG_P
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: CRS
+    designation: Data Access Object
+    normative_status: preferred
+  - type: expression
+    designation: DAO
     normative_status: preferred
     abbrev: true

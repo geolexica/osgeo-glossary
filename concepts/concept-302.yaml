@@ -1,16 +1,24 @@
 ---
-term: NSF
+term: OGC Web Feature Service Interface Standard
 termid: 302
 eng:
   id: 302
-  definition: National Science Foundation
+  definition: OGC standard that describes how to systematically produce structured
+    vector cartographic data from a service and return them to a client
   language_code: eng
-  notes: []
+  notes:
+  - The Web Feature Service (WFS) specification from the Open Geospatial Consortium
+    defines an interface for reading and writing geographic features across the web
+    using platform-independent calls. One can think of geographical features as the
+    “source code” behind a map.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: NSF
+    designation: OGC Web Feature Service Interface Standard
+    normative_status: preferred
+  - type: expression
+    designation: WFS
     normative_status: preferred
     abbrev: true

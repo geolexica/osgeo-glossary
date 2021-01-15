@@ -1,16 +1,18 @@
 ---
-term: CEN
+term: clearinghouse
 termid: 40
 eng:
   id: 40
-  definition: Comite Europeen de Normalisation (European Committee for Standardization)
+  definition: distributed service for metadata about geospatial data locating. Allows
+    to search in one or several nodes or servers that have been registered in the
+    Clearinghouse of the Internet. It is the term used by FGDC, equivalent to the
+    OGC’s Catalogue Service.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: GVSIG_1-0_2011
   terms:
   - type: expression
-    designation: CEN
+    designation: clearinghouse
     normative_status: preferred
-    abbrev: true

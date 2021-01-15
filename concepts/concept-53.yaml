@@ -1,16 +1,19 @@
 ---
-term: CODATA
+term: computer-generated imagery
 termid: 53
 eng:
   id: 53
-  definition: Committee on Data for Science and Technology
+  definition: special visual effects created using computer software
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: CODATA
+    designation: computer-generated imagery
+    normative_status: preferred
+  - type: expression
+    designation: CGI
     normative_status: preferred
     abbrev: true

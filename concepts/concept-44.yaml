@@ -1,16 +1,18 @@
 ---
-term: CGDI
+term: Committee on Earth Observation Satellites
 termid: 44
 eng:
   id: 44
-  definition: Canadian Geospatial Data Infrastructure
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CGDI
+    designation: Committee on Earth Observation Satellites
+    normative_status: preferred
+  - type: expression
+    designation: CEOS
     normative_status: preferred
     abbrev: true

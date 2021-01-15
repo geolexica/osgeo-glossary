@@ -1,17 +1,18 @@
 ---
-term: SVG
+term: Volunteered Geographic Information
 termid: 422
 eng:
   id: 422
-  definition: Scalable Vector Graphics is an XML format that MapServer can output.
-    It is frequently used in browser and mobile devices.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SVG
+    designation: Volunteered Geographic Information
+    normative_status: preferred
+  - type: expression
+    designation: VGI
     normative_status: preferred
     abbrev: true

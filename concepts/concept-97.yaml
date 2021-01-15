@@ -1,16 +1,22 @@
 ---
-term: DS DWG
+term: ellipsoid
 termid: 97
 eng:
   id: 97
-  definition: Decision Support Domain Working Group
+  definition: "<geodesy> geometric reference surface embedded in 3D Euclidean space
+    formed by an ellipse that is rotated about a main axis"
   language_code: eng
-  notes: []
+  notes:
+  - For the Earth the ellipsoid is bi-axial with rotation about the polar axis. This
+    results in an oblate ellipsoid with the midpoint of the foci located at the nominal
+    centre of the Earth.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: ISO 19111:2019, 3.1.22
   terms:
   - type: expression
-    designation: DS DWG
+    designation: ellipsoid
     normative_status: preferred
-    abbrev: true
+  - type: expression
+    designation: reference ellipsoid
+    normative_status: preferred

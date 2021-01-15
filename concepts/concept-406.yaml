@@ -1,17 +1,18 @@
 ---
-term: SOAP
+term: U.S. Geological Survey
 termid: 406
 eng:
   id: 406
-  definition: Simple Object Access Protocol is a protocol specification for exchanging
-    structured information in the implementation of Web Services in computer networks.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SOAP
+    designation: U.S. Geological Survey
+    normative_status: preferred
+  - type: expression
+    designation: USGS
     normative_status: preferred
     abbrev: true

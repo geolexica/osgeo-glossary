@@ -1,16 +1,22 @@
 ---
-term: ICA
+term: Java Database Connectivity
 termid: 208
 eng:
   id: 208
-  definition: International Cartographic Association
+  definition: Java API for database-independent connectivity between the Java programming
+    language and a wide range of databases
   language_code: eng
-  notes: []
+  notes:
+  - JDBC supports SQL databases and other tabular data sources, such as spreadsheets
+    or flat files.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: ICA
+    designation: Java Database Connectivity
+    normative_status: preferred
+  - type: expression
+    designation: JDBC
     normative_status: preferred
     abbrev: true

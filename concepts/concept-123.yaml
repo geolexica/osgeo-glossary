@@ -1,16 +1,19 @@
 ---
-term: EOSDIS
+term: Free and Open Source Software for Geospatial
 termid: 123
 eng:
   id: 123
-  definition: Earth Observing System and Data Information System
+  definition: Conference of the Open Source Geospatial Foundation
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: Combo of a couple of sources
   terms:
   - type: expression
-    designation: EOSDIS
+    designation: Free and Open Source Software for Geospatial
+    normative_status: preferred
+  - type: expression
+    designation: FOSS4G
     normative_status: preferred
     abbrev: true

@@ -1,17 +1,19 @@
 ---
-term: MLS DWG
+term: OGC Geography Markup Language Encoding Standard
 termid: 280
 eng:
   id: 280
-  definition: Mobile Location Services Domian Working Group - merger of Mass Market
-    and Location Services DWGs
+  definition: OGC standard which defines an abstract model for geographic features
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: MLS DWG
+    designation: OGC Geography Markup Language Encoding Standard
+    normative_status: preferred
+  - type: expression
+    designation: GML
     normative_status: preferred
     abbrev: true

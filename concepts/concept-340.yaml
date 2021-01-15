@@ -1,16 +1,19 @@
 ---
-term: OSM
+term: reference frame
 termid: 340
 eng:
   id: 340
-  definition: OpenStreetMap
+  definition: parameter or set of parameters that realize the position of the origin,
+    the scale, and the orientation of a coordinate system
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: ISO 19111:2019, 3.1.15
   terms:
   - type: expression
-    designation: OSM
+    designation: reference frame
     normative_status: preferred
-    abbrev: true
+  - type: expression
+    designation: datum
+    normative_status: preferred

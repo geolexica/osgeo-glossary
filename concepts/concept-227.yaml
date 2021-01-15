@@ -1,17 +1,16 @@
 ---
-term: IP
+term: Mapfile
 termid: 227
 eng:
   id: 227
-  definition: Depending on context, either Intellectual Property or Interoperability
-    Program
+  definition: declarative language having a hierarchial format that is used by MapServer
+    to define data connections, map styling, templating, and server directives
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: IP
+    designation: Mapfile
     normative_status: preferred
-    abbrev: true

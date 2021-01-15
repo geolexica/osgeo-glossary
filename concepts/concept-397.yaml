@@ -1,10 +1,8 @@
 ---
-term: SLD
+term: Technical Committee
 termid: 397
 eng:
   id: 397
-  definition: OGC SLDSE SWG Styled Layer Descriptor and Symbology Encoding 1.2 Standards
-    Working Group
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SLD
+    designation: Technical Committee
+    normative_status: preferred
+  - type: expression
+    designation: TC
     normative_status: preferred
     abbrev: true

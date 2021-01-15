@@ -1,16 +1,20 @@
 ---
-term: SQL
+term: Universally Unique Identifier
 termid: 414
 eng:
   id: 414
-  definition: Structured Query Language
+  definition: 128-bit number used to identify information in computer systems
   language_code: eng
-  notes: []
+  notes:
+  - also referred to as a globally unique identifier
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: SQL
+    designation: Universally Unique Identifier
+    normative_status: preferred
+  - type: expression
+    designation: UUID
     normative_status: preferred
     abbrev: true

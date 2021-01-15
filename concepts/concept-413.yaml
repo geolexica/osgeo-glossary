@@ -1,10 +1,8 @@
 ---
-term: SQL
+term: Universal Description, Discovery, and Integration
 termid: 413
 eng:
   id: 413
-  definition: Structured query language. This is the standard programming language
-    for querying relational databases. See http://en.wikipedia.org/wiki/SQL.
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SQL
+    designation: Universal Description, Discovery, and Integration
+    normative_status: preferred
+  - type: expression
+    designation: UDDI
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,16 @@
 ---
-term: EUROGI
+term: GeoServer
 termid: 138
 eng:
   id: 138
-  definition: European Umbrella Organisation for Geographic Information
+  definition: open source software server written in Java that allows users to share
+    and edit geospatial data
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: EUROGI
+    designation: GeoServer
     normative_status: preferred
-    abbrev: true

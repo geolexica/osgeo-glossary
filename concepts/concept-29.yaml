@@ -1,9 +1,8 @@
 ---
-term: CAADP
+term: Building Information Modelling
 termid: 29
 eng:
   id: 29
-  definition: Comprehensive African Agricultural Development Programme
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CAADP
+    designation: Building Information Modelling
+    normative_status: preferred
+  - type: expression
+    designation: BIM
     normative_status: preferred
     abbrev: true

@@ -1,18 +1,18 @@
 ---
-term: GAST
+term: Global Earth Observation System of Systems Pilot Project
 termid: 150
 eng:
   id: 150
-  definition: GeoNetwork Administrator Survival Tool. A desktop application that allows
-    administrators of a GeoNetwork catalog to perform simple database configuration
-    using a GUI.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GAST
+    designation: Global Earth Observation System of Systems Pilot Project
+    normative_status: preferred
+  - type: expression
+    designation: GEOSS Pilot ­
     normative_status: preferred
     abbrev: true

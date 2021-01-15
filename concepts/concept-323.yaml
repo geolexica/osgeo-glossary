@@ -1,16 +1,18 @@
 ---
-term: OLE/COM
+term: Orfeo Tool Box
 termid: 323
 eng:
   id: 323
-  definition: Object Linking and Embedding/Common Object Model (Microsoft)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OLE/COM
+    designation: Orfeo Tool Box
+    normative_status: preferred
+  - type: expression
+    designation: OTB
     normative_status: preferred
     abbrev: true

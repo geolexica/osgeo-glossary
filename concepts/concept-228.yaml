@@ -1,16 +1,16 @@
 ---
-term: IPGH
+term: MapScript
 termid: 228
 eng:
   id: 228
-  definition: Pan American Institute of Geography and History
+  definition: alternative the the CGI application of mapserv that enables programming
+    of the MapServer object API in many languages
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: IPGH
+    designation: MapScript
     normative_status: preferred
-    abbrev: true

@@ -1,9 +1,8 @@
 ---
-term: OGC
+term: Open Educational Resources
 termid: 313
 eng:
   id: 313
-  definition: Open Geospatial Consortium
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OGC
+    designation: Open Educational Resources
+    normative_status: preferred
+  - type: expression
+    designation: OER
     normative_status: preferred
     abbrev: true

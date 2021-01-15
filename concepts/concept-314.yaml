@@ -1,10 +1,10 @@
 ---
-term: OGC
+term: Open GeoSMS
 termid: 314
 eng:
   id: 314
-  definition: The Open Geospatial Consortium (OGC) is a standards organization responsible
-    for developing specifications for geospatial services.
+  definition: OGC standard defining an extended Short Messaging Service (SMS) encoding
+    and interface for communicating location content
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +12,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC
+    designation: Open GeoSMS
     normative_status: preferred
-    abbrev: true

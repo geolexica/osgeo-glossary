@@ -1,17 +1,18 @@
 ---
-term: OpenLayers
+term: Portable Network Graphic
 termid: 331
 eng:
   id: 331
-  definition: OpenLayers is a JavaScript library for developing draggable, “slippy
-    map” web applications.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OpenLayers
+    designation: Portable Network Graphic
+    normative_status: preferred
+  - type: expression
+    designation: PNG
     normative_status: preferred
     abbrev: true

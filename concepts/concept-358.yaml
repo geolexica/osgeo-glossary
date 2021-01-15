@@ -1,26 +1,18 @@
 ---
-term: reference frame
+term: Science Technology Innovation Strategy for Africa
 termid: 358
 eng:
   id: 358
-  definition: parameter or set of parameters that realize the position of the origin,
-    the scale, and the orientation of a coordinate system
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - Geometric reference system used to numerically express the geodesic position of
-    a point over the terrain. Each datum is defined according of an ellipsoid and
-    a point where the ellipsoid and the Earth are tangent. In Spain for example, the
-    datum uses the Hayford (or International 1924) ellipsoid and the tangency point
-    is Postdam (Germany).
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.15'
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: reference frame
+    designation: Science Technology Innovation Strategy for Africa
     normative_status: preferred
   - type: expression
-    designation: datum
+    designation: STISA 2024
     normative_status: preferred
+    abbrev: true

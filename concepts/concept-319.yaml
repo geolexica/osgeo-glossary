@@ -1,16 +1,15 @@
 ---
-term: OGC-E
+term: OpenLayers
 termid: 319
 eng:
   id: 319
-  definition: OGC Europe
+  definition: JavaScript library for developing draggable, “slippy map” web applications
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OGC-E
+    designation: OpenLayers
     normative_status: preferred
-    abbrev: true

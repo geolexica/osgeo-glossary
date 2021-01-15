@@ -1,16 +1,18 @@
 ---
-term: EJB
+term: Extreme Science and Engineering Discovery Environment
 termid: 118
 eng:
   id: 118
-  definition: Enterprise Java Beans.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: EJB
+    designation: Extreme Science and Engineering Discovery Environment
+    normative_status: preferred
+  - type: expression
+    designation: XSEDE
     normative_status: preferred
     abbrev: true

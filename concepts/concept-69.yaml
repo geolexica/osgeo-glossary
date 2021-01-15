@@ -1,18 +1,22 @@
 ---
-term: CSW
+term: database management system
 termid: 69
 eng:
   id: 69
-  definition: Catalog Service for the Web. The OGC Catalog Service defines common
-    interfaces to discover, browse, and query metadata about data, services, and other
-    potential resources.
+  definition: computer software that manages databases
   language_code: eng
-  notes: []
+  notes:
+  - DBMSes may use any of a variety of database models, such as the network model
+    or relational model. In large systems, a DBMS allows users and other software
+    to store and retrieve data in a structured way.
   examples: []
   authoritative_source:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: CSW
+    designation: database management system
+    normative_status: preferred
+  - type: expression
+    designation: DBMS
     normative_status: preferred
     abbrev: true

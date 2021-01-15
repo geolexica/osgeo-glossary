@@ -1,18 +1,18 @@
 ---
-term: SKOS
+term: Synthetic Aperture Radar
 termid: 394
 eng:
   id: 394
-  definition: The Simple Knowledge Organisation Systems (SKOS) is an area of work
-    developing specifications and standards to support the use of knowledge organisation
-    systems (KOS) such as thesauri, classification schemes. http://www.w3.org/2004/02/skos/
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SKOS
+    designation: Synthetic Aperture Radar
+    normative_status: preferred
+  - type: expression
+    designation: SAR
     normative_status: preferred
     abbrev: true

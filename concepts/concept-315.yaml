@@ -1,15 +1,19 @@
 ---
-term: OGC
+term: Open Geospatial Consortium
 termid: 315
 eng:
   id: 315
-  definition: Open Geospatial Consortium
+  definition: consortium responsible for developing standards and specifications for
+    geospatial services
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
+  - type: expression
+    designation: Open Geospatial Consortium
+    normative_status: preferred
   - type: expression
     designation: OGC
     normative_status: preferred

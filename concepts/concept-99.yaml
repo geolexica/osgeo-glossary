@@ -1,9 +1,8 @@
 ---
-term: DTM
+term: Enterprise Architecture
 termid: 99
 eng:
   id: 99
-  definition: Digital Terrain Model
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DTM
+    designation: Enterprise Architecture
+    normative_status: preferred
+  - type: expression
+    designation: EA
     normative_status: preferred
     abbrev: true

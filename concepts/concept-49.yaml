@@ -1,16 +1,21 @@
 ---
-term: CityGML
+term: compression
 termid: 49
 eng:
   id: 49
-  definition: OGC City Geography Markup Language (CityGML) Encoding Standard
+  definition: technique used to reduce the space used by data
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - 'The technique reduces the space used by data by reducing the amount of bits needed
+    to store and transmit information. Alternatively, there are techniques for lossless
+    or destructive compressions. '
+  examples:
+  - GIF and JPG for the digital images respectively.
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: 'ISO 19145:2013, 4.1.1
+
+'
   terms:
   - type: expression
-    designation: CityGML
+    designation: compression
     normative_status: preferred
-    abbrev: true

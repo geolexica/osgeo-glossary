@@ -1,10 +1,11 @@
 ---
-term: ebRS
+term: European Petroleum Survey Group
 termid: 110
 eng:
   id: 110
-  definition: "(ebXML Registry Services and Protocols) Defines the services that the
-    ebXML Registry and other related protocols offer."
+  definition: scientific organization with ties to the European petroleum industry
+    consisting of specialists working in applied geodesy, surveying, and cartography
+    related to oil exploration, part of the IOGP
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +13,9 @@ eng:
     link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: ebRS
+    designation: European Petroleum Survey Group
+    normative_status: preferred
+  - type: expression
+    designation: EPSG
     normative_status: preferred
     abbrev: true

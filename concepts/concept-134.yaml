@@ -1,17 +1,19 @@
 ---
-term: ESRI
+term: Geoprocessing networks in a European Territorial Interoperability Study
 termid: 134
 eng:
   id: 134
-  definition: Environmental Systems Research Instititue, Inc. This is a registered
-    trademark.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ESRI
+    designation: Geoprocessing networks in a European Territorial Interoperability
+      Study
+    normative_status: preferred
+  - type: expression
+    designation: GETIS
     normative_status: preferred
     abbrev: true

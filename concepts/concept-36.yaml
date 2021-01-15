@@ -1,25 +1,18 @@
 ---
-term: catalogue service
+term: CatMDEdit
 termid: 36
 eng:
   id: 36
-  definition: allows the publication and searching of information (metadata) describing
-    data (cartography), services, applications and any other kind of resources. The
-    catalogue services are necessary to supply search and invocation capabilities
-    over registered resources within an SDI. A Open Geospatial Consortium spec establishes
-    how a Catalogue Service must be standard and interoperable.
+  definition: open-source computer application for creating and editing geographic
+    metadata based upon the ISO 19115:2003 standard
   language_code: eng
-  notes: []
+  notes:
+  - It is a multiplatform (Windows / UNIX) and multilingual (Spanish and English)
+    application.
   examples: []
-  comments:
-  - Allows the publication and searching of information (metadata) describing data
-    (cartography), services, applications and any other kind of resources. The catalogue
-    services are necessary to supply search and invocation capabilities over registered
-    resources within an SDI. A Open Geospatial Consortium spec establishes how a Catalogue
-    Service must be standard and interoperable.
   authoritative_source:
-    comment: GVSIG_1-0_2011
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: catalogue service
+    designation: CatMDEdit
     normative_status: preferred

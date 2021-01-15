@@ -1,9 +1,8 @@
 ---
-term: TC P&P
+term: Web Services
 termid: 429
 eng:
   id: 429
-  definition: Technical Committee Policies and Procedures
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: TC P&P
+    designation: Web Services
+    normative_status: preferred
+  - type: expression
+    designation: WS
     normative_status: preferred
     abbrev: true

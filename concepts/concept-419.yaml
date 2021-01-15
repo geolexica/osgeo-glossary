@@ -1,16 +1,15 @@
 ---
-term: STSM
+term: Vector Layer
 termid: 419
 eng:
   id: 419
-  definition: Short Term Scientific Missions
+  definition: collection of vector feature types stored as mathematical paths
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: STSM
+    designation: Vector Layer
     normative_status: preferred
-    abbrev: true

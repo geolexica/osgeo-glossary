@@ -1,17 +1,18 @@
 ---
-term: CEN TC 287
+term: Collaboratively Contributed Geographic Information
 termid: 42
 eng:
   id: 42
-  definition: "(Technical Committee of Geographic Information) Set of standards for
-    manipulating geographical information (approximately 20)."
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CEN TC 287
+    designation: Collaboratively Contributed Geographic Information
+    normative_status: preferred
+  - type: expression
+    designation: CCGI
     normative_status: preferred
     abbrev: true

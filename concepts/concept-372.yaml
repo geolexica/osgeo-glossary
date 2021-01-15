@@ -1,16 +1,20 @@
 ---
-term: SANY
+term: Simple Object Access Protocol
 termid: 372
 eng:
   id: 372
-  definition: Sensors Anywhere Consortium
+  definition: protocol for exchanging structured information for the implementation
+    of Web Services
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: SANY
+    designation: Simple Object Access Protocol
+    normative_status: preferred
+  - type: expression
+    designation: SOAP
     normative_status: preferred
     abbrev: true

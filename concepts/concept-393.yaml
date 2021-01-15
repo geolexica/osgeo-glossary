@@ -1,16 +1,18 @@
 ---
-term: SIGTE
+term: Symbology Encoding
 termid: 393
 eng:
   id: 393
-  definition: The GIS and Remote Sensing Service of the University of Girona, Spain
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SIGTE
+    designation: Symbology Encoding
+    normative_status: preferred
+  - type: expression
+    designation: SE
     normative_status: preferred
     abbrev: true

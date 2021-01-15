@@ -1,16 +1,18 @@
 ---
-term: OO
+term: Pan American Institute of Geography and History
 termid: 328
 eng:
   id: 328
-  definition: Object Oriented.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OO
+    designation: Pan American Institute of Geography and History
+    normative_status: preferred
+  - type: expression
+    designation: IPGH
     normative_status: preferred
     abbrev: true

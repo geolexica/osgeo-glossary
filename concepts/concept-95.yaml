@@ -1,16 +1,21 @@
 ---
-term: DP
+term: ebXML Registry Information Model
 termid: 95
 eng:
   id: 95
-  definition: Discussion Paper
+  definition: set of services that facilitate communication between companies using
+    OASIS ebXML
   language_code: eng
   notes: []
-  examples: []
+  examples:
+  - 'OGC Catalog ebRIM Application Profile: Earth Observation Products.'
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: DP
+    designation: ebXML Registry Information Model
+    normative_status: preferred
+  - type: expression
+    designation: ebRIM
     normative_status: preferred
     abbrev: true

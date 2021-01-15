@@ -1,19 +1,19 @@
 ---
-term: BMP
+term: Binding XML to Java
 termid: 26
 eng:
   id: 26
-  definition: Acronym for Bit Map Picture; is a basic image format. It is simple and
-    pretty normalized; it is a excellent format for sharing data and fast when analyzing
-    and processing images. However, since it is not compressed it does not improve
-    the transmission and disk accessing times. BMP is often used win RGB 24 bits.
+  definition: open-source Java framework for XML data binding
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: BMP
+    designation: Binding XML to Java
+    normative_status: preferred
+  - type: expression
+    designation: JiBX
     normative_status: preferred
     abbrev: true

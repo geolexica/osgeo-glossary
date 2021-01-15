@@ -1,16 +1,18 @@
 ---
-term: OWS
+term: Regional Centre for Mapping of Resources for Development
 termid: 342
 eng:
   id: 342
-  definition: OGC Web Services
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OWS
+    designation: Regional Centre for Mapping of Resources for Development
+    normative_status: preferred
+  - type: expression
+    designation: RCMRD
     normative_status: preferred
     abbrev: true

@@ -1,17 +1,18 @@
 ---
-term: GeoNetwork
+term: Google Summer of Code
 termid: 160
 eng:
   id: 160
-  definition: GeoNetwork opensource is a standards based, Free and Open Source catalog
-    application to manage spatially referenced resources through the web. http://geonetwork-opensource.org
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GeoNetwork
+    designation: Google Summer of Code
+    normative_status: preferred
+  - type: expression
+    designation: GSoC
     normative_status: preferred
     abbrev: true

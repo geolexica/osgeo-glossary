@@ -1,16 +1,20 @@
 ---
-term: UAV
+term: World Food Programme
 termid: 439
 eng:
   id: 439
-  definition: Unmanned Aerial Vehicle
+  definition: food aid branch of the United Nations
   language_code: eng
-  notes: []
+  notes:
+  - WFP is the world’s largest humanitarian organization
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: UAV
+    designation: World Food Programme
+    normative_status: preferred
+  - type: expression
+    designation: WFP
     normative_status: preferred
     abbrev: true

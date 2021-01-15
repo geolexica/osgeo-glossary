@@ -1,16 +1,18 @@
 ---
-term: JIBX
+term: National Land Cover Dataset
 termid: 248
 eng:
   id: 248
-  definition: Binding XML to Java Code.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: JIBX
+    designation: National Land Cover Dataset
+    normative_status: preferred
+  - type: expression
+    designation: NLCD
     normative_status: preferred
     abbrev: true

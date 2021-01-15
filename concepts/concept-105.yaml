@@ -1,16 +1,19 @@
 ---
-term: EA
+term: EPSG code
 termid: 105
 eng:
   id: 105
-  definition: Enterprise Architecture
+  definition: numeric codes defined by the EPSG associated with coordinate system
+    definitions
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - EPSG codes are published by the Oil and Gas Producers (OGP) Surveying and Positioning
+    Committee. OGC WMS protocol uses EPSG codes to describe coordinate systems.
+  examples:
+  - EPSG:4326 is geographic WGS84, and EPSG:32611 is “UTM zone 11 North, WGS84”.
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: EA
+    designation: EPSG code
     normative_status: preferred
-    abbrev: true

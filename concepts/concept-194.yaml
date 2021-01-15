@@ -1,17 +1,18 @@
 ---
-term: GRIB
+term: International Society for Photogrammetry and Remote Sensing
 termid: 194
 eng:
   id: 194
-  definition: GRIB data format (GRIdded Binary), which is a standard of the World
-    Meteorological Organisation (WMO). (See https://en.wikipedia.org/wiki/GRIB.)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: Jon Blower
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GRIB
+    designation: International Society for Photogrammetry and Remote Sensing
+    normative_status: preferred
+  - type: expression
+    designation: ISPRS
     normative_status: preferred
     abbrev: true

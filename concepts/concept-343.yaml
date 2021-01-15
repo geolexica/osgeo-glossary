@@ -1,16 +1,18 @@
 ---
-term: OWSC
+term: Regional Universities Forum for capacity building in agriculture
 termid: 343
 eng:
   id: 343
-  definition: OGC Web Services Common
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OWSC
+    designation: Regional Universities Forum for capacity building in agriculture
+    normative_status: preferred
+  - type: expression
+    designation: RUFORUM
     normative_status: preferred
     abbrev: true

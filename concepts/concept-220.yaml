@@ -1,16 +1,20 @@
 ---
-term: IETF
+term: Lightweight Directory Access Protocol
 termid: 220
 eng:
   id: 220
-  definition: Internet Engineering Task Force
+  definition: application protocol for querying and modifying directory services running
+    over TCP/IP
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: IETF
+    designation: Lightweight Directory Access Protocol
+    normative_status: preferred
+  - type: expression
+    designation: LDAP
     normative_status: preferred
     abbrev: true

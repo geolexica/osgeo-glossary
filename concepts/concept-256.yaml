@@ -1,18 +1,18 @@
 ---
-term: KML
+term: NEw Partnership for African Development
 termid: 256
 eng:
   id: 256
-  definition: Keyhole Markup Language. This is the spatial XML format used by Google
-    Earth. Google Earth was originally written by a company named “Keyhole”, hence
-    the (now obscure) reference in the name.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: KML
+    designation: NEw Partnership for African Development
+    normative_status: preferred
+  - type: expression
+    designation: NEPAD
     normative_status: preferred
     abbrev: true

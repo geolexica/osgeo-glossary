@@ -1,9 +1,8 @@
 ---
-term: NMA
+term: OGC Transducer Markup Language Encoding Standard (retired)
 termid: 298
 eng:
   id: 298
-  definition: National Mapping Agency
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NMA
+    designation: OGC Transducer Markup Language Encoding Standard (retired)
+    normative_status: preferred
+  - type: expression
+    designation: TML
     normative_status: preferred
     abbrev: true

@@ -1,17 +1,18 @@
 ---
-term: GML
+term: Implementation Standard
 termid: 179
 eng:
   id: 179
-  definition: Geography Markup Language is an OGC standard which defines an abstract
-    model for geographic features.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GML
+    designation: Implementation Standard
+    normative_status: preferred
+  - type: expression
+    designation: IS
     normative_status: preferred
     abbrev: true

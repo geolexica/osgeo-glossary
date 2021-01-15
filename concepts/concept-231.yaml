@@ -1,16 +1,14 @@
 ---
-term: IS
+term: Mercator
 termid: 231
 eng:
   id: 231
-  definition: Implementation Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: IS
+    designation: Mercator
     normative_status: preferred
-    abbrev: true

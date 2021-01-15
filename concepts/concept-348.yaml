@@ -1,9 +1,8 @@
 ---
-term: PNG
+term: Request for Information
 termid: 348
 eng:
   id: 348
-  definition: Portable Network Graphic
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: PNG
+    designation: Request for Information
+    normative_status: preferred
+  - type: expression
+    designation: RFI
     normative_status: preferred
     abbrev: true

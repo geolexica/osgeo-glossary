@@ -1,18 +1,14 @@
 ---
-term: feature type
+term: GeoSPARQL SWG
 termid: 142
 eng:
   id: 142
-  definition: class of features having common characteristics
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - A GeoServer feature type (featureType) represents a data source table.
   authoritative_source:
-    ref: ISO 19156:2011
-    clause: '4.7'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: feature type
+    designation: GeoSPARQL SWG
     normative_status: preferred

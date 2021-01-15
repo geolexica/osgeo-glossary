@@ -1,16 +1,19 @@
 ---
-term: OpenLS ­
+term: PROJ
 termid: 332
 eng:
   id: 332
-  definition: OGC Open Location Services Interface Standard
+  definition: generic coordinate transformation software that transforms geospatial
+    coordinates from one coordinate reference system (CRS) to another
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - The software also performs cartographic projections as well as geodetic transformations
+  - PROJ (formerly referred to as PROJ.4)
+  examples:
+  - Used by MapServer and GDAL and a multitude of other Open Source GIS libraries.
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OpenLS ­
+    designation: PROJ
     normative_status: preferred
-    abbrev: true

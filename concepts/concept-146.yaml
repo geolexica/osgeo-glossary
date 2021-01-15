@@ -1,16 +1,20 @@
 ---
-term: FOSS
+term: geospatial metadata instance
 termid: 146
 eng:
   id: 146
-  definition: Free and Open Source Software
+  definition: single and specific metadata document, typically created in conformance
+    with a metadata standard
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - There is typically a metadata instance for each geospatial dataset in a GIS.
+  examples:
+  - In a GIS that managed road data and car accident data in ESRI Shapefiles, you
+    would have a metadata instance for each shapefile. One metadata instance might
+    be named roads_metadata.txt while the other was named car_accidents_metadata.txt.
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
   terms:
   - type: expression
-    designation: FOSS
+    designation: geospatial metadata instance
     normative_status: preferred
-    abbrev: true

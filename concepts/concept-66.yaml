@@ -1,16 +1,18 @@
 ---
-term: CS
+term: data compression
 termid: 66
 eng:
   id: 66
-  definition: OGC Catalogue Service Interface Standard
+  definition: "technique that reduces either the amount of storage space required
+    to store a given amount of data, or the length of message required to transfer
+    a given amount of information\n\n"
   language_code: eng
-  notes: []
+  notes:
+  - 'Adapted from ANSI T1.523-2001. '
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: ISO/TS 19129:2009, 4.1.8
   terms:
   - type: expression
-    designation: CS
+    designation: data compression
     normative_status: preferred
-    abbrev: true

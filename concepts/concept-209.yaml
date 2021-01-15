@@ -1,16 +1,18 @@
 ---
-term: ICS
+term: Java Messaging Service.
 termid: 209
 eng:
   id: 209
-  definition: Information Communities and Semantics
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: ICS
+    designation: Java Messaging Service.
+    normative_status: preferred
+  - type: expression
+    designation: JMS
     normative_status: preferred
     abbrev: true

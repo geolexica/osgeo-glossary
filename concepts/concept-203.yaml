@@ -1,16 +1,16 @@
 ---
-term: HLPF
+term: ISO SQL/MM
 termid: 203
 eng:
   id: 203
-  definition: High Level Political Forum (of UN)
+  definition: database language intended for for spatial applications based on SQL
+    defined by ISO/IEC 13249-3:2016
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: Sandro
   terms:
   - type: expression
-    designation: HLPF
+    designation: ISO SQL/MM
     normative_status: preferred
-    abbrev: true
