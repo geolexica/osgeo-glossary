@@ -10,7 +10,7 @@ eng:
   - Abbreviated from the words "GRIdded Binary".
   examples: []
   authoritative_source:
-    link: Jon Blower
+    comment: Jon Blower
   terms:
   - type: expression
     designation: GRIB

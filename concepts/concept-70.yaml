@@ -13,7 +13,8 @@ eng:
     a dataset.;
   examples: []
   authoritative_source:
-    link: ISO 19115-1:2014, 4.3
+    ref: ISO 19115-1:2014
+    clause: '4.3'
   terms:
   - type: expression
     designation: dataset

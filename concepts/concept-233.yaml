@@ -8,8 +8,9 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: ISO 19115-1:2014, 4.10, modified — An admitted term from OSGeo has been
-      added.
+    ref: ISO 19115-1:2014
+    clause: '4.10'
+    comment: modified — An admitted term from OSGeo has been added.
   terms:
   - type: expression
     designation: metadata

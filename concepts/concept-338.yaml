@@ -13,7 +13,9 @@ eng:
     a grid.
   examples: []
   authoritative_source:
-    link: ISO 19123:2005, 4.1.30, modified —  Note 2 to entry has been added.
+    ref: ISO 19123:2005
+    clause: '4.1.30'
+    comment: modified —  Note 2 to entry has been added.
   terms:
   - type: expression
     designation: raster

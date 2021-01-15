@@ -9,7 +9,7 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: GVSIG_1-0_2011
+    comment: GVSIG_1-0_2011
   terms:
   - type: expression
     designation: scale, of a map

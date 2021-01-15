@@ -8,7 +8,8 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: ISO 19156:2011, 4.7
+    ref: ISO 19156:2011
+    clause: '4.7'
   terms:
   - type: expression
     designation: feature type

@@ -10,7 +10,7 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: GEONETWOK_OPENSOURCE
+    comment: GEONETWOK_OPENSOURCE
   terms:
   - type: expression
     designation: MAC address

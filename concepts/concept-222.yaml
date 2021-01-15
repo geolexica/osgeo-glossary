@@ -9,7 +9,8 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: ISO 19133:2005, 4.11
+    ref: ISO 19133:2005
+    clause: '4.11'
   terms:
   - type: expression
     designation: Location Based Service
