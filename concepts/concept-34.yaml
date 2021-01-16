@@ -1,16 +1,21 @@
 ---
-term: Cat DWG
+term: Catalog Service for the Web
 termid: 34
 eng:
   id: 34
-  definition: OGC Catalog Domain Working Group
+  definition: service defined by OGC Catalog Service Interface Standard for the Web
+    in order to provide common interfaces to discover, browse, and query metadata
+    about data, services, and other potential resources
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Cat DWG
+    designation: Catalog Service for the Web
+    normative_status: preferred
+  - type: expression
+    designation: CSW
     normative_status: preferred
     abbrev: true

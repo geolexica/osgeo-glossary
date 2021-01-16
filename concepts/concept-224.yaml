@@ -1,10 +1,8 @@
 ---
-term: ImageMosaic
+term: Location Services Domain Working Group
 termid: 224
 eng:
   id: 224
-  definition: A GeoServer data store supporting the creation of a mosaic based on
-    a number of georeferenced raster data sources. See also Data Store and Mosaic.
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ImageMosaic
+    designation: Location Services Domain Working Group
+    normative_status: preferred
+  - type: expression
+    designation: LS DWG
     normative_status: preferred
     abbrev: true

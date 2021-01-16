@@ -1,16 +1,21 @@
 ---
-term: GML
+term: image
 termid: 178
 eng:
   id: 178
-  definition: OGC Geography Markup Language Encoding Standard
+  definition: 'gridded coverage whose attribute values are a numerical representation
+    of a physical parameter
+
+'
   language_code: eng
-  notes: []
+  notes:
+  - " The physical parameters are the result of measurement by a sensor (3.27) or
+    a prediction from a model."
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19115-2:2019
+    clause: '3.1.18'
   terms:
   - type: expression
-    designation: GML
+    designation: image
     normative_status: preferred
-    abbrev: true

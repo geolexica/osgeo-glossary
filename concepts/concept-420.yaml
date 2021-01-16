@@ -1,18 +1,16 @@
 ---
-term: SVG
+term: Vector Product Format
 termid: 420
 eng:
   id: 420
-  definition: Scalable Vector Graphics This is a family of specifications of an XML-based
-    file format for describing two-dimensional vector graphics, both static and dynamic
-    (i.e. interactive or animated). See http://en.wikipedia.org/wiki/Scalable_Vector_Graphics.
   language_code: eng
   notes: []
   examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SVG
+    designation: Vector Product Format
+    normative_status: preferred
+  - type: expression
+    designation: VPF
     normative_status: preferred
     abbrev: true

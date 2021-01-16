@@ -1,16 +1,21 @@
 ---
-term: ILAF
+term: Location Based Service
 termid: 222
 eng:
   id: 222
-  definition: OGC Iberian and Latin-American Forum
+  definition: service whose return or other property is dependent on the location
+    of the client requesting the service or of some other thing, object or person
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19133:2005
+    clause: '4.11'
   terms:
   - type: expression
-    designation: ILAF
+    designation: Location Based Service
+    normative_status: preferred
+  - type: expression
+    designation: LBS
     normative_status: preferred
     abbrev: true

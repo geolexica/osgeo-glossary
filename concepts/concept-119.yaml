@@ -1,25 +1,16 @@
 ---
-term: ellipsoid
+term: feature type
 termid: 119
 eng:
   id: 119
-  definition: |-
-    <geodesy> geometric reference surface embedded in 3D Euclidean space formed by an ellipse that is rotated about a main axis
-
-    Note 1 to entry: For the Earth the ellipsoid is bi-axial with rotation about the polar axis. This results in an oblate ellipsoid with the midpoint of the foci located at the nominal centre of the Earth.
+  definition: class of features having common characteristics
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - Simplified description of the Earth shape. The ellipsoids are defined by equatorial
-    and polar radiuses.
   authoritative_source:
-    ref: 'ISO 19111:2019'
-    clause: '3.1.22'
+    ref: ISO 19156:2011
+    clause: '4.7'
   terms:
   - type: expression
-    designation: ellipsoid
-    normative_status: preferred
-  - type: expression
-    designation: reference ellipsoid
+    designation: feature type
     normative_status: preferred

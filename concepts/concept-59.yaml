@@ -1,27 +1,26 @@
 ---
-term: coverage
+term: coordinate reference system
 termid: 59
 eng:
   id: 59
-  definition: |-
-    feature that acts as a function to return values from its range for any direct position within its spatial,
-    temporal or spatiotemporal domain
+  definition: 'coordinate system that is related to an object by a datum
 
-    EXAMPLE: Examples include a raster image, polygon overlay or digital elevation matrix.
-
-    Note 1 to entry: In other words, a coverage is a feature that has multiple values for each attribute type, where each direct
-    position within the geometric representation of the feature has a single value for each attribute type.
+'
   language_code: eng
-  notes: []
+  notes:
+  - Geodetic and vertical datums are referred to as reference frames.
+  - For geodetic and vertical reference frames, the object will be the Earth. In planetary
+    applications, geodetic and vertical reference frames may be applied to other celestial
+    bodies.
   examples: []
-  comments:
-  - A type of spatial data that represents different values at different locations.
-    Satellite imagery, aerial photography, and digital elevation models (DEMs) are
-    examples of coverage data.
   authoritative_source:
-    ref: ISO 19123:2005
-    clause: '4.1.7'
+    ref: ISO 19111:2019
+    clause: '3.1.9'
   terms:
   - type: expression
-    designation: coverage
+    designation: coordinate reference system
     normative_status: preferred
+  - type: expression
+    designation: CRS
+    normative_status: preferred
+    abbrev: true

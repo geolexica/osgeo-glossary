@@ -1,18 +1,18 @@
 ---
-term: JSON
+term: National Spatial Data Infrastructure
 termid: 251
 eng:
   id: 251
-  definition: JavaScript Object Notation. A text format that is very fast to parse
-    in JavaScript virtual machines. In spatial, the extended specification for GeoJSON
-    is commonly used.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: JSON
+    designation: National Spatial Data Infrastructure
+    normative_status: preferred
+  - type: expression
+    designation: NSDI
     normative_status: preferred
     abbrev: true

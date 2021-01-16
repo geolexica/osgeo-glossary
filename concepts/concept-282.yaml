@@ -1,10 +1,8 @@
 ---
-term: Mosaic
+term: OGC Geospatial eXtensible Access Control Markup Language Standard
 termid: 282
 eng:
   id: 282
-  definition: A collection of georeferenced raster data sources merged together to
-    create a seamless raster dataset. See also ImageMosaic.
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Mosaic
+    designation: OGC Geospatial eXtensible Access Control Markup Language Standard
+    normative_status: preferred
+  - type: expression
+    designation: GeoXACML
     normative_status: preferred
     abbrev: true

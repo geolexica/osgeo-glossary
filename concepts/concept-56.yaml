@@ -3,16 +3,12 @@ term: coordinate
 termid: 56
 eng:
   id: 56
-  definition: |-
-    one of a sequence of numbers designating the position of a point
-
-    Note 1 to entry: In a spatial coordinate reference system, the coordinate numbers are qualified by units.
+  definition: one of a sequence of numbers designating the position of a point
   language_code: eng
-  notes: []
+  notes:
+  - In a spatial coordinate reference system, the coordinate numbers are qualified
+    by units.
   examples: []
-  comments:
-  - Value defining the position in a reference system. The coordinates can be lineal
-    (Cartesian) or polar (spherical), depending on the reference system.
   authoritative_source:
     ref: ISO 19111:2019
     clause: '3.1.5'

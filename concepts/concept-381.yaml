@@ -1,9 +1,8 @@
 ---
-term: SE
+term: Special Activity Airspace Pilot
 termid: 381
 eng:
   id: 381
-  definition: Symbology Encoding
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SE
+    designation: Special Activity Airspace Pilot
+    normative_status: preferred
+  - type: expression
+    designation: SAA Pilot
     normative_status: preferred
     abbrev: true

@@ -1,17 +1,18 @@
 ---
-term: GeoSPARQL SWG
+term: Group on Earth Observations
 termid: 168
 eng:
   id: 168
-  definition: GeoSPARQL Standards Working Group (SPARQL is a recursive acronym for
-    the W3C's "SPARQL Protocol And RDF Query Language")
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GeoSPARQL SWG
+    designation: Group on Earth Observations
+    normative_status: preferred
+  - type: expression
+    designation: GEO
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,21 @@
 ---
-term: ebRIM
+term: European Committee for Standardization (Comite Europeen de Normalisation)
 termid: 108
 eng:
   id: 108
-  definition: Enterprise Business Registry Information Model..
+  definition: official organization for standarization of the European Union
   language_code: eng
-  notes: []
+  notes:
+  - Replaces country-specific techniques by common rules for the whole Union in collaboration
+    with international organizations and its members in Europe
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: ebRIM
+    designation: European Committee for Standardization (Comite Europeen de Normalisation)
+    normative_status: preferred
+  - type: expression
+    designation: CEN
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,20 @@
 ---
-term: UN-GGIM
+term: XML Schema Definition
 termid: 444
 eng:
   id: 444
-  definition: United Nations Global Geospatial Information Management
+  definition: recommendation of the World Wide Web Consortium (W3C) that specifies
+    how to formally describe the elements in an Extensible Markup Language (XML) document
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: UN-GGIM
+    designation: XML Schema Definition
+    normative_status: preferred
+  - type: expression
+    designation: XSD
     normative_status: preferred
     abbrev: true

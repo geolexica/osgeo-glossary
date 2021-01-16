@@ -1,9 +1,9 @@
 ---
-term: DCP
+term: domain working group
 termid: 86
 eng:
   id: 86
-  definition: Distributed Computing Platform
+  definition: OGC working group of horizontal concerns
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +11,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DCP
+    designation: domain working group
+    normative_status: preferred
+  - type: expression
+    designation: DWG
     normative_status: preferred
     abbrev: true

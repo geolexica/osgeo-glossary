@@ -1,16 +1,17 @@
 ---
-term: NGO
+term: OGC Sensor Observation Service Interface Standard
 termid: 293
 eng:
   id: 293
-  definition: Non-Governmental Organization
+  definition: OGC developed API for managing deployed sensors and retrieving sensor
+    and observation data
   language_code: eng
-  notes: []
+  notes:
+  - Specification developed by OGC
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: NGO
+    designation: OGC Sensor Observation Service Interface Standard
     normative_status: preferred
-    abbrev: true

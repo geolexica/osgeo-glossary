@@ -1,16 +1,20 @@
 ---
-term: TDWG
+term: Web-based Distributed Authoring and Versioning
 termid: 431
 eng:
   id: 431
-  definition: Taxonomic Data Working Group
+  definition: set of extensions to the Hypertext Transfer Protocol (HTTP) that allows
+    users to edit and manage files collaboratively on remote World Wide Web servers
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: TDWG
+    designation: Web-based Distributed Authoring and Versioning
+    normative_status: preferred
+  - type: expression
+    designation: WebDAV
     normative_status: preferred
     abbrev: true

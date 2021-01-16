@@ -1,18 +1,20 @@
 ---
-term: SOA
+term: tileindex
 termid: 403
 eng:
   id: 403
-  definition: Service Oriented Architecture provides methods for systems development
-    and integration where systems package functionality as interoperable services.
-    A SOA infrastructure allows different applications to exchange data with one another.
+  definition: vector data source that contains spatial extents (footprints) of raster
+    data coverages
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - A tilelindex is normally in the form of a shpfile
+  examples:
+  - MapServer can use a tileindex to render a directory of raster data by only reading
+    the data that intersects the requested map extent, rather than reading all of
+    the data.
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: SOA
+    designation: tileindex
     normative_status: preferred
-    abbrev: true

@@ -1,9 +1,8 @@
 ---
-term: SensorML
+term: Special Interest Group
 termid: 382
 eng:
   id: 382
-  definition: OGC Sensor Model Language Encoding Standard
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SensorML
+    designation: Special Interest Group
+    normative_status: preferred
+  - type: expression
+    designation: SIG
     normative_status: preferred
     abbrev: true

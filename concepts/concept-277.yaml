@@ -1,22 +1,18 @@
 ---
-term: metadata entity
+term: OGC Europe
 termid: 277
 eng:
   id: 277
-  definition: |-
-    set of metadata elements describing the same aspect of data
-
-    Note 1 to entry: Can contain one or more metadata entities.
-    Note 2 to entry: Equivalent to a class in UML terminology.
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - Set of elements describing the same aspect of the data.
   authoritative_source:
-    ref: ISO 19115-1:2014
-    clause: '4.12'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: metadata entity
+    designation: OGC Europe
     normative_status: preferred
+  - type: expression
+    designation: OGC-E
+    normative_status: preferred
+    abbrev: true

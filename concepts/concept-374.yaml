@@ -1,18 +1,18 @@
 ---
-term: scale, of a map
+term: Small or Medium Sized Enterprise
 termid: 374
 eng:
   id: 374
-  definition: constant relation between a distance in a map and the corresponding
-    real distance
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - Constant relation between a distance in a map and the corresponding real distance.
   authoritative_source:
-    comment: GVSIG_1-0_2011
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: scale, of a map
+    designation: Small or Medium Sized Enterprise
     normative_status: preferred
+  - type: expression
+    designation: SME
+    normative_status: preferred
+    abbrev: true

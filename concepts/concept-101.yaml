@@ -1,16 +1,20 @@
 ---
-term: DWG
+term: Enterprise Business XML
 termid: 101
 eng:
   id: 101
-  definition: Domain Working Group
+  definition: OASIS standard that defines an XML format for sharing business information
+    between companies
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: DWG
+    designation: Enterprise Business XML
+    normative_status: preferred
+  - type: expression
+    designation: ebXML
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,18 @@
 ---
-term: map projection
+term: OGC Catalog Revision Standards Working Group
 termid: 268
 eng:
   id: 268
-  definition: coordinate conversion from an ellipsoidal coordinate system to a plane
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.40'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: map projection
+    designation: OGC Catalog Revision Standards Working Group
     normative_status: preferred
+  - type: expression
+    designation: Cat SWG
+    normative_status: preferred
+    abbrev: true

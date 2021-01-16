@@ -1,16 +1,21 @@
 ---
-term: SPS
+term: United Nations Office for the Coordination of Humanitarian Affairs
 termid: 411
 eng:
   id: 411
-  definition: OGC Sensor Planning Service Interface Standard
+  definition: organization designed to strengthen the UN’s response to complex emergencies
+    and natural disasters
   language_code: eng
   notes: []
-  examples: []
+  examples:
+  - http://ochaonline.un.org/
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: SPS
+    designation: United Nations Office for the Coordination of Humanitarian Affairs
+    normative_status: preferred
+  - type: expression
+    designation: OCHA
     normative_status: preferred
     abbrev: true

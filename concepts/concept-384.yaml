@@ -1,16 +1,14 @@
 ---
-term: SF CORBA
+term: SPIDER
 termid: 384
 eng:
   id: 384
-  definition: Simple Features CORBA
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SF CORBA
+    designation: SPIDER
     normative_status: preferred
-    abbrev: true

@@ -1,18 +1,17 @@
 ---
-term: FAO
+term: GeoServer ImageMosaic
 termid: 140
 eng:
   id: 140
-  definition: Food and Agriculture Organisation of the United Nations is a specialised
-    agency of the United Nations that leads international efforts to defeat hunger.
-    http://www.fao.org
+  definition: GeoServer data store supporting the creation of a mosaic based on a
+    number of georeferenced raster data sources
   language_code: eng
-  notes: []
+  notes:
+  - See also Data Store and Mosaic.
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: FAO
+    designation: GeoServer ImageMosaic
     normative_status: preferred
-    abbrev: true

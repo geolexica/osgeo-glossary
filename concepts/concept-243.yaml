@@ -1,16 +1,18 @@
 ---
-term: ITU
+term: National Elevation Dataset
 termid: 243
 eng:
   id: 243
-  definition: International Telecommunication Union
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: ITU
+    designation: National Elevation Dataset
+    normative_status: preferred
+  - type: expression
+    designation: NED
     normative_status: preferred
     abbrev: true

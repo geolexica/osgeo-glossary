@@ -1,16 +1,20 @@
 ---
-term: EDM DWG
+term: eXtensible Markup Language
 termid: 116
 eng:
   id: 116
-  definition: Emergency & Disaster Management Domain Working Group
+  definition: markup language that defines a set of rules for encoding documents in
+    a format that is both human-readable and machine-readable
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: EDM DWG
+    designation: eXtensible Markup Language
+    normative_status: preferred
+  - type: expression
+    designation: XML
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,19 @@
 ---
-term: CRUD
+term: Data Base File
 termid: 65
 eng:
   id: 65
-  definition: Create Read Update and Delete.
+  definition: file format used by Dbase
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: CRUD
+    designation: Data Base File
+    normative_status: preferred
+  - type: expression
+    designation: DBF
     normative_status: preferred
     abbrev: true

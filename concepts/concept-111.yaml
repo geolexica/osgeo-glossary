@@ -1,17 +1,21 @@
 ---
-term: ebXML
+term: European Space Agency
 termid: 111
 eng:
   id: 111
-  definition: "(electronic Business XML) Is a Standard that defines an XML­document
-    format for sharing information between companies."
+  definition: European intergovernmental organisation dedicated to the exploration
+    of space
   language_code: eng
-  notes: []
+  notes:
+  - See http://www.esa.int
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: ebXML
+    designation: European Space Agency
+    normative_status: preferred
+  - type: expression
+    designation: ESA
     normative_status: preferred
     abbrev: true

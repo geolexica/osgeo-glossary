@@ -1,16 +1,18 @@
 ---
-term: CSA
+term: Data Quality Domain Working Group
 termid: 67
 eng:
   id: 67
-  definition: Canadian Space Agency
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: CSA
+    designation: Data Quality Domain Working Group
+    normative_status: preferred
+  - type: expression
+    designation: DQ DWG
     normative_status: preferred
     abbrev: true

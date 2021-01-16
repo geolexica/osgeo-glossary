@@ -1,16 +1,22 @@
 ---
-term: CRC
+term: coverage
 termid: 60
 eng:
   id: 60
-  definition: Census Research Centre
+  definition: |-
+    feature that acts as a function to return values from its range for any direct position within its spatial,
+    temporal or spatiotemporal domain
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - In other words, a coverage is a feature that has multiple values for each attribute
+    type, where each direct position within the geometric representation of the feature
+    has a single value for each attribute type.
+  examples:
+  - Examples include a raster image, polygon overlay or digital elevation matrix.
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    ref: ISO 19123:2005
+    clause: '4.1.7'
   terms:
   - type: expression
-    designation: CRC
+    designation: coverage
     normative_status: preferred
-    abbrev: true

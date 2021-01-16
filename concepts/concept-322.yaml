@@ -1,16 +1,18 @@
 ---
-term: OHI
+term: Ordering Services Framework for Earth Observation Products
 termid: 322
 eng:
   id: 322
-  definition: International Hydrographic Office
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OHI
+    designation: Ordering Services Framework for Earth Observation Products
+    normative_status: preferred
+  - type: expression
+    designation: OSF
     normative_status: preferred
     abbrev: true

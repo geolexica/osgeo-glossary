@@ -1,20 +1,18 @@
 ---
-term: JAI
+term: National Hydrologic Dataset
 termid: 245
 eng:
   id: 245
-  definition: Java Advanced Imaging (JAI) is a Java platform extension API that provides
-    a set of object-oriented interfaces that support a simple, high-level programming
-    model which allows developers to create their own image manipulation routines
-    without the additional cost or licensing restrictions, associated with commercial
-    image processing software.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: JAI
+    designation: National Hydrologic Dataset
+    normative_status: preferred
+  - type: expression
+    designation: NHD
     normative_status: preferred
     abbrev: true

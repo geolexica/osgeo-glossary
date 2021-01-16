@@ -1,18 +1,18 @@
 ---
-term: GDAL
+term: Global Open Data for Agriculture and Nutrition
 termid: 153
 eng:
   id: 153
-  definition: Geospatial Data Abstraction Library, pronounced “GOO-duhl”, an open
-    source raster access library with support for a large number of formats, used
-    widely in both open source and proprietary software.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GDAL
+    designation: Global Open Data for Agriculture and Nutrition
+    normative_status: preferred
+  - type: expression
+    designation: GODAN
     normative_status: preferred
     abbrev: true

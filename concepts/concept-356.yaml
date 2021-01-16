@@ -1,16 +1,22 @@
 ---
-term: RCMRD
+term: Scalable Vector Graphics
 termid: 356
 eng:
   id: 356
-  definition: Regional Centre for Mapping of Resources for Development
+  definition: XML-based encoding for describing both static and dynamic two-dimensional
+    vector graphics
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - 'Frequently used in browser and mobile devices. See http://en.wikipedia.org/wiki/Scalable_Vector_Graphics '
+  examples:
+  - interactive or animated are examples of dynamic vector graphics
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: RCMRD
+    designation: Scalable Vector Graphics
+    normative_status: preferred
+  - type: expression
+    designation: SVG
     normative_status: preferred
     abbrev: true

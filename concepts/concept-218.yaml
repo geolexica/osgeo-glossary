@@ -1,16 +1,18 @@
 ---
-term: iEMSs
+term: Level Of Detail
 termid: 218
 eng:
   id: 218
-  definition: International Modeling & Software Society Secretariat
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: iEMSs
+    designation: Level Of Detail
+    normative_status: preferred
+  - type: expression
+    designation: LOD
     normative_status: preferred
     abbrev: true

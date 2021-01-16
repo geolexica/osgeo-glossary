@@ -1,9 +1,10 @@
 ---
-term: MISMO
+term: OGC GeoAPI Interface Standard
 termid: 279
 eng:
   id: 279
-  definition: Mortgage Information Standards Maintenance Organization
+  definition: Java API that provides a set programming interfaces for geospatial applications
+    developed by OGC
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +12,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: MISMO
+    designation: OGC GeoAPI Interface Standard
+    normative_status: preferred
+  - type: expression
+    designation: GeoAPI
     normative_status: preferred
     abbrev: true

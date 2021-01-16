@@ -1,10 +1,8 @@
 ---
-term: REST
+term: Sensor Web Enablement Common Data Model
 termid: 359
 eng:
   id: 359
-  definition: REpresentational State Transfer. An open, resource-oriented model for
-    implementing Web services.
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: REST
+    designation: Sensor Web Enablement Common Data Model
+    normative_status: preferred
+  - type: expression
+    designation: SWE Common
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,18 @@
 ---
-term: EPSG
+term: geoid
 termid: 128
 eng:
   id: 128
-  definition: European Petrol Survey Group (used in projection IDs)
+  definition: equipotential surface of the Earth’s gravity field which is perpendicular
+    to the direction of gravity and which best fits mean sea level either locally,
+    regionally or globally
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    ref: ISO 19111:2019
+    clause: '3.1.36'
   terms:
   - type: expression
-    designation: EPSG
+    designation: geoid
     normative_status: preferred
-    abbrev: true

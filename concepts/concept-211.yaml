@@ -1,9 +1,10 @@
 ---
-term: ICT
+term: JavaServer Page Template Library
 termid: 211
 eng:
   id: 211
-  definition: Information and Communications Technology
+  definition: JSP tag library that encapsulates many of the standard functions handled
+    in JSP
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +12,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ICT
+    designation: JavaServer Page Template Library
+    normative_status: preferred
+  - type: expression
+    designation: JSTL
     normative_status: preferred
     abbrev: true

@@ -1,18 +1,20 @@
 ---
-term: GeoJSON
+term: GNU General Public License
 termid: 159
 eng:
   id: 159
-  definition: Javascript Object Notation. A text format that is very fast to parse
-    in JavaScript virtual machines. In spatial, the extended specification for GeoJSON
-    is commonly used.
+  definition: free, copyleft license for software and other kinds of works
   language_code: eng
-  notes: []
+  notes:
+  - GeoNetwork opensource is released under the GPL 2 license.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: GeoJSON
+    designation: GNU General Public License
+    normative_status: preferred
+  - type: expression
+    designation: GPL
     normative_status: preferred
     abbrev: true

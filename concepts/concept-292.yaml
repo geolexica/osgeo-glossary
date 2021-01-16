@@ -1,16 +1,18 @@
 ---
-term: NGA
+term: OGC Sensor Model Language Encoding Standard
 termid: 292
 eng:
   id: 292
-  definition: National Geospatial Intelligence Agency
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NGA
+    designation: OGC Sensor Model Language Encoding Standard
+    normative_status: preferred
+  - type: expression
+    designation: SensorML
     normative_status: preferred
     abbrev: true

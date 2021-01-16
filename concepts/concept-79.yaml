@@ -1,19 +1,18 @@
 ---
-term: Data Store
+term: Digital Line Graph
 termid: 79
 eng:
   id: 79
-  definition: A GeoServer data store represents a connection to a source of raster
-    or vector data, such as a file or group of files, a database table, and so on.
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - TMG_NP
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Data Store
+    designation: Digital Line Graph
+    normative_status: preferred
+  - type: expression
+    designation: DLG
     normative_status: preferred
     abbrev: true

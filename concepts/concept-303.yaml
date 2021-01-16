@@ -1,16 +1,20 @@
 ---
-term: NTF
+term: OGC Web Map Context Encoding Standard
 termid: 303
 eng:
   id: 303
-  definition: Neutral Transfer Format (in UK)
+  definition: OGC standard that allows for the sharing of map views of WMS layers
+    in multiple applications
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: NTF
+    designation: OGC Web Map Context Encoding Standard
+    normative_status: preferred
+  - type: expression
+    designation: WMC
     normative_status: preferred
     abbrev: true

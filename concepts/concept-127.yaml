@@ -1,10 +1,8 @@
 ---
-term: EPSG
+term: Geographic Linkage Service 1.0 Standards Working Group
 termid: 127
 eng:
   id: 127
-  definition: European Petroleum Survey GroupEuroSDR European Spatial Data Research
-    Network
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: EPSG
+    designation: Geographic Linkage Service 1.0 Standards Working Group
+    normative_status: preferred
+  - type: expression
+    designation: GLS SWG
     normative_status: preferred
     abbrev: true

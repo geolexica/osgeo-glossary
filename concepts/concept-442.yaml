@@ -1,9 +1,8 @@
 ---
-term: UML
+term: World Wide Web Consortium
 termid: 442
 eng:
   id: 442
-  definition: Unified Modeling Language
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: UML
+    designation: World Wide Web Consortium
+    normative_status: preferred
+  - type: expression
+    designation: W3C
     normative_status: preferred
     abbrev: true

@@ -1,17 +1,19 @@
 ---
-term: GRASPgfs
+term: International Organization for Standardization
 termid: 193
 eng:
   id: 193
-  definition: Geospatial Resource for Agricultural Species and Pests and Pathogens
-    with workflow integrated modeling to support Global Food Security
   language_code: eng
-  notes: []
+  notes:
+  - See http://www.iso.org
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: GRASPgfs
+    designation: International Organization for Standardization
+    normative_status: preferred
+  - type: expression
+    designation: ISO
     normative_status: preferred
     abbrev: true

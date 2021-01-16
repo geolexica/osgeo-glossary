@@ -1,16 +1,18 @@
 ---
-term: RM-ODP
+term: Short Term Scientific Missions
 termid: 365
 eng:
   id: 365
-  definition: Reference Model for Open Distributed Processing
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: RM-ODP
+    designation: Short Term Scientific Missions
+    normative_status: preferred
+  - type: expression
+    designation: STSM
     normative_status: preferred
     abbrev: true

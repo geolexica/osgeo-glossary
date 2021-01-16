@@ -1,23 +1,16 @@
 ---
-term: metadata
+term: OGC ebXML RegRep SWG
 termid: 275
 eng:
   id: 275
-  definition: information about a resource
+  definition: OGC Standards Working Group developing an an extension to the OASIS
+    ebXML RegRep standard
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - Information about geospatial data that may not be contained in, or readily apparent
-    from, the geospatial data itself.
   authoritative_source:
-    ref: ISO 19115-1:2014
-    clause: '4.10'
-    comment: modified — An admitted term from OSGeo has been added.
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: metadata
-    normative_status: preferred
-  - type: expression
-    designation: geospatial metadata
+    designation: OGC ebXML RegRep SWG
     normative_status: preferred

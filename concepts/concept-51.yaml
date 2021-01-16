@@ -1,16 +1,19 @@
 ---
-term: CLGE
+term: computer-aided design
 termid: 51
 eng:
   id: 51
-  definition: The Council of European Geodetic Surveyors
+  definition: automatic system oriented to design, draw and graphical visualization
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: CLGE
+    designation: computer-aided design
+    normative_status: preferred
+  - type: expression
+    designation: CAD
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,18 @@
 ---
-term: ISPRS
+term: National Center for Supercomputing Applications
 termid: 242
 eng:
   id: 242
-  definition: International Society for Photogrammetry and Remote Sensing
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: ISPRS
+    designation: National Center for Supercomputing Applications
+    normative_status: preferred
+  - type: expression
+    designation: NCSA
     normative_status: preferred
     abbrev: true

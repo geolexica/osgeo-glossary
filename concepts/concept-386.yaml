@@ -1,16 +1,21 @@
 ---
-term: SFS
+term: SQL Multimedia and Application Packages
 termid: 386
 eng:
   id: 386
-  definition: OGC Simple FeaturesSQL Encoding Standard
+  definition: defines SQL based interfaces and packages to widely used applications
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - 'ISO/IEC 13249: SQL Multimedia and Application Packages (SQL/MM)'
+  examples:
+  - Example application areas such as video, audio and spatial data.
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SFS
+    designation: SQL Multimedia and Application Packages
+    normative_status: preferred
+  - type: expression
+    designation: SQL/MM
     normative_status: preferred
     abbrev: true

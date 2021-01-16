@@ -1,16 +1,18 @@
 ---
-term: CADD or CAD
+term: Cartograhy and Geographic Information Society
 termid: 32
 eng:
   id: 32
-  definition: Computer-aided design and drafting
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CADD or CAD
+    designation: Cartograhy and Geographic Information Society
+    normative_status: preferred
+  - type: expression
+    designation: CaGIS
     normative_status: preferred
     abbrev: true

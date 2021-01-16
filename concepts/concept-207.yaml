@@ -1,16 +1,23 @@
 ---
-term: HTI
+term: Java Advanced Imaging
 termid: 207
 eng:
   id: 207
-  definition: Human Technology Interface
+  definition: Java platform extension API that provides a set of object-oriented interfaces
+    that support a simple, high-level programming model
   language_code: eng
-  notes: []
+  notes:
+  - JAI allows developers to create their own image manipulation routines without
+    the additional cost or licensing restrictions, associated with commercial image
+    processing software.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: HTI
+    designation: Java Advanced Imaging
+    normative_status: preferred
+  - type: expression
+    designation: JAI
     normative_status: preferred
     abbrev: true

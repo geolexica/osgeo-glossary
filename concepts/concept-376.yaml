@@ -1,16 +1,14 @@
 ---
-term: SDG
+term: SP
 termid: 376
 eng:
   id: 376
-  definition: Sustainable Development Goal
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SDG
+    designation: SP
     normative_status: preferred
-    abbrev: true

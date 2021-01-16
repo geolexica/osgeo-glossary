@@ -1,16 +1,22 @@
 ---
-term: DEM
+term: Dublin Core
 termid: 88
 eng:
   id: 88
-  definition: Digital Elevation Model
+  definition: standardized metadata element set for cross-domain information resource
+    description
   language_code: eng
-  notes: []
+  notes:
+  - Dublin Core provides a simple and standardised set of conventions for describing
+    things online in ways that make them easier to find.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: DEM
+    designation: Dublin Core
+    normative_status: preferred
+  - type: expression
+    designation: DC
     normative_status: preferred
     abbrev: true

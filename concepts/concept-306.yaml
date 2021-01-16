@@ -1,19 +1,23 @@
 ---
-term: OAI-PMH
+term: OGC Web Processing Service Interface Standard
 termid: 306
 eng:
   id: 306
-  definition: Open Archive Initiative Protocol for Metadata Harvesting. It is a protocol
-    developed by the Open Archives Initiative. It is used to harvest (or collect)
-    the metadata descriptions of the records in an archive so that services can be
-    built using metadata from many archives.
+  definition: OGC standard that provides rules for standardizing inputs and outputs
+    (requests and responses) for geospatial processing services.
   language_code: eng
-  notes: []
+  notes:
+  - The Web Processing Service is designed to standardize the way that GIS calculations
+    are made available to the Internet. WPS can describe any calculation (i.e. process)
+    including all of its inputs and outputs, and trigger its execution as a Web Service.
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OAI-PMH
+    designation: OGC Web Processing Service Interface Standard
+    normative_status: preferred
+  - type: expression
+    designation: WPS
     normative_status: preferred
     abbrev: true

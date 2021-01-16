@@ -1,23 +1,18 @@
 ---
-term: namespace
+term: OGC Location Services
 termid: 286
 eng:
   id: 286
-  definition: |
-    3.1.43
-    namespace
-    <XML> collection of names, identified by a URI reference, which are used in XML documents as element names and attribute names (W3C XML Namespaces)
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - A GeoServer namespace defines the XML namespace of a feature type. An XML namespace
-    uniquely describes elements and attributes in an XML document. See also Feature
-    Type. Can also refer to a GeoServer Workspace.
   authoritative_source:
-    ref: ISO 19136:2007
-    clause: '4.1.43'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: namespace
+    designation: OGC Location Services
     normative_status: preferred
+  - type: expression
+    designation: OLS
+    normative_status: preferred
+    abbrev: true

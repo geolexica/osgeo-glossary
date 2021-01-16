@@ -1,9 +1,9 @@
 ---
-term: CEOS
+term: Committee on Data for Science and Technology
 termid: 43
 eng:
   id: 43
-  definition: Committee on Earth Observation Satellites
+  definition: Committee on Data for Science and Technology
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +11,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CEOS
+    designation: Committee on Data for Science and Technology
+    normative_status: preferred
+  - type: expression
+    designation: CODATA
     normative_status: preferred
     abbrev: true

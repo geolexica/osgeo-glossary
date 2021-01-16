@@ -1,9 +1,8 @@
 ---
-term: AGU
+term: American Society for Photogrammetry and Remote Sensing
 termid: 11
 eng:
   id: 11
-  definition: American Geophysical Union
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: AGU
+    designation: American Society for Photogrammetry and Remote Sensing
+    normative_status: preferred
+  - type: expression
+    designation: ASPRS
     normative_status: preferred
     abbrev: true

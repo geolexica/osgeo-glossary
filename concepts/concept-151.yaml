@@ -1,9 +1,8 @@
 ---
-term: GCP
+term: Global Flood Awareness System
 termid: 151
 eng:
   id: 151
-  definition: Ground Control Point
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GCP
+    designation: Global Flood Awareness System
+    normative_status: preferred
+  - type: expression
+    designation: GloFAS
     normative_status: preferred
     abbrev: true

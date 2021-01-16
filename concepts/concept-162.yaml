@@ -1,17 +1,16 @@
 ---
-term: georectified
+term: GPS Exchange Format
 termid: 162
 eng:
   id: 162
-  definition: corrected for positional displacement with respect to the surface of
-    the Earth
+  definition: XML Schema for describing GPS data
   language_code: eng
   notes: []
-  examples: []
+  examples:
+  - In MapServer, OGR can be used to transform and render GPX data.
   authoritative_source:
-    ref: ISO 19115-2:2019
-    clause: '3.11'
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: georectified
+    designation: GPS Exchange Format
     normative_status: preferred

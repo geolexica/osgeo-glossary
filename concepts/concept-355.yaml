@@ -1,16 +1,18 @@
 ---
-term: RCM
+term: Russian Federal Service for Hydrometeorologyand Enviromental Monitoring
 termid: 355
 eng:
   id: 355
-  definition: Risk and Crisis Management
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: RCM
+    designation: Russian Federal Service for Hydrometeorologyand Enviromental Monitoring
+    normative_status: preferred
+  - type: expression
+    designation: ROSHYDROMET
     normative_status: preferred
     abbrev: true

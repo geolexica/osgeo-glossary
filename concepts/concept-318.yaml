@@ -1,9 +1,8 @@
 ---
-term: OGC-A
+term: Open Standards Consortium for Real Estate
 termid: 318
 eng:
   id: 318
-  definition: OGC Australasia
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC-A
+    designation: Open Standards Consortium for Real Estate
+    normative_status: preferred
+  - type: expression
+    designation: OSCRE
     normative_status: preferred
     abbrev: true

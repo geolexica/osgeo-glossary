@@ -1,9 +1,8 @@
 ---
-term: ASCII
+term: Augmented Reality Markup Language
 termid: 19
 eng:
   id: 19
-  definition: American Standard Code for Information Interchange
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ASCII
+    designation: Augmented Reality Markup Language
+    normative_status: preferred
+  - type: expression
+    designation: ARML
     normative_status: preferred
     abbrev: true

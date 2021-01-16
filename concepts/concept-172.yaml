@@ -1,16 +1,18 @@
 ---
-term: GETIS
+term: High Level Political Forum (of UN)
 termid: 172
 eng:
   id: 172
-  definition: Geoprocessing networks in a European Territorial Interoperability Study
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GETIS
+    designation: High Level Political Forum (of UN)
+    normative_status: preferred
+  - type: expression
+    designation: HLPF
     normative_status: preferred
     abbrev: true

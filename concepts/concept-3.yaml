@@ -1,16 +1,18 @@
 ---
-term: AAG
+term: 3D Portrayal Interoperability Experiment
 termid: 3
 eng:
   id: 3
-  definition: Association of American Geographers
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: AAG
+    designation: 3D Portrayal Interoperability Experiment
+    normative_status: preferred
+  - type: expression
+    designation: IE3D Portrayal
     normative_status: preferred
     abbrev: true

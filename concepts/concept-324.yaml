@@ -1,16 +1,18 @@
 ---
-term: OLS
+term: Organisation for Economic Co-Operation and Development
 termid: 324
 eng:
   id: 324
-  definition: OGC Location Services
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OLS
+    designation: Organisation for Economic Co-Operation and Development
+    normative_status: preferred
+  - type: expression
+    designation: OECD
     normative_status: preferred
     abbrev: true

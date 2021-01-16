@@ -1,9 +1,8 @@
 ---
-term: LEAPS DWG
+term: Object Management Group
 termid: 261
 eng:
   id: 261
-  definition: Law Enforcement and Public Safety Domain Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: LEAPS DWG
+    designation: Object Management Group
+    normative_status: preferred
+  - type: expression
+    designation: OMG
     normative_status: preferred
     abbrev: true

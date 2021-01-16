@@ -1,17 +1,18 @@
 ---
-term: AGG
+term: Ambient Geographic Information
 termid: 7
 eng:
   id: 7
-  definition: Anti-Grain Geometry A high quality graphics rendering engine that MapServer
-    5.0+ can use. It supports sub-pixel anti-aliasing, as well as many more features.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: AGG
+    designation: Ambient Geographic Information
+    normative_status: preferred
+  - type: expression
+    designation: AGI
     normative_status: preferred
     abbrev: true

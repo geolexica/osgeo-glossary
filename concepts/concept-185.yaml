@@ -1,16 +1,18 @@
 ---
-term: GODAN
+term: Integrated Justice Information Systems (IJIS) Institute
 termid: 185
 eng:
   id: 185
-  definition: Global Open Data for Agriculture and Nutrition
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GODAN
+    designation: Integrated Justice Information Systems (IJIS) Institute
+    normative_status: preferred
+  - type: expression
+    designation: IJIS Institute
     normative_status: preferred
     abbrev: true

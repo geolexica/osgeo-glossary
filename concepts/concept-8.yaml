@@ -1,9 +1,8 @@
 ---
-term: AGI
+term: American Geographical Society
 termid: 8
 eng:
   id: 8
-  definition: Ambient Geographic Information
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: AGI
+    designation: American Geographical Society
+    normative_status: preferred
+  - type: expression
+    designation: AGS
     normative_status: preferred
     abbrev: true

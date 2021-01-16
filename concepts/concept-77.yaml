@@ -1,16 +1,21 @@
 ---
-term: DAAC
+term: Digital Geospatial Information Working Group
 termid: 77
 eng:
   id: 77
-  definition: Distributed Active Archive Center (of NASA)
+  definition: multi-national body to provide strategic guidance and recommendations
+    to its defence organization membership on the standardisation of geospatial data,
+    products, and services
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DAAC
+    designation: Digital Geospatial Information Working Group
+    normative_status: preferred
+  - type: expression
+    designation: DGIWG
     normative_status: preferred
     abbrev: true

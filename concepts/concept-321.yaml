@@ -1,17 +1,18 @@
 ---
-term: OGR
+term: OpenStreetMap
 termid: 321
 eng:
   id: 321
-  definition: OGR is the vector data access portion of the GDAL library. It provides
-    access to a multitude of data formats.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OGR
+    designation: OpenStreetMap
+    normative_status: preferred
+  - type: expression
+    designation: OSM
     normative_status: preferred
     abbrev: true

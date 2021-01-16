@@ -1,9 +1,10 @@
 ---
-term: DEM
+term: Drawing eXchange Format
 termid: 87
 eng:
   id: 87
-  definition: Digital Elevation Model
+  definition: CAD data file format developed by Autodesk for enabling data interoperability
+    between AutoCAD and other programs
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +12,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DEM
+    designation: Drawing eXchange Format
+    normative_status: preferred
+  - type: expression
+    designation: DXF
     normative_status: preferred
     abbrev: true

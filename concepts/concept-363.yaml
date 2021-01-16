@@ -1,16 +1,17 @@
 ---
-term: RFP
+term: Shibboleth
 termid: 363
 eng:
   id: 363
-  definition: Request for Proposals (or Participation)
+  definition: open-source project that provides Single Sign-On capabilities and allows
+    sites to make informed authorization decisions for individual access of protected
+    online resources in a privacy-preserving manner
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: RFP
+    designation: Shibboleth
     normative_status: preferred
-    abbrev: true

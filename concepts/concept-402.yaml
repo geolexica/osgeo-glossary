@@ -1,17 +1,21 @@
 ---
-term: SMTP
+term: The Open Source Geospatial Foundation
 termid: 402
 eng:
   id: 402
-  definition: Simple Mail Transfer Protocol is an Internet standard for electronic
-    mail (e-mail) transmission across Internet Protocol (IP) networks.
+  definition: non-profit non-governmental organization whose mission is to support
+    and promote the collaborative development of open geospatial technologies and
+    data
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: http://www.osgeo.org
   terms:
   - type: expression
-    designation: SMTP
+    designation: The Open Source Geospatial Foundation
+    normative_status: preferred
+  - type: expression
+    designation: OSGEO
     normative_status: preferred
     abbrev: true

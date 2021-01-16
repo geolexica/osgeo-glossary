@@ -1,17 +1,18 @@
 ---
-term: CITE
+term: Comprehensive African Agricultural Development Programme
 termid: 48
 eng:
   id: 48
-  definition: OGC Compliance and Interoperability Testing Initiative, the OGC's Compliance
-    Testing Program.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: CITE
+    designation: Comprehensive African Agricultural Development Programme
+    normative_status: preferred
+  - type: expression
+    designation: CAADP
     normative_status: preferred
     abbrev: true

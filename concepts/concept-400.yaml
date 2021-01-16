@@ -1,9 +1,8 @@
 ---
-term: SMAC
+term: Test, Evaluation, And Measurement Engine
 termid: 400
 eng:
   id: 400
-  definition: OGC Strategic Member Advisory Committee
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SMAC
+    designation: Test, Evaluation, And Measurement Engine
+    normative_status: preferred
+  - type: expression
+    designation: TEAM Engine
     normative_status: preferred
     abbrev: true

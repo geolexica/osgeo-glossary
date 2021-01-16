@@ -1,16 +1,16 @@
 ---
-term: GEOSS Pilot ­
+term: gvSIG
 termid: 169
 eng:
   id: 169
-  definition: Global Earth Observation System of Systems Pilot Project
+  definition: specific Geographical Information handling tool for common vector and
+    raster formats with a user interface
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: GEOSS Pilot ­
+    designation: gvSIG
     normative_status: preferred
-    abbrev: true

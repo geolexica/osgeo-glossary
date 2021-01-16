@@ -1,9 +1,8 @@
 ---
-term: CT SWG
+term: Defense and Intelligence Domain Working Group
 termid: 72
 eng:
   id: 72
-  definition: OGC Coordinate Transformation Standards Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: CT SWG
+    designation: Defense and Intelligence Domain Working Group
+    normative_status: preferred
+  - type: expression
+    designation: D&I DWG
     normative_status: preferred
     abbrev: true

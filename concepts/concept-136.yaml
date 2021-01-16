@@ -1,16 +1,17 @@
 ---
-term: ESS DWG
+term: georeferencing
 termid: 136
 eng:
   id: 136
-  definition: Earth System Science Domain Working Group
+  definition: geopositioning an object using a Correspondence Model derived from a
+    set of points for which both ground and image coordinates are known
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19130-1:2018
+    clause: '3.38'
   terms:
   - type: expression
-    designation: ESS DWG
+    designation: georeferencing
     normative_status: preferred
-    abbrev: true

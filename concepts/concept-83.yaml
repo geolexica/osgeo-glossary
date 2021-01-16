@@ -1,16 +1,21 @@
 ---
-term: DBMS
+term: Distributed Active Archive Center
 termid: 83
 eng:
   id: 83
-  definition: Data Base Management System
+  definition: NASA EOSDIS center that archives, documents, and distributes data from
+    NASA's past and current Earth Observing System satellites and field measurement
+    programs
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: DBMS
+    designation: Distributed Active Archive Center
+    normative_status: preferred
+  - type: expression
+    designation: DAAC
     normative_status: preferred
     abbrev: true

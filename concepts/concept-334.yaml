@@ -1,16 +1,18 @@
 ---
-term: OSCRE
+term: Public Participation in Scientific Research
 termid: 334
 eng:
   id: 334
-  definition: Open Standards Consortium for Real Estate
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: OSCRE
+    designation: Public Participation in Scientific Research
+    normative_status: preferred
+  - type: expression
+    designation: PPSR
     normative_status: preferred
     abbrev: true

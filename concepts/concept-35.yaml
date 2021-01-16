@@ -1,16 +1,19 @@
 ---
-term: Cat SWG
+term: catalogue service
 termid: 35
 eng:
   id: 35
-  definition: OGC Catalog Revision Standards Working Group
+  definition: allows the publication and searching of information (metadata) describing
+    data (cartography), services, applications and any other kind of resources. The
+    catalogue services are necessary to supply search and invocation capabilities
+    over registered resources within an SDI. A Open Geospatial Consortium spec establishes
+    how a Catalogue Service must be standard and interoperable.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    comment: GVSIG_1-0_2011
   terms:
   - type: expression
-    designation: Cat SWG
+    designation: catalogue service
     normative_status: preferred
-    abbrev: true

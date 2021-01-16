@@ -1,16 +1,18 @@
 ---
-term: RFI
+term: Shapefile
 termid: 362
 eng:
   id: 362
-  definition: Request for Information
+  definition: vector data format for points, lines, or areas
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - Originally developed by ESRI and widely support by many software projects.
+  examples:
+  - The United States Census Bureau TIGER Data can be obtained for most counties in
+    the United States as ESRI Shapefiles.
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: RFI
+    designation: Shapefile
     normative_status: preferred
-    abbrev: true

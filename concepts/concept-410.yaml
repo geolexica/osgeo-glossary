@@ -1,9 +1,8 @@
 ---
-term: SPIDER
+term: United Nations Global Geospatial Information Management
 termid: 410
 eng:
   id: 410
-  definition: open SPatial data Infrastructure eDucation nEtwoRk
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SPIDER
+    designation: United Nations Global Geospatial Information Management
+    normative_status: preferred
+  - type: expression
+    designation: UN-GGIM
     normative_status: preferred
     abbrev: true

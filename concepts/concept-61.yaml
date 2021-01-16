@@ -1,10 +1,8 @@
 ---
-term: Creative Commons
+term: Create Read Update and Delete.
 termid: 61
 eng:
   id: 61
-  definition: GeoNetwork documentation is released under the Creative Commons Attribution-ShareAlike
-    3.0 Unported License. Find more information at http://creativecommons.org/licenses/by-sa/3.0/
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Creative Commons
+    designation: Create Read Update and Delete.
+    normative_status: preferred
+  - type: expression
+    designation: CRUD
     normative_status: preferred
     abbrev: true

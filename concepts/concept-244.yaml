@@ -1,16 +1,18 @@
 ---
-term: JAG
+term: National Geospatial Intelligence Agency
 termid: 244
 eng:
   id: 244
-  definition: Joint Advisory Committee between OGC and ISO TC 211
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: JAG
+    designation: National Geospatial Intelligence Agency
+    normative_status: preferred
+  - type: expression
+    designation: NGA
     normative_status: preferred
     abbrev: true

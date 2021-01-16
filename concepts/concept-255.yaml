@@ -1,16 +1,19 @@
 ---
-term: KML
+term: Neutral Transfer Format
 termid: 255
 eng:
   id: 255
-  definition: OGC KML Encoding Standard (formerly Keyhole Markup Language)
   language_code: eng
-  notes: []
+  notes:
+  - Within the UK
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: KML
+    designation: Neutral Transfer Format
+    normative_status: preferred
+  - type: expression
+    designation: NTF
     normative_status: preferred
     abbrev: true

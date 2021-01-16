@@ -1,16 +1,17 @@
 ---
-term: IEEE GRSS
+term: layer
 termid: 217
 eng:
   id: 217
-  definition: IEEE Geoscience and Remote Sensing Society
+  definition: basic unit of geographic information that may be requested as a map
+    from a server
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19128:2005
+    clause: '4.6'
   terms:
   - type: expression
-    designation: IEEE GRSS
+    designation: layer
     normative_status: preferred
-    abbrev: true

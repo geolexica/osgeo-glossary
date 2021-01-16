@@ -1,19 +1,16 @@
 ---
-term: layer
+term: nomenclator service
 termid: 257
 eng:
   id: 257
-  definition: basic unit of geographic information that may be requested as a map
-    from a server
+  definition: locates a geographic location by its name
   language_code: eng
-  notes: []
+  notes:
+  - If one or more occurrences of a location are detected, the service provides a
+    list of the detected locations with additional attributes. The user can then choose
+    the desired location as per their requirement.
   examples: []
-  comments:
-  - A published GeoServer resource representing a raster or vector spatial data source.
-  authoritative_source:
-    ref: ISO 19128:2005
-    clause: '4.6'
   terms:
   - type: expression
-    designation: layer
+    designation: nomenclator service
     normative_status: preferred

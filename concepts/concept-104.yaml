@@ -1,16 +1,20 @@
 ---
-term: DXF
+term: Environmental Systems Research Institute
 termid: 104
 eng:
   id: 104
-  definition: Drawing eXchange Format (AutoCAD exchange format)
+  definition: international supplier of geographic information system software, web
+    GIS and geodatabase management applications
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
   terms:
   - type: expression
-    designation: DXF
+    designation: Environmental Systems Research Institute
+    normative_status: preferred
+  - type: expression
+    designation: ESRI
     normative_status: preferred
     abbrev: true

@@ -1,9 +1,8 @@
 ---
-term: GPX
+term: International Hydrographic Office
 termid: 191
 eng:
   id: 191
-  definition: GPS Exchange Format
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GPX
+    designation: International Hydrographic Office
+    normative_status: preferred
+  - type: expression
+    designation: OHI
     normative_status: preferred
     abbrev: true

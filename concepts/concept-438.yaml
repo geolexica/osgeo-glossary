@@ -1,16 +1,15 @@
 ---
-term: TML
+term: workspace
 termid: 438
 eng:
   id: 438
-  definition: OGC Transducer Markup Language Encoding Standard (retired)
+  definition: organizational structure for grouping related data
   language_code: eng
   notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+  examples:
+  - GeoServer uses a workspace for related data stores. Other geospatial software
+    store related datasets in a workspace.
   terms:
   - type: expression
-    designation: TML
+    designation: workspace
     normative_status: preferred
-    abbrev: true

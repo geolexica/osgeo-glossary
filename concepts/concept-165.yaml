@@ -1,17 +1,17 @@
 ---
-term: GeoRSS
+term: GRIB
 termid: 165
 eng:
   id: 165
-  definition: RSS feed containing geographic information in GML (Geographic Markup
-    Language) format.
+  definition: WMO standardized data format used in meteorology to store historical
+    and forecast weather data standard
   language_code: eng
-  notes: []
+  notes:
+  - Abbreviated from the words "GRIdded Binary".
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    comment: Jon Blower
   terms:
   - type: expression
-    designation: GeoRSS
+    designation: GRIB
     normative_status: preferred
-    abbrev: true

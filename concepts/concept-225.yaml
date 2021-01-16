@@ -1,18 +1,17 @@
 ---
-term: IndoorGML
+term: MAC address
 termid: 225
 eng:
   id: 225
-  definition: common schema framework for interoperability between indoor and outdoor
-    navigation applications, being drafted by the OGC IndoorGML Standards Working
-    Group
+  definition: Media Access Control address (MAC address) is a unique identifier assigned
+    to most network adapters or network interface cards (NICs) by the manufacturer
+    for identification, and used in the Media Access Control protocol sublayer
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    comment: GEONETWOK_OPENSOURCE
   terms:
   - type: expression
-    designation: IndoorGML
+    designation: MAC address
     normative_status: preferred
-    abbrev: true

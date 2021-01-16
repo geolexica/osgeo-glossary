@@ -1,18 +1,18 @@
 ---
-term: DC
+term: Distributed Computing Environment
 termid: 84
 eng:
   id: 84
-  definition: The Dublin Core metadata element set is a standard for cross-domain
-    information resource description. It provides a simple and standardised set of
-    conventions for describing things online in ways that make them easier to find.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DC
+    designation: Distributed Computing Environment
+    normative_status: preferred
+  - type: expression
+    designation: DCE
     normative_status: preferred
     abbrev: true

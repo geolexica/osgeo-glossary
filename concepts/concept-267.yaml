@@ -1,23 +1,18 @@
 ---
-term: MAC address
+term: OGC Catalog Domain Working Group
 termid: 267
 eng:
   id: 267
-  definition: "Media Access Control address (MAC address) is a unique identifier assigned
-    to most network adapters or network interface cards (NICs) by the manufacturer
-    for identification, and used in the Media Access Control protocol sublayer. \n\nNote
-    1 to entry: See also http://en.wikipedia.org/wiki/MAC_address on Wikipedia"
   language_code: eng
   notes: []
   examples: []
-  comments:
-  - Media Access Control address (MAC address) is a unique identifier assigned to
-    most network adapters or network interface cards (NICs) by the manufacturer for
-    identification, and used in the Media Access Control protocol sublayer. See also
-    http://en.wikipedia.org/wiki/MAC_address on Wikipedia
   authoritative_source:
-    comment: GEONETWOK_OPENSOURCE
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: MAC address
+    designation: OGC Catalog Domain Working Group
     normative_status: preferred
+  - type: expression
+    designation: Cat DWG
+    normative_status: preferred
+    abbrev: true

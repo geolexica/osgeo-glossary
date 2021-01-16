@@ -1,9 +1,8 @@
 ---
-term: DBF
+term: Discussion Paper
 termid: 82
 eng:
   id: 82
-  definition: Data Base File, the Dbase file format
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DBF
+    designation: Discussion Paper
+    normative_status: preferred
+  - type: expression
+    designation: DP
     normative_status: preferred
     abbrev: true

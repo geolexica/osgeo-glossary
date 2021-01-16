@@ -1,16 +1,18 @@
 ---
-term: EASIG
+term: European Center for Medium range Weather Forecasting
 termid: 106
 eng:
   id: 106
-  definition: Enterprise Architecture Special Interest Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: EASIG
+    designation: European Center for Medium range Weather Forecasting
+    normative_status: preferred
+  - type: expression
+    designation: ECMWF
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,17 @@
 ---
-term: INSPIRE
+term: map projection
 termid: 226
 eng:
   id: 226
-  definition: Infrastructure for Spatial Information in Europe
+  definition: coordinate conversion from an ellipsoidal coordinate system to a plane
   language_code: eng
-  notes: []
+  notes:
+  - See also http://en.wikipedia.org/wiki/MAC_address on Wikipedia
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    ref: ISO 19111:2019
+    clause: '3.1.40'
   terms:
   - type: expression
-    designation: INSPIRE
+    designation: map projection
     normative_status: preferred
-    abbrev: true

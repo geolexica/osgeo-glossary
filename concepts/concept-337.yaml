@@ -1,16 +1,15 @@
 ---
-term: OSGEO
+term: raster
 termid: 337
 eng:
   id: 337
-  definition: Open Source Geospatial Foundation
+  definition: rectangular grid of pixels like an image
   language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+  notes:
+  - Rasters are supported in MapServer with a layer type of RASTER.
+  examples:
+  - Examples of formats supported by Mapserver are GeoTIFF, JPEG, and PNG
   terms:
   - type: expression
-    designation: OSGEO
+    designation: raster
     normative_status: preferred
-    abbrev: true

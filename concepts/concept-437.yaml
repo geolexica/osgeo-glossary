@@ -1,16 +1,18 @@
 ---
-term: TJS
+term: Working Group on Capacity Building and Data Democracy
 termid: 437
 eng:
   id: 437
-  definition: OGC Georeferenced Table Joining Service Encoding Standard
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: TJS
+    designation: Working Group on Capacity Building and Data Democracy
+    normative_status: preferred
+  - type: expression
+    designation: WGCapD
     normative_status: preferred
     abbrev: true

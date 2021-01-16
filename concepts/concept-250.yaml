@@ -1,16 +1,18 @@
 ---
-term: JPEG
+term: National Science Foundation
 termid: 250
 eng:
   id: 250
-  definition: Joint Photographics Group
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: JPEG
+    designation: National Science Foundation
+    normative_status: preferred
+  - type: expression
+    designation: NSF
     normative_status: preferred
     abbrev: true

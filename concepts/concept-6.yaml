@@ -1,16 +1,15 @@
 ---
-term: AECOO
+term: ADL Gazetter Protocol
 termid: 6
 eng:
   id: 6
-  definition: Architecture, Engineering, Construction, Owner and Operator
+  definition: specification for communication between ADL gazetteer clients and servers
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: AECOO
+    designation: ADL Gazetter Protocol
     normative_status: preferred
-    abbrev: true

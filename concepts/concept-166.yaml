@@ -1,19 +1,18 @@
 ---
-term: GEOS
+term: grid
 termid: 166
 eng:
   id: 166
-  definition: Geometry Engine Open Source is a C/C++ port of the Java Topology Suite.
-    It is used for geometric algebra operations like determining if a polygon is contained
-    in another polygon or determining the resultant intersection of two or more polygons.
-    MapServer optionally uses GEOS for geometric algebra operations.
+  definition: network composed of two or more sets of curves in which the members
+    of each set intersect the members of the other sets in an algorithmic way
   language_code: eng
-  notes: []
+  notes:
+  - The curves partition a space into grid cells.
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    ref: ISO 19123:2005
+    clause: '4.1.23'
   terms:
   - type: expression
-    designation: GEOS
+    designation: grid
     normative_status: preferred
-    abbrev: true

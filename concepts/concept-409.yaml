@@ -1,16 +1,20 @@
 ---
-term: SP
+term: Uniform Resource Locator
 termid: 409
 eng:
   id: 409
-  definition: Standards Program
+  definition: specifies where an identified resource is located on a computer network
+    and the mechanism for retrieving it
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: SP
+    designation: Uniform Resource Locator
+    normative_status: preferred
+  - type: expression
+    designation: URL
     normative_status: preferred
     abbrev: true

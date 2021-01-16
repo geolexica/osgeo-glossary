@@ -1,10 +1,8 @@
 ---
-term: GIS
+term: Human Technology Interface
 termid: 174
 eng:
   id: 174
-  definition: Geographic information system or geographical information system captures,
-    stores, analyzes, manages, and presents data that is linked to location.
   language_code: eng
   notes: []
   examples: []
@@ -12,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GIS
+    designation: Human Technology Interface
+    normative_status: preferred
+  - type: expression
+    designation: HTI
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,20 @@
 ---
-term: SaaS
+term: Simple Mail Transfer Protocol
 termid: 371
 eng:
   id: 371
-  definition: Software as a Service
+  definition: Internet standard for electronic mail (e-mail) transmission across Internet
+    Protocol (IP) networks.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: SaaS
+    designation: Simple Mail Transfer Protocol
+    normative_status: preferred
+  - type: expression
+    designation: SMTP
     normative_status: preferred
     abbrev: true

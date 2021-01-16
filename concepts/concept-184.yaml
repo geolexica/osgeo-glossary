@@ -1,16 +1,18 @@
 ---
-term: GO
+term: Infrastructure for Spatial Information in Europe
 termid: 184
 eng:
   id: 184
-  definition: Geospatial Objects (a retired OGC standard)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GO
+    designation: Infrastructure for Spatial Information in Europe
+    normative_status: preferred
+  - type: expression
+    designation: INSPIRE
     normative_status: preferred
     abbrev: true

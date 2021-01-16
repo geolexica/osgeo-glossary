@@ -1,16 +1,21 @@
 ---
-term: EO
+term: Federal Geographic Data Committee
 termid: 120
 eng:
   id: 120
-  definition: Earth Observation
+  definition: interagency committee that promotes the coordinated development, use,
+    sharing, and dissemination of geospatial data on a national basis in the USA
   language_code: eng
-  notes: []
+  notes:
+  - See http://www.fgdc.gov
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: EO
+    designation: Federal Geographic Data Committee
+    normative_status: preferred
+  - type: expression
+    designation: FGDC
     normative_status: preferred
     abbrev: true

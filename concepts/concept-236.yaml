@@ -1,17 +1,19 @@
 ---
-term: ISO SQL/MM
+term: Metadata Exchange Format
 termid: 236
 eng:
   id: 236
-  definition: 'ISO/IEC 13249-3:2016 Information technology -- Database languages --
-    SQL multimedia and application packages -- Part 3: Spatial'
+  definition: metadata export format developed by the GeoNetwork community
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: Sandro
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: ISO SQL/MM
+    designation: Metadata Exchange Format
+    normative_status: preferred
+  - type: expression
+    designation: MEF
     normative_status: preferred
     abbrev: true

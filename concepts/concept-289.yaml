@@ -1,16 +1,18 @@
 ---
-term: NED
+term: OGC Observations and Measurements Encoding Standard
 termid: 289
 eng:
   id: 289
-  definition: National Elevation Dataset
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: NED
+    designation: OGC Observations and Measurements Encoding Standard
+    normative_status: preferred
+  - type: expression
+    designation: O&M
     normative_status: preferred
     abbrev: true

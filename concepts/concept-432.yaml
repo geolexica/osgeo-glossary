@@ -1,9 +1,8 @@
 ---
-term: TEAM Engine
+term: 'Web3D Consortium '
 termid: 432
 eng:
   id: 432
-  definition: Test, Evaluation, And Measurement Engine
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: TEAM Engine
+    designation: 'Web3D Consortium '
     normative_status: preferred
-    abbrev: true

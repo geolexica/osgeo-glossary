@@ -1,16 +1,18 @@
 ---
-term: GITA
+term: Humanitarian OpenStreetMap Team
 termid: 175
 eng:
   id: 175
-  definition: Geospatial Information & Technology Association
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: GITA
+    designation: Humanitarian OpenStreetMap Team
+    normative_status: preferred
+  - type: expression
+    designation: HOT
     normative_status: preferred
     abbrev: true

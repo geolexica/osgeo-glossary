@@ -1,19 +1,18 @@
 ---
-term: SRID
+term: Unmanned Aerial Vehicle
 termid: 416
 eng:
   id: 416
-  definition: Spatial reference ID. This a unique number assigned to a particular
-    “coordinate reference system”. The PostGIS table spatial_ref_sys contains a large
-    collection of well-known SRID values and text representations of the coordinate
-    reference systems.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SRID
+    designation: Unmanned Aerial Vehicle
+    normative_status: preferred
+  - type: expression
+    designation: UAV
     normative_status: preferred
     abbrev: true

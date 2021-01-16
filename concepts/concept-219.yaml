@@ -1,16 +1,18 @@
 ---
-term: IES
+term: Light Detection and Ranging
 termid: 219
 eng:
   id: 219
-  definition: Imagery Exploitation Working Group IETFInternet Engineering Task Force
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: IES
+    designation: Light Detection and Ranging
+    normative_status: preferred
+  - type: expression
+    designation: LiDAR
     normative_status: preferred
     abbrev: true

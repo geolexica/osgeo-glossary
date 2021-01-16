@@ -1,9 +1,8 @@
 ---
-term: OMG
+term: OWScontextSWG
 termid: 327
 eng:
   id: 327
-  definition: Object Management Group
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OMG
+    designation: OWScontextSWG
     normative_status: preferred
-    abbrev: true

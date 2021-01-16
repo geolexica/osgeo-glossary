@@ -1,17 +1,18 @@
 ---
-term: UCAR
+term: World Geodetic System
 termid: 440
 eng:
   id: 440
-  definition: University Corporation for Atmospheric Research / National Center for
-    Atmospheric Research (NCAR)
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: UCAR
+    designation: World Geodetic System
+    normative_status: preferred
+  - type: expression
+    designation: WGS
     normative_status: preferred
     abbrev: true

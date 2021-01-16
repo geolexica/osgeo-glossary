@@ -1,19 +1,18 @@
 ---
-term: FOSS
+term: Geospatial Information & Technology Association
 termid: 145
 eng:
   id: 145
-  definition: Free and Open Source Software, also F/OSS, FOSS, or FLOSS (free/libre/open
-    source software) is software which is liberally licensed to grant the right of
-    users to study, change, and improve its design through the availability of its
-    source code. http://en.wikipedia.org/wiki/FOSS
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: FOSS
+    designation: Geospatial Information & Technology Association
+    normative_status: preferred
+  - type: expression
+    designation: GITA
     normative_status: preferred
     abbrev: true

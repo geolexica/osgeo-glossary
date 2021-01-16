@@ -1,16 +1,18 @@
 ---
-term: AM/FM
+term: American Standard Code for Information Interchange
 termid: 12
 eng:
   id: 12
-  definition: Automated Mapping/Facilities Management
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: AM/FM
+    designation: American Standard Code for Information Interchange
+    normative_status: preferred
+  - type: expression
+    designation: ASCII
     normative_status: preferred
     abbrev: true

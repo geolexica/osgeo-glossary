@@ -1,21 +1,21 @@
 ---
-term: georeferencing
+term: Graphic Interchange Format
 termid: 163
 eng:
   id: 163
-  definition: geopositioning an object using a Correspondence Model derived from a
-    set of points for which both ground and image coordinates are known
+  definition: platform­-independent graphics format developed by CompuServe
   language_code: eng
-  notes: []
+  notes:
+  - The GIF format is generally recommended for simple images and limited to a maximum
+    of 256 colours.
   examples: []
-  comments:
-  - The art of assigning geographic coordinates to an object or structure. This concept
-    applied to a digital image involves a set of geometric operations that allow assigning
-    to each image pixel a pair of coordinates (x, y) in a projection system.
   authoritative_source:
-    ref: ISO 19130-1:2018
-    clause: '3.38'
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: georeferencing
+    designation: Graphic Interchange Format
     normative_status: preferred
+  - type: expression
+    designation: GIF
+    normative_status: preferred
+    abbrev: true

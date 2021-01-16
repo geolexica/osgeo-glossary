@@ -1,9 +1,8 @@
 ---
-term: SLD
+term: Technical Committee Policies and Procedures
 termid: 398
 eng:
   id: 398
-  definition: Styled Layer Descriptor
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SLD
+    designation: Technical Committee Policies and Procedures
+    normative_status: preferred
+  - type: expression
+    designation: TC P&P
     normative_status: preferred
     abbrev: true

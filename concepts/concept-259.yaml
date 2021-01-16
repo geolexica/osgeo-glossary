@@ -1,9 +1,8 @@
 ---
-term: LBS
+term: North American Datum
 termid: 259
 eng:
   id: 259
-  definition: Location-Based Service
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: LBS
+    designation: North American Datum
+    normative_status: preferred
+  - type: expression
+    designation: NAD
     normative_status: preferred
     abbrev: true

@@ -1,9 +1,8 @@
 ---
-term: RESTful
+term: Sensors Anywhere Consortium
 termid: 360
 eng:
   id: 360
-  definition: REpresentational State Transfer programming style
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: RESTful
+    designation: Sensors Anywhere Consortium
+    normative_status: preferred
+  - type: expression
+    designation: SANY
     normative_status: preferred
     abbrev: true

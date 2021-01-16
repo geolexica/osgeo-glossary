@@ -1,16 +1,18 @@
 ---
-term: SME
+term: The Council of European Geodetic Surveyors
 termid: 401
 eng:
   id: 401
-  definition: Small or Medium Sized Enterprise
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SME
+    designation: The Council of European Geodetic Surveyors
+    normative_status: preferred
+  - type: expression
+    designation: CLGE
     normative_status: preferred
     abbrev: true

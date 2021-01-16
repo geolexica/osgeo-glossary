@@ -1,15 +1,17 @@
 ---
-term: CEGIS
+term: Center of Excellence for Geospatial Information Science
 termid: 39
 eng:
   id: 39
-  definition: Center of Excellence for Geospatial Information Science
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
+  - type: expression
+    designation: Center of Excellence for Geospatial Information Science
+    normative_status: preferred
   - type: expression
     designation: CEGIS
     normative_status: preferred

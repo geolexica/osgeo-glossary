@@ -1,16 +1,18 @@
 ---
-term: HQL
+term: Japan Aerospace Exploration Agency
 termid: 206
 eng:
   id: 206
-  definition: Hibernate Query Language.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: HQL
+    designation: Japan Aerospace Exploration Agency
+    normative_status: preferred
+  - type: expression
+    designation: JAXA
     normative_status: preferred
     abbrev: true

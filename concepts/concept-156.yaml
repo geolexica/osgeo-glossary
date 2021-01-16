@@ -1,16 +1,19 @@
 ---
-term: GeoAPI
+term: Global Spatial Data infrastructure Association
 termid: 156
 eng:
   id: 156
-  definition: OGC GeoAPI Interface Standard (a Java application programming interface)
   language_code: eng
-  notes: []
+  notes:
+  - GSDI was dissolved as a legal entity in October 2018.
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GeoAPI
+    designation: Global Spatial Data infrastructure Association
+    normative_status: preferred
+  - type: expression
+    designation: GSDI Association
     normative_status: preferred
     abbrev: true

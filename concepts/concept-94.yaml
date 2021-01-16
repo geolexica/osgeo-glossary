@@ -1,9 +1,8 @@
 ---
-term: DLM
+term: Earth System Science Domain Working Group
 termid: 94
 eng:
   id: 94
-  definition: Digital Landscape Model
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DLM
+    designation: Earth System Science Domain Working Group
+    normative_status: preferred
+  - type: expression
+    designation: ESS DWG
     normative_status: preferred
     abbrev: true

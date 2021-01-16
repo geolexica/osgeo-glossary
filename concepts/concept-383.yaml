@@ -1,16 +1,14 @@
 ---
-term: SF
+term: spherical mercator
 termid: 383
 eng:
   id: 383
-  definition: Simple Features
+  definition: term to describe the map projection used by commercial API providers.
   language_code: eng
   notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+  examples:
+  - 'Google maps, Microsoft Virtual Earth, Yahoo maps '
   terms:
   - type: expression
-    designation: SF
+    designation: spherical mercator
     normative_status: preferred
-    abbrev: true

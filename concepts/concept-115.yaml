@@ -1,9 +1,8 @@
 ---
-term: ECMWF
+term: European Umbrella Organisation for Geographic Information
 termid: 115
 eng:
   id: 115
-  definition: European Center for Medium range Weather Forecasting
   language_code: eng
   notes: []
   examples: []
@@ -11,6 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: ECMWF
+    designation: European Umbrella Organisation for Geographic Information
+    normative_status: preferred
+  - type: expression
+    designation: EUROGI
     normative_status: preferred
     abbrev: true

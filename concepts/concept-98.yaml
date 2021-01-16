@@ -1,16 +1,18 @@
 ---
-term: DSM
+term: Emergency & Disaster Management Domain Working Group
 termid: 98
 eng:
   id: 98
-  definition: Digital Surface Models
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DSM
+    designation: Emergency & Disaster Management Domain Working Group
+    normative_status: preferred
+  - type: expression
+    designation: EDM DWG
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,22 @@
 ---
-term: OSGeo
+term: raster
 termid: 338
 eng:
   id: 338
-  definition: Open Source Geospatial Foundation
+  definition: usually rectangular pattern of parallel scanning lines forming or corresponding
+    to the display on a cathode ray tube
   language_code: eng
-  notes: []
+  notes:
+  - A raster is a type of grid.
+  - The term “raster data” is often used colloquially in the field of geographic information
+    to identify the whole class of data where the spatial geometry is organized into
+    a grid.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    ref: ISO 19123:2005
+    clause: '4.1.30'
+    comment: modified —  Note 2 to entry has been added.
   terms:
   - type: expression
-    designation: OSGeo
+    designation: raster
     normative_status: preferred
-    abbrev: true

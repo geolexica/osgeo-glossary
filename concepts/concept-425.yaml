@@ -1,16 +1,17 @@
 ---
-term: SWF
+term: WaterML 2.0
 termid: 425
 eng:
   id: 425
-  definition: Shockwave Flash format that MapServer can generate for output.
+  definition: information model for the representation of water observations data,
+    with the intent of allowing the exchange of such data sets across information
+    systems
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: SWF
+    designation: WaterML 2.0
     normative_status: preferred
-    abbrev: true
