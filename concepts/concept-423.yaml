@@ -1,5 +1,5 @@
 ---
-term: Wales Institute of Social & Economic Research, Data & Methods
+term: Water Observation Information System
 termid: 423
 eng:
   id: 423
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Wales Institute of Social & Economic Research, Data & Methods
+    designation: Water Observation Information System
     normative_status: preferred
   - type: expression
-    designation: WISERD
+    designation: WOIS
     normative_status: preferred
     abbrev: true

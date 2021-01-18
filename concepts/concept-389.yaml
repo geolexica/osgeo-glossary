@@ -1,18 +1,20 @@
 ---
-term: Standards Working Group
+term: Structured Query Language
 termid: 389
 eng:
   id: 389
+  definition: standard programming language for querying relational databases
   language_code: eng
-  notes: []
+  notes:
+  - See http://en.wikipedia.org/wiki/SQL
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Standards Working Group
+    designation: Structured Query Language
     normative_status: preferred
   - type: expression
-    designation: SWG
+    designation: SQL
     normative_status: preferred
     abbrev: true

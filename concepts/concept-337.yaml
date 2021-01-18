@@ -3,12 +3,19 @@ term: raster
 termid: 337
 eng:
   id: 337
-  definition: rectangular grid of pixels like an image
+  definition: usually rectangular pattern of parallel scanning lines forming or corresponding
+    to the display on a cathode ray tube
   language_code: eng
   notes:
-  - Rasters are supported in MapServer with a layer type of RASTER.
-  examples:
-  - Examples of formats supported by Mapserver are GeoTIFF, JPEG, and PNG
+  - A raster is a type of grid.
+  - The term “raster data” is often used colloquially in the field of geographic information
+    to identify the whole class of data where the spatial geometry is organized into
+    a grid.
+  examples: []
+  authoritative_source:
+    ref: ISO 19123:2005
+    clause: '4.1.30'
+    comment: modified —  Note 2 to entry has been added.
   terms:
   - type: expression
     designation: raster

@@ -1,16 +1,14 @@
 ---
-term: Request for Participation
+term: Request for Proposals
 termid: 349
 eng:
   id: 349
   language_code: eng
   notes: []
   examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Request for Participation
+    designation: Request for Proposals
     normative_status: preferred
   - type: expression
     designation: RFP

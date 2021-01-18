@@ -1,14 +1,16 @@
 ---
-term: SPIDER
+term: spindle
 termid: 384
 eng:
   id: 384
+  definition: part of a sphere which is divided by two meridians or maximum circles
   language_code: eng
-  notes: []
+  notes:
+  - In the UTM projection, each spindle is defined by two meridians separated by a
+    distance of 6 degrees (for a total circle round of 360 degrees) and by two parallels
+    of 80 degrees latitude North and South.
   examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SPIDER
+    designation: spindle
     normative_status: preferred

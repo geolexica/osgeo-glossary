@@ -1,20 +1,18 @@
 ---
-term: Universally Unique Identifier
+term: University Corporation for Atmospheric Research
 termid: 414
 eng:
   id: 414
-  definition: 128-bit number used to identify information in computer systems
   language_code: eng
-  notes:
-  - also referred to as a globally unique identifier
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Universally Unique Identifier
+    designation: University Corporation for Atmospheric Research
     normative_status: preferred
   - type: expression
-    designation: UUID
+    designation: UCAR
     normative_status: preferred
     abbrev: true

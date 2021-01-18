@@ -1,21 +1,20 @@
 ---
-term: Spatial reference ID
+term: Spatial reference system
 termid: 379
 eng:
   id: 379
-  definition: unique number assigned to a particular coordinate reference system
+  definition: system for identifying position in the real world
   language_code: eng
   notes: []
-  examples:
-  - The PostGIS table spatial_ref_sys contains a large collection of well-known SRID
-    values and text representations of the coordinate reference systems.
+  examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19155:2012
+    clause: '4.20'
   terms:
   - type: expression
-    designation: Spatial reference ID
+    designation: Spatial reference system
     normative_status: preferred
   - type: expression
-    designation: SRID
+    designation: SRS
     normative_status: preferred
     abbrev: true

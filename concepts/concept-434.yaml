@@ -1,20 +1,16 @@
 ---
-term: Well-Known Text
+term: Workflow Management Coalition
 termid: 434
 eng:
   id: 434
-  definition: text representation of geometries described in the Simple Features for
-    SQL (SFSQL) specification
   language_code: eng
   notes: []
   examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Well-Known Text
+    designation: Workflow Management Coalition
     normative_status: preferred
   - type: expression
-    designation: WKT
+    designation: WfMC
     normative_status: preferred
     abbrev: true

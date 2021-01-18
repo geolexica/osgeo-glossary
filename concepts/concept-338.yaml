@@ -1,22 +1,16 @@
 ---
-term: raster
+term: raster layer
 termid: 338
 eng:
   id: 338
-  definition: usually rectangular pattern of parallel scanning lines forming or corresponding
-    to the display on a cathode ray tube
+  definition: cell-based representation of data of features on the earth’s surface.
   language_code: eng
   notes:
-  - A raster is a type of grid.
-  - The term “raster data” is often used colloquially in the field of geographic information
-    to identify the whole class of data where the spatial geometry is organized into
-    a grid.
+  - Each cell has a distinct value and all the cells sharing the same value represent
+    a specific feature.
+  - Raster layers are analogous to coverages.
   examples: []
-  authoritative_source:
-    ref: ISO 19123:2005
-    clause: '4.1.30'
-    comment: modified —  Note 2 to entry has been added.
   terms:
   - type: expression
-    designation: raster
+    designation: raster layer
     normative_status: preferred

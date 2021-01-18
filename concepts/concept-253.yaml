@@ -1,18 +1,20 @@
 ---
-term: Net Centric Operations Infrastructure Committee
+term: Network Common Data Form
 termid: 253
 eng:
   id: 253
+  definition: set of software libraries and machine-independent data formats that
+    support the creation, access, and sharing of array-oriented scientific data
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.unidata.ucar.edu/software/netcdf/
   terms:
   - type: expression
-    designation: Net Centric Operations Infrastructure Committee
+    designation: Network Common Data Form
     normative_status: preferred
   - type: expression
-    designation: NCOIC
+    designation: NetCDF
     normative_status: preferred
     abbrev: true

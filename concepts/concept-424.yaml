@@ -1,18 +1,17 @@
 ---
-term: Water Observation Information System
+term: WaterML 2.0
 termid: 424
 eng:
   id: 424
+  definition: information model for the representation of water observations data,
+    with the intent of allowing the exchange of such data sets across information
+    systems
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Water Observation Information System
+    designation: WaterML 2.0
     normative_status: preferred
-  - type: expression
-    designation: WOIS
-    normative_status: preferred
-    abbrev: true

@@ -1,14 +1,26 @@
 ---
-term: SP
+term: Spatial Data Infrastructure
 termid: 376
 eng:
   id: 376
+  definition: computer system integrated by a set of resources to manage geographic
+    information available from the Internet, that follow a set of interoperational
+    capacity conditions that allow access through a simple browser and can be combined
+    based on user needs
   language_code: eng
   notes: []
-  examples: []
+  examples:
+  - Catalogues, servers, programs, data, applications, web pages are examples of various
+    resources.
+  - Rules, specifications, protocols, and interfaces are examples of interoperational
+    capacity conditions.
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: SP
+    designation: Spatial Data Infrastructure
     normative_status: preferred
+  - type: expression
+    designation: SDI
+    normative_status: preferred
+    abbrev: true

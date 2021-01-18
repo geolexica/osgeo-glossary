@@ -1,20 +1,18 @@
 ---
-term: Styled Layer Descriptor
+term: Sustainable Development Goal
 termid: 391
 eng:
   id: 391
-  definition: OGC specification format defining the cartographic rendering of vector
-    features
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Styled Layer Descriptor
+    designation: Sustainable Development Goal
     normative_status: preferred
   - type: expression
-    designation: SLD
+    designation: SDG
     normative_status: preferred
     abbrev: true

@@ -1,14 +1,14 @@
 ---
-term: spherical mercator
+term: SPIDER
 termid: 383
 eng:
   id: 383
-  definition: term to describe the map projection used by commercial API providers.
   language_code: eng
   notes: []
-  examples:
-  - 'Google maps, Microsoft Virtual Earth, Yahoo maps '
+  examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: spherical mercator
+    designation: SPIDER
     normative_status: preferred

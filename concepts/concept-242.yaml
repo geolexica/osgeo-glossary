@@ -1,5 +1,5 @@
 ---
-term: National Center for Supercomputing Applications
+term: National Elevation Dataset
 termid: 242
 eng:
   id: 242
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: National Center for Supercomputing Applications
+    designation: National Elevation Dataset
     normative_status: preferred
   - type: expression
-    designation: NCSA
+    designation: NED
     normative_status: preferred
     abbrev: true

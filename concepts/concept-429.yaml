@@ -1,5 +1,5 @@
 ---
-term: Web Services
+term: Web Services Definition Language
 termid: 429
 eng:
   id: 429
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Web Services
+    designation: Web Services Definition Language
     normative_status: preferred
   - type: expression
-    designation: WS
+    designation: WSDL
     normative_status: preferred
     abbrev: true

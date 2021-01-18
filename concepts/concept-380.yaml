@@ -1,20 +1,18 @@
 ---
-term: Spatial reference system
+term: Special Activity Airspace Pilot
 termid: 380
 eng:
   id: 380
-  definition: system for identifying position in the real world
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19155:2012
-    clause: '4.20'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Spatial reference system
+    designation: Special Activity Airspace Pilot
     normative_status: preferred
   - type: expression
-    designation: SRS
+    designation: SAA Pilot
     normative_status: preferred
     abbrev: true

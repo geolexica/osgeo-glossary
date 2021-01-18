@@ -1,18 +1,17 @@
 ---
-term: Mortgage Information Standards Maintenance Organization
+term: mosaic
 termid: 238
 eng:
   id: 238
+  definition: collection of georeferenced raster data sources merged together to create
+    a seamless raster dataset
   language_code: eng
-  notes: []
+  notes:
+  - 'See also: imagemosaic'
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Mortgage Information Standards Maintenance Organization
+    designation: mosaic
     normative_status: preferred
-  - type: expression
-    designation: MISMO
-    normative_status: preferred
-    abbrev: true

@@ -1,16 +1,18 @@
 ---
-term: scale, of a map
+term: Science Technology Innovation Strategy for Africa
 termid: 357
 eng:
   id: 357
-  definition: constant relation between a distance in a map and the corresponding
-    real distance
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    comment: GVSIG_1-0_2011
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: scale, of a map
+    designation: Science Technology Innovation Strategy for Africa
     normative_status: preferred
+  - type: expression
+    designation: STISA 2024
+    normative_status: preferred
+    abbrev: true

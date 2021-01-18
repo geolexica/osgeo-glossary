@@ -1,5 +1,5 @@
 ---
-term: Request for Information
+term: Request for Participation
 termid: 348
 eng:
   id: 348
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Request for Information
+    designation: Request for Participation
     normative_status: preferred
   - type: expression
-    designation: RFI
+    designation: RFP
     normative_status: preferred
     abbrev: true

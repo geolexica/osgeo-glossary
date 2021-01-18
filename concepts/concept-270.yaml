@@ -1,8 +1,9 @@
 ---
-term: OGC City Geography Markup Language (CityGML) Encoding Standard
+term: OGC Compliance and Interoperability Testing Initiative
 termid: 270
 eng:
   id: 270
+  definition: OGC Compliance Testing Program
   language_code: eng
   notes: []
   examples: []
@@ -10,9 +11,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC City Geography Markup Language (CityGML) Encoding Standard
+    designation: OGC Compliance and Interoperability Testing Initiative
     normative_status: preferred
   - type: expression
-    designation: CityGML
+    designation: CITE
     normative_status: preferred
     abbrev: true

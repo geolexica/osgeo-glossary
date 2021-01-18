@@ -1,5 +1,5 @@
 ---
-term: OGC Architecture Board
+term: OGC Australasia
 termid: 265
 eng:
   id: 265
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Architecture Board
+    designation: OGC Australasia
     normative_status: preferred
   - type: expression
-    designation: OAB
+    designation: OGC-A
     normative_status: preferred
     abbrev: true

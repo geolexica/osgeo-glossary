@@ -1,5 +1,5 @@
 ---
-term: Small or Medium Sized Enterprise
+term: Software as a Service
 termid: 374
 eng:
   id: 374
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Small or Medium Sized Enterprise
+    designation: Software as a Service
     normative_status: preferred
   - type: expression
-    designation: SME
+    designation: SaaS
     normative_status: preferred
     abbrev: true

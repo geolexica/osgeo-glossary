@@ -1,10 +1,10 @@
 ---
-term: Simple Mail Transfer Protocol
+term: Simple Object Access Protocol
 termid: 371
 eng:
   id: 371
-  definition: Internet standard for electronic mail (e-mail) transmission across Internet
-    Protocol (IP) networks.
+  definition: protocol for exchanging structured information for the implementation
+    of Web Services
   language_code: eng
   notes: []
   examples: []
@@ -12,9 +12,9 @@ eng:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Simple Mail Transfer Protocol
+    designation: Simple Object Access Protocol
     normative_status: preferred
   - type: expression
-    designation: SMTP
+    designation: SOAP
     normative_status: preferred
     abbrev: true

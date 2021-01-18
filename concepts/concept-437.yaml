@@ -1,18 +1,15 @@
 ---
-term: Working Group on Capacity Building and Data Democracy
+term: workspace
 termid: 437
 eng:
   id: 437
+  definition: organizational structure for grouping related data
   language_code: eng
   notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+  examples:
+  - GeoServer uses a workspace for related data stores. Other geospatial software
+    store related datasets in a workspace.
   terms:
   - type: expression
-    designation: Working Group on Capacity Building and Data Democracy
+    designation: workspace
     normative_status: preferred
-  - type: expression
-    designation: WGCapD
-    normative_status: preferred
-    abbrev: true

@@ -1,18 +1,20 @@
 ---
-term: XML for Imagery and Map Annotations
+term: XML Schema Definition
 termid: 443
 eng:
   id: 443
+  definition: recommendation of the World Wide Web Consortium (W3C) that specifies
+    how to formally describe the elements in an Extensible Markup Language (XML) document
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: XML for Imagery and Map Annotations
+    designation: XML Schema Definition
     normative_status: preferred
   - type: expression
-    designation: XIMA
+    designation: XSD
     normative_status: preferred
     abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Remote Procedure Call
+term: REpresentational State Transfer programming style
 termid: 344
 eng:
   id: 344
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Remote Procedure Call
+    designation: REpresentational State Transfer programming style
     normative_status: preferred
   - type: expression
-    designation: RPC
+    designation: RESTful
     normative_status: preferred
     abbrev: true

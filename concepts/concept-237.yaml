@@ -1,6 +1,5 @@
 ---
-term: Mobile Location Services Domian Working Group - merger of Mass Market and Location
-  Services DWGs
+term: Mortgage Information Standards Maintenance Organization
 termid: 237
 eng:
   id: 237
@@ -11,10 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Mobile Location Services Domian Working Group - merger of Mass Market
-      and Location Services DWGs
+    designation: Mortgage Information Standards Maintenance Organization
     normative_status: preferred
   - type: expression
-    designation: MLS DWG
+    designation: MISMO
     normative_status: preferred
     abbrev: true

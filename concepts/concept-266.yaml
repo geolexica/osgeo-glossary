@@ -1,5 +1,5 @@
 ---
-term: OGC Australasia
+term: OGC Catalog Domain Working Group
 termid: 266
 eng:
   id: 266
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Australasia
+    designation: OGC Catalog Domain Working Group
     normative_status: preferred
   - type: expression
-    designation: OGC-A
+    designation: Cat DWG
     normative_status: preferred
     abbrev: true

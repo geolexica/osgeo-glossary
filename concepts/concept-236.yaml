@@ -1,19 +1,20 @@
 ---
-term: Metadata Exchange Format
+term: Mobile Location Services Domian Working Group - merger of Mass Market and Location
+  Services DWGs
 termid: 236
 eng:
   id: 236
-  definition: metadata export format developed by the GeoNetwork community
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Metadata Exchange Format
+    designation: Mobile Location Services Domian Working Group - merger of Mass Market
+      and Location Services DWGs
     normative_status: preferred
   - type: expression
-    designation: MEF
+    designation: MLS DWG
     normative_status: preferred
     abbrev: true

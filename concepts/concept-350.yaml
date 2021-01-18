@@ -1,16 +1,18 @@
 ---
-term: Request for Proposals
+term: Request for Technology
 termid: 350
 eng:
   id: 350
   language_code: eng
   notes: []
   examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Request for Proposals
+    designation: Request for Technology
     normative_status: preferred
   - type: expression
-    designation: RFP
+    designation: RFT
     normative_status: preferred
     abbrev: true
