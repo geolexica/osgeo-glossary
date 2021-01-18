@@ -10,7 +10,8 @@ eng:
     from image coordinates.
   examples: []
   authoritative_source:
-    link: ISO 19130-1:2018, 3.36
+    ref: ISO 19130-1:2018
+    clause: '3.36'
   terms:
   - type: expression
     designation: geopositioning

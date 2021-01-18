@@ -12,9 +12,8 @@ eng:
   examples:
   - GIF and JPG for the digital images respectively.
   authoritative_source:
-    link: 'ISO 19145:2013, 4.1.1
-
-'
+    ref: ISO 19145:2013
+    clause: '4.1.1'
   terms:
   - type: expression
     designation: compression

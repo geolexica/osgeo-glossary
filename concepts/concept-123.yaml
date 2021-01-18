@@ -8,7 +8,7 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: Combo of a couple of sources
+    comment: Combo of a couple of sources
   terms:
   - type: expression
     designation: Free and Open Source Software for Geospatial

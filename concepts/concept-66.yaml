@@ -11,7 +11,8 @@ eng:
   - 'Adapted from ANSI T1.523-2001. '
   examples: []
   authoritative_source:
-    link: ISO/TS 19129:2009, 4.1.8
+    ref: ISO/TS 19129:2009
+    clause: '4.1.8'
   terms:
   - type: expression
     designation: data compression

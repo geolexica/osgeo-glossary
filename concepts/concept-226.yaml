@@ -9,7 +9,8 @@ eng:
   - See also http://en.wikipedia.org/wiki/MAC_address on Wikipedia
   examples: []
   authoritative_source:
-    link: ISO 19111:2019, 3.1.40
+    ref: ISO 19111:2019
+    clause: '3.1.40'
   terms:
   - type: expression
     designation: map projection
