@@ -1,18 +1,21 @@
 ---
-term: Object Management Group
+term: Object Oriented
 termid: 261
 eng:
   id: 261
+  definition: computer programming model that organizes software design around data,
+    or objects, rather than functions and logic
   language_code: eng
-  notes: []
+  notes:
+  - Here an object can be defined as a data field that has unique attributes and behavior.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Object Management Group
+    designation: Object Oriented
     normative_status: preferred
   - type: expression
-    designation: OMG
+    designation: OO
     normative_status: preferred
     abbrev: true

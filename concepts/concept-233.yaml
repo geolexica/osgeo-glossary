@@ -1,20 +1,18 @@
 ---
-term: metadata
+term: metadata element
 termid: 233
 eng:
   id: 233
-  definition: information about a resource
+  definition: discrete unit of metadata
   language_code: eng
-  notes: []
+  notes:
+  - Metadata elements are unique within a metadata class.
+  - Equivalent to an attribute and/or an association in UML terminology.
+  - Class attributes and relationships are referred to collectively as metadata elements.
   examples: []
   authoritative_source:
-    ref: ISO 19115-1:2014
-    clause: '4.10'
-    comment: modified — An admitted term from OSGeo has been added.
+    link: ISO 19115-1:2014, 4.11
   terms:
   - type: expression
-    designation: metadata
-    normative_status: preferred
-  - type: expression
-    designation: geospatial metadata
+    designation: metadata element
     normative_status: preferred

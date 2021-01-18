@@ -1,8 +1,9 @@
 ---
-term: Short Term Scientific Missions
+term: SIGTE
 termid: 365
 eng:
   id: 365
+  definition: GIS and Remote Sensing Service of the University of Girona, Spain
   language_code: eng
   notes: []
   examples: []
@@ -10,9 +11,5 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Short Term Scientific Missions
+    designation: SIGTE
     normative_status: preferred
-  - type: expression
-    designation: STSM
-    normative_status: preferred
-    abbrev: true

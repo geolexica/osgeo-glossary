@@ -1,16 +1,18 @@
 ---
-term: National Center for Atmospheric Research
+term: National Center for Supercomputing Applications
 termid: 241
 eng:
   id: 241
   language_code: eng
   notes: []
   examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: National Center for Atmospheric Research
+    designation: National Center for Supercomputing Applications
     normative_status: preferred
   - type: expression
-    designation: NCAR
+    designation: NCSA
     normative_status: preferred
     abbrev: true

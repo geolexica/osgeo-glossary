@@ -1,18 +1,20 @@
 ---
-term: Universal Description, Discovery, and Integration
+term: Universally Unique Identifier
 termid: 413
 eng:
   id: 413
+  definition: 128-bit number used to identify information in computer systems
   language_code: eng
-  notes: []
+  notes:
+  - also referred to as a globally unique identifier
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Universal Description, Discovery, and Integration
+    designation: Universally Unique Identifier
     normative_status: preferred
   - type: expression
-    designation: UDDI
+    designation: UUID
     normative_status: preferred
     abbrev: true

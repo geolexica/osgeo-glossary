@@ -1,26 +1,18 @@
 ---
-term: Spatial Data Infrastructure
+term: Spatial Data Transfer Standard
 termid: 377
 eng:
   id: 377
-  definition: computer system integrated by a set of resources to manage geographic
-    information available from the Internet, that follow a set of interoperational
-    capacity conditions that allow access through a simple browser and can be combined
-    based on user needs
   language_code: eng
   notes: []
-  examples:
-  - Catalogues, servers, programs, data, applications, web pages are examples of various
-    resources.
-  - Rules, specifications, protocols, and interfaces are examples of interoperational
-    capacity conditions.
+  examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Spatial Data Infrastructure
+    designation: Spatial Data Transfer Standard
     normative_status: preferred
   - type: expression
-    designation: SDI
+    designation: SDTS
     normative_status: preferred
     abbrev: true

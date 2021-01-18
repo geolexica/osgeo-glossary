@@ -1,5 +1,5 @@
 ---
-term: Univ DWG
+term: Universal Description, Discovery, and Integration
 termid: 412
 eng:
   id: 412
@@ -10,5 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Univ DWG
+    designation: Universal Description, Discovery, and Integration
     normative_status: preferred
+  - type: expression
+    designation: UDDI
+    normative_status: preferred
+    abbrev: true

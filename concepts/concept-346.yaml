@@ -1,6 +1,5 @@
 ---
-term: REpresentational State Transfer. An open, resource-oriented model for implementing
-  Web services.
+term: Request for Comment
 termid: 346
 eng:
   id: 346
@@ -11,10 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: REpresentational State Transfer. An open, resource-oriented model
-      for implementing Web services.
+    designation: Request for Comment
     normative_status: preferred
   - type: expression
-    designation: REST
+    designation: RFC
     normative_status: preferred
     abbrev: true

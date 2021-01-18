@@ -1,5 +1,5 @@
 ---
-term: National Spatial Data Infrastructure
+term: Natural Resources and Environment
 termid: 251
 eng:
   id: 251
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: National Spatial Data Infrastructure
+    designation: Natural Resources and Environment
     normative_status: preferred
   - type: expression
-    designation: NSDI
+    designation: NRE
     normative_status: preferred
     abbrev: true

@@ -9,8 +9,7 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19130-1:2018
-    clause: '3.38'
+    link: ISO 19130-1:2018, 3.38
   terms:
   - type: expression
     designation: georeferencing

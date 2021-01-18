@@ -1,20 +1,19 @@
 ---
-term: OGC GeoAPI Interface Standard
+term: OGC Geography Markup Language Encoding Standard
 termid: 279
 eng:
   id: 279
-  definition: Java API that provides a set programming interfaces for geospatial applications
-    developed by OGC
+  definition: OGC standard which defines an abstract model for geographic features
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OGC GeoAPI Interface Standard
+    designation: OGC Geography Markup Language Encoding Standard
     normative_status: preferred
   - type: expression
-    designation: GeoAPI
+    designation: GML
     normative_status: preferred
     abbrev: true

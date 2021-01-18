@@ -1,5 +1,5 @@
 ---
-term: World Geodetic System
+term: World Meteorological Organization
 termid: 440
 eng:
   id: 440
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: World Geodetic System
+    designation: World Meteorological Organization
     normative_status: preferred
   - type: expression
-    designation: WGS
+    designation: WMO
     normative_status: preferred
     abbrev: true

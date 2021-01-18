@@ -1,17 +1,21 @@
 ---
-term: Shibboleth
+term: Shockwave Flash format
 termid: 363
 eng:
   id: 363
-  definition: open-source project that provides Single Sign-On capabilities and allows
-    sites to make informed authorization decisions for individual access of protected
-    online resources in a privacy-preserving manner
+  definition: 'digital file format supporing multimedia, vector graphics, and object
+    oriented scripting '
   language_code: eng
-  notes: []
+  notes:
+  - MapServer can generate output in SWF.
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Shibboleth
+    designation: Shockwave Flash format
     normative_status: preferred
+  - type: expression
+    designation: SWF
+    normative_status: preferred
+    abbrev: true

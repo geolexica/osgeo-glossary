@@ -1,5 +1,5 @@
 ---
-term: World Meteorological Organization
+term: World Wide Web Consortium
 termid: 441
 eng:
   id: 441
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: World Meteorological Organization
+    designation: World Wide Web Consortium
     normative_status: preferred
   - type: expression
-    designation: WMO
+    designation: W3C
     normative_status: preferred
     abbrev: true

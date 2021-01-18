@@ -1,5 +1,5 @@
 ---
-term: Special Activity Airspace Pilot
+term: Special Interest Group
 termid: 381
 eng:
   id: 381
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Special Activity Airspace Pilot
+    designation: Special Interest Group
     normative_status: preferred
   - type: expression
-    designation: SAA Pilot
+    designation: SIG
     normative_status: preferred
     abbrev: true

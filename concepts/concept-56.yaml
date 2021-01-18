@@ -10,8 +10,7 @@ eng:
     by units.
   examples: []
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.5'
+    link: ISO 19111:2019, 3.1.5
   terms:
   - type: expression
     designation: coordinate

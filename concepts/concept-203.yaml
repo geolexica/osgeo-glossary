@@ -9,7 +9,7 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    comment: Sandro
+    link: Sandro
   terms:
   - type: expression
     designation: ISO SQL/MM

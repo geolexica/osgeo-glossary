@@ -1,22 +1,18 @@
 ---
-term: Web Coverage Service
+term: Web Mapping Testbed
 termid: 426
 eng:
   id: 426
-  definition: interface for reading and writing geospatial data as “coverages” (objects
-    or images) across the web
   language_code: eng
-  notes:
-  - The Web Coverage Service provides an interface allowing requests for geographical
-    coverages across the web using platform-independent calls.
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Web Coverage Service
+    designation: Web Mapping Testbed
     normative_status: preferred
   - type: expression
-    designation: WCS
+    designation: WMT
     normative_status: preferred
     abbrev: true

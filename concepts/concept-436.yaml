@@ -1,5 +1,5 @@
 ---
-term: Working Group
+term: Working Group on Capacity Building and Data Democracy
 termid: 436
 eng:
   id: 436
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Working Group
+    designation: Working Group on Capacity Building and Data Democracy
     normative_status: preferred
   - type: expression
-    designation: WG
+    designation: WGCapD
     normative_status: preferred
     abbrev: true

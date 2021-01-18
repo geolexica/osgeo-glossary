@@ -1,19 +1,18 @@
 ---
-term: Neutral Transfer Format
+term: NEw Partnership for African Development
 termid: 255
 eng:
   id: 255
   language_code: eng
-  notes:
-  - Within the UK
+  notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Neutral Transfer Format
+    designation: NEw Partnership for African Development
     normative_status: preferred
   - type: expression
-    designation: NTF
+    designation: NEPAD
     normative_status: preferred
     abbrev: true

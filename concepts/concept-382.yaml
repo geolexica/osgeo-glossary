@@ -1,18 +1,14 @@
 ---
-term: Special Interest Group
+term: spherical mercator
 termid: 382
 eng:
   id: 382
+  definition: term to describe the map projection used by commercial API providers.
   language_code: eng
   notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+  examples:
+  - 'Google maps, Microsoft Virtual Earth, Yahoo maps '
   terms:
   - type: expression
-    designation: Special Interest Group
+    designation: spherical mercator
     normative_status: preferred
-  - type: expression
-    designation: SIG
-    normative_status: preferred
-    abbrev: true

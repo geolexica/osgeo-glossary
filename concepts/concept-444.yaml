@@ -1,20 +1,22 @@
 ---
-term: XML Schema Definition
+term: Z39.50 protocol
 termid: 444
 eng:
   id: 444
-  definition: recommendation of the World Wide Web Consortium (W3C) that specifies
-    how to formally describe the elements in an Extensible Markup Language (XML) document
+  definition: client-server protocol for searching and retrieving information from
+    remote computer databases
   language_code: eng
-  notes: []
+  notes:
+  - Z39.50 is defined in ANSI/NISO Z39.50 and ISO 23950. The standard is maintained
+    by the US Library of Congress.
   examples: []
   authoritative_source:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: XML Schema Definition
+    designation: Z39.50 protocol
     normative_status: preferred
   - type: expression
-    designation: XSD
+    designation: Z39.50
     normative_status: preferred
     abbrev: true

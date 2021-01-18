@@ -1,5 +1,5 @@
 ---
-term: Natural Resources and Environment
+term: Net Centric Operations Infrastructure Committee
 termid: 252
 eng:
   id: 252
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Natural Resources and Environment
+    designation: Net Centric Operations Infrastructure Committee
     normative_status: preferred
   - type: expression
-    designation: NRE
+    designation: NCOIC
     normative_status: preferred
     abbrev: true

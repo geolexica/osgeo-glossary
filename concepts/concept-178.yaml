@@ -13,8 +13,7 @@ eng:
     a prediction from a model."
   examples: []
   authoritative_source:
-    ref: ISO 19115-2:2019
-    clause: '3.1.18'
+    link: ISO 19115-2:2019, 3.1.18
   terms:
   - type: expression
     designation: image

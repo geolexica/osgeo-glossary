@@ -11,7 +11,7 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    comment: GVSIG_1-0_2011
+    link: GVSIG_1-0_2011
   terms:
   - type: expression
     designation: clearinghouse

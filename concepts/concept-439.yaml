@@ -1,20 +1,18 @@
 ---
-term: World Food Programme
+term: World Geodetic System
 termid: 439
 eng:
   id: 439
-  definition: food aid branch of the United Nations
   language_code: eng
-  notes:
-  - WFP is the world’s largest humanitarian organization
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: World Food Programme
+    designation: World Geodetic System
     normative_status: preferred
   - type: expression
-    designation: WFP
+    designation: WGS
     normative_status: preferred
     abbrev: true

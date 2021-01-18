@@ -1,19 +1,18 @@
 ---
-term: Topologically Integrated Geographic Encoding and Reference
+term: Triangulated Irregular Network
 termid: 404
 eng:
   id: 404
-  definition: data file format developed by the US Census Bureau
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Topologically Integrated Geographic Encoding and Reference
+    designation: Triangulated Irregular Network
     normative_status: preferred
   - type: expression
-    designation: TIGER
+    designation: TIN
     normative_status: preferred
     abbrev: true

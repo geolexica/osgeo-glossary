@@ -1,18 +1,21 @@
 ---
-term: U.S. Geological Survey
+term: UN Environment Programme
 termid: 406
 eng:
   id: 406
+  definition: organization that coordinates United Nations environmental activities,
+    assisting developing countries in implementing environmentally sound policies
+    and encourages sustainable development through sound environmental practices
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: U.S. Geological Survey
+    designation: UN Environment Programme
     normative_status: preferred
   - type: expression
-    designation: USGS
+    designation: UNEP
     normative_status: preferred
     abbrev: true

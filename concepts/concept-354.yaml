@@ -1,5 +1,5 @@
 ---
-term: Risk and Crisis Management
+term: Russian Federal Service for Hydrometeorologyand Enviromental Monitoring
 termid: 354
 eng:
   id: 354
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Risk and Crisis Management
+    designation: Russian Federal Service for Hydrometeorologyand Enviromental Monitoring
     normative_status: preferred
   - type: expression
-    designation: RCM
+    designation: ROSHYDROMET
     normative_status: preferred
     abbrev: true

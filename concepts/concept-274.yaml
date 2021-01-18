@@ -1,10 +1,10 @@
 ---
-term: OGC Critical Infrastructure Protection Initiative
+term: OGC ebXML RegRep SWG
 termid: 274
 eng:
   id: 274
-  definition: 2002 OGC Interoperability Initiative focused on critical infrastructure
-    protection
+  definition: OGC Standards Working Group developing an an extension to the OASIS
+    ebXML RegRep standard
   language_code: eng
   notes: []
   examples: []
@@ -12,9 +12,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Critical Infrastructure Protection Initiative
+    designation: OGC ebXML RegRep SWG
     normative_status: preferred
-  - type: expression
-    designation: CIPI
-    normative_status: preferred
-    abbrev: true

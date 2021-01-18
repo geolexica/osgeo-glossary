@@ -1,5 +1,5 @@
 ---
-term: Non-Governmental Organization
+term: North American Datum
 termid: 258
 eng:
   id: 258
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Non-Governmental Organization
+    designation: North American Datum
     normative_status: preferred
   - type: expression
-    designation: NGO
+    designation: NAD
     normative_status: preferred
     abbrev: true

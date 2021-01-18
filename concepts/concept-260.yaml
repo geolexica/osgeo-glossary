@@ -1,5 +1,5 @@
 ---
-term: Object Linking and Embedding/Common Object Model (Microsoft)
+term: Object Management Group
 termid: 260
 eng:
   id: 260
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Object Linking and Embedding/Common Object Model (Microsoft)
+    designation: Object Management Group
     normative_status: preferred
   - type: expression
-    designation: OLE/COM
+    designation: OMG
     normative_status: preferred
     abbrev: true

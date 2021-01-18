@@ -1,18 +1,17 @@
 ---
-term: Shapefile
+term: Shibboleth
 termid: 362
 eng:
   id: 362
-  definition: vector data format for points, lines, or areas
+  definition: open-source project that provides Single Sign-On capabilities and allows
+    sites to make informed authorization decisions for individual access of protected
+    online resources in a privacy-preserving manner
   language_code: eng
-  notes:
-  - Originally developed by ESRI and widely support by many software projects.
-  examples:
-  - The United States Census Bureau TIGER Data can be obtained for most counties in
-    the United States as ESRI Shapefiles.
+  notes: []
+  examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Shapefile
+    designation: Shibboleth
     normative_status: preferred

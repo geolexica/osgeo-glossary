@@ -1,5 +1,5 @@
 ---
-term: University Corporation for Atmospheric Research
+term: Unmanned Aerial Vehicle
 termid: 415
 eng:
   id: 415
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: University Corporation for Atmospheric Research
+    designation: Unmanned Aerial Vehicle
     normative_status: preferred
   - type: expression
-    designation: UCAR
+    designation: UAV
     normative_status: preferred
     abbrev: true

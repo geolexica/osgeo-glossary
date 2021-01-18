@@ -1,9 +1,8 @@
 ---
-term: OGC GMLJP2 1.1 SWG
+term: OGC Iberian and Latin-American Forum
 termid: 284
 eng:
   id: 284
-  definition: OGC GML in JPEG 2000 Standards Working Group
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC GMLJP2 1.1 SWG
+    designation: OGC Iberian and Latin-American Forum
     normative_status: preferred
+  - type: expression
+    designation: ILAF
+    normative_status: preferred
+    abbrev: true

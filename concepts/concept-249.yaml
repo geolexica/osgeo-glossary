@@ -1,5 +1,5 @@
 ---
-term: National Mapping Agency
+term: National Science Foundation
 termid: 249
 eng:
   id: 249
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: National Mapping Agency
+    designation: National Science Foundation
     normative_status: preferred
   - type: expression
-    designation: NMA
+    designation: NSF
     normative_status: preferred
     abbrev: true

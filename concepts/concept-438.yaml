@@ -1,15 +1,20 @@
 ---
-term: workspace
+term: World Food Programme
 termid: 438
 eng:
   id: 438
-  definition: organizational structure for grouping related data
+  definition: food aid branch of the United Nations
   language_code: eng
-  notes: []
-  examples:
-  - GeoServer uses a workspace for related data stores. Other geospatial software
-    store related datasets in a workspace.
+  notes:
+  - WFP is the world’s largest humanitarian organization
+  examples: []
+  authoritative_source:
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: workspace
+    designation: World Food Programme
     normative_status: preferred
+  - type: expression
+    designation: WFP
+    normative_status: preferred
+    abbrev: true

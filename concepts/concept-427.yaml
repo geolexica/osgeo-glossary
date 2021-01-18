@@ -1,5 +1,5 @@
 ---
-term: Web Mapping Testbed
+term: Web Processing Service
 termid: 427
 eng:
   id: 427
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Web Mapping Testbed
+    designation: Web Processing Service
     normative_status: preferred
   - type: expression
-    designation: WMT
+    designation: WPS
     normative_status: preferred
     abbrev: true

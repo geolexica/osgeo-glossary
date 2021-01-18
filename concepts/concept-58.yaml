@@ -12,8 +12,7 @@ eng:
     bodies.
   examples: []
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.9'
+    link: ISO 19111:2019, 3.1.9
   terms:
   - type: expression
     designation: Coordinate Reference System

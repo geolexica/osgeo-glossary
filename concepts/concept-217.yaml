@@ -9,8 +9,7 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19128:2005
-    clause: '4.6'
+    link: ISO 19128:2005, 4.6
   terms:
   - type: expression
     designation: layer

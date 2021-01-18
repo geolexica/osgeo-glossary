@@ -10,8 +10,7 @@ eng:
   - The curves partition a space into grid cells.
   examples: []
   authoritative_source:
-    ref: ISO 19123:2005
-    clause: '4.1.23'
+    link: ISO 19123:2005, 4.1.23
   terms:
   - type: expression
     designation: grid

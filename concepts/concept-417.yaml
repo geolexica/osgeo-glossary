@@ -1,19 +1,16 @@
 ---
-term: USGIF
+term: Vector
 termid: 417
 eng:
   id: 417
-  definition: United States Geospatial Intelligence Foundation
+  definition: features described by geometries (points, lines, polygons) on a (typically)
+    cartesian plane
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: USGIF
+    designation: Vector
     normative_status: preferred
-  - type: expression
-    designation: United States Geospatial Intelligence Foundation
-    normative_status: preferred
-    abbrev: true

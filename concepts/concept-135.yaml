@@ -9,8 +9,7 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19115-2:2019
-    clause: '3.11'
+    link: ISO 19115-2:2019, 3.11
   terms:
   - type: expression
     designation: georectified

@@ -1,21 +1,18 @@
 ---
-term: Shockwave Flash format
+term: Short Term Scientific Missions
 termid: 364
 eng:
   id: 364
-  definition: 'digital file format supporing multimedia, vector graphics, and object
-    oriented scripting '
   language_code: eng
-  notes:
-  - MapServer can generate output in SWF.
+  notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Shockwave Flash format
+    designation: Short Term Scientific Missions
     normative_status: preferred
   - type: expression
-    designation: SWF
+    designation: STSM
     normative_status: preferred
     abbrev: true

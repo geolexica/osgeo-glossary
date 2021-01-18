@@ -1,5 +1,5 @@
 ---
-term: National Institute for Building Standards
+term: National Institute of Standards and Technology
 termid: 246
 eng:
   id: 246
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: National Institute for Building Standards
+    designation: National Institute of Standards and Technology
     normative_status: preferred
   - type: expression
-    designation: NIBS
+    designation: NIST
     normative_status: preferred
     abbrev: true

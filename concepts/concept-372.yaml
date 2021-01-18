@@ -1,20 +1,21 @@
 ---
-term: Simple Object Access Protocol
+term: Simplified Wrapper Interface Generator
 termid: 372
 eng:
   id: 372
-  definition: protocol for exchanging structured information for the implementation
-    of Web Services
+  definition: MapServer library used for generating all language bindings other than
+    C/C++ and PHP
   language_code: eng
-  notes: []
+  notes:
+  - MapScript describes these bindings.
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Simple Object Access Protocol
+    designation: Simplified Wrapper Interface Generator
     normative_status: preferred
   - type: expression
-    designation: SOAP
+    designation: SWIG
     normative_status: preferred
     abbrev: true

@@ -12,8 +12,7 @@ eng:
     centre of the Earth.
   examples: []
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.22'
+    link: ISO 19111:2019, 3.1.22
   terms:
   - type: expression
     designation: ellipsoid

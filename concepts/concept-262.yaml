@@ -1,21 +1,19 @@
 ---
-term: Object Oriented
+term: Observations and Measurements
 termid: 262
 eng:
   id: 262
-  definition: computer programming model that organizes software design around data,
-    or objects, rather than functions and logic
+  definition: OGC standard which defines an abstract model for sensor based data
   language_code: eng
-  notes:
-  - Here an object can be defined as a data field that has unique attributes and behavior.
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Object Oriented
+    designation: Observations and Measurements
     normative_status: preferred
   - type: expression
-    designation: OO
+    designation: OM
     normative_status: preferred
     abbrev: true

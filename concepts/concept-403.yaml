@@ -1,20 +1,19 @@
 ---
-term: tileindex
+term: Topologically Integrated Geographic Encoding and Reference
 termid: 403
 eng:
   id: 403
-  definition: vector data source that contains spatial extents (footprints) of raster
-    data coverages
+  definition: data file format developed by the US Census Bureau
   language_code: eng
-  notes:
-  - A tilelindex is normally in the form of a shpfile
-  examples:
-  - MapServer can use a tileindex to render a directory of raster data by only reading
-    the data that intersects the requested map extent, rather than reading all of
-    the data.
+  notes: []
+  examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: tileindex
+    designation: Topologically Integrated Geographic Encoding and Reference
     normative_status: preferred
+  - type: expression
+    designation: TIGER
+    normative_status: preferred
+    abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Request for Technology
+term: Research and Technology Development (Europe)
 termid: 351
 eng:
   id: 351
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Request for Technology
+    designation: Research and Technology Development (Europe)
     normative_status: preferred
   - type: expression
-    designation: RFT
+    designation: RTD
     normative_status: preferred
     abbrev: true

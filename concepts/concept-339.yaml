@@ -1,16 +1,19 @@
 ---
-term: raster layer
+term: reference frame
 termid: 339
 eng:
   id: 339
-  definition: cell-based representation of data of features on the earth’s surface.
+  definition: parameter or set of parameters that realize the position of the origin,
+    the scale, and the orientation of a coordinate system
   language_code: eng
-  notes:
-  - Each cell has a distinct value and all the cells sharing the same value represent
-    a specific feature.
-  - Raster layers are analogous to coverages.
+  notes: []
   examples: []
+  authoritative_source:
+    link: ISO 19111:2019, 3.1.15
   terms:
   - type: expression
-    designation: raster layer
+    designation: reference frame
+    normative_status: preferred
+  - type: expression
+    designation: datum
     normative_status: preferred

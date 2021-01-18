@@ -1,5 +1,5 @@
 ---
-term: Synthetic Aperture Radar
+term: Tagged Image File Format
 termid: 394
 eng:
   id: 394
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Synthetic Aperture Radar
+    designation: Tagged Image File Format
     normative_status: preferred
   - type: expression
-    designation: SAR
+    designation: TIFF
     normative_status: preferred
     abbrev: true

@@ -1,20 +1,18 @@
 ---
-term: reference frame
+term: Reference Model for Open Distributed Processing
 termid: 340
 eng:
   id: 340
-  definition: parameter or set of parameters that realize the position of the origin,
-    the scale, and the orientation of a coordinate system
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.15'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: reference frame
+    designation: Reference Model for Open Distributed Processing
     normative_status: preferred
   - type: expression
-    designation: datum
+    designation: RM-ODP
     normative_status: preferred
+    abbrev: true
