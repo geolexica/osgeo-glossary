@@ -1,20 +1,18 @@
 ---
-term: Uniform Resource Locator
+term: Unified Modeling Language
 termid: 408
 eng:
   id: 408
-  definition: specifies where an identified resource is located on a computer network
-    and the mechanism for retrieving it
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Uniform Resource Locator
+    designation: Unified Modeling Language
     normative_status: preferred
   - type: expression
-    designation: URL
+    designation: Unified Modeling Language
     normative_status: preferred
     abbrev: true

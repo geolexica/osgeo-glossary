@@ -13,6 +13,6 @@ eng:
     designation: IEEE Geoscience and Remote Sensing Society
     normative_status: preferred
   - type: expression
-    designation: IEEE GRSS
+    designation: GRSS
     normative_status: preferred
     abbrev: true

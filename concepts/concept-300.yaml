@@ -1,5 +1,5 @@
 ---
-term: OGC Web Coverage Processing Service Interface Standard
+term: OGC Web Coordinate Transformation Service Interface Standard
 termid: 300
 eng:
   id: 300
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Web Coverage Processing Service Interface Standard
+    designation: OGC Web Coordinate Transformation Service Interface Standard
     normative_status: preferred
   - type: expression
-    designation: WCPS
+    designation: WCTS
     normative_status: preferred
     abbrev: true

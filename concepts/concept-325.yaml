@@ -1,5 +1,5 @@
 ---
-term: Organization for the Advancement of Structured Information Standards
+term: Organisation for Economic Co-Operation and Development
 termid: 325
 eng:
   id: 325
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Organization for the Advancement of Structured Information Standards
+    designation: Organisation for Economic Co-Operation and Development
     normative_status: preferred
   - type: expression
-    designation: OASIS
+    designation: OECD
     normative_status: preferred
     abbrev: true

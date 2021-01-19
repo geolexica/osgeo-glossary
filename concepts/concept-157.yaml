@@ -1,18 +1,19 @@
 ---
-term: globally unique identifier
+term: Global Spatial Data infrastructure Association
 termid: 157
 eng:
   id: 157
-  definition: 128-bit number used to identify information in computer systems
   language_code: eng
   notes:
-  - also referred to as a universally unique identifier
+  - GSDI was dissolved as a legal entity in October 2018.
   examples: []
+  authoritative_source:
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: globally unique identifier
+    designation: Global Spatial Data infrastructure Association
     normative_status: preferred
   - type: expression
-    designation: GUID
+    designation: GSDI Association
     normative_status: preferred
     abbrev: true

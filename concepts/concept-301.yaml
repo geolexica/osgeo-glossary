@@ -1,24 +1,18 @@
 ---
-term: OGC Web Coverage Service Interface Standard
+term: OGC Web Coverage Processing Service Interface Standard
 termid: 301
 eng:
   id: 301
-  definition: OGC standard that describes how to systematically produce structured
-    raster cartographic data from a service and return them to a client
   language_code: eng
-  notes:
-  - Defines an interface for reading and writing geospatial data as “coverages” across
-    the web. The Web Coverage Service provides an interface allowing requests for
-    geographical coverages across the web using platform-independent calls. The coverages
-    are objects (or images) in a geographical area
+  notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Web Coverage Service Interface Standard
+    designation: OGC Web Coverage Processing Service Interface Standard
     normative_status: preferred
   - type: expression
-    designation: WCS
+    designation: WCPS
     normative_status: preferred
     abbrev: true

@@ -1,17 +1,18 @@
 ---
-term: CNIDR z39.50 Server
+term: clearinghouse
 termid: 41
 eng:
   id: 41
-  definition: Clearinghouse for Networked Information Discovery and Retrieval z39.50
-    server
+  definition: distributed service for metadata about geospatial data locating. Allows
+    to search in one or several nodes or servers that have been registered in the
+    Clearinghouse of the Internet. It is the term used by FGDC, equivalent to the
+    OGC’s Catalogue Service.
   language_code: eng
-  notes:
-  - Also known as zDist.
+  notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    comment: GVSIG_1-0_2011
   terms:
   - type: expression
-    designation: CNIDR z39.50 Server
+    designation: clearinghouse
     normative_status: preferred

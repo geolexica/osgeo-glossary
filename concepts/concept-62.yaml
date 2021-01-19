@@ -1,11 +1,8 @@
 ---
-term: Creative Commons
+term: Create Read Update and Delete.
 termid: 62
 eng:
   id: 62
-  definition: American non-profit organization and international network devoted to
-    educational access and expanding the range of creative works available for others
-    to build upon legally and to share
   language_code: eng
   notes: []
   examples: []
@@ -13,5 +10,9 @@ eng:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Creative Commons
+    designation: Create Read Update and Delete.
     normative_status: preferred
+  - type: expression
+    designation: CRUD
+    normative_status: preferred
+    abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Digital Surface Models
+term: Digital Line Graph
 termid: 80
 eng:
   id: 80
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Digital Surface Models
+    designation: Digital Line Graph
     normative_status: preferred
   - type: expression
-    designation: DSM
+    designation: DLG
     normative_status: preferred
     abbrev: true

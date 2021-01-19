@@ -1,19 +1,20 @@
 ---
-term: Metadata Exchange Format
+term: metadata entity
 termid: 235
 eng:
   id: 235
-  definition: metadata export format developed by the GeoNetwork community
+  definition: 'set of metadata elements describing the same aspect of data
+
+'
   language_code: eng
-  notes: []
+  notes:
+  - Can contain one or more metadata entities.
+  - Equivalent to a class in UML terminology.
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    ref: ISO 19115-1:2014
+    clause: '4.12'
   terms:
   - type: expression
-    designation: Metadata Exchange Format
+    designation: metadata entity
     normative_status: preferred
-  - type: expression
-    designation: MEF
-    normative_status: preferred
-    abbrev: true

@@ -1,19 +1,18 @@
 ---
-term: Data Base File
+term: Data Access Object
 termid: 65
 eng:
   id: 65
-  definition: file format used by Dbase
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Data Base File
+    designation: Data Access Object
     normative_status: preferred
   - type: expression
-    designation: DBF
+    designation: DAO
     normative_status: preferred
     abbrev: true

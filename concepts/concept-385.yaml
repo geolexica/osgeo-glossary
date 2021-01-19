@@ -1,21 +1,16 @@
 ---
-term: SQL Multimedia and Application Packages
+term: spindle
 termid: 385
 eng:
   id: 385
-  definition: defines SQL based interfaces and packages to widely used applications
+  definition: part of a sphere which is divided by two meridians or maximum circles
   language_code: eng
   notes:
-  - 'ISO/IEC 13249: SQL Multimedia and Application Packages (SQL/MM)'
-  examples:
-  - Example application areas such as video, audio and spatial data.
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+  - In the UTM projection, each spindle is defined by two meridians separated by a
+    distance of 6 degrees (for a total circle round of 360 degrees) and by two parallels
+    of 80 degrees latitude North and South.
+  examples: []
   terms:
   - type: expression
-    designation: SQL Multimedia and Application Packages
+    designation: spindle
     normative_status: preferred
-  - type: expression
-    designation: SQL/MM
-    normative_status: preferred
-    abbrev: true

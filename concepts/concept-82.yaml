@@ -1,5 +1,5 @@
 ---
-term: Discussion Paper
+term: Digital Terrain Model
 termid: 82
 eng:
   id: 82
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Discussion Paper
+    designation: Digital Terrain Model
     normative_status: preferred
   - type: expression
-    designation: DP
+    designation: DTM
     normative_status: preferred
     abbrev: true

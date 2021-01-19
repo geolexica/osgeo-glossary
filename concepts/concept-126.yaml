@@ -1,20 +1,15 @@
 ---
-term: geographic information system
+term: geodesy
 termid: 126
 eng:
   id: 126
-  definition: system that captures, stores, analyzes, manages, and presents data that
-    is linked to location
+  definition: science that studies the shape of the Earch in the gravitational field
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: geographic information system
+    designation: geodesy
     normative_status: preferred
-  - type: expression
-    designation: GIS
-    normative_status: preferred
-    abbrev: true

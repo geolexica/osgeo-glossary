@@ -1,9 +1,9 @@
 ---
-term: OGC Reference Model
+term: OGC Outreach and Community Adoption
 termid: 291
 eng:
   id: 291
-  definition: complete set of OGC reference models
+  definition: former name of the group, which is now called OGC Marketing and Communications
   language_code: eng
   notes: []
   examples: []
@@ -11,9 +11,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Reference Model
+    designation: OGC Outreach and Community Adoption
     normative_status: preferred
   - type: expression
-    designation: ORM
+    designation: OCAP
     normative_status: preferred
     abbrev: true

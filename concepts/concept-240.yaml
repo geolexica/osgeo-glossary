@@ -1,16 +1,17 @@
 ---
-term: National Center for Atmospheric Research
+term: namespace
 termid: 240
 eng:
   id: 240
+  definition: "<XML> collection of names, identified by a URI reference, which are
+    used in XML documents as element names and attribute names (W3C XML Namespaces)\n"
   language_code: eng
   notes: []
   examples: []
+  authoritative_source:
+    ref: ISO 19136:2007
+    clause: 4.1.43
   terms:
   - type: expression
-    designation: National Center for Atmospheric Research
+    designation: namespace
     normative_status: preferred
-  - type: expression
-    designation: NCAR
-    normative_status: preferred
-    abbrev: true

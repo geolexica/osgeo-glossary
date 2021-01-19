@@ -1,18 +1,20 @@
 ---
-term: United Nations Global Geospatial Information Management
+term: Uniform Resource Locator
 termid: 409
 eng:
   id: 409
+  definition: specifies where an identified resource is located on a computer network
+    and the mechanism for retrieving it
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: United Nations Global Geospatial Information Management
+    designation: Uniform Resource Locator
     normative_status: preferred
   - type: expression
-    designation: UN-GGIM
+    designation: URL
     normative_status: preferred
     abbrev: true

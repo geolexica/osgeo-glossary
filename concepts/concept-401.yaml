@@ -1,21 +1,18 @@
 ---
-term: The Open Source Geospatial Foundation
+term: The Council of European Geodetic Surveyors
 termid: 401
 eng:
   id: 401
-  definition: non-profit non-governmental organization whose mission is to support
-    and promote the collaborative development of open geospatial technologies and
-    data
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: http://www.osgeo.org
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: The Open Source Geospatial Foundation
+    designation: The Council of European Geodetic Surveyors
     normative_status: preferred
   - type: expression
-    designation: OSGEO
+    designation: CLGE
     normative_status: preferred
     abbrev: true

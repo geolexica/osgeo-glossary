@@ -1,17 +1,19 @@
 ---
-term: georectified
+term: Geoprocessing networks in a European Territorial Interoperability Study
 termid: 135
 eng:
   id: 135
-  definition: corrected for positional displacement with respect to the surface of
-    the Earth
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19115-2:2019
-    clause: '3.11'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: georectified
+    designation: Geoprocessing networks in a European Territorial Interoperability
+      Study
     normative_status: preferred
+  - type: expression
+    designation: GETIS
+    normative_status: preferred
+    abbrev: true

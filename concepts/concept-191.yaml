@@ -1,18 +1,20 @@
 ---
-term: International Hydrographic Office
+term: International Electrotechnical Commission
 termid: 191
 eng:
   id: 191
+  definition: international organization that prepares and publishes international
+    standards for all electrical, electronic and related technologies
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: International Hydrographic Office
+    designation: International Electrotechnical Commission
     normative_status: preferred
   - type: expression
-    designation: OHI
+    designation: IEC
     normative_status: preferred
     abbrev: true

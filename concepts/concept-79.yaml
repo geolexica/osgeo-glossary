@@ -1,5 +1,5 @@
 ---
-term: Digital Line Graph
+term: Digital Landscape Model
 termid: 79
 eng:
   id: 79
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Digital Line Graph
+    designation: Digital Landscape Model
     normative_status: preferred
   - type: expression
-    designation: DLG
+    designation: DLM
     normative_status: preferred
     abbrev: true

@@ -1,9 +1,9 @@
 ---
-term: Digital and Electronic Maps Transfer Standard
+term: DesiGN file
 termid: 74
 eng:
   id: 74
-  definition: cartography transfer standard defined by GOST R 50828-95
+  definition: Microstation drawing format file
   language_code: eng
   notes: []
   examples: []
@@ -11,9 +11,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Digital and Electronic Maps Transfer Standard
+    designation: DesiGN file
     normative_status: preferred
   - type: expression
-    designation: DEMTS
+    designation: DGN
     normative_status: preferred
     abbrev: true

@@ -1,20 +1,14 @@
 ---
-term: metadata
+term: Mercator
 termid: 232
 eng:
   id: 232
-  definition: information about a resource
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19115-1:2014
-    clause: '4.10'
-    comment: modified — An admitted term from OSGeo has been added.
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: metadata
-    normative_status: preferred
-  - type: expression
-    designation: geospatial metadata
+    designation: Mercator
     normative_status: preferred

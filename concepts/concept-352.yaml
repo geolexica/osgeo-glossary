@@ -1,5 +1,5 @@
 ---
-term: Research Data Alliance
+term: Research and Technology Development (Europe)
 termid: 352
 eng:
   id: 352
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Research Data Alliance
+    designation: Research and Technology Development (Europe)
     normative_status: preferred
   - type: expression
-    designation: RDA
+    designation: RTD
     normative_status: preferred
     abbrev: true

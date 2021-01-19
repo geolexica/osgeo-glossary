@@ -1,19 +1,18 @@
 ---
-term: Geoprocessing networks in a European Territorial Interoperability Study
+term: geopositioning
 termid: 134
 eng:
   id: 134
+  definition: determination of the geographic position of an object
   language_code: eng
-  notes: []
+  notes:
+  - While there are many methods for geopositioning, this document is focused on geopositioning
+    from image coordinates.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19130-1:2018
+    clause: '3.36'
   terms:
   - type: expression
-    designation: Geoprocessing networks in a European Territorial Interoperability
-      Study
+    designation: geopositioning
     normative_status: preferred
-  - type: expression
-    designation: GETIS
-    normative_status: preferred
-    abbrev: true

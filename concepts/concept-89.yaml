@@ -1,15 +1,22 @@
 ---
-term: DWG file
+term: Dublin Core
 termid: 89
 eng:
   id: 89
-  definition: binary file format used for containing 2D and 3D design data
+  definition: standardized metadata element set for cross-domain information resource
+    description
   language_code: eng
-  notes: []
+  notes:
+  - Dublin Core provides a simple and standardised set of conventions for describing
+    things online in ways that make them easier to find.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: DWG file
+    designation: Dublin Core
     normative_status: preferred
+  - type: expression
+    designation: DC
+    normative_status: preferred
+    abbrev: true

@@ -1,17 +1,17 @@
 ---
-term: georeferencing
+term: georectified
 termid: 136
 eng:
   id: 136
-  definition: geopositioning an object using a Correspondence Model derived from a
-    set of points for which both ground and image coordinates are known
+  definition: corrected for positional displacement with respect to the surface of
+    the Earth
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19130-1:2018
-    clause: '3.38'
+    ref: ISO 19115-2:2019
+    clause: '3.11'
   terms:
   - type: expression
-    designation: georeferencing
+    designation: georectified
     normative_status: preferred

@@ -1,9 +1,8 @@
 ---
-term: OGC Outreach and Community Adoption
+term: OGC Observations and Measurements Encoding Standard
 termid: 290
 eng:
   id: 290
-  definition: former name of the group, which is now called OGC Marketing and Communications
   language_code: eng
   notes: []
   examples: []
@@ -11,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Outreach and Community Adoption
+    designation: OGC Observations and Measurements Encoding Standard
     normative_status: preferred
   - type: expression
-    designation: OCAP
+    designation: O&M
     normative_status: preferred
     abbrev: true

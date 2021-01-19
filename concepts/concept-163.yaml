@@ -1,21 +1,16 @@
 ---
-term: Graphic Interchange Format
+term: GPS Exchange Format
 termid: 163
 eng:
   id: 163
-  definition: platform­-independent graphics format developed by CompuServe
+  definition: XML Schema for describing GPS data
   language_code: eng
-  notes:
-  - The GIF format is generally recommended for simple images and limited to a maximum
-    of 256 colours.
-  examples: []
+  notes: []
+  examples:
+  - In MapServer, OGR can be used to transform and render GPX data.
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Graphic Interchange Format
+    designation: GPS Exchange Format
     normative_status: preferred
-  - type: expression
-    designation: GIF
-    normative_status: preferred
-    abbrev: true

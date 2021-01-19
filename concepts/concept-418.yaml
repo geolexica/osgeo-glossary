@@ -1,15 +1,16 @@
 ---
-term: Vector Layer
+term: Vector
 termid: 418
 eng:
   id: 418
-  definition: collection of vector feature types stored as mathematical paths
+  definition: features described by geometries (points, lines, polygons) on a (typically)
+    cartesian plane
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Vector Layer
+    designation: Vector
     normative_status: preferred

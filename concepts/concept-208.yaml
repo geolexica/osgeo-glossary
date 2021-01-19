@@ -1,22 +1,23 @@
 ---
-term: Java Database Connectivity
+term: Java Advanced Imaging
 termid: 208
 eng:
   id: 208
-  definition: Java API for database-independent connectivity between the Java programming
-    language and a wide range of databases
+  definition: Java platform extension API that provides a set of object-oriented interfaces
+    that support a simple, high-level programming model
   language_code: eng
   notes:
-  - JDBC supports SQL databases and other tabular data sources, such as spreadsheets
-    or flat files.
+  - JAI allows developers to create their own image manipulation routines without
+    the additional cost or licensing restrictions, associated with commercial image
+    processing software.
   examples: []
   authoritative_source:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Java Database Connectivity
+    designation: Java Advanced Imaging
     normative_status: preferred
   - type: expression
-    designation: JDBC
+    designation: JAI
     normative_status: preferred
     abbrev: true

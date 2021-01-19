@@ -1,19 +1,18 @@
 ---
-term: JavaScript Object Notation
+term: Java Messaging Service.
 termid: 210
 eng:
   id: 210
-  definition: lightweight data-interchange format standardized as ISO/IEC 21778:2017
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: JavaScript Object Notation
+    designation: Java Messaging Service.
     normative_status: preferred
   - type: expression
-    designation: JSON
+    designation: JMS
     normative_status: preferred
     abbrev: true

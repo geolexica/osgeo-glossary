@@ -1,5 +1,5 @@
 ---
-term: Internet Society
+term: Internet Engineering Task Force
 termid: 198
 eng:
   id: 198
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Internet Society
+    designation: Internet Engineering Task Force
     normative_status: preferred
   - type: expression
-    designation: ISOC
+    designation: IETF
     normative_status: preferred
     abbrev: true

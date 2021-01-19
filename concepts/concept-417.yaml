@@ -1,16 +1,18 @@
 ---
-term: Vector
+term: Unmanned Aerial Vehicle
 termid: 417
 eng:
   id: 417
-  definition: features described by geometries (points, lines, polygons) on a (typically)
-    cartesian plane
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Vector
+    designation: Unmanned Aerial Vehicle
     normative_status: preferred
+  - type: expression
+    designation: UAV
+    normative_status: preferred
+    abbrev: true

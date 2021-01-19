@@ -1,16 +1,22 @@
 ---
-term: scale, of a map
+term: Scalable Vector Graphics
 termid: 356
 eng:
   id: 356
-  definition: constant relation between a distance in a map and the corresponding
-    real distance
+  definition: XML-based encoding for describing both static and dynamic two-dimensional
+    vector graphics
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - 'Frequently used in browser and mobile devices. See http://en.wikipedia.org/wiki/Scalable_Vector_Graphics '
+  examples:
+  - interactive or animated are examples of dynamic vector graphics
   authoritative_source:
-    comment: GVSIG_1-0_2011
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: scale, of a map
+    designation: Scalable Vector Graphics
     normative_status: preferred
+  - type: expression
+    designation: SVG
+    normative_status: preferred
+    abbrev: true

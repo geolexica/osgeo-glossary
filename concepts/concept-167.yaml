@@ -1,18 +1,18 @@
 ---
-term: Ground Control Point
+term: grid
 termid: 167
 eng:
   id: 167
+  definition: network composed of two or more sets of curves in which the members
+    of each set intersect the members of the other sets in an algorithmic way
   language_code: eng
-  notes: []
+  notes:
+  - The curves partition a space into grid cells.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    ref: ISO 19123:2005
+    clause: 4.1.23
   terms:
   - type: expression
-    designation: Ground Control Point
+    designation: grid
     normative_status: preferred
-  - type: expression
-    designation: GCP
-    normative_status: preferred
-    abbrev: true

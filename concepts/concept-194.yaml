@@ -1,18 +1,19 @@
 ---
-term: International Society for Photogrammetry and Remote Sensing
+term: International Organization for Standardization
 termid: 194
 eng:
   id: 194
   language_code: eng
-  notes: []
+  notes:
+  - See http://www.iso.org
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: International Society for Photogrammetry and Remote Sensing
+    designation: International Organization for Standardization
     normative_status: preferred
   - type: expression
-    designation: ISPRS
+    designation: ISO
     normative_status: preferred
     abbrev: true

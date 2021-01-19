@@ -1,10 +1,8 @@
 ---
-term: OGC GeoAPI Interface Standard
+term: OGC Filter Encoding Standard
 termid: 278
 eng:
   id: 278
-  definition: Java API that provides a set programming interfaces for geospatial applications
-    developed by OGC
   language_code: eng
   notes: []
   examples: []
@@ -12,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC GeoAPI Interface Standard
+    designation: OGC Filter Encoding Standard
     normative_status: preferred
   - type: expression
-    designation: GeoAPI
+    designation: FE or FES
     normative_status: preferred
     abbrev: true

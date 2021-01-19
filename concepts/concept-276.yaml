@@ -1,8 +1,9 @@
 ---
-term: OGC Europe
+term: OGC EC08 Pilot
 termid: 276
 eng:
   id: 276
+  definition: OGC Empire Challenge 08 Pilot Project
   language_code: eng
   notes: []
   examples: []
@@ -10,9 +11,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Europe
+    designation: OGC EC08 Pilot
     normative_status: preferred
-  - type: expression
-    designation: OGC-E
-    normative_status: preferred
-    abbrev: true

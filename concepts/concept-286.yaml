@@ -1,5 +1,5 @@
 ---
-term: OGC Marketing & Communications Program
+term: OGC Location Services
 termid: 286
 eng:
   id: 286
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Marketing & Communications Program
+    designation: OGC Location Services
     normative_status: preferred
   - type: expression
-    designation: MCP
+    designation: OLS
     normative_status: preferred
     abbrev: true

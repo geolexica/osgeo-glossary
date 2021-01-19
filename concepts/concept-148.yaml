@@ -1,20 +1,16 @@
 ---
-term: Geospatial Objects
+term: geospatial metadata standard
 termid: 148
 eng:
   id: 148
-  definition: 'OGC OpenGIS Geographic Objects Implementation Specification '
+  definition: "guidelines for creating the content and structure of a metadata file\n "
   language_code: eng
-  notes:
-  - Retired OGC standard.
-  examples: []
+  notes: []
+  examples:
+  - The FGDC metadata standard.
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
   terms:
   - type: expression
-    designation: Geospatial Objects
+    designation: geospatial metadata standard
     normative_status: preferred
-  - type: expression
-    designation: GO
-    normative_status: preferred
-    abbrev: true

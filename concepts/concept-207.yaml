@@ -1,23 +1,18 @@
 ---
-term: Java Advanced Imaging
+term: Japan Aerospace Exploration Agency
 termid: 207
 eng:
   id: 207
-  definition: Java platform extension API that provides a set of object-oriented interfaces
-    that support a simple, high-level programming model
   language_code: eng
-  notes:
-  - JAI allows developers to create their own image manipulation routines without
-    the additional cost or licensing restrictions, associated with commercial image
-    processing software.
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Java Advanced Imaging
+    designation: Japan Aerospace Exploration Agency
     normative_status: preferred
   - type: expression
-    designation: JAI
+    designation: JAXA
     normative_status: preferred
     abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: International Cartographic Association
+term: Intellectual Property Rights
 termid: 188
 eng:
   id: 188
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: International Cartographic Association
+    designation: Intellectual Property Rights
     normative_status: preferred
   - type: expression
-    designation: ICA
+    designation: IPR
     normative_status: preferred
     abbrev: true

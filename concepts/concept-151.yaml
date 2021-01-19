@@ -1,5 +1,5 @@
 ---
-term: Global Flood Awareness System
+term: Global Earth Observation System of Systems Pilot Project
 termid: 151
 eng:
   id: 151
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Global Flood Awareness System
+    designation: Global Earth Observation System of Systems Pilot Project
     normative_status: preferred
   - type: expression
-    designation: GloFAS
+    designation: GEOSS Pilot ­
     normative_status: preferred
     abbrev: true

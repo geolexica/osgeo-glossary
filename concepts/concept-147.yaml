@@ -1,16 +1,20 @@
 ---
-term: geospatial metadata standard
+term: geospatial metadata instance
 termid: 147
 eng:
   id: 147
-  definition: "guidelines for creating the content and structure of a metadata file\n "
+  definition: single and specific metadata document, typically created in conformance
+    with a metadata standard
   language_code: eng
-  notes: []
+  notes:
+  - There is typically a metadata instance for each geospatial dataset in a GIS.
   examples:
-  - The FGDC metadata standard.
+  - In a GIS that managed road data and car accident data in ESRI Shapefiles, you
+    would have a metadata instance for each shapefile. One metadata instance might
+    be named roads_metadata.txt while the other was named car_accidents_metadata.txt.
   authoritative_source:
     link: https://wiki.osgeo.org/wiki/Starter_Dictionary
   terms:
   - type: expression
-    designation: geospatial metadata standard
+    designation: geospatial metadata instance
     normative_status: preferred

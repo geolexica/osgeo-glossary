@@ -1,18 +1,23 @@
 ---
-term: Emergency & Disaster Management Domain Working Group
+term: ellipsoid
 termid: 98
 eng:
   id: 98
+  definition: "<geodesy> geometric reference surface embedded in 3D Euclidean space
+    formed by an ellipse that is rotated about a main axis"
   language_code: eng
-  notes: []
+  notes:
+  - For the Earth the ellipsoid is bi-axial with rotation about the polar axis. This
+    results in an oblate ellipsoid with the midpoint of the foci located at the nominal
+    centre of the Earth.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19111:2019
+    clause: 3.1.22
   terms:
   - type: expression
-    designation: Emergency & Disaster Management Domain Working Group
+    designation: ellipsoid
     normative_status: preferred
   - type: expression
-    designation: EDM DWG
+    designation: reference ellipsoid
     normative_status: preferred
-    abbrev: true

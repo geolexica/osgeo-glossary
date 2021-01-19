@@ -1,19 +1,18 @@
 ---
-term: USGIF
+term: University Corporation for Atmospheric Research
 termid: 416
 eng:
   id: 416
-  definition: United States Geospatial Intelligence Foundation
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: USGIF
+    designation: University Corporation for Atmospheric Research
     normative_status: preferred
   - type: expression
-    designation: United States Geospatial Intelligence Foundation
+    designation: UCAR
     normative_status: preferred
     abbrev: true

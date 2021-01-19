@@ -1,19 +1,19 @@
 ---
-term: GD Graphics (Draw) Library
+term: Free and Open Source Software for Geospatial
 termid: 124
 eng:
   id: 124
-  definition: software graphics library for dynamic generation of images
+  definition: Conference of the Open Source Geospatial Foundation
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    comment: Combo of a couple of sources
   terms:
   - type: expression
-    designation: GD Graphics (Draw) Library
+    designation: Free and Open Source Software for Geospatial
     normative_status: preferred
   - type: expression
-    designation: GD
+    designation: FOSS4G
     normative_status: preferred
     abbrev: true

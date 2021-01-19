@@ -1,20 +1,18 @@
 ---
-term: Web-based Distributed Authoring and Versioning
+term: Web Services Definition Language
 termid: 430
 eng:
   id: 430
-  definition: set of extensions to the Hypertext Transfer Protocol (HTTP) that allows
-    users to edit and manage files collaboratively on remote World Wide Web servers
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Web-based Distributed Authoring and Versioning
+    designation: Web Services Definition Language
     normative_status: preferred
   - type: expression
-    designation: WebDAV
+    designation: WSDL
     normative_status: preferred
     abbrev: true

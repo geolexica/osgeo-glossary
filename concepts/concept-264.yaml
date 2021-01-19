@@ -1,18 +1,19 @@
 ---
-term: OGC Architecture Board
+term: Office of Spatial Data Management
 termid: 264
 eng:
   id: 264
   language_code: eng
-  notes: []
+  notes:
+  - Within Australia.
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Architecture Board
+    designation: Office of Spatial Data Management
     normative_status: preferred
   - type: expression
-    designation: OAB
+    designation: OSDM
     normative_status: preferred
     abbrev: true

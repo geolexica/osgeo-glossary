@@ -1,18 +1,20 @@
 ---
-term: eXtensible Style Sheet Transformation
+term: eXtensible Markup Language
 termid: 117
 eng:
   id: 117
+  definition: markup language that defines a set of rules for encoding documents in
+    a format that is both human-readable and machine-readable
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: eXtensible Style Sheet Transformation
+    designation: eXtensible Markup Language
     normative_status: preferred
   - type: expression
-    designation: XSLT
+    designation: XML
     normative_status: preferred
     abbrev: true

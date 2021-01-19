@@ -1,5 +1,5 @@
 ---
-term: Memorandum of Understanding
+term: Media and Information Literacy
 termid: 230
 eng:
   id: 230
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Memorandum of Understanding
+    designation: Media and Information Literacy
     normative_status: preferred
   - type: expression
-    designation: MoU
+    designation: MIL
     normative_status: preferred
     abbrev: true

@@ -1,20 +1,15 @@
 ---
-term: GNU General Public License
+term: GML in JPEG 2000
 termid: 159
 eng:
   id: 159
-  definition: free, copyleft license for software and other kinds of works
+  definition: OGC standard that defines how GML is used in JPEG 2000 images
   language_code: eng
-  notes:
-  - GeoNetwork opensource is released under the GPL 2 license.
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GNU General Public License
+    designation: GML in JPEG 2000
     normative_status: preferred
-  - type: expression
-    designation: GPL
-    normative_status: preferred
-    abbrev: true

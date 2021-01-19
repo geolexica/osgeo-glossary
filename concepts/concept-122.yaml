@@ -1,21 +1,20 @@
 ---
-term: Free and Open Source Software
+term: Food and Agriculture Organisation
 termid: 122
 eng:
   id: 122
-  definition: software which is liberally licensed to grant the right of users to
-    study, change, and improve its design through the availability of its source code
+  definition: specialised agency of the United Nations that leads international efforts
+    to defeat hunger
   language_code: eng
-  notes:
-  - Also F/OSS, FOSS, or FLOSS (free/libre/open source software). See http://en.wikipedia.org/wiki/FOSS
+  notes: []
   examples: []
   authoritative_source:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Free and Open Source Software
+    designation: Food and Agriculture Organisation
     normative_status: preferred
   - type: expression
-    designation: FOSS
+    designation: FAO
     normative_status: preferred
     abbrev: true

@@ -1,10 +1,10 @@
 ---
-term: Open Geospatial Consortium
+term: Open GeoSMS
 termid: 315
 eng:
   id: 315
-  definition: consortium responsible for developing standards and specifications for
-    geospatial services
+  definition: OGC standard defining an extended Short Messaging Service (SMS) encoding
+    and interface for communicating location content
   language_code: eng
   notes: []
   examples: []
@@ -12,9 +12,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Open Geospatial Consortium
+    designation: Open GeoSMS
     normative_status: preferred
-  - type: expression
-    designation: OGC
-    normative_status: preferred
-    abbrev: true

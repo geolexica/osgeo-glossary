@@ -1,21 +1,18 @@
 ---
-term: European Committee for Standardization (Comite Europeen de Normalisation)
+term: European Committee for Electrotechnical Standardization (Comité Européen de
+  Normalisation Électrotechnique)
 termid: 108
 eng:
   id: 108
-  definition: official organization for standarization of the European Union
   language_code: eng
-  notes:
-  - Replaces country-specific techniques by common rules for the whole Union in collaboration
-    with international organizations and its members in Europe
+  notes: []
   examples: []
-  authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: European Committee for Standardization (Comite Europeen de Normalisation)
+    designation: European Committee for Electrotechnical Standardization (Comité Européen
+      de Normalisation Électrotechnique)
     normative_status: preferred
   - type: expression
-    designation: CEN
+    designation: CENELEC
     normative_status: preferred
     abbrev: true

@@ -1,21 +1,18 @@
 ---
-term: United Nations Office for the Coordination of Humanitarian Affairs
+term: United Nations Global Geospatial Information Management
 termid: 410
 eng:
   id: 410
-  definition: organization designed to strengthen the UN’s response to complex emergencies
-    and natural disasters
   language_code: eng
   notes: []
-  examples:
-  - http://ochaonline.un.org/
+  examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: United Nations Office for the Coordination of Humanitarian Affairs
+    designation: United Nations Global Geospatial Information Management
     normative_status: preferred
   - type: expression
-    designation: OCHA
+    designation: UN-GGIM
     normative_status: preferred
     abbrev: true

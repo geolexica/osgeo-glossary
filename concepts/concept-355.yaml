@@ -1,22 +1,18 @@
 ---
-term: Scalable Vector Graphics
+term: Russian Federal Service for Hydrometeorologyand Enviromental Monitoring
 termid: 355
 eng:
   id: 355
-  definition: XML-based encoding for describing both static and dynamic two-dimensional
-    vector graphics
   language_code: eng
-  notes:
-  - 'Frequently used in browser and mobile devices. See http://en.wikipedia.org/wiki/Scalable_Vector_Graphics '
-  examples:
-  - interactive or animated are examples of dynamic vector graphics
+  notes: []
+  examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Scalable Vector Graphics
+    designation: Russian Federal Service for Hydrometeorologyand Enviromental Monitoring
     normative_status: preferred
   - type: expression
-    designation: SVG
+    designation: ROSHYDROMET
     normative_status: preferred
     abbrev: true

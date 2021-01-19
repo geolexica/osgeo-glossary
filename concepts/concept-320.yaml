@@ -1,15 +1,15 @@
 ---
-term: OpenLS ­
+term: OpenLayers
 termid: 320
 eng:
   id: 320
-  definition: OGC Open Location Services Interface Standard
+  definition: JavaScript library for developing draggable, “slippy map” web applications
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OpenLS ­
+    designation: OpenLayers
     normative_status: preferred

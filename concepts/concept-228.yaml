@@ -1,10 +1,10 @@
 ---
-term: MapScript
+term: Mapfile
 termid: 228
 eng:
   id: 228
-  definition: alternative the the CGI application of mapserv that enables programming
-    of the MapServer object API in many languages
+  definition: declarative language having a hierarchial format that is used by MapServer
+    to define data connections, map styling, templating, and server directives
   language_code: eng
   notes: []
   examples: []
@@ -12,5 +12,5 @@ eng:
     link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: MapScript
+    designation: Mapfile
     normative_status: preferred

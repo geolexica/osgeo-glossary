@@ -1,16 +1,18 @@
 ---
-term: International Standard
+term: International Society for Photogrammetry and Remote Sensing
 termid: 195
 eng:
   id: 195
   language_code: eng
   notes: []
   examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: International Standard
+    designation: International Society for Photogrammetry and Remote Sensing
     normative_status: preferred
   - type: expression
-    designation: IS
+    designation: ISPRS
     normative_status: preferred
     abbrev: true

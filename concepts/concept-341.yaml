@@ -1,5 +1,5 @@
 ---
-term: Regional Centre for Mapping of Resources for Development
+term: Reference Model for Open Distributed Processing
 termid: 341
 eng:
   id: 341
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Regional Centre for Mapping of Resources for Development
+    designation: Reference Model for Open Distributed Processing
     normative_status: preferred
   - type: expression
-    designation: RCMRD
+    designation: RM-ODP
     normative_status: preferred
     abbrev: true

@@ -1,18 +1,18 @@
 ---
-term: European Committee for Electrotechnical Standardization (Comité Européen de
-  Normalisation Électrotechnique)
+term: European Center for Medium range Weather Forecasting
 termid: 107
 eng:
   id: 107
   language_code: eng
   notes: []
   examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: European Committee for Electrotechnical Standardization (Comité Européen
-      de Normalisation Électrotechnique)
+    designation: European Center for Medium range Weather Forecasting
     normative_status: preferred
   - type: expression
-    designation: CENELEC
+    designation: ECMWF
     normative_status: preferred
     abbrev: true

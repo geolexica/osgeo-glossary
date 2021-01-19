@@ -1,5 +1,5 @@
 ---
-term: SP
+term: Software as a Service
 termid: 375
 eng:
   id: 375
@@ -7,8 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SP
+    designation: Software as a Service
     normative_status: preferred
+  - type: expression
+    designation: SaaS
+    normative_status: preferred
+    abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: OWSCommon1.2SWG
+term: Organization for the Advancement of Structured Information Standards
 termid: 326
 eng:
   id: 326
@@ -10,5 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OWSCommon1.2SWG
+    designation: Organization for the Advancement of Structured Information Standards
     normative_status: preferred
+  - type: expression
+    designation: OASIS
+    normative_status: preferred
+    abbrev: true

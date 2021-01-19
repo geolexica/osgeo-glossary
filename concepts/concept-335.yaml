@@ -1,16 +1,18 @@
 ---
-term: PubSub SWG
+term: Public Participation in Scientific Research
 termid: 335
 eng:
   id: 335
-  definition: OGC Standards Working Group defining methods that enable functionality
-    to publish/subscribe to OGC Web Services
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: PubSub SWG
+    designation: Public Participation in Scientific Research
     normative_status: preferred
+  - type: expression
+    designation: PPSR
+    normative_status: preferred
+    abbrev: true

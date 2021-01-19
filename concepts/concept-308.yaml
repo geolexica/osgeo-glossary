@@ -1,5 +1,5 @@
 ---
-term: OGC Web Services
+term: OGC Web Service Common Interface Standard
 termid: 308
 eng:
   id: 308
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Web Services
+    designation: OGC Web Service Common Interface Standard
     normative_status: preferred
   - type: expression
-    designation: OWS
+    designation: WSC
     normative_status: preferred
     abbrev: true

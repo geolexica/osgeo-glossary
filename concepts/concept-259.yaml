@@ -1,5 +1,5 @@
 ---
-term: Object Linking and Embedding/Common Object Model (Microsoft)
+term: North American Datum
 termid: 259
 eng:
   id: 259
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Object Linking and Embedding/Common Object Model (Microsoft)
+    designation: North American Datum
     normative_status: preferred
   - type: expression
-    designation: OLE/COM
+    designation: NAD
     normative_status: preferred
     abbrev: true

@@ -1,18 +1,16 @@
 ---
-term: Working Group
+term: Workflow Management Coalition
 termid: 435
 eng:
   id: 435
   language_code: eng
   notes: []
   examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Working Group
+    designation: Workflow Management Coalition
     normative_status: preferred
   - type: expression
-    designation: WG
+    designation: WfMC
     normative_status: preferred
     abbrev: true

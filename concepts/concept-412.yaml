@@ -1,18 +1,19 @@
 ---
-term: Universal Description, Discovery, and Integration
+term: United States Geospatial Intelligence Foundation
 termid: 412
 eng:
   id: 412
+  definition: United States Geospatial Intelligence Foundation
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Universal Description, Discovery, and Integration
+    designation: United States Geospatial Intelligence Foundation
     normative_status: preferred
   - type: expression
-    designation: UDDI
+    designation: USGIF
     normative_status: preferred
     abbrev: true

@@ -1,9 +1,8 @@
 ---
-term: Committee on Data for Science and Technology
+term: Collaboratively Contributed Geographic Information
 termid: 43
 eng:
   id: 43
-  definition: Committee on Data for Science and Technology
   language_code: eng
   notes: []
   examples: []
@@ -11,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Committee on Data for Science and Technology
+    designation: Collaboratively Contributed Geographic Information
     normative_status: preferred
   - type: expression
-    designation: CODATA
+    designation: CCGI
     normative_status: preferred
     abbrev: true

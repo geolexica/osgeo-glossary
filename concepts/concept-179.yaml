@@ -1,18 +1,21 @@
 ---
-term: Implementation Standard
+term: image
 termid: 179
 eng:
   id: 179
+  definition: 'gridded coverage whose attribute values are a numerical representation
+    of a physical parameter
+
+'
   language_code: eng
-  notes: []
+  notes:
+  - " The physical parameters are the result of measurement by a sensor (3.27) or
+    a prediction from a model."
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19115-2:2019
+    clause: 3.1.18
   terms:
   - type: expression
-    designation: Implementation Standard
+    designation: image
     normative_status: preferred
-  - type: expression
-    designation: IS
-    normative_status: preferred
-    abbrev: true

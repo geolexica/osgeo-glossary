@@ -1,5 +1,5 @@
 ---
-term: The Council of European Geodetic Surveyors
+term: Test, Evaluation, And Measurement Engine
 termid: 400
 eng:
   id: 400
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: The Council of European Geodetic Surveyors
+    designation: Test, Evaluation, And Measurement Engine
     normative_status: preferred
   - type: expression
-    designation: CLGE
+    designation: TEAM Engine
     normative_status: preferred
     abbrev: true

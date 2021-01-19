@@ -1,5 +1,5 @@
 ---
-term: International Council for Science – World Data System
+term: International Cartographic Association
 termid: 189
 eng:
   id: 189
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: International Council for Science – World Data System
+    designation: International Cartographic Association
     normative_status: preferred
   - type: expression
-    designation: ICSU-WDS
+    designation: ICA
     normative_status: preferred
     abbrev: true

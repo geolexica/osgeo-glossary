@@ -1,17 +1,17 @@
 ---
-term: map projection
+term: MAC address
 termid: 226
 eng:
   id: 226
-  definition: coordinate conversion from an ellipsoidal coordinate system to a plane
+  definition: Media Access Control address (MAC address) is a unique identifier assigned
+    to most network adapters or network interface cards (NICs) by the manufacturer
+    for identification, and used in the Media Access Control protocol sublayer
   language_code: eng
-  notes:
-  - See also http://en.wikipedia.org/wiki/MAC_address on Wikipedia
+  notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.40'
+    comment: GEONETWOK_OPENSOURCE
   terms:
   - type: expression
-    designation: map projection
+    designation: MAC address
     normative_status: preferred

@@ -1,8 +1,10 @@
 ---
-term: Joint Advisory Committee between OGC and ISO TC 211
+term: JavaServer Pages
 termid: 213
 eng:
   id: 213
+  definition: scripting system for Java server applications that allows the interleaving
+    of markup and Java procedural code
   language_code: eng
   notes: []
   examples: []
@@ -10,9 +12,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Joint Advisory Committee between OGC and ISO TC 211
+    designation: JavaServer Pages
     normative_status: preferred
   - type: expression
-    designation: JAG
+    designation: JSP
     normative_status: preferred
     abbrev: true

@@ -1,16 +1,18 @@
 ---
-term: nomenclator service
+term: NEw Partnership for African Development
 termid: 256
 eng:
   id: 256
-  definition: locates a geographic location by its name
   language_code: eng
-  notes:
-  - If one or more occurrences of a location are detected, the service provides a
-    list of the detected locations with additional attributes. The user can then choose
-    the desired location as per their requirement.
+  notes: []
   examples: []
+  authoritative_source:
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: nomenclator service
+    designation: NEw Partnership for African Development
     normative_status: preferred
+  - type: expression
+    designation: NEPAD
+    normative_status: preferred
+    abbrev: true

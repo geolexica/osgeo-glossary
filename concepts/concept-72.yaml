@@ -1,5 +1,5 @@
 ---
-term: Defense and Intelligence Domain Working Group
+term: Decision Support Domain Working Group
 termid: 72
 eng:
   id: 72
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Defense and Intelligence Domain Working Group
+    designation: Decision Support Domain Working Group
     normative_status: preferred
   - type: expression
-    designation: D&I DWG
+    designation: DS DWG
     normative_status: preferred
     abbrev: true

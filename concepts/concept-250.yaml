@@ -1,5 +1,5 @@
 ---
-term: National Spatial Data Infrastructure
+term: National Science Foundation
 termid: 250
 eng:
   id: 250
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: National Spatial Data Infrastructure
+    designation: National Science Foundation
     normative_status: preferred
   - type: expression
-    designation: NSDI
+    designation: NSF
     normative_status: preferred
     abbrev: true

@@ -1,10 +1,10 @@
 ---
-term: JavaServer Pages
+term: JavaServer Page Template Library
 termid: 212
 eng:
   id: 212
-  definition: scripting system for Java server applications that allows the interleaving
-    of markup and Java procedural code
+  definition: JSP tag library that encapsulates many of the standard functions handled
+    in JSP
   language_code: eng
   notes: []
   examples: []
@@ -12,9 +12,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: JavaServer Pages
+    designation: JavaServer Page Template Library
     normative_status: preferred
   - type: expression
-    designation: JSP
+    designation: JSTL
     normative_status: preferred
     abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: high performance computing
+term: High Level Political Forum (of UN)
 termid: 173
 eng:
   id: 173
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: high performance computing
+    designation: High Level Political Forum (of UN)
     normative_status: preferred
   - type: expression
-    designation: HPC
+    designation: HLPF
     normative_status: preferred
     abbrev: true

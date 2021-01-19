@@ -1,20 +1,17 @@
 ---
-term: GeoNetwork Administrator Survival Tool
+term: GeoNetwork
 termid: 132
 eng:
   id: 132
-  definition: desktop application that allows administrators of a GeoNetwork catalog
-    to perform simple database configuration using a GUI
+  definition: standards based, Free and Open Source catalog application to manage
+    spatially referenced resources through the web
   language_code: eng
-  notes: []
+  notes:
+  - 'Available from: http://geonetwork-opensource.org'
   examples: []
   authoritative_source:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: GeoNetwork Administrator Survival Tool
+    designation: GeoNetwork
     normative_status: preferred
-  - type: expression
-    designation: GAST
-    normative_status: preferred
-    abbrev: true

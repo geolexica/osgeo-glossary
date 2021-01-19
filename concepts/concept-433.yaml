@@ -1,10 +1,10 @@
 ---
-term: Well-Known Text
+term: Well-Known Binary
 termid: 433
 eng:
   id: 433
-  definition: text representation of geometries described in the Simple Features for
-    SQL (SFSQL) specification
+  definition: binary representation of geometries described in the Simple Features
+    for SQL (SFSQL) specification
   language_code: eng
   notes: []
   examples: []
@@ -12,9 +12,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Well-Known Text
+    designation: Well-Known Binary
     normative_status: preferred
   - type: expression
-    designation: WKT
+    designation: WKB
     normative_status: preferred
     abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Data Access Object
+term: CyberInfrastructure
 termid: 64
 eng:
   id: 64
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Data Access Object
+    designation: CyberInfrastructure
     normative_status: preferred
   - type: expression
-    designation: DAO
+    designation: CI
     normative_status: preferred
     abbrev: true

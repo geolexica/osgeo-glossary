@@ -1,24 +1,18 @@
 ---
-term: Coordinate Reference System
+term: Coordinate geometry
 termid: 58
 eng:
   id: 58
-  definition: coordinate system that is related to an object by a datum
   language_code: eng
-  notes:
-  - Geodetic and vertical datums are referred to as reference frames.
-  - For geodetic and vertical reference frames, the object will be the Earth. In planetary
-    applications, geodetic and vertical reference frames may be applied to other celestial
-    bodies.
+  notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.9'
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Coordinate Reference System
+    designation: Coordinate geometry
     normative_status: preferred
   - type: expression
-    designation: CRS
+    designation: COGO
     normative_status: preferred
     abbrev: true

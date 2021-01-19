@@ -1,15 +1,19 @@
 ---
-term: geodesy
+term: GD Graphics (Draw) Library
 termid: 125
 eng:
   id: 125
-  definition: science that studies the shape of the Earch in the gravitational field
+  definition: software graphics library for dynamic generation of images
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: geodesy
+    designation: GD Graphics (Draw) Library
     normative_status: preferred
+  - type: expression
+    designation: GD
+    normative_status: preferred
+    abbrev: true

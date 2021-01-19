@@ -1,10 +1,9 @@
 ---
-term: Drawing eXchange Format
+term: domain working group
 termid: 87
 eng:
   id: 87
-  definition: CAD data file format developed by Autodesk for enabling data interoperability
-    between AutoCAD and other programs
+  definition: OGC working group of horizontal concerns
   language_code: eng
   notes: []
   examples: []
@@ -12,9 +11,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Drawing eXchange Format
+    designation: domain working group
     normative_status: preferred
   - type: expression
-    designation: DXF
+    designation: DWG
     normative_status: preferred
     abbrev: true

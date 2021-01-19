@@ -1,11 +1,9 @@
 ---
-term: coordinate reference system
+term: Coordinate Reference System
 termid: 59
 eng:
   id: 59
-  definition: 'coordinate system that is related to an object by a datum
-
-'
+  definition: coordinate system that is related to an object by a datum
   language_code: eng
   notes:
   - Geodetic and vertical datums are referred to as reference frames.
@@ -15,10 +13,10 @@ eng:
   examples: []
   authoritative_source:
     ref: ISO 19111:2019
-    clause: '3.1.9'
+    clause: 3.1.9
   terms:
   - type: expression
-    designation: coordinate reference system
+    designation: Coordinate Reference System
     normative_status: preferred
   - type: expression
     designation: CRS

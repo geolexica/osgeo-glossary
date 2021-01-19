@@ -1,17 +1,16 @@
 ---
-term: GeoServer ImageMosaic
+term: GeoServer Data Store
 termid: 140
 eng:
   id: 140
-  definition: GeoServer data store supporting the creation of a mosaic based on a
-    number of georeferenced raster data sources
+  definition: GeoServer connection to a source of raster or vector data
   language_code: eng
-  notes:
-  - See also Data Store and Mosaic.
-  examples: []
+  notes: []
+  examples:
+  - A GeoServer Data Store can be a file or group of files, a database table, etc.
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GeoServer ImageMosaic
+    designation: GeoServer Data Store
     normative_status: preferred

@@ -1,21 +1,18 @@
 ---
-term: Spatial reference ID
+term: Spatial Data Transfer Standard
 termid: 378
 eng:
   id: 378
-  definition: unique number assigned to a particular coordinate reference system
   language_code: eng
   notes: []
-  examples:
-  - The PostGIS table spatial_ref_sys contains a large collection of well-known SRID
-    values and text representations of the coordinate reference systems.
+  examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Spatial reference ID
+    designation: Spatial Data Transfer Standard
     normative_status: preferred
   - type: expression
-    designation: SRID
+    designation: SDTS
     normative_status: preferred
     abbrev: true

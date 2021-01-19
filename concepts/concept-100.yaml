@@ -1,5 +1,5 @@
 ---
-term: Enterprise Architecture Special Interest Group
+term: Enterprise Architecture
 termid: 100
 eng:
   id: 100
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Enterprise Architecture Special Interest Group
+    designation: Enterprise Architecture
     normative_status: preferred
   - type: expression
-    designation: EASIG
+    designation: EA
     normative_status: preferred
     abbrev: true

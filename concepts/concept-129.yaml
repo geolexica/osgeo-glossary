@@ -1,16 +1,18 @@
 ---
-term: GeoJSON
+term: geoid
 termid: 129
 eng:
   id: 129
-  definition: format for encoding a variety of geographic data structures using JSON
+  definition: equipotential surface of the Earth’s gravity field which is perpendicular
+    to the direction of gravity and which best fits mean sea level either locally,
+    regionally or globally
   language_code: eng
-  notes:
-  - GeoJSON is commonly used in spatial applications.
+  notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO 19111:2019
+    clause: 3.1.36
   terms:
   - type: expression
-    designation: GeoJSON
+    designation: geoid
     normative_status: preferred

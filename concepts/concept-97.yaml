@@ -1,23 +1,20 @@
 ---
-term: ellipsoid
+term: ebXML Registry Services and Protocols
 termid: 97
 eng:
   id: 97
-  definition: "<geodesy> geometric reference surface embedded in 3D Euclidean space
-    formed by an ellipse that is rotated about a main axis"
+  definition: OASIS standard that defines a set of services that enable sharing of
+    content and metadata between organizational entities in a federated environment
   language_code: eng
-  notes:
-  - For the Earth the ellipsoid is bi-axial with rotation about the polar axis. This
-    results in an oblate ellipsoid with the midpoint of the foci located at the nominal
-    centre of the Earth.
+  notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: '3.1.22'
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: ellipsoid
+    designation: ebXML Registry Services and Protocols
     normative_status: preferred
   - type: expression
-    designation: reference ellipsoid
+    designation: ebRS
     normative_status: preferred
+    abbrev: true

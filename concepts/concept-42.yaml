@@ -1,18 +1,17 @@
 ---
-term: Collaboratively Contributed Geographic Information
+term: CNIDR z39.50 Server
 termid: 42
 eng:
   id: 42
+  definition: Clearinghouse for Networked Information Discovery and Retrieval z39.50
+    server
   language_code: eng
-  notes: []
+  notes:
+  - Also known as zDist.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: Collaboratively Contributed Geographic Information
+    designation: CNIDR z39.50 Server
     normative_status: preferred
-  - type: expression
-    designation: CCGI
-    normative_status: preferred
-    abbrev: true

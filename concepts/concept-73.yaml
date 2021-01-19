@@ -1,9 +1,8 @@
 ---
-term: DesiGN file
+term: Defense and Intelligence Domain Working Group
 termid: 73
 eng:
   id: 73
-  definition: Microstation drawing format file
   language_code: eng
   notes: []
   examples: []
@@ -11,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: DesiGN file
+    designation: Defense and Intelligence Domain Working Group
     normative_status: preferred
   - type: expression
-    designation: DGN
+    designation: D&I DWG
     normative_status: preferred
     abbrev: true

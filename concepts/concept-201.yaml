@@ -1,5 +1,5 @@
 ---
-term: Interoperability Program Team
+term: Interoperability Program
 termid: 201
 eng:
   id: 201
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Interoperability Program Team
+    designation: Interoperability Program
     normative_status: preferred
   - type: expression
-    designation: IPTeam
+    designation: IP
     normative_status: preferred
     abbrev: true

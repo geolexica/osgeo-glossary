@@ -1,18 +1,19 @@
 ---
-term: Public Participation in Geographic Information Systems
+term: PROJ
 termid: 333
 eng:
   id: 333
+  definition: generic coordinate transformation software that transforms geospatial
+    coordinates from one coordinate reference system (CRS) to another
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - The software also performs cartographic projections as well as geodetic transformations
+  - PROJ (formerly referred to as PROJ.4)
+  examples:
+  - Used by MapServer and GDAL and a multitude of other Open Source GIS libraries.
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Public Participation in Geographic Information Systems
+    designation: PROJ
     normative_status: preferred
-  - type: expression
-    designation: PPGIS
-    normative_status: preferred
-    abbrev: true

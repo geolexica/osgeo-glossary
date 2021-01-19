@@ -1,17 +1,17 @@
 ---
-term: namespace
+term: mosaic
 termid: 239
 eng:
   id: 239
-  definition: "<XML> collection of names, identified by a URI reference, which are
-    used in XML documents as element names and attribute names (W3C XML Namespaces)\n"
+  definition: collection of georeferenced raster data sources merged together to create
+    a seamless raster dataset
   language_code: eng
-  notes: []
+  notes:
+  - 'See also: imagemosaic'
   examples: []
   authoritative_source:
-    ref: ISO 19136:2007
-    clause: '4.1.43'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: namespace
+    designation: mosaic
     normative_status: preferred

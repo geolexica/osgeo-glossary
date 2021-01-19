@@ -1,5 +1,5 @@
 ---
-term: OGC Geosync SWG
+term: OGC Geospatial eXtensible Access Control Markup Language Standard
 termid: 282
 eng:
   id: 282
@@ -10,5 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Geosync SWG
+    designation: OGC Geospatial eXtensible Access Control Markup Language Standard
     normative_status: preferred
+  - type: expression
+    designation: GeoXACML
+    normative_status: preferred
+    abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Wales Institute of Social & Economic Research, Data & Methods
+term: Volunteered Geographic Information
 termid: 422
 eng:
   id: 422
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Wales Institute of Social & Economic Research, Data & Methods
+    designation: Volunteered Geographic Information
     normative_status: preferred
   - type: expression
-    designation: WISERD
+    designation: VGI
     normative_status: preferred
     abbrev: true
