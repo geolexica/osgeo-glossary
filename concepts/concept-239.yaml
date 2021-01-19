@@ -10,7 +10,7 @@ eng:
   examples: []
   authoritative_source:
     ref: ISO 19136:2007
-    clause: '4.1.43'
+    clause: 4.1.43
   terms:
   - type: expression
     designation: namespace

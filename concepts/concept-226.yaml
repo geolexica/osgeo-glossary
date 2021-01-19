@@ -10,7 +10,7 @@ eng:
   examples: []
   authoritative_source:
     ref: ISO 19111:2019
-    clause: '3.1.40'
+    clause: 3.1.40
   terms:
   - type: expression
     designation: map projection

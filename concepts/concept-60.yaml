@@ -15,7 +15,7 @@ eng:
   - Examples include a raster image, polygon overlay or digital elevation matrix.
   authoritative_source:
     ref: ISO 19123:2005
-    clause: '4.1.7'
+    clause: 4.1.7
   terms:
   - type: expression
     designation: coverage

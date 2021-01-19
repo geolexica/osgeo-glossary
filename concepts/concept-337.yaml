@@ -14,7 +14,7 @@ eng:
   examples: []
   authoritative_source:
     ref: ISO 19123:2005
-    clause: '4.1.30'
+    clause: 4.1.30
     comment: modified —  Note 2 to entry has been added.
   terms:
   - type: expression

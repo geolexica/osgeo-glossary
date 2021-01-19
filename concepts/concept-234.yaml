@@ -3,7 +3,9 @@ term: metadata entity
 termid: 234
 eng:
   id: 234
-  definition: set of metadata elements describing the same aspect of data
+  definition: 'set of metadata elements describing the same aspect of data
+
+'
   language_code: eng
   notes:
   - Can contain one or more metadata entities.
