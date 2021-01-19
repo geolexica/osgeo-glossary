@@ -1,20 +1,18 @@
 ---
-term: Environmental Systems Research Institute
+term: Environmental Protection Agency
 termid: 104
 eng:
   id: 104
-  definition: international supplier of geographic information system software, web
-    GIS and geodatabase management applications
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Environmental Systems Research Institute
+    designation: Environmental Protection Agency
     normative_status: preferred
   - type: expression
-    designation: ESRI
+    designation: EPA
     normative_status: preferred
     abbrev: true

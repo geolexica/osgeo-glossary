@@ -1,20 +1,18 @@
 ---
-term: eXtensible Markup Language
+term: European Umbrella Organisation for Geographic Information
 termid: 116
 eng:
   id: 116
-  definition: markup language that defines a set of rules for encoding documents in
-    a format that is both human-readable and machine-readable
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: eXtensible Markup Language
+    designation: European Umbrella Organisation for Geographic Information
     normative_status: preferred
   - type: expression
-    designation: XML
+    designation: EUROGI
     normative_status: preferred
     abbrev: true

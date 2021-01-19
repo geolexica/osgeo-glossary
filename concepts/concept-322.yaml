@@ -1,5 +1,5 @@
 ---
-term: Ordering Services Framework for Earth Observation Products
+term: OpenStreetMap
 termid: 322
 eng:
   id: 322
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Ordering Services Framework for Earth Observation Products
+    designation: OpenStreetMap
     normative_status: preferred
   - type: expression
-    designation: OSF
+    designation: OSM
     normative_status: preferred
     abbrev: true

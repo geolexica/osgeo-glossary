@@ -1,5 +1,5 @@
 ---
-term: National Institute for Building Standards
+term: National Hydrologic Dataset
 termid: 245
 eng:
   id: 245
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: National Institute for Building Standards
+    designation: National Hydrologic Dataset
     normative_status: preferred
   - type: expression
-    designation: NIBS
+    designation: NHD
     normative_status: preferred
     abbrev: true

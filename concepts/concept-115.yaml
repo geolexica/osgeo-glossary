@@ -1,5 +1,5 @@
 ---
-term: European Umbrella Organisation for Geographic Information
+term: European Spatial Data Research
 termid: 115
 eng:
   id: 115
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: European Umbrella Organisation for Geographic Information
+    designation: European Spatial Data Research
     normative_status: preferred
   - type: expression
-    designation: EUROGI
+    designation: EuroSDR
     normative_status: preferred
     abbrev: true

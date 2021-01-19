@@ -1,18 +1,18 @@
 ---
-term: Geospatial Information & Technology Association
+term: geospatial data set
 termid: 145
 eng:
   id: 145
+  definition: set or group of geospatial data having a common theme or association,
+    often represented in a thematic layer
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - Geospatial datasets are typically the main elements in a GIS data model.
+  examples:
+  - An ESRI shapefile containing a set of line features representing city streets.
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
   terms:
   - type: expression
-    designation: Geospatial Information & Technology Association
+    designation: geospatial data set
     normative_status: preferred
-  - type: expression
-    designation: GITA
-    normative_status: preferred
-    abbrev: true

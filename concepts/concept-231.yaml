@@ -1,5 +1,5 @@
 ---
-term: Mercator
+term: Memorandum of Understanding
 termid: 231
 eng:
   id: 231
@@ -7,8 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Mercator
+    designation: Memorandum of Understanding
     normative_status: preferred
+  - type: expression
+    designation: MoU
+    normative_status: preferred
+    abbrev: true

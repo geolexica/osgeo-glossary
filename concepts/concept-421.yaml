@@ -1,5 +1,5 @@
 ---
-term: Volunteered Geographic Information
+term: Virtual Reality
 termid: 421
 eng:
   id: 421
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Volunteered Geographic Information
+    designation: Virtual Reality
     normative_status: preferred
   - type: expression
-    designation: VGI
+    designation: VR
     normative_status: preferred
     abbrev: true

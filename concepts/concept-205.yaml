@@ -1,9 +1,9 @@
 ---
-term: ISO Technical Committee 211
+term: ISO Technical Committee 204
 termid: 205
 eng:
   id: 205
-  definition: ISO technical committee responsible for geographic information and geomatics
+  definition: ISO technical committee responsible for intelligent transport systems
   language_code: eng
   notes: []
   examples: []
@@ -11,9 +11,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ISO Technical Committee 211
+    designation: ISO Technical Committee 204
     normative_status: preferred
   - type: expression
-    designation: ISO TC/211
+    designation: ISO TC/204
     normative_status: preferred
     abbrev: true

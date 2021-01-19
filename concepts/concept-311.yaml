@@ -1,6 +1,5 @@
 ---
-term: OGR is the vector data access portion of the GDAL library. It provides access
-  to a multitude of data formats.
+term: OGC's Multi-Hazard Mapping Initiative (MMI) Phase I (2001)
 termid: 311
 eng:
   id: 311
@@ -8,13 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGR is the vector data access portion of the GDAL library. It provides
-      access to a multitude of data formats.
+    designation: OGC's Multi-Hazard Mapping Initiative (MMI) Phase I (2001)
     normative_status: preferred
   - type: expression
-    designation: OGR
+    designation: MMI
     normative_status: preferred
     abbrev: true

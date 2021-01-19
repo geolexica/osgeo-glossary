@@ -1,22 +1,19 @@
 ---
-term: Keyhole Markup Language
+term: Joint Photographics Group
 termid: 215
 eng:
   id: 215
-  definition: XML based format for spatial data
   language_code: eng
   notes:
-  - The name originates from the company which developed the technology, originally
-    named “Keyhole”.
-  examples:
-  - KML is used by Google Earth
+  - Additionally a reference to a common image compression method
+  examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Keyhole Markup Language
+    designation: Joint Photographics Group
     normative_status: preferred
   - type: expression
-    designation: KML
+    designation: JPEG
     normative_status: preferred
     abbrev: true

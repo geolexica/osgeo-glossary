@@ -1,5 +1,5 @@
 ---
-term: Interoperability Program
+term: Interoperability Experiment
 termid: 200
 eng:
   id: 200
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Interoperability Program
+    designation: Interoperability Experiment
     normative_status: preferred
   - type: expression
-    designation: IP
+    designation: IE
     normative_status: preferred
     abbrev: true

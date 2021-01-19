@@ -1,18 +1,20 @@
 ---
-term: geopositioning
+term: GeoNetwork Administrator Survival Tool
 termid: 133
 eng:
   id: 133
-  definition: determination of the geographic position of an object
+  definition: desktop application that allows administrators of a GeoNetwork catalog
+    to perform simple database configuration using a GUI
   language_code: eng
-  notes:
-  - While there are many methods for geopositioning, this document is focused on geopositioning
-    from image coordinates.
+  notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19130-1:2018
-    clause: '3.36'
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: geopositioning
+    designation: GeoNetwork Administrator Survival Tool
     normative_status: preferred
+  - type: expression
+    designation: GAST
+    normative_status: preferred
+    abbrev: true

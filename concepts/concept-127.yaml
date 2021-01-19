@@ -1,8 +1,10 @@
 ---
-term: Geographic Linkage Service 1.0 Standards Working Group
+term: geographic information system
 termid: 127
 eng:
   id: 127
+  definition: system that captures, stores, analyzes, manages, and presents data that
+    is linked to location
   language_code: eng
   notes: []
   examples: []
@@ -10,9 +12,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Geographic Linkage Service 1.0 Standards Working Group
+    designation: geographic information system
     normative_status: preferred
   - type: expression
-    designation: GLS SWG
+    designation: GIS
     normative_status: preferred
     abbrev: true

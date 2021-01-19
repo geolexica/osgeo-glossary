@@ -1,5 +1,5 @@
 ---
-term: Sensor Web Enablement Common Data Model
+term: Science Technology Innovation Strategy for Africa
 termid: 358
 eng:
   id: 358
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Sensor Web Enablement Common Data Model
+    designation: Science Technology Innovation Strategy for Africa
     normative_status: preferred
   - type: expression
-    designation: SWE Common
+    designation: STISA 2024
     normative_status: preferred
     abbrev: true

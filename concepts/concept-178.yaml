@@ -1,21 +1,18 @@
 ---
-term: image
+term: IEEE Geoscience and Remote Sensing Society
 termid: 178
 eng:
   id: 178
-  definition: 'gridded coverage whose attribute values are a numerical representation
-    of a physical parameter
-
-'
   language_code: eng
-  notes:
-  - " The physical parameters are the result of measurement by a sensor (3.27) or
-    a prediction from a model."
+  notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19115-2:2019
-    clause: 3.1.18
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: image
+    designation: IEEE Geoscience and Remote Sensing Society
     normative_status: preferred
+  - type: expression
+    designation: IEEE GRSS
+    normative_status: preferred
+    abbrev: true

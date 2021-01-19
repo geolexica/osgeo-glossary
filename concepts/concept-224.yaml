@@ -1,5 +1,5 @@
 ---
-term: Location Services Domain Working Group
+term: Location Organizer Folder
 termid: 224
 eng:
   id: 224
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Location Services Domain Working Group
+    designation: Location Organizer Folder
     normative_status: preferred
   - type: expression
-    designation: LS DWG
+    designation: LOS
     normative_status: preferred
     abbrev: true

@@ -1,18 +1,22 @@
 ---
-term: Java Messaging Service.
+term: Java Database Connectivity
 termid: 209
 eng:
   id: 209
+  definition: Java API for database-independent connectivity between the Java programming
+    language and a wide range of databases
   language_code: eng
-  notes: []
+  notes:
+  - JDBC supports SQL databases and other tabular data sources, such as spreadsheets
+    or flat files.
   examples: []
   authoritative_source:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Java Messaging Service.
+    designation: Java Database Connectivity
     normative_status: preferred
   - type: expression
-    designation: JMS
+    designation: JDBC
     normative_status: preferred
     abbrev: true

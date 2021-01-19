@@ -1,8 +1,11 @@
 ---
-term: Digital Landscape Model
+term: Digital Geospatial Information Working Group
 termid: 78
 eng:
   id: 78
+  definition: multi-national body to provide strategic guidance and recommendations
+    to its defence organization membership on the standardisation of geospatial data,
+    products, and services
   language_code: eng
   notes: []
   examples: []
@@ -10,9 +13,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Digital Landscape Model
+    designation: Digital Geospatial Information Working Group
     normative_status: preferred
   - type: expression
-    designation: DLM
+    designation: DGIWG
     normative_status: preferred
     abbrev: true

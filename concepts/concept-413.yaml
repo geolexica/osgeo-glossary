@@ -1,20 +1,14 @@
 ---
-term: Universally Unique Identifier
+term: Univ DWG
 termid: 413
 eng:
   id: 413
-  definition: 128-bit number used to identify information in computer systems
   language_code: eng
-  notes:
-  - also referred to as a globally unique identifier
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Universally Unique Identifier
+    designation: Univ DWG
     normative_status: preferred
-  - type: expression
-    designation: UUID
-    normative_status: preferred
-    abbrev: true

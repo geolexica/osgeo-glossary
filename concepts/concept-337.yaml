@@ -1,22 +1,15 @@
 ---
-term: raster
+term: PUCK
 termid: 337
 eng:
   id: 337
-  definition: usually rectangular pattern of parallel scanning lines forming or corresponding
-    to the display on a cathode ray tube
+  definition: OGC specification protocol for RS232 and Ethernet connected instruments
   language_code: eng
-  notes:
-  - A raster is a type of grid.
-  - The term “raster data” is often used colloquially in the field of geographic information
-    to identify the whole class of data where the spatial geometry is organized into
-    a grid.
+  notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19123:2005
-    clause: 4.1.30
-    comment: modified —  Note 2 to entry has been added.
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: raster
+    designation: PUCK
     normative_status: preferred

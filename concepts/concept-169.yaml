@@ -1,16 +1,18 @@
 ---
-term: gvSIG
+term: Group on Earth Observations
 termid: 169
 eng:
   id: 169
-  definition: specific Geographical Information handling tool for common vector and
-    raster formats with a user interface
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: gvSIG
+    designation: Group on Earth Observations
     normative_status: preferred
+  - type: expression
+    designation: GEO
+    normative_status: preferred
+    abbrev: true

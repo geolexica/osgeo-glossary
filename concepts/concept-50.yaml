@@ -1,18 +1,20 @@
 ---
-term: Compute Unified Device Architecture
+term: compression
 termid: 50
 eng:
   id: 50
+  definition: technique used to reduce the space used by data
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - 'The technique reduces the space used by data by reducing the amount of bits needed
+    to store and transmit information. Alternatively, there are techniques for lossless
+    or destructive compressions. '
+  examples:
+  - GIF and JPG for the digital images respectively.
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    ref: ISO 19145:2013
+    clause: 4.1.1
   terms:
   - type: expression
-    designation: Compute Unified Device Architecture
+    designation: compression
     normative_status: preferred
-  - type: expression
-    designation: CUDA
-    normative_status: preferred
-    abbrev: true

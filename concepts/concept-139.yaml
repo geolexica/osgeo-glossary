@@ -1,16 +1,16 @@
 ---
-term: GeoServer Data Store
+term: GeoServer
 termid: 139
 eng:
   id: 139
-  definition: GeoServer connection to a source of raster or vector data
+  definition: open source software server written in Java that allows users to share
+    and edit geospatial data
   language_code: eng
   notes: []
-  examples:
-  - A GeoServer Data Store can be a file or group of files, a database table, etc.
+  examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: GeoServer Data Store
+    designation: GeoServer
     normative_status: preferred

@@ -1,5 +1,5 @@
 ---
-term: Pan American Institute of Geography and History
+term: OWS Context SWG
 termid: 328
 eng:
   id: 328
@@ -7,12 +7,8 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Pan American Institute of Geography and History
+    designation: OWS Context SWG
     normative_status: preferred
-  - type: expression
-    designation: IPGH
-    normative_status: preferred
-    abbrev: true

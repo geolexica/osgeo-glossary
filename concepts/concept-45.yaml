@@ -1,19 +1,18 @@
 ---
-term: Common Object Model
+term: Committee on Earth Observation Satellites
 termid: 45
 eng:
   id: 45
-  definition: binary-interface standard for software components introduced by Microsoft
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Common Object Model
+    designation: Committee on Earth Observation Satellites
     normative_status: preferred
   - type: expression
-    designation: COM
+    designation: CEOS
     normative_status: preferred
     abbrev: true

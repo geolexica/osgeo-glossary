@@ -1,8 +1,10 @@
 ---
-term: Information Communities and Semantics
+term: Information and Communications Technology
 termid: 182
 eng:
   id: 182
+  definition: extensional term for information technology (IT) that stresses the role
+    of unified communications and the integration of telecommunications and computers
   language_code: eng
   notes: []
   examples: []
@@ -10,9 +12,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Information Communities and Semantics
+    designation: Information and Communications Technology
     normative_status: preferred
   - type: expression
-    designation: ICS
+    designation: ICT
     normative_status: preferred
     abbrev: true

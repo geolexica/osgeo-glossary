@@ -1,18 +1,20 @@
 ---
-term: Unmanned Aerial Vehicle
+term: Universally Unique Identifier
 termid: 415
 eng:
   id: 415
+  definition: 128-bit number used to identify information in computer systems
   language_code: eng
-  notes: []
+  notes:
+  - also referred to as a globally unique identifier
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Unmanned Aerial Vehicle
+    designation: Universally Unique Identifier
     normative_status: preferred
   - type: expression
-    designation: UAV
+    designation: UUID
     normative_status: preferred
     abbrev: true

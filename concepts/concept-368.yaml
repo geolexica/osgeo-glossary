@@ -1,5 +1,5 @@
 ---
-term: Simple Features OLE/COM
+term: Simple Features CORBA
 termid: 368
 eng:
   id: 368
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Simple Features OLE/COM
+    designation: Simple Features CORBA
     normative_status: preferred
   - type: expression
-    designation: SF OLE/COM
+    designation: SF CORBA
     normative_status: preferred
     abbrev: true

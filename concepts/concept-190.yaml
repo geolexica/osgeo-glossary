@@ -1,20 +1,18 @@
 ---
-term: International Electrotechnical Commission
+term: International Council for Science – World Data System
 termid: 190
 eng:
   id: 190
-  definition: international organization that prepares and publishes international
-    standards for all electrical, electronic and related technologies
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: International Electrotechnical Commission
+    designation: International Council for Science – World Data System
     normative_status: preferred
   - type: expression
-    designation: IEC
+    designation: ICSU-WDS
     normative_status: preferred
     abbrev: true

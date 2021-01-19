@@ -1,20 +1,18 @@
 ---
-term: Global Positioning System
+term: Global Open Data for Agriculture and Nutrition
 termid: 154
 eng:
   id: 154
-  definition: system by means of which it is possible to approximately calculate a
-    position in the Earth using a signal received from several satellites simultaneously
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Global Positioning System
+    designation: Global Open Data for Agriculture and Nutrition
     normative_status: preferred
   - type: expression
-    designation: GPS
+    designation: GODAN
     normative_status: preferred
     abbrev: true

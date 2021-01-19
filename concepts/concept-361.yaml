@@ -1,18 +1,21 @@
 ---
-term: Shapefile
+term: Services Oriented Architecture
 termid: 361
 eng:
   id: 361
-  definition: vector data format for points, lines, or areas
+  definition: methodology for systems development and integration where systems package
+    functionality as interoperable services
   language_code: eng
   notes:
-  - Originally developed by ESRI and widely support by many software projects.
-  examples:
-  - The United States Census Bureau TIGER Data can be obtained for most counties in
-    the United States as ESRI Shapefiles.
+  - A SOA infrastructure allows different applications to exchange data with one another.
+  examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Shapefile
+    designation: Services Oriented Architecture
     normative_status: preferred
+  - type: expression
+    designation: SOA
+    normative_status: preferred
+    abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Request for Information
+term: Request for Comment
 termid: 347
 eng:
   id: 347
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Request for Information
+    designation: Request for Comment
     normative_status: preferred
   - type: expression
-    designation: RFI
+    designation: RFC
     normative_status: preferred
     abbrev: true

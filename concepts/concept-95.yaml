@@ -1,21 +1,18 @@
 ---
-term: ebXML Registry Information Model
+term: Earth System Science Domain Working Group
 termid: 95
 eng:
   id: 95
-  definition: set of services that facilitate communication between companies using
-    OASIS ebXML
   language_code: eng
   notes: []
-  examples:
-  - 'OGC Catalog ebRIM Application Profile: Earth Observation Products.'
+  examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ebXML Registry Information Model
+    designation: Earth System Science Domain Working Group
     normative_status: preferred
   - type: expression
-    designation: ebRIM
+    designation: ESS DWG
     normative_status: preferred
     abbrev: true

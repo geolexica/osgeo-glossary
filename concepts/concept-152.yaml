@@ -1,5 +1,5 @@
 ---
-term: Global Navigational Satellite System
+term: Global Flood Awareness System
 termid: 152
 eng:
   id: 152
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Global Navigational Satellite System
+    designation: Global Flood Awareness System
     normative_status: preferred
   - type: expression
-    designation: GNSS
+    designation: GloFAS
     normative_status: preferred
     abbrev: true

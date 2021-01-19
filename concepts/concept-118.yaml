@@ -1,5 +1,5 @@
 ---
-term: Extreme Science and Engineering Discovery Environment
+term: eXtensible Style Sheet Transformation
 termid: 118
 eng:
   id: 118
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Extreme Science and Engineering Discovery Environment
+    designation: eXtensible Style Sheet Transformation
     normative_status: preferred
   - type: expression
-    designation: XSEDE
+    designation: XSLT
     normative_status: preferred
     abbrev: true

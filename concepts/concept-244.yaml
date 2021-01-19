@@ -1,5 +1,5 @@
 ---
-term: National Hydrologic Dataset
+term: National Geospatial Intelligence Agency
 termid: 244
 eng:
   id: 244
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: National Hydrologic Dataset
+    designation: National Geospatial Intelligence Agency
     normative_status: preferred
   - type: expression
-    designation: NHD
+    designation: NGA
     normative_status: preferred
     abbrev: true

@@ -1,24 +1,24 @@
 ---
-term: OGC Web Feature Service Interface Standard
+term: OGC Web Coverage Service Interface Standard
 termid: 302
 eng:
   id: 302
   definition: OGC standard that describes how to systematically produce structured
-    vector cartographic data from a service and return them to a client
+    raster cartographic data from a service and return them to a client
   language_code: eng
   notes:
-  - The Web Feature Service (WFS) specification from the Open Geospatial Consortium
-    defines an interface for reading and writing geographic features across the web
-    using platform-independent calls. One can think of geographical features as the
-    “source code” behind a map.
+  - Defines an interface for reading and writing geospatial data as “coverages” across
+    the web. The Web Coverage Service provides an interface allowing requests for
+    geographical coverages across the web using platform-independent calls. The coverages
+    are objects (or images) in a geographical area
   examples: []
   authoritative_source:
     link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OGC Web Feature Service Interface Standard
+    designation: OGC Web Coverage Service Interface Standard
     normative_status: preferred
   - type: expression
-    designation: WFS
+    designation: WCS
     normative_status: preferred
     abbrev: true

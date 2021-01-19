@@ -1,5 +1,5 @@
 ---
-term: Group on Earth Observations
+term: Ground Control Point
 termid: 168
 eng:
   id: 168
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Group on Earth Observations
+    designation: Ground Control Point
     normative_status: preferred
   - type: expression
-    designation: GEO
+    designation: GCP
     normative_status: preferred
     abbrev: true

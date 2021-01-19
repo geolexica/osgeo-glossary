@@ -1,16 +1,15 @@
 ---
-term: GeoServer
+term: GeoRSS
 termid: 138
 eng:
   id: 138
-  definition: open source software server written in Java that allows users to share
-    and edit geospatial data
+  definition: RSS feed containing geographic information in GML format
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GeoServer
+    designation: GeoRSS
     normative_status: preferred

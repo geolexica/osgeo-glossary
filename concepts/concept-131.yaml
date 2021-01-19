@@ -1,17 +1,21 @@
 ---
-term: GeoNetwork
+term: Geometry Engine Open Source
 termid: 131
 eng:
   id: 131
-  definition: standards based, Free and Open Source catalog application to manage
-    spatially referenced resources through the web
+  definition: C/C++ port of the Java Topology Suite used for geometric algebra operations
   language_code: eng
   notes:
-  - 'Available from: http://geonetwork-opensource.org'
+  - Can be used for applications such as determining if a polygon is contained in
+    another polygon or determining the resultant intersection of two or more polygons.
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: GeoNetwork
+    designation: Geometry Engine Open Source
     normative_status: preferred
+  - type: expression
+    designation: GEOS
+    normative_status: preferred
+    abbrev: true

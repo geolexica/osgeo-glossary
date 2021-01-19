@@ -1,19 +1,20 @@
 ---
-term: Neutral Transfer Format
+term: Network Common Data Form
 termid: 254
 eng:
   id: 254
+  definition: set of software libraries and machine-independent data formats that
+    support the creation, access, and sharing of array-oriented scientific data
   language_code: eng
-  notes:
-  - Within the UK
+  notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.unidata.ucar.edu/software/netcdf/
   terms:
   - type: expression
-    designation: Neutral Transfer Format
+    designation: Network Common Data Form
     normative_status: preferred
   - type: expression
-    designation: NTF
+    designation: NetCDF
     normative_status: preferred
     abbrev: true

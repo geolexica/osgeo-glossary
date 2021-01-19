@@ -1,5 +1,5 @@
 ---
-term: Global Open Data for Agriculture and Nutrition
+term: Global Navigational Satellite System
 termid: 153
 eng:
   id: 153
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Global Open Data for Agriculture and Nutrition
+    designation: Global Navigational Satellite System
     normative_status: preferred
   - type: expression
-    designation: GODAN
+    designation: GNSS
     normative_status: preferred
     abbrev: true

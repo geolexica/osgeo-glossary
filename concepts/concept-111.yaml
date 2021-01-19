@@ -1,21 +1,21 @@
 ---
-term: European Space Agency
+term: European Petroleum Survey Group
 termid: 111
 eng:
   id: 111
-  definition: European intergovernmental organisation dedicated to the exploration
-    of space
+  definition: scientific organization with ties to the European petroleum industry
+    consisting of specialists working in applied geodesy, surveying, and cartography
+    related to oil exploration, part of the IOGP
   language_code: eng
-  notes:
-  - See http://www.esa.int
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: European Space Agency
+    designation: European Petroleum Survey Group
     normative_status: preferred
   - type: expression
-    designation: ESA
+    designation: EPSG
     normative_status: preferred
     abbrev: true

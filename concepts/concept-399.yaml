@@ -1,5 +1,5 @@
 ---
-term: Test, Evaluation, And Measurement Engine
+term: Test Driven Development.
 termid: 399
 eng:
   id: 399
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Test, Evaluation, And Measurement Engine
+    designation: Test Driven Development.
     normative_status: preferred
   - type: expression
-    designation: TEAM Engine
+    designation: TDD
     normative_status: preferred
     abbrev: true

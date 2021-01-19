@@ -1,10 +1,9 @@
 ---
-term: JavaServer Page Template Library
+term: JavaScript Object Notation
 termid: 211
 eng:
   id: 211
-  definition: JSP tag library that encapsulates many of the standard functions handled
-    in JSP
+  definition: lightweight data-interchange format standardized as ISO/IEC 21778:2017
   language_code: eng
   notes: []
   examples: []
@@ -12,9 +11,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: JavaServer Page Template Library
+    designation: JavaScript Object Notation
     normative_status: preferred
   - type: expression
-    designation: JSTL
+    designation: JSON
     normative_status: preferred
     abbrev: true

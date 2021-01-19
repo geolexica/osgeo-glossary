@@ -1,5 +1,5 @@
 ---
-term: Interoperability Experiment
+term: Internet Society
 termid: 199
 eng:
   id: 199
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Interoperability Experiment
+    designation: Internet Society
     normative_status: preferred
   - type: expression
-    designation: IE
+    designation: ISOC
     normative_status: preferred
     abbrev: true

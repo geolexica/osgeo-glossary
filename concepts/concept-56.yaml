@@ -1,18 +1,22 @@
 ---
-term: coordinate
+term: Content Standard for Digital Geospatial Metadata
 termid: 56
 eng:
   id: 56
-  definition: one of a sequence of numbers designating the position of a point
+  definition: determines metadata that exists in a geographical position and how to
+    access to them
   language_code: eng
   notes:
-  - In a spatial coordinate reference system, the coordinate numbers are qualified
-    by units.
+  - Does not dictate how to organize the data in a computer nor which software to
+    use.
   examples: []
   authoritative_source:
-    ref: ISO 19111:2019
-    clause: 3.1.5
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: coordinate
+    designation: Content Standard for Digital Geospatial Metadata
     normative_status: preferred
+  - type: expression
+    designation: CSDGM
+    normative_status: preferred
+    abbrev: true

@@ -1,19 +1,16 @@
 ---
-term: ISO Technical Committee 204
+term: ISO SQL/MM
 termid: 204
 eng:
   id: 204
-  definition: ISO technical committee responsible for intelligent transport systems
+  definition: database language intended for for spatial applications based on SQL
+    defined by ISO/IEC 13249-3:2016
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    comment: Sandro
   terms:
   - type: expression
-    designation: ISO Technical Committee 204
+    designation: ISO SQL/MM
     normative_status: preferred
-  - type: expression
-    designation: ISO TC/204
-    normative_status: preferred
-    abbrev: true

@@ -1,9 +1,10 @@
 ---
-term: OGC EC08 Pilot
+term: OGC ebXML RegRep SWG
 termid: 275
 eng:
   id: 275
-  definition: OGC Empire Challenge 08 Pilot Project
+  definition: OGC Standards Working Group developing an an extension to the OASIS
+    ebXML RegRep standard
   language_code: eng
   notes: []
   examples: []
@@ -11,5 +12,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC EC08 Pilot
+    designation: OGC ebXML RegRep SWG
     normative_status: preferred

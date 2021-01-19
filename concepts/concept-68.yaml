@@ -1,18 +1,18 @@
 ---
-term: database
+term: Data Quality Domain Working Group
 termid: 68
 eng:
   id: 68
-  definition: structured data set that enables storage, consultation, and upgrades
-    in a computer system
   language_code: eng
-  notes:
-  - There are different types of databases.
-  examples:
-  - Relational database, centralised database, personalised datbase, etc.
+  notes: []
+  examples: []
   authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: database
+    designation: Data Quality Domain Working Group
     normative_status: preferred
+  - type: expression
+    designation: DQ DWG
+    normative_status: preferred
+    abbrev: true

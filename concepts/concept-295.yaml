@@ -1,21 +1,18 @@
 ---
-term: OGC Simple Features for SQL
+term: OGC Sensor Web Enablement activity
 termid: 295
 eng:
   id: 295
-  definition: specification that defines the types and functions that make up a standard
-    spatial database
   language_code: eng
-  notes:
-  - An OGC specification
+  notes: []
   examples: []
   authoritative_source:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Simple Features for SQL
+    designation: OGC Sensor Web Enablement activity
     normative_status: preferred
   - type: expression
-    designation: SFSQL
+    designation: SWE
     normative_status: preferred
     abbrev: true

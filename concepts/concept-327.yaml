@@ -1,5 +1,5 @@
 ---
-term: OWScontextSWG
+term: OWS Common 1.2 SWG
 termid: 327
 eng:
   id: 327
@@ -10,5 +10,5 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OWScontextSWG
+    designation: OWS Common 1.2 SWG
     normative_status: preferred

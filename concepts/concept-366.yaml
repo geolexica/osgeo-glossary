@@ -1,18 +1,15 @@
 ---
-term: Simple Features
+term: SIGTE
 termid: 366
 eng:
   id: 366
+  definition: GIS and Remote Sensing Service of the University of Girona, Spain
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Simple Features
+    designation: SIGTE
     normative_status: preferred
-  - type: expression
-    designation: SF
-    normative_status: preferred
-    abbrev: true

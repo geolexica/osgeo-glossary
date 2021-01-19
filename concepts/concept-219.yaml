@@ -1,5 +1,5 @@
 ---
-term: Light Detection and Ranging
+term: Level Of Detail
 termid: 219
 eng:
   id: 219
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Light Detection and Ranging
+    designation: Level Of Detail
     normative_status: preferred
   - type: expression
-    designation: LiDAR
+    designation: LOD
     normative_status: preferred
     abbrev: true

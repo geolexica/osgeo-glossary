@@ -1,19 +1,18 @@
 ---
-term: computer-generated imagery
+term: Computer-aided design and drafting
 termid: 53
 eng:
   id: 53
-  definition: special visual effects created using computer software
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: computer-generated imagery
+    designation: Computer-aided design and drafting
     normative_status: preferred
   - type: expression
-    designation: CGI
+    designation: CADD or CAD
     normative_status: preferred
     abbrev: true

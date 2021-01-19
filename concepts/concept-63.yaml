@@ -1,18 +1,17 @@
 ---
-term: CyberInfrastructure
+term: Creative Commons
 termid: 63
 eng:
   id: 63
+  definition: American non-profit organization and international network devoted to
+    educational access and expanding the range of creative works available for others
+    to build upon legally and to share
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: CyberInfrastructure
+    designation: Creative Commons
     normative_status: preferred
-  - type: expression
-    designation: CI
-    normative_status: preferred
-    abbrev: true

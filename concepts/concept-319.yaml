@@ -1,15 +1,18 @@
 ---
-term: OpenLayers
+term: Open Standards Consortium for Real Estate
 termid: 319
 eng:
   id: 319
-  definition: JavaScript library for developing draggable, “slippy map” web applications
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OpenLayers
+    designation: Open Standards Consortium for Real Estate
     normative_status: preferred
+  - type: expression
+    designation: OSCRE
+    normative_status: preferred
+    abbrev: true

@@ -1,18 +1,21 @@
 ---
-term: Open Educational Resources
+term: Open Archive Initiative Protocol for Metadata Harvesting
 termid: 313
 eng:
   id: 313
+  definition: protocol used to harvest (or collect) metadata descriptions of records
+    in an archive enabling services to be built using metadata from other archives
   language_code: eng
-  notes: []
+  notes:
+  - Developed by the Open Archives Initiative.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Open Educational Resources
+    designation: Open Archive Initiative Protocol for Metadata Harvesting
     normative_status: preferred
   - type: expression
-    designation: OER
+    designation: OAI-PMH
     normative_status: preferred
     abbrev: true

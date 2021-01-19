@@ -1,10 +1,8 @@
 ---
-term: ISO IEC JTC 1/SC 24/WG 8
+term: Interoperability Program Team
 termid: 202
 eng:
   id: 202
-  definition: ISO working group responsible for computer graphics, image processing
-    and environmental presentation
   language_code: eng
   notes: []
   examples: []
@@ -12,5 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ISO IEC JTC 1/SC 24/WG 8
+    designation: Interoperability Program Team
     normative_status: preferred
+  - type: expression
+    designation: IPTeam
+    normative_status: preferred
+    abbrev: true

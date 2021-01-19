@@ -1,21 +1,16 @@
 ---
-term: Federal Geographic Data Committee
+term: feature type
 termid: 120
 eng:
   id: 120
-  definition: interagency committee that promotes the coordinated development, use,
-    sharing, and dissemination of geospatial data on a national basis in the USA
+  definition: class of features having common characteristics
   language_code: eng
-  notes:
-  - See http://www.fgdc.gov
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    ref: ISO 19156:2011
+    clause: '4.7'
   terms:
   - type: expression
-    designation: Federal Geographic Data Committee
+    designation: feature type
     normative_status: preferred
-  - type: expression
-    designation: FGDC
-    normative_status: preferred
-    abbrev: true

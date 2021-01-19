@@ -1,5 +1,5 @@
 ---
-term: European Spatial Data Information Infrastructure
+term: European Space Education Resource Office
 termid: 113
 eng:
   id: 113
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: European Spatial Data Information Infrastructure
+    designation: European Space Education Resource Office
     normative_status: preferred
   - type: expression
-    designation: ESDI
+    designation: ESERO
     normative_status: preferred
     abbrev: true

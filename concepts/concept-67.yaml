@@ -1,18 +1,19 @@
 ---
-term: Data Quality Domain Working Group
+term: data compression
 termid: 67
 eng:
   id: 67
+  definition: "technique that reduces either the amount of storage space required
+    to store a given amount of data, or the length of message required to transfer
+    a given amount of information\n\n"
   language_code: eng
-  notes: []
+  notes:
+  - 'Adapted from ANSI T1.523-2001. '
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    ref: ISO/TS 19129:2009
+    clause: 4.1.8
   terms:
   - type: expression
-    designation: Data Quality Domain Working Group
+    designation: data compression
     normative_status: preferred
-  - type: expression
-    designation: DQ DWG
-    normative_status: preferred
-    abbrev: true

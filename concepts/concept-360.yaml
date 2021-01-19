@@ -1,21 +1,18 @@
 ---
-term: Services Oriented Architecture
+term: Sensors Anywhere Consortium
 termid: 360
 eng:
   id: 360
-  definition: methodology for systems development and integration where systems package
-    functionality as interoperable services
   language_code: eng
-  notes:
-  - A SOA infrastructure allows different applications to exchange data with one another.
+  notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Services Oriented Architecture
+    designation: Sensors Anywhere Consortium
     normative_status: preferred
   - type: expression
-    designation: SOA
+    designation: SANY
     normative_status: preferred
     abbrev: true

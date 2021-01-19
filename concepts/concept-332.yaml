@@ -1,19 +1,18 @@
 ---
-term: PROJ
+term: Portable Network Graphic
 termid: 332
 eng:
   id: 332
-  definition: generic coordinate transformation software that transforms geospatial
-    coordinates from one coordinate reference system (CRS) to another
   language_code: eng
-  notes:
-  - The software also performs cartographic projections as well as geodetic transformations
-  - PROJ (formerly referred to as PROJ.4)
-  examples:
-  - Used by MapServer and GDAL and a multitude of other Open Source GIS libraries.
+  notes: []
+  examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: PROJ
+    designation: Portable Network Graphic
     normative_status: preferred
+  - type: expression
+    designation: PNG
+    normative_status: preferred
+    abbrev: true

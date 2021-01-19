@@ -1,5 +1,5 @@
 ---
-term: OGC Geospatial eXtensible Access Control Markup Language Standard
+term: OGC Georeferenced Table Joining Service Encoding Standard
 termid: 281
 eng:
   id: 281
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Geospatial eXtensible Access Control Markup Language Standard
+    designation: OGC Georeferenced Table Joining Service Encoding Standard
     normative_status: preferred
   - type: expression
-    designation: GeoXACML
+    designation: TJS
     normative_status: preferred
     abbrev: true

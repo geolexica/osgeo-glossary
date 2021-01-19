@@ -1,18 +1,19 @@
 ---
-term: OGC Georeferenced Table Joining Service Encoding Standard
+term: OGC Geography Markup Language Encoding Standard
 termid: 280
 eng:
   id: 280
+  definition: OGC standard which defines an abstract model for geographic features
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OGC Georeferenced Table Joining Service Encoding Standard
+    designation: OGC Geography Markup Language Encoding Standard
     normative_status: preferred
   - type: expression
-    designation: TJS
+    designation: GML
     normative_status: preferred
     abbrev: true

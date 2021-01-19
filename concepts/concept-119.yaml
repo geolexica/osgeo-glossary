@@ -1,16 +1,18 @@
 ---
-term: feature type
+term: Extreme Science and Engineering Discovery Environment
 termid: 119
 eng:
   id: 119
-  definition: class of features having common characteristics
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19156:2011
-    clause: '4.7'
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: feature type
+    designation: Extreme Science and Engineering Discovery Environment
     normative_status: preferred
+  - type: expression
+    designation: XSEDE
+    normative_status: preferred
+    abbrev: true

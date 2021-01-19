@@ -1,5 +1,5 @@
 ---
-term: National Mapping Agency
+term: National Land Cover Dataset
 termid: 248
 eng:
   id: 248
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: National Mapping Agency
+    designation: National Land Cover Dataset
     normative_status: preferred
   - type: expression
-    designation: NMA
+    designation: NLCD
     normative_status: preferred
     abbrev: true

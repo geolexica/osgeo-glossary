@@ -1,17 +1,21 @@
 ---
-term: GRASPgfs
+term: Graphic Interchange Format
 termid: 164
 eng:
   id: 164
-  definition: prototype of the Nottingham Geospatial Institute for Geospatial Resource
-    for Agricultural Species and Pests with integrated workflow modelling to support
-    Global Food Security
+  definition: platform­-independent graphics format developed by CompuServe
   language_code: eng
-  notes: []
+  notes:
+  - The GIF format is generally recommended for simple images and limited to a maximum
+    of 256 colours.
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: GRASPgfs
+    designation: Graphic Interchange Format
     normative_status: preferred
+  - type: expression
+    designation: GIF
+    normative_status: preferred
+    abbrev: true

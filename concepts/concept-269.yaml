@@ -1,5 +1,5 @@
 ---
-term: OGC City Geography Markup Language (CityGML) Encoding Standard
+term: OGC Catalogue Service Interface Standard
 termid: 269
 eng:
   id: 269
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC City Geography Markup Language (CityGML) Encoding Standard
+    designation: OGC Catalogue Service Interface Standard
     normative_status: preferred
   - type: expression
-    designation: CityGML
+    designation: CS
     normative_status: preferred
     abbrev: true

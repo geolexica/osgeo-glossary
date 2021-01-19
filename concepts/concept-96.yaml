@@ -1,20 +1,21 @@
 ---
-term: ebXML Registry Services and Protocols
+term: ebXML Registry Information Model
 termid: 96
 eng:
   id: 96
-  definition: OASIS standard that defines a set of services that enable sharing of
-    content and metadata between organizational entities in a federated environment
+  definition: set of services that facilitate communication between companies using
+    OASIS ebXML
   language_code: eng
   notes: []
-  examples: []
+  examples:
+  - 'OGC Catalog ebRIM Application Profile: Earth Observation Products.'
   authoritative_source:
     link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: ebXML Registry Services and Protocols
+    designation: ebXML Registry Information Model
     normative_status: preferred
   - type: expression
-    designation: ebRS
+    designation: ebRIM
     normative_status: preferred
     abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Standards based Commercial Off-The-Shelf software
+term: Standard Interchange Format
 termid: 387
 eng:
   id: 387
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Standards based Commercial Off-The-Shelf software
+    designation: Standard Interchange Format
     normative_status: preferred
   - type: expression
-    designation: SCOTS
+    designation: SIF
     normative_status: preferred
     abbrev: true

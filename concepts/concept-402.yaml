@@ -1,20 +1,21 @@
 ---
-term: tileindex
+term: The Open Source Geospatial Foundation
 termid: 402
 eng:
   id: 402
-  definition: vector data source that contains spatial extents (footprints) of raster
-    data coverages
+  definition: non-profit non-governmental organization whose mission is to support
+    and promote the collaborative development of open geospatial technologies and
+    data
   language_code: eng
-  notes:
-  - A tilelindex is normally in the form of a shpfile
-  examples:
-  - MapServer can use a tileindex to render a directory of raster data by only reading
-    the data that intersects the requested map extent, rather than reading all of
-    the data.
+  notes: []
+  examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: http://www.osgeo.org
   terms:
   - type: expression
-    designation: tileindex
+    designation: The Open Source Geospatial Foundation
     normative_status: preferred
+  - type: expression
+    designation: OSGEO
+    normative_status: preferred
+    abbrev: true

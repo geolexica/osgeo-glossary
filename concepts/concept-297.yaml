@@ -1,5 +1,5 @@
 ---
-term: OGC Strategic Member Advisory Committee
+term: OGC Simple FeaturesSQL Encoding Standard
 termid: 297
 eng:
   id: 297
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Strategic Member Advisory Committee
+    designation: OGC Simple FeaturesSQL Encoding Standard
     normative_status: preferred
   - type: expression
-    designation: SMAC
+    designation: SFS
     normative_status: preferred
     abbrev: true

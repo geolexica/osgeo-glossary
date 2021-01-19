@@ -1,20 +1,18 @@
 ---
-term: Lightweight Directory Access Protocol
+term: Light Detection and Ranging
 termid: 220
 eng:
   id: 220
-  definition: application protocol for querying and modifying directory services running
-    over TCP/IP
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Lightweight Directory Access Protocol
+    designation: Light Detection and Ranging
     normative_status: preferred
   - type: expression
-    designation: LDAP
+    designation: LiDAR
     normative_status: preferred
     abbrev: true

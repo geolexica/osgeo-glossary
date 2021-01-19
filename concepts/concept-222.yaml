@@ -1,21 +1,18 @@
 ---
-term: Location Based Service
+term: Local Organizing Committee
 termid: 222
 eng:
   id: 222
-  definition: service whose return or other property is dependent on the location
-    of the client requesting the service or of some other thing, object or person
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19133:2005
-    clause: '4.11'
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Location Based Service
+    designation: Local Organizing Committee
     normative_status: preferred
   - type: expression
-    designation: LBS
+    designation: LOC
     normative_status: preferred
     abbrev: true

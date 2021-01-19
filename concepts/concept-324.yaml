@@ -1,5 +1,5 @@
 ---
-term: Organisation for Economic Co-Operation and Development
+term: Orfeo Tool Box
 termid: 324
 eng:
   id: 324
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Organisation for Economic Co-Operation and Development
+    designation: Orfeo Tool Box
     normative_status: preferred
   - type: expression
-    designation: OECD
+    designation: OTB
     normative_status: preferred
     abbrev: true

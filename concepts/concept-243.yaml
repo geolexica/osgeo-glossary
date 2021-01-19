@@ -1,5 +1,5 @@
 ---
-term: National Geospatial Intelligence Agency
+term: National Elevation Dataset
 termid: 243
 eng:
   id: 243
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: National Geospatial Intelligence Agency
+    designation: National Elevation Dataset
     normative_status: preferred
   - type: expression
-    designation: NGA
+    designation: NED
     normative_status: preferred
     abbrev: true

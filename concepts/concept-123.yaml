@@ -1,19 +1,21 @@
 ---
-term: Free and Open Source Software for Geospatial
+term: Free and Open Source Software
 termid: 123
 eng:
   id: 123
-  definition: Conference of the Open Source Geospatial Foundation
+  definition: software which is liberally licensed to grant the right of users to
+    study, change, and improve its design through the availability of its source code
   language_code: eng
-  notes: []
+  notes:
+  - Also F/OSS, FOSS, or FLOSS (free/libre/open source software). See http://en.wikipedia.org/wiki/FOSS
   examples: []
   authoritative_source:
-    comment: Combo of a couple of sources
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Free and Open Source Software for Geospatial
+    designation: Free and Open Source Software
     normative_status: preferred
   - type: expression
-    designation: FOSS4G
+    designation: FOSS
     normative_status: preferred
     abbrev: true

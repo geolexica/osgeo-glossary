@@ -1,18 +1,20 @@
 ---
-term: Local Organizing Committee
+term: Lightweight Directory Access Protocol
 termid: 221
 eng:
   id: 221
+  definition: application protocol for querying and modifying directory services running
+    over TCP/IP
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Local Organizing Committee
+    designation: Lightweight Directory Access Protocol
     normative_status: preferred
   - type: expression
-    designation: LOC
+    designation: LDAP
     normative_status: preferred
     abbrev: true

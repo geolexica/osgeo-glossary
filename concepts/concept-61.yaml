@@ -1,18 +1,22 @@
 ---
-term: Create Read Update and Delete.
+term: coverage
 termid: 61
 eng:
   id: 61
+  definition: |-
+    feature that acts as a function to return values from its range for any direct position within its spatial,
+    temporal or spatiotemporal domain
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - In other words, a coverage is a feature that has multiple values for each attribute
+    type, where each direct position within the geometric representation of the feature
+    has a single value for each attribute type.
+  examples:
+  - Examples include a raster image, polygon overlay or digital elevation matrix.
   authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    ref: ISO 19123:2005
+    clause: 4.1.7
   terms:
   - type: expression
-    designation: Create Read Update and Delete.
+    designation: coverage
     normative_status: preferred
-  - type: expression
-    designation: CRUD
-    normative_status: preferred
-    abbrev: true

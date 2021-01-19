@@ -1,18 +1,21 @@
 ---
-term: Unified Modeling Language
+term: UN Environment Programme
 termid: 407
 eng:
   id: 407
+  definition: organization that coordinates United Nations environmental activities,
+    assisting developing countries in implementing environmentally sound policies
+    and encourages sustainable development through sound environmental practices
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Unified Modeling Language
+    designation: UN Environment Programme
     normative_status: preferred
   - type: expression
-    designation: Unified Modeling Language
+    designation: UNEP
     normative_status: preferred
     abbrev: true

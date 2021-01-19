@@ -1,17 +1,18 @@
 ---
-term: layer
+term: Law Enforcement and Public Safety Domain Working Group
 termid: 217
 eng:
   id: 217
-  definition: basic unit of geographic information that may be requested as a map
-    from a server
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: ISO 19128:2005
-    clause: '4.6'
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: layer
+    designation: Law Enforcement and Public Safety Domain Working Group
     normative_status: preferred
+  - type: expression
+    designation: LEAPS DWG
+    normative_status: preferred
+    abbrev: true

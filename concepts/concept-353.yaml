@@ -1,5 +1,5 @@
 ---
-term: Risk and Crisis Management
+term: Research Data Alliance
 termid: 353
 eng:
   id: 353
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Risk and Crisis Management
+    designation: Research Data Alliance
     normative_status: preferred
   - type: expression
-    designation: RCM
+    designation: RDA
     normative_status: preferred
     abbrev: true

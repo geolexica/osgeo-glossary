@@ -1,5 +1,5 @@
 ---
-term: Web Services
+term: Web Processing Service
 termid: 428
 eng:
   id: 428
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Web Services
+    designation: Web Processing Service
     normative_status: preferred
   - type: expression
-    designation: WS
+    designation: WPS
     normative_status: preferred
     abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Global Earth Observation System of Systems Pilot Project
+term: Geospatial Rights Management Domain Working Group
 termid: 150
 eng:
   id: 150
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Global Earth Observation System of Systems Pilot Project
+    designation: Geospatial Rights Management Domain Working Group
     normative_status: preferred
   - type: expression
-    designation: GEOSS Pilot ­
+    designation: GeoRM DWG
     normative_status: preferred
     abbrev: true

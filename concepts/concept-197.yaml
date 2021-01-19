@@ -1,5 +1,5 @@
 ---
-term: Internet Engineering Task Force
+term: International Telecommunication Union
 termid: 197
 eng:
   id: 197
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Internet Engineering Task Force
+    designation: International Telecommunication Union
     normative_status: preferred
   - type: expression
-    designation: IETF
+    designation: ITU
     normative_status: preferred
     abbrev: true

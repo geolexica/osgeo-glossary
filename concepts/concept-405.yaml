@@ -1,5 +1,5 @@
 ---
-term: U.S. Geological Survey
+term: Triangulated Irregular Network
 termid: 405
 eng:
   id: 405
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: U.S. Geological Survey
+    designation: Triangulated Irregular Network
     normative_status: preferred
   - type: expression
-    designation: USGS
+    designation: TIN
     normative_status: preferred
     abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Digital Terrain Model
+term: Digital Surface Models
 termid: 81
 eng:
   id: 81
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Digital Terrain Model
+    designation: Digital Surface Models
     normative_status: preferred
   - type: expression
-    designation: DTM
+    designation: DSM
     normative_status: preferred
     abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Symbology Encoding
+term: Sustainable Development Goal
 termid: 392
 eng:
   id: 392
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Symbology Encoding
+    designation: Sustainable Development Goal
     normative_status: preferred
   - type: expression
-    designation: SE
+    designation: SDG
     normative_status: preferred
     abbrev: true

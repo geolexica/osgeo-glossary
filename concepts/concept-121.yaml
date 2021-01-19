@@ -1,20 +1,21 @@
 ---
-term: Food and Agriculture Organisation
+term: Federal Geographic Data Committee
 termid: 121
 eng:
   id: 121
-  definition: specialised agency of the United Nations that leads international efforts
-    to defeat hunger
+  definition: interagency committee that promotes the coordinated development, use,
+    sharing, and dissemination of geospatial data on a national basis in the USA
   language_code: eng
-  notes: []
+  notes:
+  - See http://www.fgdc.gov
   examples: []
   authoritative_source:
     link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Food and Agriculture Organisation
+    designation: Federal Geographic Data Committee
     normative_status: preferred
   - type: expression
-    designation: FAO
+    designation: FGDC
     normative_status: preferred
     abbrev: true

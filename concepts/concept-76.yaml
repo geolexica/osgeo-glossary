@@ -1,5 +1,5 @@
 ---
-term: Digital Geographic Exchange Standard
+term: Digital Elevation Model
 termid: 76
 eng:
   id: 76
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Digital Geographic Exchange Standard
+    designation: Digital Elevation Model
     normative_status: preferred
   - type: expression
-    designation: DIGEST
+    designation: DEM
     normative_status: preferred
     abbrev: true

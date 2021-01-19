@@ -1,18 +1,21 @@
 ---
-term: Small or Medium Sized Enterprise
+term: Simplified Wrapper Interface Generator
 termid: 373
 eng:
   id: 373
+  definition: MapServer library used for generating all language bindings other than
+    C/C++ and PHP
   language_code: eng
-  notes: []
+  notes:
+  - MapScript describes these bindings.
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Small or Medium Sized Enterprise
+    designation: Simplified Wrapper Interface Generator
     normative_status: preferred
   - type: expression
-    designation: SME
+    designation: SWIG
     normative_status: preferred
     abbrev: true

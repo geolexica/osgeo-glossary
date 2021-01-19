@@ -1,5 +1,5 @@
 ---
-term: Regional Universities Forum for capacity building in agriculture
+term: Regional Centre for Mapping of Resources for Development
 termid: 342
 eng:
   id: 342
@@ -10,9 +10,9 @@ eng:
     link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: Regional Universities Forum for capacity building in agriculture
+    designation: Regional Centre for Mapping of Resources for Development
     normative_status: preferred
   - type: expression
-    designation: RUFORUM
+    designation: RCMRD
     normative_status: preferred
     abbrev: true

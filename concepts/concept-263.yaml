@@ -1,19 +1,19 @@
 ---
-term: Office of Spatial Data Management
+term: Observations and Measurements
 termid: 263
 eng:
   id: 263
+  definition: OGC standard which defines an abstract model for sensor based data
   language_code: eng
-  notes:
-  - Within Australia.
+  notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Office of Spatial Data Management
+    designation: Observations and Measurements
     normative_status: preferred
   - type: expression
-    designation: OSDM
+    designation: OM
     normative_status: preferred
     abbrev: true

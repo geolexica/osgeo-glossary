@@ -1,21 +1,16 @@
 ---
-term: Geometry Engine Open Source
+term: GeoJSON
 termid: 130
 eng:
   id: 130
-  definition: C/C++ port of the Java Topology Suite used for geometric algebra operations
+  definition: format for encoding a variety of geographic data structures using JSON
   language_code: eng
   notes:
-  - Can be used for applications such as determining if a polygon is contained in
-    another polygon or determining the resultant intersection of two or more polygons.
+  - GeoJSON is commonly used in spatial applications.
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Geometry Engine Open Source
+    designation: GeoJSON
     normative_status: preferred
-  - type: expression
-    designation: GEOS
-    normative_status: preferred
-    abbrev: true

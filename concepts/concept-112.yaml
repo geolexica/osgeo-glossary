@@ -1,18 +1,21 @@
 ---
-term: European Space Education Resource Office
+term: European Space Agency
 termid: 112
 eng:
   id: 112
+  definition: European intergovernmental organisation dedicated to the exploration
+    of space
   language_code: eng
-  notes: []
+  notes:
+  - See http://www.esa.int
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: European Space Education Resource Office
+    designation: European Space Agency
     normative_status: preferred
   - type: expression
-    designation: ESERO
+    designation: ESA
     normative_status: preferred
     abbrev: true

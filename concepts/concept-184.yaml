@@ -1,18 +1,21 @@
 ---
-term: Infrastructure for Spatial Information in Europe
+term: Infraestructura de Datos Espaciales de España (Spanish Spatial Data Infrastructure)
 termid: 184
 eng:
   id: 184
+  definition: National Spatial Data Infrastructure project of Spain which aims to
+    integrate data, metadata, services and geographic information through the Internet
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: Infrastructure for Spatial Information in Europe
+    designation: Infraestructura de Datos Espaciales de España (Spanish Spatial Data
+      Infrastructure)
     normative_status: preferred
   - type: expression
-    designation: INSPIRE
+    designation: IDEE
     normative_status: preferred
     abbrev: true

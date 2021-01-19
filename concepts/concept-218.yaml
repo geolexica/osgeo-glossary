@@ -1,18 +1,17 @@
 ---
-term: Level Of Detail
+term: layer
 termid: 218
 eng:
   id: 218
+  definition: basic unit of geographic information that may be requested as a map
+    from a server
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    ref: ISO 19128:2005
+    clause: '4.6'
   terms:
   - type: expression
-    designation: Level Of Detail
+    designation: layer
     normative_status: preferred
-  - type: expression
-    designation: LOD
-    normative_status: preferred
-    abbrev: true

@@ -1,17 +1,18 @@
 ---
-term: OGC Sensor Observation Service Interface Standard
+term: OGC Sensor Model Language Encoding Standard
 termid: 293
 eng:
   id: 293
-  definition: OGC developed API for managing deployed sensors and retrieving sensor
-    and observation data
   language_code: eng
-  notes:
-  - Specification developed by OGC
+  notes: []
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Sensor Observation Service Interface Standard
+    designation: OGC Sensor Model Language Encoding Standard
     normative_status: preferred
+  - type: expression
+    designation: SensorML
+    normative_status: preferred
+    abbrev: true

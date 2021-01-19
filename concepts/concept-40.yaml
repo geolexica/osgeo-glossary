@@ -1,18 +1,18 @@
 ---
-term: clearinghouse
+term: CEOS Working Group on Capacity Building and Data Democracy
 termid: 40
 eng:
   id: 40
-  definition: distributed service for metadata about geospatial data locating. Allows
-    to search in one or several nodes or servers that have been registered in the
-    Clearinghouse of the Internet. It is the term used by FGDC, equivalent to the
-    OGC’s Catalogue Service.
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    comment: GVSIG_1-0_2011
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: clearinghouse
+    designation: CEOS Working Group on Capacity Building and Data Democracy
     normative_status: preferred
+  - type: expression
+    designation: WGCapD
+    normative_status: preferred
+    abbrev: true

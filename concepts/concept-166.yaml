@@ -1,18 +1,17 @@
 ---
-term: grid
+term: GRIB
 termid: 166
 eng:
   id: 166
-  definition: network composed of two or more sets of curves in which the members
-    of each set intersect the members of the other sets in an algorithmic way
+  definition: WMO standardized data format used in meteorology to store historical
+    and forecast weather data standard
   language_code: eng
   notes:
-  - The curves partition a space into grid cells.
+  - Abbreviated from the words "GRIdded Binary".
   examples: []
   authoritative_source:
-    ref: ISO 19123:2005
-    clause: 4.1.23
+    comment: Jon Blower
   terms:
   - type: expression
-    designation: grid
+    designation: GRIB
     normative_status: preferred

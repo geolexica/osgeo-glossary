@@ -1,18 +1,18 @@
 ---
-term: geoid
+term: Geographic Linkage Service 1.0 Standards Working Group
 termid: 128
 eng:
   id: 128
-  definition: equipotential surface of the Earth’s gravity field which is perpendicular
-    to the direction of gravity and which best fits mean sea level either locally,
-    regionally or globally
   language_code: eng
   notes: []
   examples: []
   authoritative_source:
-    ref: iso 19111:2019
-    clause: 3.1.36
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: geoid
+    designation: Geographic Linkage Service 1.0 Standards Working Group
     normative_status: preferred
+  - type: expression
+    designation: GLS SWG
+    normative_status: preferred
+    abbrev: true

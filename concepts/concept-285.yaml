@@ -1,5 +1,5 @@
 ---
-term: OGC Location Services
+term: OGC Iberian and Latin-American Forum
 termid: 285
 eng:
   id: 285
@@ -10,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC Location Services
+    designation: OGC Iberian and Latin-American Forum
     normative_status: preferred
   - type: expression
-    designation: OLS
+    designation: ILAF
     normative_status: preferred
     abbrev: true

@@ -1,5 +1,5 @@
 ---
-term: Hierarchical Data Format
+term: Hibernate Query Language.
 termid: 171
 eng:
   id: 171
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Hierarchical Data Format
+    designation: Hibernate Query Language.
     normative_status: preferred
   - type: expression
-    designation: HDF
+    designation: HQL
     normative_status: preferred
     abbrev: true

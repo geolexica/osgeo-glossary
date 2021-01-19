@@ -1,18 +1,19 @@
 ---
-term: European Center for Medium range Weather Forecasting
+term: EPSG code
 termid: 106
 eng:
   id: 106
+  definition: numeric codes defined by the EPSG associated with coordinate system
+    definitions
   language_code: eng
-  notes: []
-  examples: []
+  notes:
+  - EPSG codes are published by the Oil and Gas Producers (OGP) Surveying and Positioning
+    Committee. OGC WMS protocol uses EPSG codes to describe coordinate systems.
+  examples:
+  - EPSG:4326 is geographic WGS84, and EPSG:32611 is “UTM zone 11 North, WGS84”.
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: European Center for Medium range Weather Forecasting
+    designation: EPSG code
     normative_status: preferred
-  - type: expression
-    designation: ECMWF
-    normative_status: preferred
-    abbrev: true

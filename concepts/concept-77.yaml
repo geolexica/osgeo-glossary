@@ -1,11 +1,8 @@
 ---
-term: Digital Geospatial Information Working Group
+term: Digital Geographic Exchange Standard
 termid: 77
 eng:
   id: 77
-  definition: multi-national body to provide strategic guidance and recommendations
-    to its defence organization membership on the standardisation of geospatial data,
-    products, and services
   language_code: eng
   notes: []
   examples: []
@@ -13,9 +10,9 @@ eng:
     link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Digital Geospatial Information Working Group
+    designation: Digital Geographic Exchange Standard
     normative_status: preferred
   - type: expression
-    designation: DGIWG
+    designation: DIGEST
     normative_status: preferred
     abbrev: true

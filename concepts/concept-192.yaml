@@ -1,5 +1,5 @@
 ---
-term: International Modeling & Software Society Secretariat
+term: International Hydrographic Office
 termid: 192
 eng:
   id: 192
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
+    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: International Modeling & Software Society Secretariat
+    designation: International Hydrographic Office
     normative_status: preferred
   - type: expression
-    designation: iEMSs
+    designation: OHI
     normative_status: preferred
     abbrev: true

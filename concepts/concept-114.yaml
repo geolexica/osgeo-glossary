@@ -1,5 +1,5 @@
 ---
-term: European Spatial Data Research
+term: European Spatial Data Information Infrastructure
 termid: 114
 eng:
   id: 114
@@ -7,12 +7,12 @@ eng:
   notes: []
   examples: []
   authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: European Spatial Data Research
+    designation: European Spatial Data Information Infrastructure
     normative_status: preferred
   - type: expression
-    designation: EuroSDR
+    designation: ESDI
     normative_status: preferred
     abbrev: true

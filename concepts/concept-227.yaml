@@ -1,16 +1,17 @@
 ---
-term: Mapfile
+term: map projection
 termid: 227
 eng:
   id: 227
-  definition: declarative language having a hierarchial format that is used by MapServer
-    to define data connections, map styling, templating, and server directives
+  definition: coordinate conversion from an ellipsoidal coordinate system to a plane
   language_code: eng
-  notes: []
+  notes:
+  - See also http://en.wikipedia.org/wiki/MAC_address on Wikipedia
   examples: []
   authoritative_source:
-    link: https://mapserver.org/glossary.html
+    ref: ISO 19111:2019
+    clause: 3.1.40
   terms:
   - type: expression
-    designation: Mapfile
+    designation: map projection
     normative_status: preferred
