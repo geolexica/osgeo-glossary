@@ -1,19 +1,21 @@
 ---
-term: Committee on Data for Science and Technology
 termid: 44
+term: Committee on Data for Science and Technology
 eng:
   id: 44
-  definition: Committee on Data for Science and Technology
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Committee on Data for Science and Technology
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: CODATA
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: Committee on Data for Science and Technology
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

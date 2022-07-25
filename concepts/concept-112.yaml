@@ -1,21 +1,23 @@
 ---
-term: European Space Agency
 termid: 112
+term: European Space Agency
 eng:
   id: 112
-  definition: European intergovernmental organisation dedicated to the exploration
-    of space
-  language_code: eng
-  notes:
-  - See http://www.esa.int
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: European Space Agency
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: ESA
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: European intergovernmental organisation dedicated to the exploration
+      of space
+  notes:
+  - content: See http://www.esa.int
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

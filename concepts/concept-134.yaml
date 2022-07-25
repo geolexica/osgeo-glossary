@@ -1,18 +1,21 @@
 ---
-term: geopositioning
 termid: 134
+term: geopositioning
 eng:
   id: 134
-  definition: determination of the geographic position of an object
-  language_code: eng
-  notes:
-  - While there are many methods for geopositioning, this document is focused on geopositioning
-    from image coordinates.
-  examples: []
-  authoritative_source:
-    ref: ISO 19130-1:2018
-    clause: '3.36'
   terms:
   - type: expression
-    designation: geopositioning
     normative_status: preferred
+    designation: geopositioning
+  definition:
+  - content: determination of the geographic position of an object
+  notes:
+  - content: While there are many methods for geopositioning, this document is focused
+      on geopositioning from image coordinates.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19130-1:2018
+      clause: '3.36'

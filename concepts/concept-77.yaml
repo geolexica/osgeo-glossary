@@ -1,18 +1,19 @@
 ---
-term: Digital Geographic Exchange Standard
 termid: 77
+term: Digital Geographic Exchange Standard
 eng:
   id: 77
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Digital Geographic Exchange Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: DIGEST
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

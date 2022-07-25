@@ -1,16 +1,15 @@
 ---
-term: International Standard
 termid: 196
+term: International Standard
 eng:
   id: 196
-  language_code: eng
-  notes: []
-  examples: []
   terms:
   - type: expression
+    normative_status: preferred
     designation: International Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: IS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng

@@ -1,15 +1,18 @@
 ---
-term: DWG file
 termid: 90
+term: DWG file
 eng:
   id: 90
-  definition: binary file format used for containing 2D and 3D design data
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: DWG file
     normative_status: preferred
+    designation: DWG file
+  definition:
+  - content: binary file format used for containing 2D and 3D design data
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

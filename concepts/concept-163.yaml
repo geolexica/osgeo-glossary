@@ -1,16 +1,19 @@
 ---
-term: GPS Exchange Format
 termid: 163
+term: GPS Exchange Format
 eng:
   id: 163
-  definition: XML Schema for describing GPS data
-  language_code: eng
-  notes: []
-  examples:
-  - In MapServer, OGR can be used to transform and render GPX data.
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: GPS Exchange Format
     normative_status: preferred
+    designation: GPS Exchange Format
+  definition:
+  - content: XML Schema for describing GPS data
+  notes: []
+  examples:
+  - content: In MapServer, OGR can be used to transform and render GPX data.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

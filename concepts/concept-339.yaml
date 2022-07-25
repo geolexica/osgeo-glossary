@@ -1,16 +1,17 @@
 ---
-term: raster layer
 termid: 339
+term: raster layer
 eng:
   id: 339
-  definition: cell-based representation of data of features on the earth’s surface.
-  language_code: eng
-  notes:
-  - Each cell has a distinct value and all the cells sharing the same value represent
-    a specific feature.
-  - Raster layers are analogous to coverages.
-  examples: []
   terms:
   - type: expression
-    designation: raster layer
     normative_status: preferred
+    designation: raster layer
+  definition:
+  - content: cell-based representation of data of features on the earth’s surface.
+  notes:
+  - content: Each cell has a distinct value and all the cells sharing the same value
+      represent a specific feature.
+  - content: Raster layers are analogous to coverages.
+  examples: []
+  language_code: eng

@@ -1,20 +1,22 @@
 ---
-term: eXtensible Markup Language
 termid: 117
+term: eXtensible Markup Language
 eng:
   id: 117
-  definition: markup language that defines a set of rules for encoding documents in
-    a format that is both human-readable and machine-readable
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: eXtensible Markup Language
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: XML
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: markup language that defines a set of rules for encoding documents in
+      a format that is both human-readable and machine-readable
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

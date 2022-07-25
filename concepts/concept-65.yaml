@@ -1,18 +1,19 @@
 ---
-term: Data Access Object
 termid: 65
+term: Data Access Object
 eng:
   id: 65
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Data Access Object
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: DAO
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

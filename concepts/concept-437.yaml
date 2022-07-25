@@ -1,15 +1,16 @@
 ---
-term: workspace
 termid: 437
+term: workspace
 eng:
   id: 437
-  definition: organizational structure for grouping related data
-  language_code: eng
-  notes: []
-  examples:
-  - GeoServer uses a workspace for related data stores. Other geospatial software
-    store related datasets in a workspace.
   terms:
   - type: expression
-    designation: workspace
     normative_status: preferred
+    designation: workspace
+  definition:
+  - content: organizational structure for grouping related data
+  notes: []
+  examples:
+  - content: GeoServer uses a workspace for related data stores. Other geospatial
+      software store related datasets in a workspace.
+  language_code: eng

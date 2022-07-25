@@ -1,18 +1,19 @@
 ---
-term: Level Of Detail
 termid: 219
+term: Level Of Detail
 eng:
   id: 219
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Level Of Detail
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: LOD
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

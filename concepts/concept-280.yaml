@@ -1,19 +1,21 @@
 ---
-term: OGC Geography Markup Language Encoding Standard
 termid: 280
+term: OGC Geography Markup Language Encoding Standard
 eng:
   id: 280
-  definition: OGC standard which defines an abstract model for geographic features
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: OGC Geography Markup Language Encoding Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GML
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: OGC standard which defines an abstract model for geographic features
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

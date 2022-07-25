@@ -1,21 +1,23 @@
 ---
-term: OGC Simple Features for SQL
 termid: 296
+term: OGC Simple Features for SQL
 eng:
   id: 296
-  definition: specification that defines the types and functions that make up a standard
-    spatial database
-  language_code: eng
-  notes:
-  - An OGC specification
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: OGC Simple Features for SQL
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SFSQL
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: specification that defines the types and functions that make up a standard
+      spatial database
+  notes:
+  - content: An OGC specification
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

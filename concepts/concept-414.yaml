@@ -1,18 +1,19 @@
 ---
-term: Universal Description, Discovery, and Integration
 termid: 414
+term: Universal Description, Discovery, and Integration
 eng:
   id: 414
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Universal Description, Discovery, and Integration
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: UDDI
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

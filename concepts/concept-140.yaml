@@ -1,16 +1,20 @@
 ---
-term: GeoServer Data Store
 termid: 140
+term: GeoServer Data Store
 eng:
   id: 140
-  definition: GeoServer connection to a source of raster or vector data
-  language_code: eng
-  notes: []
-  examples:
-  - A GeoServer Data Store can be a file or group of files, a database table, etc.
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GeoServer Data Store
     normative_status: preferred
+    designation: GeoServer Data Store
+  definition:
+  - content: GeoServer connection to a source of raster or vector data
+  notes: []
+  examples:
+  - content: A GeoServer Data Store can be a file or group of files, a database table,
+      etc.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

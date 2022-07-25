@@ -1,18 +1,18 @@
 ---
-term: globally unique identifier
 termid: 158
+term: globally unique identifier
 eng:
   id: 158
-  definition: 128-bit number used to identify information in computer systems
-  language_code: eng
-  notes:
-  - also referred to as a universally unique identifier
-  examples: []
   terms:
   - type: expression
+    normative_status: preferred
     designation: globally unique identifier
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GUID
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: 128-bit number used to identify information in computer systems
+  notes:
+  - content: also referred to as a universally unique identifier
+  examples: []
+  language_code: eng

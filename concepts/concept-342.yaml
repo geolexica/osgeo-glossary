@@ -1,18 +1,19 @@
 ---
-term: Regional Centre for Mapping of Resources for Development
 termid: 342
+term: Regional Centre for Mapping of Resources for Development
 eng:
   id: 342
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Regional Centre for Mapping of Resources for Development
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: RCMRD
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

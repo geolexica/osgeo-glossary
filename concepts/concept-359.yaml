@@ -1,18 +1,19 @@
 ---
-term: Sensor Web Enablement Common Data Model
 termid: 359
+term: Sensor Web Enablement Common Data Model
 eng:
   id: 359
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Sensor Web Enablement Common Data Model
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SWE Common
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

@@ -1,17 +1,20 @@
 ---
-term: namespace
 termid: 240
+term: namespace
 eng:
   id: 240
-  definition: "<XML> collection of names, identified by a URI reference, which are
-    used in XML documents as element names and attribute names (W3C XML Namespaces)\n"
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    ref: ISO 19136:2007
-    clause: 4.1.43
   terms:
   - type: expression
-    designation: namespace
     normative_status: preferred
+    designation: namespace
+  definition:
+  - content: "<XML> collection of names, identified by a URI reference, which are
+      used in XML documents as element names and attribute names (W3C XML Namespaces)\n"
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19136:2007
+      clause: 4.1.43

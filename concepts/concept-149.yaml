@@ -1,20 +1,22 @@
 ---
-term: Geospatial Objects
 termid: 149
+term: Geospatial Objects
 eng:
   id: 149
-  definition: 'OGC OpenGIS Geographic Objects Implementation Specification '
-  language_code: eng
-  notes:
-  - Retired OGC standard.
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Geospatial Objects
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GO
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: 'OGC OpenGIS Geographic Objects Implementation Specification '
+  notes:
+  - content: Retired OGC standard.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

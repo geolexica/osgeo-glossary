@@ -1,18 +1,19 @@
 ---
-term: OGC Catalogue Service Interface Standard
 termid: 269
+term: OGC Catalogue Service Interface Standard
 eng:
   id: 269
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: OGC Catalogue Service Interface Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: CS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

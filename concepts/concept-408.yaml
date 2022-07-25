@@ -1,18 +1,19 @@
 ---
-term: Unified Modeling Language
 termid: 408
+term: Unified Modeling Language
 eng:
   id: 408
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Unified Modeling Language
     normative_status: preferred
-  - type: expression
     designation: Unified Modeling Language
+  - type: abbreviation
     normative_status: preferred
-    abbrev: true
+    designation: Unified Modeling Language
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

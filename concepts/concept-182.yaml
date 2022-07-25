@@ -1,20 +1,22 @@
 ---
-term: Information and Communications Technology
 termid: 182
+term: Information and Communications Technology
 eng:
   id: 182
-  definition: extensional term for information technology (IT) that stresses the role
-    of unified communications and the integration of telecommunications and computers
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Information and Communications Technology
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: ICT
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: extensional term for information technology (IT) that stresses the role
+      of unified communications and the integration of telecommunications and computers
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

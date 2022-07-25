@@ -1,20 +1,22 @@
 ---
-term: Open Geospatial Consortium
 termid: 316
+term: Open Geospatial Consortium
 eng:
   id: 316
-  definition: consortium responsible for developing standards and specifications for
-    geospatial services
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Open Geospatial Consortium
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: OGC
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: consortium responsible for developing standards and specifications for
+      geospatial services
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

@@ -1,18 +1,19 @@
 ---
-term: Enterprise Java Beans.
 termid: 103
+term: Enterprise Java Beans.
 eng:
   id: 103
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Enterprise Java Beans.
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: EJB
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

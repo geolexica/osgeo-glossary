@@ -1,18 +1,19 @@
 ---
-term: Information Communities and Semantics
 termid: 183
+term: Information Communities and Semantics
 eng:
   id: 183
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Information Communities and Semantics
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: ICS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

@@ -1,16 +1,15 @@
 ---
-term: Request for Proposals
 termid: 350
+term: Request for Proposals
 eng:
   id: 350
-  language_code: eng
-  notes: []
-  examples: []
   terms:
   - type: expression
+    normative_status: preferred
     designation: Request for Proposals
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: RFP
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng

@@ -1,19 +1,20 @@
 ---
-term: Global Spatial Data infrastructure Association
 termid: 157
+term: Global Spatial Data infrastructure Association
 eng:
   id: 157
-  language_code: eng
-  notes:
-  - GSDI was dissolved as a legal entity in October 2018.
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Global Spatial Data infrastructure Association
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GSDI Association
-    normative_status: preferred
-    abbrev: true
+  notes:
+  - content: GSDI was dissolved as a legal entity in October 2018.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

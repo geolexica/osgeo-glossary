@@ -1,14 +1,16 @@
 ---
-term: Mercator
 termid: 232
+term: Mercator
 eng:
   id: 232
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Mercator
     normative_status: preferred
+    designation: Mercator
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

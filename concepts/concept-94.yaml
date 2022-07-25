@@ -1,20 +1,22 @@
 ---
-term: Earth Observing System and Data Information System
 termid: 94
+term: Earth Observing System and Data Information System
 eng:
   id: 94
-  definition: NASA system that provides end-to-end capabilities for managing NASA
-    Earth science data from various sources
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Earth Observing System and Data Information System
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: EOSDIS
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: NASA system that provides end-to-end capabilities for managing NASA Earth
+      science data from various sources
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

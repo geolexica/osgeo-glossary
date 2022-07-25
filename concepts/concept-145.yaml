@@ -1,18 +1,22 @@
 ---
-term: geospatial data set
 termid: 145
+term: geospatial data set
 eng:
   id: 145
-  definition: set or group of geospatial data having a common theme or association,
-    often represented in a thematic layer
-  language_code: eng
-  notes:
-  - Geospatial datasets are typically the main elements in a GIS data model.
-  examples:
-  - An ESRI shapefile containing a set of line features representing city streets.
-  authoritative_source:
-    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
   terms:
   - type: expression
-    designation: geospatial data set
     normative_status: preferred
+    designation: geospatial data set
+  definition:
+  - content: set or group of geospatial data having a common theme or association,
+      often represented in a thematic layer
+  notes:
+  - content: Geospatial datasets are typically the main elements in a GIS data model.
+  examples:
+  - content: An ESRI shapefile containing a set of line features representing city
+      streets.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://wiki.osgeo.org/wiki/Starter_Dictionary

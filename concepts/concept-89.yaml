@@ -1,22 +1,24 @@
 ---
-term: Dublin Core
 termid: 89
+term: Dublin Core
 eng:
   id: 89
-  definition: standardized metadata element set for cross-domain information resource
-    description
-  language_code: eng
-  notes:
-  - Dublin Core provides a simple and standardised set of conventions for describing
-    things online in ways that make them easier to find.
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Dublin Core
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: DC
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: standardized metadata element set for cross-domain information resource
+      description
+  notes:
+  - content: Dublin Core provides a simple and standardised set of conventions for
+      describing things online in ways that make them easier to find.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

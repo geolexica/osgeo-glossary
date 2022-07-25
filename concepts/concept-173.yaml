@@ -1,18 +1,19 @@
 ---
-term: High Level Political Forum (of UN)
 termid: 173
+term: High Level Political Forum (of UN)
 eng:
   id: 173
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: High Level Political Forum (of UN)
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: HLPF
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

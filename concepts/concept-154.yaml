@@ -1,18 +1,19 @@
 ---
-term: Global Open Data for Agriculture and Nutrition
 termid: 154
+term: Global Open Data for Agriculture and Nutrition
 eng:
   id: 154
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Global Open Data for Agriculture and Nutrition
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GODAN
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

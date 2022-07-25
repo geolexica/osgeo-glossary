@@ -1,18 +1,19 @@
 ---
-term: Internet Engineering Task Force
 termid: 198
+term: Internet Engineering Task Force
 eng:
   id: 198
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Internet Engineering Task Force
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: IETF
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

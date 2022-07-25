@@ -1,18 +1,19 @@
 ---
-term: Interoperability Program
 termid: 201
+term: Interoperability Program
 eng:
   id: 201
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Interoperability Program
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: IP
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

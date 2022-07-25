@@ -1,16 +1,15 @@
 ---
-term: National Center for Atmospheric Research
 termid: 241
+term: National Center for Atmospheric Research
 eng:
   id: 241
-  language_code: eng
-  notes: []
-  examples: []
   terms:
   - type: expression
+    normative_status: preferred
     designation: National Center for Atmospheric Research
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: NCAR
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng

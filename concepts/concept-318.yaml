@@ -1,18 +1,19 @@
 ---
-term: Open Mobile Alliance
 termid: 318
+term: Open Mobile Alliance
 eng:
   id: 318
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Open Mobile Alliance
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: OMA
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

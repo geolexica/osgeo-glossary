@@ -1,21 +1,24 @@
 ---
-term: Object Oriented
 termid: 262
+term: Object Oriented
 eng:
   id: 262
-  definition: computer programming model that organizes software design around data,
-    or objects, rather than functions and logic
-  language_code: eng
-  notes:
-  - Here an object can be defined as a data field that has unique attributes and behavior.
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Object Oriented
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: OO
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: computer programming model that organizes software design around data,
+      or objects, rather than functions and logic
+  notes:
+  - content: Here an object can be defined as a data field that has unique attributes
+      and behavior.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

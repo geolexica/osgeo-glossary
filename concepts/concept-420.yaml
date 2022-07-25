@@ -1,16 +1,15 @@
 ---
-term: Vector Product Format
 termid: 420
+term: Vector Product Format
 eng:
   id: 420
-  language_code: eng
-  notes: []
-  examples: []
   terms:
   - type: expression
+    normative_status: preferred
     designation: Vector Product Format
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: VPF
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng

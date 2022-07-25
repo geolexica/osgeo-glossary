@@ -1,21 +1,24 @@
 ---
-term: Services Oriented Architecture
 termid: 361
+term: Services Oriented Architecture
 eng:
   id: 361
-  definition: methodology for systems development and integration where systems package
-    functionality as interoperable services
-  language_code: eng
-  notes:
-  - A SOA infrastructure allows different applications to exchange data with one another.
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Services Oriented Architecture
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SOA
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: methodology for systems development and integration where systems package
+      functionality as interoperable services
+  notes:
+  - content: A SOA infrastructure allows different applications to exchange data with
+      one another.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

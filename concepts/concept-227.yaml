@@ -1,17 +1,20 @@
 ---
-term: map projection
 termid: 227
+term: map projection
 eng:
   id: 227
-  definition: coordinate conversion from an ellipsoidal coordinate system to a plane
-  language_code: eng
-  notes:
-  - See also http://en.wikipedia.org/wiki/MAC_address on Wikipedia
-  examples: []
-  authoritative_source:
-    ref: ISO 19111:2019
-    clause: 3.1.40
   terms:
   - type: expression
-    designation: map projection
     normative_status: preferred
+    designation: map projection
+  definition:
+  - content: coordinate conversion from an ellipsoidal coordinate system to a plane
+  notes:
+  - content: See also http://en.wikipedia.org/wiki/MAC_address on Wikipedia
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19111:2019
+      clause: 3.1.40

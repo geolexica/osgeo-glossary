@@ -1,21 +1,23 @@
 ---
-term: Open Archive Initiative Protocol for Metadata Harvesting
 termid: 313
+term: Open Archive Initiative Protocol for Metadata Harvesting
 eng:
   id: 313
-  definition: protocol used to harvest (or collect) metadata descriptions of records
-    in an archive enabling services to be built using metadata from other archives
-  language_code: eng
-  notes:
-  - Developed by the Open Archives Initiative.
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Open Archive Initiative Protocol for Metadata Harvesting
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: OAI-PMH
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: protocol used to harvest (or collect) metadata descriptions of records
+      in an archive enabling services to be built using metadata from other archives
+  notes:
+  - content: Developed by the Open Archives Initiative.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

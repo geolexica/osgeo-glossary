@@ -1,18 +1,21 @@
 ---
-term: grid
 termid: 167
+term: grid
 eng:
   id: 167
-  definition: network composed of two or more sets of curves in which the members
-    of each set intersect the members of the other sets in an algorithmic way
-  language_code: eng
-  notes:
-  - The curves partition a space into grid cells.
-  examples: []
-  authoritative_source:
-    ref: ISO 19123:2005
-    clause: 4.1.23
   terms:
   - type: expression
-    designation: grid
     normative_status: preferred
+    designation: grid
+  definition:
+  - content: network composed of two or more sets of curves in which the members of
+      each set intersect the members of the other sets in an algorithmic way
+  notes:
+  - content: The curves partition a space into grid cells.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19123:2005
+      clause: 4.1.23

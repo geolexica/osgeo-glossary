@@ -1,21 +1,24 @@
 ---
-term: Geometry Engine Open Source
 termid: 131
+term: Geometry Engine Open Source
 eng:
   id: 131
-  definition: C/C++ port of the Java Topology Suite used for geometric algebra operations
-  language_code: eng
-  notes:
-  - Can be used for applications such as determining if a polygon is contained in
-    another polygon or determining the resultant intersection of two or more polygons.
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Geometry Engine Open Source
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GEOS
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: C/C++ port of the Java Topology Suite used for geometric algebra operations
+  notes:
+  - content: Can be used for applications such as determining if a polygon is contained
+      in another polygon or determining the resultant intersection of two or more
+      polygons.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

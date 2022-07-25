@@ -1,19 +1,23 @@
 ---
-term: PROJ
 termid: 333
+term: PROJ
 eng:
   id: 333
-  definition: generic coordinate transformation software that transforms geospatial
-    coordinates from one coordinate reference system (CRS) to another
-  language_code: eng
-  notes:
-  - The software also performs cartographic projections as well as geodetic transformations
-  - PROJ (formerly referred to as PROJ.4)
-  examples:
-  - Used by MapServer and GDAL and a multitude of other Open Source GIS libraries.
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: PROJ
     normative_status: preferred
+    designation: PROJ
+  definition:
+  - content: generic coordinate transformation software that transforms geospatial
+      coordinates from one coordinate reference system (CRS) to another
+  notes:
+  - content: The software also performs cartographic projections as well as geodetic
+      transformations
+  - content: PROJ (formerly referred to as PROJ.4)
+  examples:
+  - content: Used by MapServer and GDAL and a multitude of other Open Source GIS libraries.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

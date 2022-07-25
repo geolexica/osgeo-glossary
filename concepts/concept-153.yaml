@@ -1,18 +1,19 @@
 ---
-term: Global Navigational Satellite System
 termid: 153
+term: Global Navigational Satellite System
 eng:
   id: 153
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Global Navigational Satellite System
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GNSS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

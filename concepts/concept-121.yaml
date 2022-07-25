@@ -1,21 +1,23 @@
 ---
-term: Federal Geographic Data Committee
 termid: 121
+term: Federal Geographic Data Committee
 eng:
   id: 121
-  definition: interagency committee that promotes the coordinated development, use,
-    sharing, and dissemination of geospatial data on a national basis in the USA
-  language_code: eng
-  notes:
-  - See http://www.fgdc.gov
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Federal Geographic Data Committee
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: FGDC
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: interagency committee that promotes the coordinated development, use,
+      sharing, and dissemination of geospatial data on a national basis in the USA
+  notes:
+  - content: See http://www.fgdc.gov
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

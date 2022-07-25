@@ -1,22 +1,24 @@
 ---
-term: ADL Gazetteer Content Standard
 termid: 5
+term: ADL Gazetteer Content Standard
 eng:
   id: 5
-  definition: de facto set of rules used to define the relation between a toponym
-    and its coordinates
-  language_code: eng
-  notes:
-  - Other attributes such as the region where the toponym is located or the defined
-    datum can also be supplied.
-  examples: []
-  authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
+    normative_status: preferred
     designation: ADL Gazetteer Content Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: ADL GCS
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: de facto set of rules used to define the relation between a toponym and
+      its coordinates
+  notes:
+  - content: Other attributes such as the region where the toponym is located or the
+      defined datum can also be supplied.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf

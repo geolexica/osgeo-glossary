@@ -1,19 +1,21 @@
 ---
-term: catalogue service
 termid: 35
+term: catalogue service
 eng:
   id: 35
-  definition: allows the publication and searching of information (metadata) describing
-    data (cartography), services, applications and any other kind of resources. The
-    catalogue services are necessary to supply search and invocation capabilities
-    over registered resources within an SDI. A Open Geospatial Consortium spec establishes
-    how a Catalogue Service must be standard and interoperable.
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    comment: GVSIG_1-0_2011
   terms:
   - type: expression
-    designation: catalogue service
     normative_status: preferred
+    designation: catalogue service
+  definition:
+  - content: allows the publication and searching of information (metadata) describing
+      data (cartography), services, applications and any other kind of resources.
+      The catalogue services are necessary to supply search and invocation capabilities
+      over registered resources within an SDI. A Open Geospatial Consortium spec establishes
+      how a Catalogue Service must be standard and interoperable.
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    comment: GVSIG_1-0_2011

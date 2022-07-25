@@ -1,17 +1,20 @@
 ---
-term: georectified
 termid: 136
+term: georectified
 eng:
   id: 136
-  definition: corrected for positional displacement with respect to the surface of
-    the Earth
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    ref: ISO 19115-2:2019
-    clause: '3.11'
   terms:
   - type: expression
-    designation: georectified
     normative_status: preferred
+    designation: georectified
+  definition:
+  - content: corrected for positional displacement with respect to the surface of
+      the Earth
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19115-2:2019
+      clause: '3.11'

@@ -1,18 +1,19 @@
 ---
-term: Regional Universities Forum for capacity building in agriculture
 termid: 343
+term: Regional Universities Forum for capacity building in agriculture
 eng:
   id: 343
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Regional Universities Forum for capacity building in agriculture
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: RUFORUM
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

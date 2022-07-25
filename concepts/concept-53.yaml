@@ -1,18 +1,19 @@
 ---
-term: Computer-aided design and drafting
 termid: 53
+term: Computer-aided design and drafting
 eng:
   id: 53
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Computer-aided design and drafting
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: CADD or CAD
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

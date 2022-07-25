@@ -1,15 +1,18 @@
 ---
-term: OGC EC08 Pilot
 termid: 276
+term: OGC EC08 Pilot
 eng:
   id: 276
-  definition: OGC Empire Challenge 08 Pilot Project
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC EC08 Pilot
     normative_status: preferred
+    designation: OGC EC08 Pilot
+  definition:
+  - content: OGC Empire Challenge 08 Pilot Project
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

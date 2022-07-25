@@ -1,18 +1,19 @@
 ---
-term: Policies and Procedures
 termid: 331
+term: Policies and Procedures
 eng:
   id: 331
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Policies and Procedures
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: P&P
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

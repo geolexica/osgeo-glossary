@@ -1,16 +1,19 @@
 ---
-term: GeoJSON
 termid: 130
+term: GeoJSON
 eng:
   id: 130
-  definition: format for encoding a variety of geographic data structures using JSON
-  language_code: eng
-  notes:
-  - GeoJSON is commonly used in spatial applications.
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: GeoJSON
     normative_status: preferred
+    designation: GeoJSON
+  definition:
+  - content: format for encoding a variety of geographic data structures using JSON
+  notes:
+  - content: GeoJSON is commonly used in spatial applications.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

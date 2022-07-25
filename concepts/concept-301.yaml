@@ -1,18 +1,19 @@
 ---
-term: OGC Web Coverage Processing Service Interface Standard
 termid: 301
+term: OGC Web Coverage Processing Service Interface Standard
 eng:
   id: 301
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: OGC Web Coverage Processing Service Interface Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: WCPS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

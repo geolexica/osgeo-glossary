@@ -1,14 +1,15 @@
 ---
-term: spherical mercator
 termid: 383
+term: spherical mercator
 eng:
   id: 383
-  definition: term to describe the map projection used by commercial API providers.
-  language_code: eng
-  notes: []
-  examples:
-  - 'Google maps, Microsoft Virtual Earth, Yahoo maps '
   terms:
   - type: expression
-    designation: spherical mercator
     normative_status: preferred
+    designation: spherical mercator
+  definition:
+  - content: term to describe the map projection used by commercial API providers.
+  notes: []
+  examples:
+  - content: 'Google maps, Microsoft Virtual Earth, Yahoo maps '
+  language_code: eng

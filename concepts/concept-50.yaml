@@ -1,20 +1,23 @@
 ---
-term: compression
 termid: 50
+term: compression
 eng:
   id: 50
-  definition: technique used to reduce the space used by data
-  language_code: eng
-  notes:
-  - 'The technique reduces the space used by data by reducing the amount of bits needed
-    to store and transmit information. Alternatively, there are techniques for lossless
-    or destructive compressions. '
-  examples:
-  - GIF and JPG for the digital images respectively.
-  authoritative_source:
-    ref: ISO 19145:2013
-    clause: 4.1.1
   terms:
   - type: expression
-    designation: compression
     normative_status: preferred
+    designation: compression
+  definition:
+  - content: technique used to reduce the space used by data
+  notes:
+  - content: 'The technique reduces the space used by data by reducing the amount
+      of bits needed to store and transmit information. Alternatively, there are techniques
+      for lossless or destructive compressions. '
+  examples:
+  - content: GIF and JPG for the digital images respectively.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19145:2013
+      clause: 4.1.1

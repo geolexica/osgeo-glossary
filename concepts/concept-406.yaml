@@ -1,18 +1,19 @@
 ---
-term: U.S. Geological Survey
 termid: 406
+term: U.S. Geological Survey
 eng:
   id: 406
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: U.S. Geological Survey
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: USGS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

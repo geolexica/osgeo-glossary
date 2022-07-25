@@ -1,16 +1,18 @@
 ---
-term: cartography
 termid: 33
+term: cartography
 eng:
   id: 33
-  definition: set of operations and processes that take part in the creation, edition
-    and analysis of maps.
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    comment: GVSIG_1-0_2011
   terms:
   - type: expression
-    designation: cartography
     normative_status: preferred
+    designation: cartography
+  definition:
+  - content: set of operations and processes that take part in the creation, edition
+      and analysis of maps.
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    comment: GVSIG_1-0_2011

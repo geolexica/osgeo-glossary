@@ -1,16 +1,19 @@
 ---
-term: Mapfile
 termid: 228
+term: Mapfile
 eng:
   id: 228
-  definition: declarative language having a hierarchial format that is used by MapServer
-    to define data connections, map styling, templating, and server directives
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Mapfile
     normative_status: preferred
+    designation: Mapfile
+  definition:
+  - content: declarative language having a hierarchial format that is used by MapServer
+      to define data connections, map styling, templating, and server directives
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

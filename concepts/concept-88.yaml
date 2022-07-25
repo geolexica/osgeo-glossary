@@ -1,20 +1,22 @@
 ---
-term: Drawing eXchange Format
 termid: 88
+term: Drawing eXchange Format
 eng:
   id: 88
-  definition: CAD data file format developed by Autodesk for enabling data interoperability
-    between AutoCAD and other programs
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Drawing eXchange Format
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: DXF
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: CAD data file format developed by Autodesk for enabling data interoperability
+      between AutoCAD and other programs
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

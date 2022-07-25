@@ -1,18 +1,19 @@
 ---
-term: Collaboratively Contributed Geographic Information
 termid: 43
+term: Collaboratively Contributed Geographic Information
 eng:
   id: 43
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Collaboratively Contributed Geographic Information
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: CCGI
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

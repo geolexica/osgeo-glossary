@@ -1,18 +1,19 @@
 ---
-term: National Institute for Building Standards
 termid: 246
+term: National Institute for Building Standards
 eng:
   id: 246
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: National Institute for Building Standards
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: NIBS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

@@ -1,18 +1,19 @@
 ---
-term: Hibernate Query Language.
 termid: 171
+term: Hibernate Query Language.
 eng:
   id: 171
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Hibernate Query Language.
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: HQL
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

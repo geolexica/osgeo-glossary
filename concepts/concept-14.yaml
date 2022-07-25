@@ -1,20 +1,22 @@
 ---
-term: Application Programming Interface
 termid: 14
+term: Application Programming Interface
 eng:
   id: 14
-  definition: set of routines, procedures, protocols, and tools for building software
-    applications
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Application Programming Interface
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: API
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: set of routines, procedures, protocols, and tools for building software
+      applications
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

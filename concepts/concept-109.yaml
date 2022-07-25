@@ -1,21 +1,23 @@
 ---
-term: European Committee for Standardization (Comite Europeen de Normalisation)
 termid: 109
+term: European Committee for Standardization (Comite Europeen de Normalisation)
 eng:
   id: 109
-  definition: official organization for standarization of the European Union
-  language_code: eng
-  notes:
-  - Replaces country-specific techniques by common rules for the whole Union in collaboration
-    with international organizations and its members in Europe
-  examples: []
-  authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
+    normative_status: preferred
     designation: European Committee for Standardization (Comite Europeen de Normalisation)
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: CEN
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: official organization for standarization of the European Union
+  notes:
+  - content: Replaces country-specific techniques by common rules for the whole Union
+      in collaboration with international organizations and its members in Europe
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf

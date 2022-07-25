@@ -1,18 +1,19 @@
 ---
-term: OGC Geospatial eXtensible Access Control Markup Language Standard
 termid: 282
+term: OGC Geospatial eXtensible Access Control Markup Language Standard
 eng:
   id: 282
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: OGC Geospatial eXtensible Access Control Markup Language Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GeoXACML
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

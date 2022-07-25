@@ -1,20 +1,23 @@
 ---
-term: XML Schema Definition
 termid: 443
+term: XML Schema Definition
 eng:
   id: 443
-  definition: recommendation of the World Wide Web Consortium (W3C) that specifies
-    how to formally describe the elements in an Extensible Markup Language (XML) document
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: XML Schema Definition
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: XSD
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: recommendation of the World Wide Web Consortium (W3C) that specifies
+      how to formally describe the elements in an Extensible Markup Language (XML)
+      document
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

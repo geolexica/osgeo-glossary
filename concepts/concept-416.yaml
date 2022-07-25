@@ -1,18 +1,19 @@
 ---
-term: University Corporation for Atmospheric Research
 termid: 416
+term: University Corporation for Atmospheric Research
 eng:
   id: 416
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: University Corporation for Atmospheric Research
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: UCAR
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

@@ -1,18 +1,19 @@
 ---
-term: Java Messaging Service.
 termid: 210
+term: Java Messaging Service.
 eng:
   id: 210
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Java Messaging Service.
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: JMS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

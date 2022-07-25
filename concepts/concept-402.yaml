@@ -1,21 +1,23 @@
 ---
-term: The Open Source Geospatial Foundation
 termid: 402
+term: The Open Source Geospatial Foundation
 eng:
   id: 402
-  definition: non-profit non-governmental organization whose mission is to support
-    and promote the collaborative development of open geospatial technologies and
-    data
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: http://www.osgeo.org
   terms:
   - type: expression
+    normative_status: preferred
     designation: The Open Source Geospatial Foundation
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: OSGEO
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: non-profit non-governmental organization whose mission is to support
+      and promote the collaborative development of open geospatial technologies and
+      data
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: http://www.osgeo.org

@@ -1,18 +1,19 @@
 ---
-term: Tagged Image File Format
 termid: 395
+term: Tagged Image File Format
 eng:
   id: 395
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Tagged Image File Format
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: TIFF
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

@@ -1,19 +1,21 @@
 ---
-term: GD Graphics (Draw) Library
 termid: 125
+term: GD Graphics (Draw) Library
 eng:
   id: 125
-  definition: software graphics library for dynamic generation of images
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: GD Graphics (Draw) Library
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GD
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: software graphics library for dynamic generation of images
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

@@ -1,17 +1,20 @@
 ---
-term: Creative Commons
 termid: 63
+term: Creative Commons
 eng:
   id: 63
-  definition: American non-profit organization and international network devoted to
-    educational access and expanding the range of creative works available for others
-    to build upon legally and to share
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
-    designation: Creative Commons
     normative_status: preferred
+    designation: Creative Commons
+  definition:
+  - content: American non-profit organization and international network devoted to
+      educational access and expanding the range of creative works available for others
+      to build upon legally and to share
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

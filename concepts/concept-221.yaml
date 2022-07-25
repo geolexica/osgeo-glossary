@@ -1,20 +1,22 @@
 ---
-term: Lightweight Directory Access Protocol
 termid: 221
+term: Lightweight Directory Access Protocol
 eng:
   id: 221
-  definition: application protocol for querying and modifying directory services running
-    over TCP/IP
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Lightweight Directory Access Protocol
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: LDAP
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: application protocol for querying and modifying directory services running
+      over TCP/IP
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

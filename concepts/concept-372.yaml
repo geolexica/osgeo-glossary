@@ -1,20 +1,22 @@
 ---
-term: Simple Object Access Protocol
 termid: 372
+term: Simple Object Access Protocol
 eng:
   id: 372
-  definition: protocol for exchanging structured information for the implementation
-    of Web Services
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Simple Object Access Protocol
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SOAP
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: protocol for exchanging structured information for the implementation
+      of Web Services
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

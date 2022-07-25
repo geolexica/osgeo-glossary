@@ -1,18 +1,21 @@
 ---
-term: Shapefile
 termid: 362
+term: Shapefile
 eng:
   id: 362
-  definition: vector data format for points, lines, or areas
-  language_code: eng
-  notes:
-  - Originally developed by ESRI and widely support by many software projects.
-  examples:
-  - The United States Census Bureau TIGER Data can be obtained for most counties in
-    the United States as ESRI Shapefiles.
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Shapefile
     normative_status: preferred
+    designation: Shapefile
+  definition:
+  - content: vector data format for points, lines, or areas
+  notes:
+  - content: Originally developed by ESRI and widely support by many software projects.
+  examples:
+  - content: The United States Census Bureau TIGER Data can be obtained for most counties
+      in the United States as ESRI Shapefiles.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

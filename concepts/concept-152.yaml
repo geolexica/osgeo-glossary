@@ -1,18 +1,19 @@
 ---
-term: Global Flood Awareness System
 termid: 152
+term: Global Flood Awareness System
 eng:
   id: 152
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Global Flood Awareness System
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GloFAS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

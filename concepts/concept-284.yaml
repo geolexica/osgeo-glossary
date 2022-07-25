@@ -1,15 +1,18 @@
 ---
-term: OGC GMLJP2 1.1 SWG
 termid: 284
+term: OGC GMLJP2 1.1 SWG
 eng:
   id: 284
-  definition: OGC GML in JPEG 2000 Standards Working Group
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: OGC GMLJP2 1.1 SWG
     normative_status: preferred
+    designation: OGC GMLJP2 1.1 SWG
+  definition:
+  - content: OGC GML in JPEG 2000 Standards Working Group
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

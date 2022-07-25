@@ -1,20 +1,22 @@
 ---
-term: GNU General Public License
 termid: 160
+term: GNU General Public License
 eng:
   id: 160
-  definition: free, copyleft license for software and other kinds of works
-  language_code: eng
-  notes:
-  - GeoNetwork opensource is released under the GPL 2 license.
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: GNU General Public License
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GPL
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: free, copyleft license for software and other kinds of works
+  notes:
+  - content: GeoNetwork opensource is released under the GPL 2 license.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

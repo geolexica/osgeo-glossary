@@ -1,16 +1,17 @@
 ---
-term: nomenclator service
 termid: 257
+term: nomenclator service
 eng:
   id: 257
-  definition: locates a geographic location by its name
-  language_code: eng
-  notes:
-  - If one or more occurrences of a location are detected, the service provides a
-    list of the detected locations with additional attributes. The user can then choose
-    the desired location as per their requirement.
-  examples: []
   terms:
   - type: expression
-    designation: nomenclator service
     normative_status: preferred
+    designation: nomenclator service
+  definition:
+  - content: locates a geographic location by its name
+  notes:
+  - content: If one or more occurrences of a location are detected, the service provides
+      a list of the detected locations with additional attributes. The user can then
+      choose the desired location as per their requirement.
+  examples: []
+  language_code: eng

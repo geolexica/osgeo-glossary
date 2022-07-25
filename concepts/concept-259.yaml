@@ -1,18 +1,19 @@
 ---
-term: North American Datum
 termid: 259
+term: North American Datum
 eng:
   id: 259
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: North American Datum
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: NAD
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

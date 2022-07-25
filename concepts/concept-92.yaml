@@ -1,19 +1,20 @@
 ---
-term: Earth Observation and Environmental Modelling for the Mitigation of Health Risks
 termid: 92
+term: Earth Observation and Environmental Modelling for the Mitigation of Health Risks
 eng:
   id: 92
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Earth Observation and Environmental Modelling for the Mitigation
       of Health Risks
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: EO2heaven
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

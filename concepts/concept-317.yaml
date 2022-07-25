@@ -1,18 +1,19 @@
 ---
-term: Open Grid Forum
 termid: 317
+term: Open Grid Forum
 eng:
   id: 317
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Open Grid Forum
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: OGF
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

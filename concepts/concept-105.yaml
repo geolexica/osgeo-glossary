@@ -1,20 +1,22 @@
 ---
-term: Environmental Systems Research Institute
 termid: 105
+term: Environmental Systems Research Institute
 eng:
   id: 105
-  definition: international supplier of geographic information system software, web
-    GIS and geodatabase management applications
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://wiki.osgeo.org/wiki/Starter_Dictionary
   terms:
   - type: expression
+    normative_status: preferred
     designation: Environmental Systems Research Institute
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: ESRI
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: international supplier of geographic information system software, web
+      GIS and geodatabase management applications
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://wiki.osgeo.org/wiki/Starter_Dictionary

@@ -1,20 +1,22 @@
 ---
-term: JavaServer Page Template Library
 termid: 212
+term: JavaServer Page Template Library
 eng:
   id: 212
-  definition: JSP tag library that encapsulates many of the standard functions handled
-    in JSP
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: JavaServer Page Template Library
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: JSTL
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: JSP tag library that encapsulates many of the standard functions handled
+      in JSP
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

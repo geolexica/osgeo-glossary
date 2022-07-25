@@ -1,18 +1,19 @@
 ---
-term: Local Organizing Committee
 termid: 222
+term: Local Organizing Committee
 eng:
   id: 222
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Local Organizing Committee
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: LOC
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

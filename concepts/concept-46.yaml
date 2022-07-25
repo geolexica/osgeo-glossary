@@ -1,19 +1,21 @@
 ---
-term: Common Object Model
 termid: 46
+term: Common Object Model
 eng:
   id: 46
-  definition: binary-interface standard for software components introduced by Microsoft
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Common Object Model
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: COM
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: binary-interface standard for software components introduced by Microsoft
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms
