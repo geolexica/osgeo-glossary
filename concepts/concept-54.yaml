@@ -1,19 +1,21 @@
 ---
-term: computer-generated imagery
 termid: 54
+term: computer-generated imagery
 eng:
   id: 54
-  definition: special visual effects created using computer software
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: computer-generated imagery
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: CGI
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: special visual effects created using computer software
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

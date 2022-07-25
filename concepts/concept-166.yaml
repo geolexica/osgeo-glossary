@@ -1,17 +1,19 @@
 ---
-term: GRIB
 termid: 166
+term: GRIB
 eng:
   id: 166
-  definition: WMO standardized data format used in meteorology to store historical
-    and forecast weather data standard
-  language_code: eng
-  notes:
-  - Abbreviated from the words "GRIdded Binary".
-  examples: []
-  authoritative_source:
-    comment: Jon Blower
   terms:
   - type: expression
-    designation: GRIB
     normative_status: preferred
+    designation: GRIB
+  definition:
+  - content: WMO standardized data format used in meteorology to store historical
+      and forecast weather data standard
+  notes:
+  - content: Abbreviated from the words "GRIdded Binary".
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    comment: Jon Blower

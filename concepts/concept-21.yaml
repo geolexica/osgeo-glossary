@@ -1,18 +1,19 @@
 ---
-term: Australian Urban Research Infrastructure Network
 termid: 21
+term: Australian Urban Research Infrastructure Network
 eng:
   id: 21
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Australian Urban Research Infrastructure Network
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: AURIN
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

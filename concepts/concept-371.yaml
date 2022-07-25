@@ -1,20 +1,22 @@
 ---
-term: Simple Mail Transfer Protocol
 termid: 371
+term: Simple Mail Transfer Protocol
 eng:
   id: 371
-  definition: Internet standard for electronic mail (e-mail) transmission across Internet
-    Protocol (IP) networks.
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Simple Mail Transfer Protocol
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SMTP
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: Internet standard for electronic mail (e-mail) transmission across Internet
+      Protocol (IP) networks.
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

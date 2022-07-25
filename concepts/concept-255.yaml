@@ -1,19 +1,20 @@
 ---
-term: Neutral Transfer Format
 termid: 255
+term: Neutral Transfer Format
 eng:
   id: 255
-  language_code: eng
-  notes:
-  - Within the UK
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Neutral Transfer Format
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: NTF
-    normative_status: preferred
-    abbrev: true
+  notes:
+  - content: Within the UK
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

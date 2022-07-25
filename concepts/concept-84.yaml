@@ -1,21 +1,23 @@
 ---
-term: Distributed Active Archive Center
 termid: 84
+term: Distributed Active Archive Center
 eng:
   id: 84
-  definition: NASA EOSDIS center that archives, documents, and distributes data from
-    NASA's past and current Earth Observing System satellites and field measurement
-    programs
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Distributed Active Archive Center
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: DAAC
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: NASA EOSDIS center that archives, documents, and distributes data from
+      NASA's past and current Earth Observing System satellites and field measurement
+      programs
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

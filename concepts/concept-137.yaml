@@ -1,17 +1,20 @@
 ---
-term: georeferencing
 termid: 137
+term: georeferencing
 eng:
   id: 137
-  definition: geopositioning an object using a Correspondence Model derived from a
-    set of points for which both ground and image coordinates are known
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    ref: ISO 19130-1:2018
-    clause: '3.38'
   terms:
   - type: expression
-    designation: georeferencing
     normative_status: preferred
+    designation: georeferencing
+  definition:
+  - content: geopositioning an object using a Correspondence Model derived from a
+      set of points for which both ground and image coordinates are known
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19130-1:2018
+      clause: '3.38'

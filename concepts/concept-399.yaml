@@ -1,18 +1,19 @@
 ---
-term: Test Driven Development.
 termid: 399
+term: Test Driven Development.
 eng:
   id: 399
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Test Driven Development.
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: TDD
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

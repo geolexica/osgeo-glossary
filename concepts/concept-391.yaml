@@ -1,20 +1,22 @@
 ---
-term: Styled Layer Descriptor
 termid: 391
+term: Styled Layer Descriptor
 eng:
   id: 391
-  definition: OGC specification format defining the cartographic rendering of vector
-    features
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Styled Layer Descriptor
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SLD
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: OGC specification format defining the cartographic rendering of vector
+      features
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

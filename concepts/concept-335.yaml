@@ -1,18 +1,19 @@
 ---
-term: Public Participation in Scientific Research
 termid: 335
+term: Public Participation in Scientific Research
 eng:
   id: 335
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Public Participation in Scientific Research
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: PPSR
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

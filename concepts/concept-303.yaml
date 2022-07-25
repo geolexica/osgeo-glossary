@@ -1,24 +1,26 @@
 ---
-term: OGC Web Feature Service Interface Standard
 termid: 303
+term: OGC Web Feature Service Interface Standard
 eng:
   id: 303
-  definition: OGC standard that describes how to systematically produce structured
-    vector cartographic data from a service and return them to a client
-  language_code: eng
-  notes:
-  - The Web Feature Service (WFS) specification from the Open Geospatial Consortium
-    defines an interface for reading and writing geographic features across the web
-    using platform-independent calls. One can think of geographical features as the
-    “source code” behind a map.
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: OGC Web Feature Service Interface Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: WFS
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: OGC standard that describes how to systematically produce structured
+      vector cartographic data from a service and return them to a client
+  notes:
+  - content: The Web Feature Service (WFS) specification from the Open Geospatial
+      Consortium defines an interface for reading and writing geographic features
+      across the web using platform-independent calls. One can think of geographical
+      features as the “source code” behind a map.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

@@ -1,21 +1,23 @@
 ---
-term: SQL Multimedia and Application Packages
 termid: 386
+term: SQL Multimedia and Application Packages
 eng:
   id: 386
-  definition: defines SQL based interfaces and packages to widely used applications
-  language_code: eng
-  notes:
-  - 'ISO/IEC 13249: SQL Multimedia and Application Packages (SQL/MM)'
-  examples:
-  - Example application areas such as video, audio and spatial data.
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: SQL Multimedia and Application Packages
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SQL/MM
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: defines SQL based interfaces and packages to widely used applications
+  notes:
+  - content: 'ISO/IEC 13249: SQL Multimedia and Application Packages (SQL/MM)'
+  examples:
+  - content: Example application areas such as video, audio and spatial data.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

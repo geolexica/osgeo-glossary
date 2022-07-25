@@ -1,18 +1,19 @@
 ---
-term: 3-D Elevation Program
 termid: 1
+term: 3-D Elevation Program
 eng:
   id: 1
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: 3-D Elevation Program
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: 3DEP
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

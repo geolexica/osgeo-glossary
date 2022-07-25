@@ -1,17 +1,20 @@
 ---
-term: WaterML 2.0
 termid: 425
+term: WaterML 2.0
 eng:
   id: 425
-  definition: information model for the representation of water observations data,
-    with the intent of allowing the exchange of such data sets across information
-    systems
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: WaterML 2.0
     normative_status: preferred
+    designation: WaterML 2.0
+  definition:
+  - content: information model for the representation of water observations data,
+      with the intent of allowing the exchange of such data sets across information
+      systems
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

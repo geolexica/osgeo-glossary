@@ -1,17 +1,20 @@
 ---
-term: mosaic
 termid: 239
+term: mosaic
 eng:
   id: 239
-  definition: collection of georeferenced raster data sources merged together to create
-    a seamless raster dataset
-  language_code: eng
-  notes:
-  - 'See also: imagemosaic'
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: mosaic
     normative_status: preferred
+    designation: mosaic
+  definition:
+  - content: collection of georeferenced raster data sources merged together to create
+      a seamless raster dataset
+  notes:
+  - content: 'See also: imagemosaic'
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

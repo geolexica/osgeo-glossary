@@ -1,19 +1,21 @@
 ---
-term: Observations and Measurements
 termid: 263
+term: Observations and Measurements
 eng:
   id: 263
-  definition: OGC standard which defines an abstract model for sensor based data
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Observations and Measurements
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: OM
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: OGC standard which defines an abstract model for sensor based data
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

@@ -1,17 +1,20 @@
 ---
-term: IndoorGML
 termid: 181
+term: IndoorGML
 eng:
   id: 181
-  definition: OGC standardized common schema framework for interoperability between
-    indoor and outdoor navigation applications
-  language_code: eng
-  notes:
-  - Standardized by the OGC IndoorGML Standards Working Group.
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: IndoorGML
     normative_status: preferred
+    designation: IndoorGML
+  definition:
+  - content: OGC standardized common schema framework for interoperability between
+      indoor and outdoor navigation applications
+  notes:
+  - content: Standardized by the OGC IndoorGML Standards Working Group.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

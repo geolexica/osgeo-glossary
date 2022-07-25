@@ -1,20 +1,22 @@
 ---
-term: Universally Unique Identifier
 termid: 415
+term: Universally Unique Identifier
 eng:
   id: 415
-  definition: 128-bit number used to identify information in computer systems
-  language_code: eng
-  notes:
-  - also referred to as a globally unique identifier
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Universally Unique Identifier
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: UUID
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: 128-bit number used to identify information in computer systems
+  notes:
+  - content: also referred to as a globally unique identifier
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

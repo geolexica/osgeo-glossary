@@ -1,18 +1,21 @@
 ---
-term: coordinate
 termid: 57
+term: coordinate
 eng:
   id: 57
-  definition: one of a sequence of numbers designating the position of a point
-  language_code: eng
-  notes:
-  - In a spatial coordinate reference system, the coordinate numbers are qualified
-    by units.
-  examples: []
-  authoritative_source:
-    ref: ISO 19111:2019
-    clause: 3.1.5
   terms:
   - type: expression
-    designation: coordinate
     normative_status: preferred
+    designation: coordinate
+  definition:
+  - content: one of a sequence of numbers designating the position of a point
+  notes:
+  - content: In a spatial coordinate reference system, the coordinate numbers are
+      qualified by units.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19111:2019
+      clause: 3.1.5

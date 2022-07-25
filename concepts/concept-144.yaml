@@ -1,20 +1,23 @@
 ---
-term: Geospatial Data Abstraction Library
 termid: 144
+term: Geospatial Data Abstraction Library
 eng:
   id: 144
-  definition: open source, multi-format raster reading and writing library
-  language_code: eng
-  notes:
-  - Pronounced “GOO-duhl”. Used widely in both open source and proprietary software.
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Geospatial Data Abstraction Library
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GDAL
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: open source, multi-format raster reading and writing library
+  notes:
+  - content: Pronounced “GOO-duhl”. Used widely in both open source and proprietary
+      software.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

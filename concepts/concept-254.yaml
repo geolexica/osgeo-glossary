@@ -1,20 +1,22 @@
 ---
-term: Network Common Data Form
 termid: 254
+term: Network Common Data Form
 eng:
   id: 254
-  definition: set of software libraries and machine-independent data formats that
-    support the creation, access, and sharing of array-oriented scientific data
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.unidata.ucar.edu/software/netcdf/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Network Common Data Form
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: NetCDF
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: set of software libraries and machine-independent data formats that support
+      the creation, access, and sharing of array-oriented scientific data
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.unidata.ucar.edu/software/netcdf/

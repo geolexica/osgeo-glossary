@@ -1,20 +1,22 @@
 ---
-term: Food and Agriculture Organisation
 termid: 122
+term: Food and Agriculture Organisation
 eng:
   id: 122
-  definition: specialised agency of the United Nations that leads international efforts
-    to defeat hunger
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Food and Agriculture Organisation
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: FAO
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: specialised agency of the United Nations that leads international efforts
+      to defeat hunger
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

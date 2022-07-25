@@ -1,16 +1,19 @@
 ---
-term: feature type
 termid: 120
+term: feature type
 eng:
   id: 120
-  definition: class of features having common characteristics
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    ref: ISO 19156:2011
-    clause: '4.7'
   terms:
   - type: expression
-    designation: feature type
     normative_status: preferred
+    designation: feature type
+  definition:
+  - content: class of features having common characteristics
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19156:2011
+      clause: '4.7'

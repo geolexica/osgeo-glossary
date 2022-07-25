@@ -1,20 +1,22 @@
 ---
-term: Anti-Grain Geometry
 termid: 13
+term: Anti-Grain Geometry
 eng:
   id: 13
-  definition: graphic rendering engine, supporting sub-pixel anti-aliasing, for MapServer
-    5.0 or greater
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Anti-Grain Geometry
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: AGG
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: graphic rendering engine, supporting sub-pixel anti-aliasing, for MapServer
+      5.0 or greater
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

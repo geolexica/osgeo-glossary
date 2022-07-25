@@ -1,22 +1,25 @@
 ---
-term: raster
 termid: 338
+term: raster
 eng:
   id: 338
-  definition: usually rectangular pattern of parallel scanning lines forming or corresponding
-    to the display on a cathode ray tube
-  language_code: eng
-  notes:
-  - A raster is a type of grid.
-  - The term “raster data” is often used colloquially in the field of geographic information
-    to identify the whole class of data where the spatial geometry is organized into
-    a grid.
-  examples: []
-  authoritative_source:
-    ref: ISO 19123:2005
-    clause: 4.1.30
-    comment: modified —  Note 2 to entry has been added.
   terms:
   - type: expression
-    designation: raster
     normative_status: preferred
+    designation: raster
+  definition:
+  - content: usually rectangular pattern of parallel scanning lines forming or corresponding
+      to the display on a cathode ray tube
+  notes:
+  - content: A raster is a type of grid.
+  - content: The term “raster data” is often used colloquially in the field of geographic
+      information to identify the whole class of data where the spatial geometry is
+      organized into a grid.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19123:2005
+      clause: 4.1.30
+    comment: modified —  Note 2 to entry has been added.

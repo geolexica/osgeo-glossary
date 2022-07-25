@@ -1,21 +1,23 @@
 ---
-term: Shockwave Flash format
 termid: 364
+term: Shockwave Flash format
 eng:
   id: 364
-  definition: 'digital file format supporing multimedia, vector graphics, and object
-    oriented scripting '
-  language_code: eng
-  notes:
-  - MapServer can generate output in SWF.
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Shockwave Flash format
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SWF
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: 'digital file format supporing multimedia, vector graphics, and object
+      oriented scripting '
+  notes:
+  - content: MapServer can generate output in SWF.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

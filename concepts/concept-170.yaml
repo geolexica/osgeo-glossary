@@ -1,16 +1,19 @@
 ---
-term: gvSIG
 termid: 170
+term: gvSIG
 eng:
   id: 170
-  definition: specific Geographical Information handling tool for common vector and
-    raster formats with a user interface
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: gvSIG
     normative_status: preferred
+    designation: gvSIG
+  definition:
+  - content: specific Geographical Information handling tool for common vector and
+      raster formats with a user interface
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf

@@ -1,19 +1,20 @@
 ---
-term: Free and Open Source Software for Geospatial
 termid: 124
+term: Free and Open Source Software for Geospatial
 eng:
   id: 124
-  definition: Conference of the Open Source Geospatial Foundation
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    comment: Combo of a couple of sources
   terms:
   - type: expression
+    normative_status: preferred
     designation: Free and Open Source Software for Geospatial
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: FOSS4G
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: Conference of the Open Source Geospatial Foundation
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    comment: Combo of a couple of sources

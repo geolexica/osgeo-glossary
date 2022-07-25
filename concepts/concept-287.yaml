@@ -1,18 +1,19 @@
 ---
-term: OGC Marketing & Communications Program
 termid: 287
+term: OGC Marketing & Communications Program
 eng:
   id: 287
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: OGC Marketing & Communications Program
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: MCP
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

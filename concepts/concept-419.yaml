@@ -1,15 +1,18 @@
 ---
-term: Vector Layer
 termid: 419
+term: Vector Layer
 eng:
   id: 419
-  definition: collection of vector feature types stored as mathematical paths
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: Vector Layer
     normative_status: preferred
+    designation: Vector Layer
+  definition:
+  - content: collection of vector feature types stored as mathematical paths
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

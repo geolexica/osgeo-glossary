@@ -1,20 +1,22 @@
 ---
-term: Structured Query Language
 termid: 390
+term: Structured Query Language
 eng:
   id: 390
-  definition: standard programming language for querying relational databases
-  language_code: eng
-  notes:
-  - See http://en.wikipedia.org/wiki/SQL
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Structured Query Language
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SQL
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: standard programming language for querying relational databases
+  notes:
+  - content: See http://en.wikipedia.org/wiki/SQL
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

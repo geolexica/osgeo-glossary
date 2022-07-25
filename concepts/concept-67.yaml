@@ -1,19 +1,22 @@
 ---
-term: data compression
 termid: 67
+term: data compression
 eng:
   id: 67
-  definition: "technique that reduces either the amount of storage space required
-    to store a given amount of data, or the length of message required to transfer
-    a given amount of information\n\n"
-  language_code: eng
-  notes:
-  - 'Adapted from ANSI T1.523-2001. '
-  examples: []
-  authoritative_source:
-    ref: ISO/TS 19129:2009
-    clause: 4.1.8
   terms:
   - type: expression
-    designation: data compression
     normative_status: preferred
+    designation: data compression
+  definition:
+  - content: "technique that reduces either the amount of storage space required to
+      store a given amount of data, or the length of message required to transfer
+      a given amount of information\n\n"
+  notes:
+  - content: 'Adapted from ANSI T1.523-2001. '
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO/TS 19129:2009
+      clause: 4.1.8

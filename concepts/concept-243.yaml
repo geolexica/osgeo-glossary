@@ -1,18 +1,19 @@
 ---
-term: National Elevation Dataset
 termid: 243
+term: National Elevation Dataset
 eng:
   id: 243
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: National Elevation Dataset
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: NED
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

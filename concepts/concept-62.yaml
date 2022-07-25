@@ -1,18 +1,19 @@
 ---
-term: Create Read Update and Delete.
 termid: 62
+term: Create Read Update and Delete.
 eng:
   id: 62
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Create Read Update and Delete.
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: CRUD
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

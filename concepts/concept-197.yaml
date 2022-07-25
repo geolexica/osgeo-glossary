@@ -1,18 +1,19 @@
 ---
-term: International Telecommunication Union
 termid: 197
+term: International Telecommunication Union
 eng:
   id: 197
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: International Telecommunication Union
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: ITU
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

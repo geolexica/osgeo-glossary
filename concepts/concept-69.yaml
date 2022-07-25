@@ -1,18 +1,21 @@
 ---
-term: database
 termid: 69
+term: database
 eng:
   id: 69
-  definition: structured data set that enables storage, consultation, and upgrades
-    in a computer system
-  language_code: eng
-  notes:
-  - There are different types of databases.
-  examples:
-  - Relational database, centralised database, personalised datbase, etc.
-  authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
-    designation: database
     normative_status: preferred
+    designation: database
+  definition:
+  - content: structured data set that enables storage, consultation, and upgrades
+      in a computer system
+  notes:
+  - content: There are different types of databases.
+  examples:
+  - content: Relational database, centralised database, personalised datbase, etc.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf

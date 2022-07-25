@@ -1,22 +1,26 @@
 ---
-term: coverage
 termid: 61
+term: coverage
 eng:
   id: 61
-  definition: |-
-    feature that acts as a function to return values from its range for any direct position within its spatial,
-    temporal or spatiotemporal domain
-  language_code: eng
-  notes:
-  - In other words, a coverage is a feature that has multiple values for each attribute
-    type, where each direct position within the geometric representation of the feature
-    has a single value for each attribute type.
-  examples:
-  - Examples include a raster image, polygon overlay or digital elevation matrix.
-  authoritative_source:
-    ref: ISO 19123:2005
-    clause: 4.1.7
   terms:
   - type: expression
-    designation: coverage
     normative_status: preferred
+    designation: coverage
+  definition:
+  - content: |-
+      feature that acts as a function to return values from its range for any direct position within its spatial,
+      temporal or spatiotemporal domain
+  notes:
+  - content: In other words, a coverage is a feature that has multiple values for
+      each attribute type, where each direct position within the geometric representation
+      of the feature has a single value for each attribute type.
+  examples:
+  - content: Examples include a raster image, polygon overlay or digital elevation
+      matrix.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19123:2005
+      clause: 4.1.7

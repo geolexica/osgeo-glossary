@@ -1,23 +1,26 @@
 ---
-term: OGC Web Processing Service Interface Standard
 termid: 307
+term: OGC Web Processing Service Interface Standard
 eng:
   id: 307
-  definition: OGC standard that provides rules for standardizing inputs and outputs
-    (requests and responses) for geospatial processing services.
-  language_code: eng
-  notes:
-  - The Web Processing Service is designed to standardize the way that GIS calculations
-    are made available to the Internet. WPS can describe any calculation (i.e. process)
-    including all of its inputs and outputs, and trigger its execution as a Web Service.
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: OGC Web Processing Service Interface Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: WPS
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: OGC standard that provides rules for standardizing inputs and outputs
+      (requests and responses) for geospatial processing services.
+  notes:
+  - content: The Web Processing Service is designed to standardize the way that GIS
+      calculations are made available to the Internet. WPS can describe any calculation
+      (i.e. process) including all of its inputs and outputs, and trigger its execution
+      as a Web Service.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

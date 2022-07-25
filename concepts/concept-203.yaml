@@ -1,16 +1,19 @@
 ---
-term: ISO IEC JTC 1/SC 24/WG 8
 termid: 203
+term: ISO IEC JTC 1/SC 24/WG 8
 eng:
   id: 203
-  definition: ISO working group responsible for computer graphics, image processing
-    and environmental presentation
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: ISO IEC JTC 1/SC 24/WG 8
     normative_status: preferred
+    designation: ISO IEC JTC 1/SC 24/WG 8
+  definition:
+  - content: ISO working group responsible for computer graphics, image processing
+      and environmental presentation
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

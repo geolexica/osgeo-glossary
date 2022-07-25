@@ -1,22 +1,24 @@
 ---
-term: Web Coverage Service
 termid: 426
+term: Web Coverage Service
 eng:
   id: 426
-  definition: interface for reading and writing geospatial data as “coverages” (objects
-    or images) across the web
-  language_code: eng
-  notes:
-  - The Web Coverage Service provides an interface allowing requests for geographical
-    coverages across the web using platform-independent calls.
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Web Coverage Service
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: WCS
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: interface for reading and writing geospatial data as “coverages” (objects
+      or images) across the web
+  notes:
+  - content: The Web Coverage Service provides an interface allowing requests for
+      geographical coverages across the web using platform-independent calls.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

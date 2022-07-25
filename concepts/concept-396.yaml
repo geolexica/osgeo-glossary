@@ -1,18 +1,19 @@
 ---
-term: Taxonomic Data Working Group
 termid: 396
+term: Taxonomic Data Working Group
 eng:
   id: 396
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Taxonomic Data Working Group
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: TDWG
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

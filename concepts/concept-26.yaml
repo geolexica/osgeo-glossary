@@ -1,19 +1,21 @@
 ---
-term: Binding XML to Java
 termid: 26
+term: Binding XML to Java
 eng:
   id: 26
-  definition: open-source Java framework for XML data binding
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Binding XML to Java
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: JiBX
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: open-source Java framework for XML data binding
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

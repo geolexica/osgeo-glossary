@@ -1,19 +1,23 @@
 ---
-term: EPSG code
 termid: 106
+term: EPSG code
 eng:
   id: 106
-  definition: numeric codes defined by the EPSG associated with coordinate system
-    definitions
-  language_code: eng
-  notes:
-  - EPSG codes are published by the Oil and Gas Producers (OGP) Surveying and Positioning
-    Committee. OGC WMS protocol uses EPSG codes to describe coordinate systems.
-  examples:
-  - EPSG:4326 is geographic WGS84, and EPSG:32611 is “UTM zone 11 North, WGS84”.
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: EPSG code
     normative_status: preferred
+    designation: EPSG code
+  definition:
+  - content: numeric codes defined by the EPSG associated with coordinate system definitions
+  notes:
+  - content: EPSG codes are published by the Oil and Gas Producers (OGP) Surveying
+      and Positioning Committee. OGC WMS protocol uses EPSG codes to describe coordinate
+      systems.
+  examples:
+  - content: EPSG:4326 is geographic WGS84, and EPSG:32611 is “UTM zone 11 North,
+      WGS84”.
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

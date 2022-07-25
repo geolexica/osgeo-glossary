@@ -1,18 +1,19 @@
 ---
-term: Wales Institute of Social & Economic Research, Data & Methods
 termid: 423
+term: Wales Institute of Social & Economic Research, Data & Methods
 eng:
   id: 423
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Wales Institute of Social & Economic Research, Data & Methods
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: WISERD
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

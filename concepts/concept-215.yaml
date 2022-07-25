@@ -1,19 +1,20 @@
 ---
-term: Joint Photographics Group
 termid: 215
+term: Joint Photographics Group
 eng:
   id: 215
-  language_code: eng
-  notes:
-  - Additionally a reference to a common image compression method
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Joint Photographics Group
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: JPEG
-    normative_status: preferred
-    abbrev: true
+  notes:
+  - content: Additionally a reference to a common image compression method
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

@@ -1,18 +1,19 @@
 ---
-term: Memorandum of Understanding
 termid: 231
+term: Memorandum of Understanding
 eng:
   id: 231
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Memorandum of Understanding
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: MoU
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

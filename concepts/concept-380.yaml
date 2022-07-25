@@ -1,20 +1,22 @@
 ---
-term: Spatial reference system
 termid: 380
+term: Spatial reference system
 eng:
   id: 380
-  definition: system for identifying position in the real world
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    ref: ISO 19155:2012
-    clause: '4.20'
   terms:
   - type: expression
+    normative_status: preferred
     designation: Spatial reference system
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SRS
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: system for identifying position in the real world
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19155:2012
+      clause: '4.20'

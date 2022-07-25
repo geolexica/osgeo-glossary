@@ -1,20 +1,22 @@
 ---
-term: GeoNetwork Administrator Survival Tool
 termid: 133
+term: GeoNetwork Administrator Survival Tool
 eng:
   id: 133
-  definition: desktop application that allows administrators of a GeoNetwork catalog
-    to perform simple database configuration using a GUI
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: GeoNetwork Administrator Survival Tool
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GAST
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: desktop application that allows administrators of a GeoNetwork catalog
+      to perform simple database configuration using a GUI
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

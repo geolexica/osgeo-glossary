@@ -1,21 +1,23 @@
 ---
-term: Simplified Wrapper Interface Generator
 termid: 373
+term: Simplified Wrapper Interface Generator
 eng:
   id: 373
-  definition: MapServer library used for generating all language bindings other than
-    C/C++ and PHP
-  language_code: eng
-  notes:
-  - MapScript describes these bindings.
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Simplified Wrapper Interface Generator
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: SWIG
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: MapServer library used for generating all language bindings other than
+      C/C++ and PHP
+  notes:
+  - content: MapScript describes these bindings.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

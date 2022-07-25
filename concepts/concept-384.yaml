@@ -1,14 +1,16 @@
 ---
-term: SPIDER
 termid: 384
+term: SPIDER
 eng:
   id: 384
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
-    designation: SPIDER
     normative_status: preferred
+    designation: SPIDER
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

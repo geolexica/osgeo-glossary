@@ -1,20 +1,22 @@
 ---
-term: World Food Programme
 termid: 438
+term: World Food Programme
 eng:
   id: 438
-  definition: food aid branch of the United Nations
-  language_code: eng
-  notes:
-  - WFP is the world’s largest humanitarian organization
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: World Food Programme
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: WFP
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: food aid branch of the United Nations
+  notes:
+  - content: WFP is the world’s largest humanitarian organization
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

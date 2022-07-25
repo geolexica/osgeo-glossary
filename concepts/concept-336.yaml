@@ -1,16 +1,19 @@
 ---
-term: PubSub SWG
 termid: 336
+term: PubSub SWG
 eng:
   id: 336
-  definition: OGC Standards Working Group defining methods that enable functionality
-    to publish/subscribe to OGC Web Services
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
-    designation: PubSub SWG
     normative_status: preferred
+    designation: PubSub SWG
+  definition:
+  - content: OGC Standards Working Group defining methods that enable functionality
+      to publish/subscribe to OGC Web Services
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

@@ -1,20 +1,22 @@
 ---
-term: Web-based Distributed Authoring and Versioning
 termid: 431
+term: Web-based Distributed Authoring and Versioning
 eng:
   id: 431
-  definition: set of extensions to the Hypertext Transfer Protocol (HTTP) that allows
-    users to edit and manage files collaboratively on remote World Wide Web servers
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Web-based Distributed Authoring and Versioning
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: WebDAV
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: set of extensions to the Hypertext Transfer Protocol (HTTP) that allows
+      users to edit and manage files collaboratively on remote World Wide Web servers
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

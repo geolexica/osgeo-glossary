@@ -1,16 +1,19 @@
 ---
-term: Vector
 termid: 418
+term: Vector
 eng:
   id: 418
-  definition: features described by geometries (points, lines, polygons) on a (typically)
-    cartesian plane
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: Vector
     normative_status: preferred
+    designation: Vector
+  definition:
+  - content: features described by geometries (points, lines, polygons) on a (typically)
+      cartesian plane
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

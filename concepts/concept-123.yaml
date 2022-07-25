@@ -1,21 +1,23 @@
 ---
-term: Free and Open Source Software
 termid: 123
+term: Free and Open Source Software
 eng:
   id: 123
-  definition: software which is liberally licensed to grant the right of users to
-    study, change, and improve its design through the availability of its source code
-  language_code: eng
-  notes:
-  - Also F/OSS, FOSS, or FLOSS (free/libre/open source software). See http://en.wikipedia.org/wiki/FOSS
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Free and Open Source Software
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: FOSS
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: software which is liberally licensed to grant the right of users to study,
+      change, and improve its design through the availability of its source code
+  notes:
+  - content: Also F/OSS, FOSS, or FLOSS (free/libre/open source software). See http://en.wikipedia.org/wiki/FOSS
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

@@ -1,20 +1,22 @@
 ---
-term: Uniform Resource Locator
 termid: 409
+term: Uniform Resource Locator
 eng:
   id: 409
-  definition: specifies where an identified resource is located on a computer network
-    and the mechanism for retrieving it
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Uniform Resource Locator
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: URL
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: specifies where an identified resource is located on a computer network
+      and the mechanism for retrieving it
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

@@ -1,16 +1,18 @@
 ---
-term: ISO SQL/MM
 termid: 204
+term: ISO SQL/MM
 eng:
   id: 204
-  definition: database language intended for for spatial applications based on SQL
-    defined by ISO/IEC 13249-3:2016
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    comment: Sandro
   terms:
   - type: expression
-    designation: ISO SQL/MM
     normative_status: preferred
+    designation: ISO SQL/MM
+  definition:
+  - content: database language intended for for spatial applications based on SQL
+      defined by ISO/IEC 13249-3:2016
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    comment: Sandro

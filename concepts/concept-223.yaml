@@ -1,21 +1,23 @@
 ---
-term: Location Based Service
 termid: 223
+term: Location Based Service
 eng:
   id: 223
-  definition: service whose return or other property is dependent on the location
-    of the client requesting the service or of some other thing, object or person
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    ref: ISO 19133:2005
-    clause: '4.11'
   terms:
   - type: expression
+    normative_status: preferred
     designation: Location Based Service
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: LBS
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: service whose return or other property is dependent on the location of
+      the client requesting the service or of some other thing, object or person
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19133:2005
+      clause: '4.11'

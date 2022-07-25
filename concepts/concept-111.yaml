@@ -1,21 +1,23 @@
 ---
-term: European Petroleum Survey Group
 termid: 111
+term: European Petroleum Survey Group
 eng:
   id: 111
-  definition: scientific organization with ties to the European petroleum industry
-    consisting of specialists working in applied geodesy, surveying, and cartography
-    related to oil exploration, part of the IOGP
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
+    normative_status: preferred
     designation: European Petroleum Survey Group
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: EPSG
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: scientific organization with ties to the European petroleum industry
+      consisting of specialists working in applied geodesy, surveying, and cartography
+      related to oil exploration, part of the IOGP
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf

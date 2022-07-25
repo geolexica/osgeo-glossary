@@ -1,23 +1,26 @@
 ---
-term: ellipsoid
 termid: 98
+term: ellipsoid
 eng:
   id: 98
-  definition: "<geodesy> geometric reference surface embedded in 3D Euclidean space
-    formed by an ellipse that is rotated about a main axis"
-  language_code: eng
-  notes:
-  - For the Earth the ellipsoid is bi-axial with rotation about the polar axis. This
-    results in an oblate ellipsoid with the midpoint of the foci located at the nominal
-    centre of the Earth.
-  examples: []
-  authoritative_source:
-    ref: ISO 19111:2019
-    clause: 3.1.22
   terms:
   - type: expression
+    normative_status: preferred
     designation: ellipsoid
-    normative_status: preferred
   - type: expression
-    designation: reference ellipsoid
     normative_status: preferred
+    designation: reference ellipsoid
+  definition:
+  - content: "<geodesy> geometric reference surface embedded in 3D Euclidean space
+      formed by an ellipse that is rotated about a main axis"
+  notes:
+  - content: For the Earth the ellipsoid is bi-axial with rotation about the polar
+      axis. This results in an oblate ellipsoid with the midpoint of the foci located
+      at the nominal centre of the Earth.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      ref: ISO 19111:2019
+      clause: 3.1.22

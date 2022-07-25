@@ -1,18 +1,19 @@
 ---
-term: Organization for the Advancement of Structured Information Standards
 termid: 326
+term: Organization for the Advancement of Structured Information Standards
 eng:
   id: 326
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Organization for the Advancement of Structured Information Standards
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: OASIS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

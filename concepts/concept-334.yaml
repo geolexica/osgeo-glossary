@@ -1,18 +1,19 @@
 ---
-term: Public Participation in Geographic Information Systems
 termid: 334
+term: Public Participation in Geographic Information Systems
 eng:
   id: 334
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
   terms:
   - type: expression
+    normative_status: preferred
     designation: Public Participation in Geographic Information Systems
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: PPGIS
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/

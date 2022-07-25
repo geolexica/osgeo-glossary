@@ -1,19 +1,20 @@
 ---
-term: International Organization for Standardization
 termid: 194
+term: International Organization for Standardization
 eng:
   id: 194
-  language_code: eng
-  notes:
-  - See http://www.iso.org
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: International Organization for Standardization
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: ISO
-    normative_status: preferred
-    abbrev: true
+  notes:
+  - content: See http://www.iso.org
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

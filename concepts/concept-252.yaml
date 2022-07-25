@@ -1,18 +1,19 @@
 ---
-term: Natural Resources and Environment
 termid: 252
+term: Natural Resources and Environment
 eng:
   id: 252
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Natural Resources and Environment
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: NRE
-    normative_status: preferred
-    abbrev: true
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

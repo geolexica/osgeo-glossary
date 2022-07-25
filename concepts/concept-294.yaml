@@ -1,17 +1,20 @@
 ---
-term: OGC Sensor Observation Service Interface Standard
 termid: 294
+term: OGC Sensor Observation Service Interface Standard
 eng:
   id: 294
-  definition: OGC developed API for managing deployed sensors and retrieving sensor
-    and observation data
-  language_code: eng
-  notes:
-  - Specification developed by OGC
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
-    designation: OGC Sensor Observation Service Interface Standard
     normative_status: preferred
+    designation: OGC Sensor Observation Service Interface Standard
+  definition:
+  - content: OGC developed API for managing deployed sensors and retrieving sensor
+      and observation data
+  notes:
+  - content: Specification developed by OGC
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

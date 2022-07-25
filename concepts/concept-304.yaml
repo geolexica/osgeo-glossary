@@ -1,20 +1,22 @@
 ---
-term: OGC Web Map Context Encoding Standard
 termid: 304
+term: OGC Web Map Context Encoding Standard
 eng:
   id: 304
-  definition: OGC standard that allows for the sharing of map views of WMS layers
-    in multiple applications
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://mapserver.org/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: OGC Web Map Context Encoding Standard
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: WMC
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: OGC standard that allows for the sharing of map views of WMS layers in
+      multiple applications
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://mapserver.org/glossary.html

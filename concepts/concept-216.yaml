@@ -1,22 +1,24 @@
 ---
-term: Keyhole Markup Language
 termid: 216
+term: Keyhole Markup Language
 eng:
   id: 216
-  definition: XML based format for spatial data
-  language_code: eng
-  notes:
-  - The name originates from the company which developed the technology, originally
-    named “Keyhole”.
-  examples:
-  - KML is used by Google Earth
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: Keyhole Markup Language
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: KML
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: XML based format for spatial data
+  notes:
+  - content: The name originates from the company which developed the technology,
+      originally named “Keyhole”.
+  examples:
+  - content: KML is used by Google Earth
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

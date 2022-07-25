@@ -1,22 +1,24 @@
 ---
-term: Z39.50 protocol
 termid: 444
+term: Z39.50 protocol
 eng:
   id: 444
-  definition: client-server protocol for searching and retrieving information from
-    remote computer databases
-  language_code: eng
-  notes:
-  - Z39.50 is defined in ANSI/NISO Z39.50 and ISO 23950. The standard is maintained
-    by the US Library of Congress.
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Z39.50 protocol
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: Z39.50
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: client-server protocol for searching and retrieving information from
+      remote computer databases
+  notes:
+  - content: Z39.50 is defined in ANSI/NISO Z39.50 and ISO 23950. The standard is
+      maintained by the US Library of Congress.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html

@@ -1,21 +1,23 @@
 ---
-term: Graphic Interchange Format
 termid: 164
+term: Graphic Interchange Format
 eng:
   id: 164
-  definition: platform­-independent graphics format developed by CompuServe
-  language_code: eng
-  notes:
-  - The GIF format is generally recommended for simple images and limited to a maximum
-    of 256 colours.
-  examples: []
-  authoritative_source:
-    link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
   terms:
   - type: expression
+    normative_status: preferred
     designation: Graphic Interchange Format
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: GIF
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: platform­-independent graphics format developed by CompuServe
+  notes:
+  - content: The GIF format is generally recommended for simple images and limited
+      to a maximum of 256 colours.
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf

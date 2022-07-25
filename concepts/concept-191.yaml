@@ -1,20 +1,22 @@
 ---
-term: International Electrotechnical Commission
 termid: 191
+term: International Electrotechnical Commission
 eng:
   id: 191
-  definition: international organization that prepares and publishes international
-    standards for all electrical, electronic and related technologies
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://www.opengeospatial.org/acronyms
   terms:
   - type: expression
+    normative_status: preferred
     designation: International Electrotechnical Commission
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: IEC
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: international organization that prepares and publishes international
+      standards for all electrical, electronic and related technologies
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://www.opengeospatial.org/acronyms

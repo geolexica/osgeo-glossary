@@ -1,19 +1,21 @@
 ---
-term: Metadata Exchange Format
 termid: 236
+term: Metadata Exchange Format
 eng:
   id: 236
-  definition: metadata export format developed by the GeoNetwork community
-  language_code: eng
-  notes: []
-  examples: []
-  authoritative_source:
-    link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
   terms:
   - type: expression
+    normative_status: preferred
     designation: Metadata Exchange Format
+  - type: abbreviation
     normative_status: preferred
-  - type: expression
     designation: MEF
-    normative_status: preferred
-    abbrev: true
+  definition:
+  - content: metadata export format developed by the GeoNetwork community
+  notes: []
+  examples: []
+  language_code: eng
+  sources:
+  - type: authoritative
+    origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
