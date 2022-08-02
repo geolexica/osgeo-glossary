@@ -15,4 +15,5 @@ eng:
   language_code: eng
   sources:
   - type: authoritative
-    comment: Sandro
+    origin:
+      ref: Sandro
