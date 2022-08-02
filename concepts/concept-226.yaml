@@ -16,4 +16,5 @@ eng:
   language_code: eng
   sources:
   - type: authoritative
-    comment: GEONETWOK_OPENSOURCE
+    origin:
+      ref: GEONETWOK_OPENSOURCE

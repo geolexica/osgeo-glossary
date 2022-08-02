@@ -17,4 +17,5 @@ eng:
   language_code: eng
   sources:
   - type: authoritative
-    comment: Combo of a couple of sources
+    origin:
+      ref: Combo of a couple of sources

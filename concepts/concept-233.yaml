@@ -20,4 +20,4 @@ eng:
     origin:
       ref: ISO 19115-1:2014
       clause: '4.10'
-    comment: modified — An admitted term from OSGeo has been added.
+    modification: An admitted term from OSGeo has been added.

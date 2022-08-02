@@ -15,4 +15,5 @@ eng:
   language_code: eng
   sources:
   - type: authoritative
-    comment: GVSIG_1-0_2011
+    origin:
+      ref: GVSIG_1-0_2011

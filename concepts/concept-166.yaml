@@ -16,4 +16,5 @@ eng:
   language_code: eng
   sources:
   - type: authoritative
-    comment: Jon Blower
+    origin:
+      ref: Jon Blower
