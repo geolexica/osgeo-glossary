@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: text representation of geometries described in the Simple Features for
+      SQL (SFSQL) specification
+  examples: []
+  id: 434
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Well-Known Text
+  - type: abbreviation
+    normative_status: preferred
+    designation: WKT
+  language_code: eng

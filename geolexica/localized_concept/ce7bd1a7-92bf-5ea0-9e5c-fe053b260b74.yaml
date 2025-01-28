@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 92
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Earth Observation and Environmental Modelling for the Mitigation
+      of Health Risks
+  - type: abbreviation
+    normative_status: preferred
+    designation: EO2heaven
+  language_code: eng

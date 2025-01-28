@@ -1,0 +1,24 @@
+---
+data:
+  dates: []
+  definition:
+  - content: uncompressed image format developed by Microsoft
+  examples: []
+  id: 28
+  notes:
+  - content: BMP is simple and pretty normalized; it is a excellent format for sharing
+      data and fast when analyzing and processing images. However, since it is not
+      compressed it does not improve the transmission and disk accessing times. BMP
+      is often used with RGB 24 bits.
+  sources:
+  - origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Bit Map Picture
+  - type: abbreviation
+    normative_status: preferred
+    designation: BMP
+  language_code: eng

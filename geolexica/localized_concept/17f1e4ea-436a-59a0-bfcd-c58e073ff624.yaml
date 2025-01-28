@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: open source, multi-format raster reading and writing library
+  examples: []
+  id: 144
+  notes:
+  - content: Pronounced “GOO-duhl”. Used widely in both open source and proprietary
+      software.
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Geospatial Data Abstraction Library
+  - type: abbreviation
+    normative_status: preferred
+    designation: GDAL
+  language_code: eng

@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition:
+  - content: OGC standard which defines an abstract model for geographic features
+  examples: []
+  id: 280
+  notes: []
+  sources:
+  - origin:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Geography Markup Language Encoding Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: GML
+  language_code: eng

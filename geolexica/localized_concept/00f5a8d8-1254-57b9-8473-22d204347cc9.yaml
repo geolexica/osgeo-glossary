@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 260
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Object Linking and Embedding/Common Object Model (Microsoft)
+  - type: abbreviation
+    normative_status: preferred
+    designation: OLE/COM
+  language_code: eng

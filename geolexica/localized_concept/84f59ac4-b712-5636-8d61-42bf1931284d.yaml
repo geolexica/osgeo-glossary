@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: National Spatial Data Infrastructure project of Spain which aims to integrate
+      data, metadata, services and geographic information through the Internet
+  examples: []
+  id: 184
+  notes: []
+  sources:
+  - origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Infraestructura de Datos Espaciales de España (Spanish Spatial Data
+      Infrastructure)
+  - type: abbreviation
+    normative_status: preferred
+    designation: IDEE
+  language_code: eng

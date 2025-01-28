@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: Military Pilot Project
+  examples: []
+  id: 289
+  notes:
+  - content: Open Geospatial Consortium (OGC) Project from 2001
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Military Pilot Project
+  - type: abbreviation
+    normative_status: preferred
+    designation: MPP
+  language_code: eng

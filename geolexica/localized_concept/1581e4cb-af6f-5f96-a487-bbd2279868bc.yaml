@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition:
+  - content: OGC standardized common schema framework for interoperability between
+      indoor and outdoor navigation applications
+  examples: []
+  id: 181
+  notes:
+  - content: Standardized by the OGC IndoorGML Standards Working Group.
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IndoorGML
+  language_code: eng

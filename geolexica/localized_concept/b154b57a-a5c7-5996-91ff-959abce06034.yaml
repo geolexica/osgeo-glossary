@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition:
+  - content: open-source project that provides Single Sign-On capabilities and allows
+      sites to make informed authorization decisions for individual access of protected
+      online resources in a privacy-preserving manner
+  examples: []
+  id: 363
+  notes: []
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Shibboleth
+  language_code: eng

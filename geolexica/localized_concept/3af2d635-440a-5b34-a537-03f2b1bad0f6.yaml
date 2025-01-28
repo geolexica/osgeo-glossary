@@ -1,0 +1,18 @@
+---
+data:
+  dates: []
+  definition:
+  - content: features described by geometries (points, lines, polygons) on a (typically)
+      cartesian plane
+  examples: []
+  id: 418
+  notes: []
+  sources:
+  - origin:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Vector
+  language_code: eng

@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition:
+  - content: information model for the representation of water observations data,
+      with the intent of allowing the exchange of such data sets across information
+      systems
+  examples: []
+  id: 425
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: WaterML 2.0
+  language_code: eng

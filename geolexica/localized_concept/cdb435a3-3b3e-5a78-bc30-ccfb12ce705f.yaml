@@ -1,0 +1,15 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 196
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: IS
+  language_code: eng

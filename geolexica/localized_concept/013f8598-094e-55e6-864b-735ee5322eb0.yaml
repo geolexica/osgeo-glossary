@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 341
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Reference Model for Open Distributed Processing
+  - type: abbreviation
+    normative_status: preferred
+    designation: RM-ODP
+  language_code: eng

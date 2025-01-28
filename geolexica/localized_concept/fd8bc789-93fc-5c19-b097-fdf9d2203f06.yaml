@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: Java API for database-independent connectivity between the Java programming
+      language and a wide range of databases
+  examples: []
+  id: 209
+  notes:
+  - content: JDBC supports SQL databases and other tabular data sources, such as spreadsheets
+      or flat files.
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Java Database Connectivity
+  - type: abbreviation
+    normative_status: preferred
+    designation: JDBC
+  language_code: eng

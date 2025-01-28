@@ -1,0 +1,18 @@
+---
+data:
+  dates: []
+  definition:
+  - content: "guidelines for creating the content and structure of a metadata file\n "
+  examples:
+  - content: The FGDC metadata standard.
+  id: 148
+  notes: []
+  sources:
+  - origin:
+      link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geospatial metadata standard
+  language_code: eng

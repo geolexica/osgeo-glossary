@@ -1,0 +1,16 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 108
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Committee for Electrotechnical Standardization (Comité Européen
+      de Normalisation Électrotechnique)
+  - type: abbreviation
+    normative_status: preferred
+    designation: CENELEC
+  language_code: eng

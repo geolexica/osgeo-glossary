@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: protocol for exchanging structured information for the implementation
+      of Web Services
+  examples: []
+  id: 372
+  notes: []
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Simple Object Access Protocol
+  - type: abbreviation
+    normative_status: preferred
+    designation: SOAP
+  language_code: eng

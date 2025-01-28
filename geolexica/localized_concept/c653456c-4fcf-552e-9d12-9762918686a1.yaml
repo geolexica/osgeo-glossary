@@ -1,0 +1,15 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 241
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Center for Atmospheric Research
+  - type: abbreviation
+    normative_status: preferred
+    designation: NCAR
+  language_code: eng

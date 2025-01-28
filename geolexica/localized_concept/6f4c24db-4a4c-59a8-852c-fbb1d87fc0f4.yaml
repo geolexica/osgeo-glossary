@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 135
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Geoprocessing networks in a European Territorial Interoperability
+      Study
+  - type: abbreviation
+    normative_status: preferred
+    designation: GETIS
+  language_code: eng

@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: food aid branch of the United Nations
+  examples: []
+  id: 438
+  notes:
+  - content: WFP is the world’s largest humanitarian organization
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: World Food Programme
+  - type: abbreviation
+    normative_status: preferred
+    designation: WFP
+  language_code: eng

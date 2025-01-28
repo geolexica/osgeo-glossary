@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: European intergovernmental organisation dedicated to the exploration
+      of space
+  examples: []
+  id: 112
+  notes:
+  - content: See http://www.esa.int
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Space Agency
+  - type: abbreviation
+    normative_status: preferred
+    designation: ESA
+  language_code: eng

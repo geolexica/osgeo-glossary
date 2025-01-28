@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition:
+  - content: OGC developed API for managing deployed sensors and retrieving sensor
+      and observation data
+  examples: []
+  id: 294
+  notes:
+  - content: Specification developed by OGC
+  sources:
+  - origin:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Sensor Observation Service Interface Standard
+  language_code: eng

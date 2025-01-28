@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition:
+  - content: open-source Java framework for XML data binding
+  examples: []
+  id: 26
+  notes: []
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Binding XML to Java
+  - type: abbreviation
+    normative_status: preferred
+    designation: JiBX
+  language_code: eng

@@ -1,0 +1,17 @@
+---
+data:
+  dates: []
+  definition:
+  - content: RSS feed containing geographic information in GML format
+  examples: []
+  id: 138
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoRSS
+  language_code: eng

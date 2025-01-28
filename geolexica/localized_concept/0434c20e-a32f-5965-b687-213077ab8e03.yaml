@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: system for identifying position in the real world
+  examples: []
+  id: 380
+  notes: []
+  sources:
+  - origin:
+      ref: ISO 19155:2012
+      clause: '4.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Spatial reference system
+  - type: abbreviation
+    normative_status: preferred
+    designation: SRS
+  language_code: eng

@@ -1,0 +1,18 @@
+---
+data:
+  dates: []
+  definition:
+  - content: format for encoding a variety of geographic data structures using JSON
+  examples: []
+  id: 130
+  notes:
+  - content: GeoJSON is commonly used in spatial applications.
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoJSON
+  language_code: eng

@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition:
+  - content: lightweight data-interchange format standardized as ISO/IEC 21778:2017
+  examples: []
+  id: 211
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: JavaScript Object Notation
+  - type: abbreviation
+    normative_status: preferred
+    designation: JSON
+  language_code: eng

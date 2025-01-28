@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: vector data source that contains spatial extents (footprints) of raster
+      data coverages
+  examples:
+  - content: MapServer can use a tileindex to render a directory of raster data by
+      only reading the data that intersects the requested map extent, rather than
+      reading all of the data.
+  id: 403
+  notes:
+  - content: A tilelindex is normally in the form of a shpfile
+  sources:
+  - origin:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tileindex
+  language_code: eng

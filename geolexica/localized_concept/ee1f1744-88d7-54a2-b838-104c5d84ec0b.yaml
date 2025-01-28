@@ -1,0 +1,17 @@
+---
+data:
+  dates: []
+  definition:
+  - content: specification for communication between ADL gazetteer clients and servers
+  examples: []
+  id: 6
+  notes: []
+  sources:
+  - origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ADL Gazetter Protocol
+  language_code: eng

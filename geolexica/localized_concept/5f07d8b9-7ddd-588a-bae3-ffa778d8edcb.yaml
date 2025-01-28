@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition:
+  - content: OGC working group of horizontal concerns
+  examples: []
+  id: 87
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: domain working group
+  - type: abbreviation
+    normative_status: preferred
+    designation: DWG
+  language_code: eng

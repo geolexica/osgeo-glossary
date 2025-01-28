@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: NASA system that provides end-to-end capabilities for managing NASA Earth
+      science data from various sources
+  examples: []
+  id: 94
+  notes: []
+  sources:
+  - origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Earth Observing System and Data Information System
+  - type: abbreviation
+    normative_status: preferred
+    designation: EOSDIS
+  language_code: eng

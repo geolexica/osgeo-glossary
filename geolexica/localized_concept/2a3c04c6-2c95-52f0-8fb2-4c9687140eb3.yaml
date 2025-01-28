@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: XML-based encoding for describing both static and dynamic two-dimensional
+      vector graphics
+  examples:
+  - content: interactive or animated are examples of dynamic vector graphics
+  id: 356
+  notes:
+  - content: 'Frequently used in browser and mobile devices. See http://en.wikipedia.org/wiki/Scalable_Vector_Graphics '
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Scalable Vector Graphics
+  - type: abbreviation
+    normative_status: preferred
+    designation: SVG
+  language_code: eng

@@ -1,0 +1,17 @@
+---
+data:
+  dates: []
+  definition:
+  - content: GIS and Remote Sensing Service of the University of Girona, Spain
+  examples: []
+  id: 366
+  notes: []
+  sources:
+  - origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: SIGTE
+  language_code: eng

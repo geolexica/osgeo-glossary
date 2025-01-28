@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: binary representation of geometries described in the Simple Features
+      for SQL (SFSQL) specification
+  examples: []
+  id: 433
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Well-Known Binary
+  - type: abbreviation
+    normative_status: preferred
+    designation: WKB
+  language_code: eng

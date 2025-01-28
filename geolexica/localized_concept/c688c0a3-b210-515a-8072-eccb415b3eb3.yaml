@@ -1,0 +1,15 @@
+---
+data:
+  dates: []
+  definition:
+  - content: organizational structure for grouping related data
+  examples:
+  - content: GeoServer uses a workspace for related data stores. Other geospatial
+      software store related datasets in a workspace.
+  id: 437
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: workspace
+  language_code: eng

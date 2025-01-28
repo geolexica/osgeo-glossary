@@ -1,0 +1,15 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 435
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Workflow Management Coalition
+  - type: abbreviation
+    normative_status: preferred
+    designation: WfMC
+  language_code: eng

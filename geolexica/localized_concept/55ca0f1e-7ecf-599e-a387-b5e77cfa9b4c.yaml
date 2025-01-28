@@ -1,0 +1,17 @@
+---
+data:
+  dates: []
+  definition:
+  - content: OGC specification protocol for RS232 and Ethernet connected instruments
+  examples: []
+  id: 337
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: PUCK
+  language_code: eng

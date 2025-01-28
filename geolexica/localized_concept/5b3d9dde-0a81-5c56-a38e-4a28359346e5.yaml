@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: C/C++ port of the Java Topology Suite used for geometric algebra operations
+  examples: []
+  id: 131
+  notes:
+  - content: Can be used for applications such as determining if a polygon is contained
+      in another polygon or determining the resultant intersection of two or more
+      polygons.
+  sources:
+  - origin:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Geometry Engine Open Source
+  - type: abbreviation
+    normative_status: preferred
+    designation: GEOS
+  language_code: eng

@@ -1,0 +1,18 @@
+---
+data:
+  dates: []
+  definition:
+  - content: OGC Standards Working Group developing an an extension to the OASIS ebXML
+      RegRep standard
+  examples: []
+  id: 275
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC ebXML RegRep SWG
+  language_code: eng

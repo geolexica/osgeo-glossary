@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: JSP tag library that encapsulates many of the standard functions handled
+      in JSP
+  examples: []
+  id: 212
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: JavaServer Page Template Library
+  - type: abbreviation
+    normative_status: preferred
+    designation: JSTL
+  language_code: eng

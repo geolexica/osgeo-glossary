@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: desktop application that allows administrators of a GeoNetwork catalog
+      to perform simple database configuration using a GUI
+  examples: []
+  id: 133
+  notes: []
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoNetwork Administrator Survival Tool
+  - type: abbreviation
+    normative_status: preferred
+    designation: GAST
+  language_code: eng
