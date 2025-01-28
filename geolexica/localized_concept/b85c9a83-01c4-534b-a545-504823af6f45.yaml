@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 430
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Web Services Definition Language
+  - type: abbreviation
+    normative_status: preferred
+    designation: WSDL
+  language_code: eng

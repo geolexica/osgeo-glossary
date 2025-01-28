@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition:
+  - content: determination of the geographic position of an object
+  examples: []
+  id: 134
+  notes:
+  - content: While there are many methods for geopositioning, this document is focused
+      on geopositioning from image coordinates.
+  sources:
+  - origin:
+      ref: ISO 19130-1:2018
+      clause: '3.36'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geopositioning
+  language_code: eng

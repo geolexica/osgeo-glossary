@@ -1,0 +1,16 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 283
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Geosync SWG
+  language_code: eng

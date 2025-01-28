@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: 'gridded coverage whose attribute values are a numerical representation
+      of a physical parameter
+
+      '
+  examples: []
+  id: 179
+  notes:
+  - content: " The physical parameters are the result of measurement by a sensor (3.27)
+      or a prediction from a model."
+  sources:
+  - origin:
+      ref: ISO 19115-2:2019
+      clause: 3.1.18
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: image
+  language_code: eng

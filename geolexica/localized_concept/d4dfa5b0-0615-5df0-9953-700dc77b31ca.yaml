@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 255
+  notes:
+  - content: Within the UK
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Neutral Transfer Format
+  - type: abbreviation
+    normative_status: preferred
+    designation: NTF
+  language_code: eng

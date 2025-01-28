@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition:
+  - content: OGC standard which defines an abstract model for sensor based data
+  examples: []
+  id: 263
+  notes: []
+  sources:
+  - origin:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Observations and Measurements
+  - type: abbreviation
+    normative_status: preferred
+    designation: OM
+  language_code: eng

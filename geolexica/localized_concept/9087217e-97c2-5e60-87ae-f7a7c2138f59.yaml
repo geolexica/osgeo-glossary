@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 95
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Earth System Science Domain Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: ESS DWG
+  language_code: eng

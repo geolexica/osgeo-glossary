@@ -1,0 +1,18 @@
+---
+data:
+  dates: []
+  definition:
+  - content: OGC standard defining an extended Short Messaging Service (SMS) encoding
+      and interface for communicating location content
+  examples: []
+  id: 315
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Open GeoSMS
+  language_code: eng

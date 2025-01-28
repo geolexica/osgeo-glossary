@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 200
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Interoperability Experiment
+  - type: abbreviation
+    normative_status: preferred
+    designation: IE
+  language_code: eng

@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: markup language that defines a set of rules for encoding documents in
+      a format that is both human-readable and machine-readable
+  examples: []
+  id: 117
+  notes: []
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: eXtensible Markup Language
+  - type: abbreviation
+    normative_status: preferred
+    designation: XML
+  language_code: eng

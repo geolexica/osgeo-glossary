@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 351
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Request for Technology
+  - type: abbreviation
+    normative_status: preferred
+    designation: RFT
+  language_code: eng

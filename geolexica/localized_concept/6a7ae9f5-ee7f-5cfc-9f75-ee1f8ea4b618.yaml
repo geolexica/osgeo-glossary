@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition:
+  - content: geopositioning an object using a Correspondence Model derived from a
+      set of points for which both ground and image coordinates are known
+  examples: []
+  id: 137
+  notes: []
+  sources:
+  - origin:
+      ref: ISO 19130-1:2018
+      clause: '3.38'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: georeferencing
+  language_code: eng

@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 247
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Institute of Standards and Technology
+  - type: abbreviation
+    normative_status: preferred
+    designation: NIST
+  language_code: eng

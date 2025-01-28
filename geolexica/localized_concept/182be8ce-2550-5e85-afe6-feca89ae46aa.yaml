@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: set of services that facilitate communication between companies using
+      OASIS ebXML
+  examples:
+  - content: 'OGC Catalog ebRIM Application Profile: Earth Observation Products.'
+  id: 96
+  notes: []
+  sources:
+  - origin:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ebXML Registry Information Model
+  - type: abbreviation
+    normative_status: preferred
+    designation: ebRIM
+  language_code: eng

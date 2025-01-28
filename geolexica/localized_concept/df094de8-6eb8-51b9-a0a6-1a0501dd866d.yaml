@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 161
+  notes: []
+  sources:
+  - origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Google Summer of Code
+  - type: abbreviation
+    normative_status: preferred
+    designation: GSoC
+  language_code: eng

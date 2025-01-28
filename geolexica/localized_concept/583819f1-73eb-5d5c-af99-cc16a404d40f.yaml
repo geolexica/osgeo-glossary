@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: XML based format for spatial data
+  examples:
+  - content: KML is used by Google Earth
+  id: 216
+  notes:
+  - content: The name originates from the company which developed the technology,
+      originally named “Keyhole”.
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Keyhole Markup Language
+  - type: abbreviation
+    normative_status: preferred
+    designation: KML
+  language_code: eng

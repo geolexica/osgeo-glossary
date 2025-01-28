@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: set of software libraries and machine-independent data formats that support
+      the creation, access, and sharing of array-oriented scientific data
+  examples: []
+  id: 254
+  notes: []
+  sources:
+  - origin:
+      link: https://www.unidata.ucar.edu/software/netcdf/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Network Common Data Form
+  - type: abbreviation
+    normative_status: preferred
+    designation: NetCDF
+  language_code: eng

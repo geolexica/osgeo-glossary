@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 423
+  notes: []
+  sources:
+  - origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Wales Institute of Social & Economic Research, Data & Methods
+  - type: abbreviation
+    normative_status: preferred
+    designation: WISERD
+  language_code: eng

@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 325
+  notes: []
+  sources:
+  - origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Organisation for Economic Co-Operation and Development
+  - type: abbreviation
+    normative_status: preferred
+    designation: OECD
+  language_code: eng

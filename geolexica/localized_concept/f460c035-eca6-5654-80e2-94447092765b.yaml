@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 388
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Standards based Commercial Off-The-Shelf software
+  - type: abbreviation
+    normative_status: preferred
+    designation: SCOTS
+  language_code: eng

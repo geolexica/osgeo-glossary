@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 301
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Web Coverage Processing Service Interface Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: WCPS
+  language_code: eng

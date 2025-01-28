@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: set or group of geospatial data having a common theme or association,
+      often represented in a thematic layer
+  examples:
+  - content: An ESRI shapefile containing a set of line features representing city
+      streets.
+  id: 145
+  notes:
+  - content: Geospatial datasets are typically the main elements in a GIS data model.
+  sources:
+  - origin:
+      link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geospatial data set
+  language_code: eng

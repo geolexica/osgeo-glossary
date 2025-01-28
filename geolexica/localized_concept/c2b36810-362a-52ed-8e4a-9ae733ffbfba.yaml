@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 259
+  notes: []
+  sources:
+  - origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: North American Datum
+  - type: abbreviation
+    normative_status: preferred
+    designation: NAD
+  language_code: eng

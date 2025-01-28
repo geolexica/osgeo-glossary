@@ -1,0 +1,15 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 420
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Vector Product Format
+  - type: abbreviation
+    normative_status: preferred
+    designation: VPF
+  language_code: eng

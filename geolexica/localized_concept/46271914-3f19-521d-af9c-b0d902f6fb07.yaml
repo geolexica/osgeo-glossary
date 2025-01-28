@@ -1,0 +1,18 @@
+---
+data:
+  dates: []
+  definition:
+  - content: OGC Standards Working Group defining methods that enable functionality
+      to publish/subscribe to OGC Web Services
+  examples: []
+  id: 336
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: PubSub SWG
+  language_code: eng

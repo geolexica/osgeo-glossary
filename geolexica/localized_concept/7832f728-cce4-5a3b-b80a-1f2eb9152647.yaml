@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 192
+  notes: []
+  sources:
+  - origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International Hydrographic Office
+  - type: abbreviation
+    normative_status: preferred
+    designation: OHI
+  language_code: eng

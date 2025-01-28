@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 171
+  notes: []
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Hibernate Query Language.
+  - type: abbreviation
+    normative_status: preferred
+    designation: HQL
+  language_code: eng

@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 355
+  notes: []
+  sources:
+  - origin:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Russian Federal Service for Hydrometeorologyand Enviromental Monitoring
+  - type: abbreviation
+    normative_status: preferred
+    designation: ROSHYDROMET
+  language_code: eng

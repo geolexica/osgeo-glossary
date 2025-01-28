@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition:
+  - content: WMO standardized data format used in meteorology to store historical
+      and forecast weather data standard
+  examples: []
+  id: 166
+  notes:
+  - content: Abbreviated from the words "GRIdded Binary".
+  sources:
+  - origin:
+      ref: Jon Blower
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GRIB
+  language_code: eng

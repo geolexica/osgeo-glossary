@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition:
+  - content: metadata export format developed by the GeoNetwork community
+  examples: []
+  id: 236
+  notes: []
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Metadata Exchange Format
+  - type: abbreviation
+    normative_status: preferred
+    designation: MEF
+  language_code: eng

@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: generic coordinate transformation software that transforms geospatial
+      coordinates from one coordinate reference system (CRS) to another
+  examples:
+  - content: Used by MapServer and GDAL and a multitude of other Open Source GIS libraries.
+  id: 333
+  notes:
+  - content: The software also performs cartographic projections as well as geodetic
+      transformations
+  - content: PROJ (formerly referred to as PROJ.4)
+  sources:
+  - origin:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: PROJ
+  language_code: eng

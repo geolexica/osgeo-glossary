@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 3
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 3D Portrayal Interoperability Experiment
+  - type: abbreviation
+    normative_status: preferred
+    designation: IE3D Portrayal
+  language_code: eng

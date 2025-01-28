@@ -1,0 +1,23 @@
+---
+data:
+  dates: []
+  definition:
+  - content: methodology for systems development and integration where systems package
+      functionality as interoperable services
+  examples: []
+  id: 361
+  notes:
+  - content: A SOA infrastructure allows different applications to exchange data with
+      one another.
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Services Oriented Architecture
+  - type: abbreviation
+    normative_status: preferred
+    designation: SOA
+  language_code: eng

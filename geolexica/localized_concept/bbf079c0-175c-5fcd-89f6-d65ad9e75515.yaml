@@ -1,0 +1,16 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 328
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OWS Context SWG
+  language_code: eng

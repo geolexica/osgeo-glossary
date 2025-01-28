@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 323
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Ordering Services Framework for Earth Observation Products
+  - type: abbreviation
+    normative_status: preferred
+    designation: OSF
+  language_code: eng

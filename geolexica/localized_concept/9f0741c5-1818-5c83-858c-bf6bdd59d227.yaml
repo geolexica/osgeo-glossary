@@ -1,0 +1,22 @@
+---
+data:
+  dates: []
+  definition:
+  - content: parameter or set of parameters that realize the position of the origin,
+      the scale, and the orientation of a coordinate system
+  examples: []
+  id: 340
+  notes: []
+  sources:
+  - origin:
+      ref: ISO 19111:2019
+      clause: 3.1.15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference frame
+  - type: expression
+    normative_status: preferred
+    designation: datum
+  language_code: eng

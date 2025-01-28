@@ -1,0 +1,21 @@
+---
+data:
+  dates: []
+  definition:
+  - content: specifies where an identified resource is located on a computer network
+      and the mechanism for retrieving it
+  examples: []
+  id: 409
+  notes: []
+  sources:
+  - origin:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Uniform Resource Locator
+  - type: abbreviation
+    normative_status: preferred
+    designation: URL
+  language_code: eng

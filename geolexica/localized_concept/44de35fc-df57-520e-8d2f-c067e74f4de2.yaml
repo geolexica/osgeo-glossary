@@ -1,0 +1,19 @@
+---
+data:
+  dates: []
+  definition: []
+  examples: []
+  id: 398
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Technical Committee Policies and Procedures
+  - type: abbreviation
+    normative_status: preferred
+    designation: TC P&P
+  language_code: eng

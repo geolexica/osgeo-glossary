@@ -1,0 +1,20 @@
+---
+data:
+  dates: []
+  definition:
+  - content: data file format developed by the US Census Bureau
+  examples: []
+  id: 404
+  notes: []
+  sources:
+  - origin:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Topologically Integrated Geographic Encoding and Reference
+  - type: abbreviation
+    normative_status: preferred
+    designation: TIGER
+  language_code: eng
