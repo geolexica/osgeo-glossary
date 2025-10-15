@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '151'
+  localized_concepts:
+    eng: 4d78e309-b28c-5ff9-a0fb-3a697f5d0884
+id: adca716b-b84f-514b-8bc3-720a8c1a9500
+
+---
+data:
+  definition: []
+  examples: []
+  id: '151'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Global Earth Observation System of Systems Pilot Project
+  - type: abbreviation
+    normative_status: preferred
+    designation: GEOSS Pilot ­
+  language_code: eng
+id: 4d78e309-b28c-5ff9-a0fb-3a697f5d0884

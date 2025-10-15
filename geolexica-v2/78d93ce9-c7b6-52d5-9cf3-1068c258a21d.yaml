@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '422'
+  localized_concepts:
+    eng: cdcbf2e0-746d-52aa-b609-534b0cb6990e
+id: 78d93ce9-c7b6-52d5-9cf3-1068c258a21d
+
+---
+data:
+  definition: []
+  examples: []
+  id: '422'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Volunteered Geographic Information
+  - type: abbreviation
+    normative_status: preferred
+    designation: VGI
+  language_code: eng
+id: cdcbf2e0-746d-52aa-b609-534b0cb6990e

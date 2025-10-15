@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '253'
+  localized_concepts:
+    eng: a7100d92-65a7-5a2d-8b91-9e42d2e3ef3f
+id: bc0dfb7e-ec09-531b-b0c0-e43f928aadb5
+
+---
+data:
+  definition: []
+  examples: []
+  id: '253'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Net Centric Operations Infrastructure Committee
+  - type: abbreviation
+    normative_status: preferred
+    designation: NCOIC
+  language_code: eng
+id: a7100d92-65a7-5a2d-8b91-9e42d2e3ef3f

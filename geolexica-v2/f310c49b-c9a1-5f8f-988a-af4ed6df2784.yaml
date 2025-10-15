@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '342'
+  localized_concepts:
+    eng: e6813268-c9ec-57e7-8af4-bf289d95a632
+id: f310c49b-c9a1-5f8f-988a-af4ed6df2784
+
+---
+data:
+  definition: []
+  examples: []
+  id: '342'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Regional Centre for Mapping of Resources for Development
+  - type: abbreviation
+    normative_status: preferred
+    designation: RCMRD
+  language_code: eng
+id: e6813268-c9ec-57e7-8af4-bf289d95a632

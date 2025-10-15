@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '124'
+  localized_concepts:
+    eng: cf9efaad-8e21-5e92-ab01-32ffdf554d48
+id: a89b9ab6-c931-5e32-acd3-8d9cca2fb184
+
+---
+data:
+  definition:
+  - content: Conference of the Open Source Geospatial Foundation
+  examples: []
+  id: '124'
+  notes: []
+  sources:
+  - origin:
+      ref: Combo of a couple of sources
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Free and Open Source Software for Geospatial
+  - type: abbreviation
+    normative_status: preferred
+    designation: FOSS4G
+  language_code: eng
+id: cf9efaad-8e21-5e92-ab01-32ffdf554d48

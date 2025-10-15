@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '115'
+  localized_concepts:
+    eng: bdefdd1f-fe0c-5b14-b2f1-e6a5cc86350d
+id: e11b975b-ad85-5f8b-aea9-840cd0bcc48d
+
+---
+data:
+  definition: []
+  examples: []
+  id: '115'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Spatial Data Research
+  - type: abbreviation
+    normative_status: preferred
+    designation: EuroSDR
+  language_code: eng
+id: bdefdd1f-fe0c-5b14-b2f1-e6a5cc86350d

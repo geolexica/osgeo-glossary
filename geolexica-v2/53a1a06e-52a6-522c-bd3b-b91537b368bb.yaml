@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '359'
+  localized_concepts:
+    eng: 998ca873-143f-5c88-a467-521968717057
+id: 53a1a06e-52a6-522c-bd3b-b91537b368bb
+
+---
+data:
+  definition: []
+  examples: []
+  id: '359'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Sensor Web Enablement Common Data Model
+  - type: abbreviation
+    normative_status: preferred
+    designation: SWE Common
+  language_code: eng
+id: 998ca873-143f-5c88-a467-521968717057

@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '117'
+  localized_concepts:
+    eng: 95bbf1ea-d301-5c19-8e44-b0d47da6ffd5
+id: deb78fff-3aa0-5492-938b-78ad4d4a2066
+
+---
+data:
+  definition:
+  - content: markup language that defines a set of rules for encoding documents in
+      a format that is both human-readable and machine-readable
+  examples: []
+  id: '117'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: eXtensible Markup Language
+  - type: abbreviation
+    normative_status: preferred
+    designation: XML
+  language_code: eng
+id: 95bbf1ea-d301-5c19-8e44-b0d47da6ffd5

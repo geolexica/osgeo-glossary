@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '306'
+  localized_concepts:
+    eng: 40e1c0bd-2ff2-5662-a6bd-dff3b32894e8
+id: cca41e27-7b0f-52cb-8f8c-63de0a0f85da
+
+---
+data:
+  definition: []
+  examples: []
+  id: '306'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Web Map Tile Service Interface Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: OGC Web Map Tile Service Interface Standard
+  language_code: eng
+id: 40e1c0bd-2ff2-5662-a6bd-dff3b32894e8

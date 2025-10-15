@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '219'
+  localized_concepts:
+    eng: d94feedf-7bc6-50dc-996a-c7a1b128e4f6
+id: 895790c3-07c3-5e2d-b3ab-0e08795468a3
+
+---
+data:
+  definition: []
+  examples: []
+  id: '219'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Level Of Detail
+  - type: abbreviation
+    normative_status: preferred
+    designation: LOD
+  language_code: eng
+id: d94feedf-7bc6-50dc-996a-c7a1b128e4f6

@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '113'
+  localized_concepts:
+    eng: 889c3b5e-e418-584a-99b9-da32ca7beb53
+id: 29ecc224-0ab2-5cfb-b899-482c565a1ecc
+
+---
+data:
+  definition: []
+  examples: []
+  id: '113'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Space Education Resource Office
+  - type: abbreviation
+    normative_status: preferred
+    designation: ESERO
+  language_code: eng
+id: 889c3b5e-e418-584a-99b9-da32ca7beb53

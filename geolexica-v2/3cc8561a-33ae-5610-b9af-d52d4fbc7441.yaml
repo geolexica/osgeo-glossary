@@ -1,0 +1,25 @@
+---
+data:
+  identifier: '37'
+  localized_concepts:
+    eng: 518d72ce-922a-5f2d-bb6d-ab6570caf406
+id: 3cc8561a-33ae-5610-b9af-d52d4fbc7441
+
+---
+data:
+  definition:
+  - content: CEN Technical Committee of Geographic Information
+  examples: []
+  id: '37'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CEN TC 287
+  language_code: eng
+id: 518d72ce-922a-5f2d-bb6d-ab6570caf406

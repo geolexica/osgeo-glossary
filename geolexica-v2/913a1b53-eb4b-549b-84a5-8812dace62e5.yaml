@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '38'
+  localized_concepts:
+    eng: 82b61797-db7f-5590-8137-6e9bae54a67f
+id: 913a1b53-eb4b-549b-84a5-8812dace62e5
+
+---
+data:
+  definition: []
+  examples: []
+  id: '38'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Census Research Centre
+  - type: abbreviation
+    normative_status: preferred
+    designation: CRC
+  language_code: eng
+id: 82b61797-db7f-5590-8137-6e9bae54a67f

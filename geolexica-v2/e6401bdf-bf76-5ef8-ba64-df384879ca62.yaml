@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '230'
+  localized_concepts:
+    eng: db36f58d-73cd-5fd8-801a-d899e7e48617
+id: e6401bdf-bf76-5ef8-ba64-df384879ca62
+
+---
+data:
+  definition: []
+  examples: []
+  id: '230'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Media and Information Literacy
+  - type: abbreviation
+    normative_status: preferred
+    designation: MIL
+  language_code: eng
+id: db36f58d-73cd-5fd8-801a-d899e7e48617

@@ -1,0 +1,26 @@
+---
+data:
+  identifier: '315'
+  localized_concepts:
+    eng: 516c6298-9502-5d27-ae27-374c5126a08d
+id: f897f5e1-6e14-5629-a19f-ad606ac5d657
+
+---
+data:
+  definition:
+  - content: OGC standard defining an extended Short Messaging Service (SMS) encoding
+      and interface for communicating location content
+  examples: []
+  id: '315'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Open GeoSMS
+  language_code: eng
+id: 516c6298-9502-5d27-ae27-374c5126a08d

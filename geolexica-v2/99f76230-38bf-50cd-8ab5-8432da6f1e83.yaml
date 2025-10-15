@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '242'
+  localized_concepts:
+    eng: 5cbf1521-058f-5941-825c-055b4811ab50
+id: 99f76230-38bf-50cd-8ab5-8432da6f1e83
+
+---
+data:
+  definition: []
+  examples: []
+  id: '242'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Center for Supercomputing Applications
+  - type: abbreviation
+    normative_status: preferred
+    designation: NCSA
+  language_code: eng
+id: 5cbf1521-058f-5941-825c-055b4811ab50

@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '77'
+  localized_concepts:
+    eng: a2854081-2863-5385-bc7a-c17e335a2662
+id: 504e9e16-231e-5da7-a265-841ddf6df19a
+
+---
+data:
+  definition: []
+  examples: []
+  id: '77'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Digital Geographic Exchange Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: DIGEST
+  language_code: eng
+id: a2854081-2863-5385-bc7a-c17e335a2662

@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '128'
+  localized_concepts:
+    eng: 3da3fc69-426a-551a-bb71-bf9565f5a05d
+id: e42d976d-7f9d-5295-b84e-4646833ea36d
+
+---
+data:
+  definition: []
+  examples: []
+  id: '128'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Geographic Linkage Service 1.0 Standards Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: GLS SWG
+  language_code: eng
+id: 3da3fc69-426a-551a-bb71-bf9565f5a05d

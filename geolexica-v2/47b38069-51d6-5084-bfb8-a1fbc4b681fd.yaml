@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '104'
+  localized_concepts:
+    eng: d0132e46-43b4-5ef3-9f41-4a5fba452e83
+id: 47b38069-51d6-5084-bfb8-a1fbc4b681fd
+
+---
+data:
+  definition: []
+  examples: []
+  id: '104'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Environmental Protection Agency
+  - type: abbreviation
+    normative_status: preferred
+    designation: EPA
+  language_code: eng
+id: d0132e46-43b4-5ef3-9f41-4a5fba452e83

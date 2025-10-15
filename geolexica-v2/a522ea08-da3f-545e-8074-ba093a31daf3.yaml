@@ -1,0 +1,23 @@
+---
+data:
+  identifier: '257'
+  localized_concepts:
+    eng: 26879871-333a-5ce4-88c7-ff4b7fc35dcb
+id: a522ea08-da3f-545e-8074-ba093a31daf3
+
+---
+data:
+  definition:
+  - content: locates a geographic location by its name
+  examples: []
+  id: '257'
+  notes:
+  - content: If one or more occurrences of a location are detected, the service provides
+      a list of the detected locations with additional attributes. The user can then
+      choose the desired location as per their requirement.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: nomenclator service
+  language_code: eng
+id: 26879871-333a-5ce4-88c7-ff4b7fc35dcb

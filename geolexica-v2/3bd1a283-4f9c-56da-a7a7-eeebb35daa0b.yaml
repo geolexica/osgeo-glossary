@@ -1,0 +1,25 @@
+---
+data:
+  identifier: '337'
+  localized_concepts:
+    eng: 55ca0f1e-7ecf-599e-a387-b5e77cfa9b4c
+id: 3bd1a283-4f9c-56da-a7a7-eeebb35daa0b
+
+---
+data:
+  definition:
+  - content: OGC specification protocol for RS232 and Ethernet connected instruments
+  examples: []
+  id: '337'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: PUCK
+  language_code: eng
+id: 55ca0f1e-7ecf-599e-a387-b5e77cfa9b4c

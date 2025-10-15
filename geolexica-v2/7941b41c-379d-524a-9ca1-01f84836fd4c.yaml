@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '227'
+  localized_concepts:
+    eng: 7f42c82b-6363-518f-a8bc-d2b9393f2ece
+id: 7941b41c-379d-524a-9ca1-01f84836fd4c
+
+---
+data:
+  definition:
+  - content: coordinate conversion from an ellipsoidal coordinate system to a plane
+  examples: []
+  id: '227'
+  notes:
+  - content: See also http://en.wikipedia.org/wiki/MAC_address on Wikipedia
+  sources:
+  - origin:
+      ref: ISO 19111:2019
+      locality:
+        type: clause
+        reference_from: 3.1.40
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: map projection
+  language_code: eng
+id: 7f42c82b-6363-518f-a8bc-d2b9393f2ece

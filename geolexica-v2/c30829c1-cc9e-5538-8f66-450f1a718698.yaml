@@ -1,0 +1,25 @@
+---
+data:
+  identifier: '321'
+  localized_concepts:
+    eng: 7aa9213d-0a58-5985-b17d-4d6e10cb5f62
+id: c30829c1-cc9e-5538-8f66-450f1a718698
+
+---
+data:
+  definition:
+  - content: OGC Open Location Services Interface Standard
+  examples: []
+  id: '321'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OpenLS ­
+  language_code: eng
+id: 7aa9213d-0a58-5985-b17d-4d6e10cb5f62

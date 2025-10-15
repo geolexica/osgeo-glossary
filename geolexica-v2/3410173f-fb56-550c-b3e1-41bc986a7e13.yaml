@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '374'
+  localized_concepts:
+    eng: 6c5bbcf0-4f44-5c50-b413-ff1adba1bf6a
+id: 3410173f-fb56-550c-b3e1-41bc986a7e13
+
+---
+data:
+  definition: []
+  examples: []
+  id: '374'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Small or Medium Sized Enterprise
+  - type: abbreviation
+    normative_status: preferred
+    designation: SME
+  language_code: eng
+id: 6c5bbcf0-4f44-5c50-b413-ff1adba1bf6a

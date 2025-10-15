@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '274'
+  localized_concepts:
+    eng: 644d77bf-a4be-52b1-b75c-3b83656d25fa
+id: 6de68ba4-ccd1-5f31-a0a0-5182c8ea34ad
+
+---
+data:
+  definition:
+  - content: 2002 OGC Interoperability Initiative focused on critical infrastructure
+      protection
+  examples: []
+  id: '274'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Critical Infrastructure Protection Initiative
+  - type: abbreviation
+    normative_status: preferred
+    designation: CIPI
+  language_code: eng
+id: 644d77bf-a4be-52b1-b75c-3b83656d25fa

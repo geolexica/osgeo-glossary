@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '347'
+  localized_concepts:
+    eng: 252f056f-bf7d-5b9d-b1b4-47a53985980e
+id: 19ae83a2-a7e4-5b81-ac1b-ca8a3b5b3018
+
+---
+data:
+  definition: []
+  examples: []
+  id: '347'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Request for Comment
+  - type: abbreviation
+    normative_status: preferred
+    designation: RFC
+  language_code: eng
+id: 252f056f-bf7d-5b9d-b1b4-47a53985980e

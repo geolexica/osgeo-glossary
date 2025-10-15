@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '403'
+  localized_concepts:
+    eng: ad09c9f6-1f8c-5a51-a8c0-ff43b7df6894
+id: 8046764e-0519-5000-b94e-ae03aedb999b
+
+---
+data:
+  definition:
+  - content: vector data source that contains spatial extents (footprints) of raster
+      data coverages
+  examples:
+  - content: MapServer can use a tileindex to render a directory of raster data by
+      only reading the data that intersects the requested map extent, rather than
+      reading all of the data.
+  id: '403'
+  notes:
+  - content: A tilelindex is normally in the form of a shpfile
+  sources:
+  - origin:
+      ref:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: tileindex
+  language_code: eng
+id: ad09c9f6-1f8c-5a51-a8c0-ff43b7df6894

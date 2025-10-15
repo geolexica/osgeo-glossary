@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '221'
+  localized_concepts:
+    eng: 740e18d7-c46d-5b13-810b-ef444b81d671
+id: f8d559fc-0ac0-509b-aadd-71f2e1e7d718
+
+---
+data:
+  definition:
+  - content: application protocol for querying and modifying directory services running
+      over TCP/IP
+  examples: []
+  id: '221'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Lightweight Directory Access Protocol
+  - type: abbreviation
+    normative_status: preferred
+    designation: LDAP
+  language_code: eng
+id: 740e18d7-c46d-5b13-810b-ef444b81d671

@@ -1,0 +1,24 @@
+---
+data:
+  identifier: '283'
+  localized_concepts:
+    eng: 1a4fc915-b000-5e62-ae28-d7d06d5906f6
+id: b64acff0-488c-57ba-b0ef-c3d3eb4d99bd
+
+---
+data:
+  definition: []
+  examples: []
+  id: '283'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Geosync SWG
+  language_code: eng
+id: 1a4fc915-b000-5e62-ae28-d7d06d5906f6

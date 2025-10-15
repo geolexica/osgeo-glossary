@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '105'
+  localized_concepts:
+    eng: b8f21bef-4af2-586b-9a87-fea47ada5c4b
+id: cdb5d535-de4c-5336-89db-d4747d3f3be1
+
+---
+data:
+  definition:
+  - content: international supplier of geographic information system software, web
+      GIS and geodatabase management applications
+  examples: []
+  id: '105'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Environmental Systems Research Institute
+  - type: abbreviation
+    normative_status: preferred
+    designation: ESRI
+  language_code: eng
+id: b8f21bef-4af2-586b-9a87-fea47ada5c4b

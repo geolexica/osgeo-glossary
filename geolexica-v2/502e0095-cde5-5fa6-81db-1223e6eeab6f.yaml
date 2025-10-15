@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '43'
+  localized_concepts:
+    eng: 1e01b9b7-c651-5935-bed2-b6fff8e41bd9
+id: 502e0095-cde5-5fa6-81db-1223e6eeab6f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '43'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Collaboratively Contributed Geographic Information
+  - type: abbreviation
+    normative_status: preferred
+    designation: CCGI
+  language_code: eng
+id: 1e01b9b7-c651-5935-bed2-b6fff8e41bd9

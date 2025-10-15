@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '402'
+  localized_concepts:
+    eng: bf236c51-992a-56d8-9db7-4ca4578e43e4
+id: '058f1c81-033b-5f22-8f65-3ef5a2bde1c7'
+
+---
+data:
+  definition:
+  - content: non-profit non-governmental organization whose mission is to support
+      and promote the collaborative development of open geospatial technologies and
+      data
+  examples: []
+  id: '402'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: http://www.osgeo.org
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: The Open Source Geospatial Foundation
+  - type: abbreviation
+    normative_status: preferred
+    designation: OSGEO
+  language_code: eng
+id: bf236c51-992a-56d8-9db7-4ca4578e43e4

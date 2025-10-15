@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '352'
+  localized_concepts:
+    eng: 9eeed052-3e18-5351-894e-3587727b4fec
+id: 8f8d2d21-c2dc-583b-8532-5df3debf78c0
+
+---
+data:
+  definition: []
+  examples: []
+  id: '352'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Research and Technology Development (Europe)
+  - type: abbreviation
+    normative_status: preferred
+    designation: RTD
+  language_code: eng
+id: 9eeed052-3e18-5351-894e-3587727b4fec

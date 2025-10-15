@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '399'
+  localized_concepts:
+    eng: 310b4771-afda-51d8-8c6d-d490e0e53ca8
+id: 1c130672-7a65-57a6-ad18-37d959f8e678
+
+---
+data:
+  definition: []
+  examples: []
+  id: '399'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Test Driven Development.
+  - type: abbreviation
+    normative_status: preferred
+    designation: TDD
+  language_code: eng
+id: 310b4771-afda-51d8-8c6d-d490e0e53ca8

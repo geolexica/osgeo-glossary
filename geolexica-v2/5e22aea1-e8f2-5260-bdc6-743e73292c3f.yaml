@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '4'
+  localized_concepts:
+    eng: 0bc1c9f8-2363-5b81-b1d3-0a81a91ab5a5
+id: 5e22aea1-e8f2-5260-bdc6-743e73292c3f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '4'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Abstract Specification
+  - type: abbreviation
+    normative_status: preferred
+    designation: AS
+  language_code: eng
+id: 0bc1c9f8-2363-5b81-b1d3-0a81a91ab5a5

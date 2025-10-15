@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '64'
+  localized_concepts:
+    eng: 1cdeb169-32ff-5869-ad52-1a4bce726e63
+id: f4000bd3-4649-57a3-b09a-84fa0b9318ce
+
+---
+data:
+  definition: []
+  examples: []
+  id: '64'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CyberInfrastructure
+  - type: abbreviation
+    normative_status: preferred
+    designation: CI
+  language_code: eng
+id: 1cdeb169-32ff-5869-ad52-1a4bce726e63

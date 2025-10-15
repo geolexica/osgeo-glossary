@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '116'
+  localized_concepts:
+    eng: 7b73a747-eb42-5fec-a6cb-db650df411aa
+id: b5de3187-d760-5429-841c-b9a761373e2f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '116'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Umbrella Organisation for Geographic Information
+  - type: abbreviation
+    normative_status: preferred
+    designation: EUROGI
+  language_code: eng
+id: 7b73a747-eb42-5fec-a6cb-db650df411aa

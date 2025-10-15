@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '176'
+  localized_concepts:
+    eng: b88e307c-9f90-5348-8423-0629e11e78bd
+id: ca335be5-7141-55f7-8f56-e1c7f250ebb6
+
+---
+data:
+  definition: []
+  examples: []
+  id: '176'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Humanitarian OpenStreetMap Team
+  - type: abbreviation
+    normative_status: preferred
+    designation: HOT
+  language_code: eng
+id: b88e307c-9f90-5348-8423-0629e11e78bd

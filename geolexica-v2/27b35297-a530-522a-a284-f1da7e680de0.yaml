@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '387'
+  localized_concepts:
+    eng: 578d0b6a-ef7d-56f9-ac17-60e82437af8e
+id: 27b35297-a530-522a-a284-f1da7e680de0
+
+---
+data:
+  definition: []
+  examples: []
+  id: '387'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Standard Interchange Format
+  - type: abbreviation
+    normative_status: preferred
+    designation: SIF
+  language_code: eng
+id: 578d0b6a-ef7d-56f9-ac17-60e82437af8e

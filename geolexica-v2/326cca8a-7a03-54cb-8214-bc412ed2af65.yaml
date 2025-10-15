@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '68'
+  localized_concepts:
+    eng: 6277f536-2509-50e8-83df-013f3ae395f3
+id: 326cca8a-7a03-54cb-8214-bc412ed2af65
+
+---
+data:
+  definition: []
+  examples: []
+  id: '68'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Data Quality Domain Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: DQ DWG
+  language_code: eng
+id: 6277f536-2509-50e8-83df-013f3ae395f3

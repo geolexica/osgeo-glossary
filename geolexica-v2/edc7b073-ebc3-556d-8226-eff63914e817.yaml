@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '286'
+  localized_concepts:
+    eng: ed0a2469-86df-566e-83bb-1ab4c95d8012
+id: edc7b073-ebc3-556d-8226-eff63914e817
+
+---
+data:
+  definition: []
+  examples: []
+  id: '286'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Location Services
+  - type: abbreviation
+    normative_status: preferred
+    designation: OLS
+  language_code: eng
+id: ed0a2469-86df-566e-83bb-1ab4c95d8012

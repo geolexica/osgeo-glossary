@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '309'
+  localized_concepts:
+    eng: 328b9efa-daca-5215-af6c-b2fef1d10131
+id: 4b8d254e-e143-5f1a-9657-bd3c075f06da
+
+---
+data:
+  definition: []
+  examples: []
+  id: '309'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Web Services
+  - type: abbreviation
+    normative_status: preferred
+    designation: OWS
+  language_code: eng
+id: 328b9efa-daca-5215-af6c-b2fef1d10131

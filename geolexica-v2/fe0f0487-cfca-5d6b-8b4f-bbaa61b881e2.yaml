@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '121'
+  localized_concepts:
+    eng: ef4ed6ea-be0b-5dff-9fbc-2981601527a6
+id: fe0f0487-cfca-5d6b-8b4f-bbaa61b881e2
+
+---
+data:
+  definition:
+  - content: interagency committee that promotes the coordinated development, use,
+      sharing, and dissemination of geospatial data on a national basis in the USA
+  examples: []
+  id: '121'
+  notes:
+  - content: See http://www.fgdc.gov
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Federal Geographic Data Committee
+  - type: abbreviation
+    normative_status: preferred
+    designation: FGDC
+  language_code: eng
+id: ef4ed6ea-be0b-5dff-9fbc-2981601527a6

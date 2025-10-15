@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '83'
+  localized_concepts:
+    eng: 4c1046a0-98d9-575f-8418-4d7bc7e80d89
+id: 01110f1c-171e-5e5c-b41a-4d852a98ee5a
+
+---
+data:
+  definition: []
+  examples: []
+  id: '83'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Discussion Paper
+  - type: abbreviation
+    normative_status: preferred
+    designation: DP
+  language_code: eng
+id: 4c1046a0-98d9-575f-8418-4d7bc7e80d89

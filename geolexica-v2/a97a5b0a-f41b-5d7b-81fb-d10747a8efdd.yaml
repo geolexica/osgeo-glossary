@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '436'
+  localized_concepts:
+    eng: c32d866e-191c-5e0f-941e-4d2d7fe75f1f
+id: a97a5b0a-f41b-5d7b-81fb-d10747a8efdd
+
+---
+data:
+  definition: []
+  examples: []
+  id: '436'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: WG
+  language_code: eng
+id: c32d866e-191c-5e0f-941e-4d2d7fe75f1f

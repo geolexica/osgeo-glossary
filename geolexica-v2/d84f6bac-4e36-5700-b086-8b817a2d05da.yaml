@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '404'
+  localized_concepts:
+    eng: 11909bd1-2b4d-5089-a7a5-995fc00007f2
+id: d84f6bac-4e36-5700-b086-8b817a2d05da
+
+---
+data:
+  definition:
+  - content: data file format developed by the US Census Bureau
+  examples: []
+  id: '404'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Topologically Integrated Geographic Encoding and Reference
+  - type: abbreviation
+    normative_status: preferred
+    designation: TIGER
+  language_code: eng
+id: 11909bd1-2b4d-5089-a7a5-995fc00007f2

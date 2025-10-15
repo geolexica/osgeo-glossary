@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '251'
+  localized_concepts:
+    eng: 67710fe3-1a20-5499-a6bd-8c56457967ff
+id: 54b139b1-8695-538b-bb04-a5e29569f801
+
+---
+data:
+  definition: []
+  examples: []
+  id: '251'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Spatial Data Infrastructure
+  - type: abbreviation
+    normative_status: preferred
+    designation: NSDI
+  language_code: eng
+id: 67710fe3-1a20-5499-a6bd-8c56457967ff

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '112'
+  localized_concepts:
+    eng: 8cc62bdc-9379-565c-88c6-98df2ff6483d
+id: 19787803-f8d5-5297-ad70-f203f0eeddb2
+
+---
+data:
+  definition:
+  - content: European intergovernmental organisation dedicated to the exploration
+      of space
+  examples: []
+  id: '112'
+  notes:
+  - content: See http://www.esa.int
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Space Agency
+  - type: abbreviation
+    normative_status: preferred
+    designation: ESA
+  language_code: eng
+id: 8cc62bdc-9379-565c-88c6-98df2ff6483d

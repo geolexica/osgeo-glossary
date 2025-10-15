@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '190'
+  localized_concepts:
+    eng: 9bf29541-91f8-56dc-87a4-c4e058a95ff8
+id: 747681f1-9763-5892-b1e5-78259c7337a8
+
+---
+data:
+  definition: []
+  examples: []
+  id: '190'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International Council for Science – World Data System
+  - type: abbreviation
+    normative_status: preferred
+    designation: ICSU-WDS
+  language_code: eng
+id: 9bf29541-91f8-56dc-87a4-c4e058a95ff8

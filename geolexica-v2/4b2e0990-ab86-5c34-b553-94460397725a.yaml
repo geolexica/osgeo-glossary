@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '278'
+  localized_concepts:
+    eng: d1e77c6b-b81a-58da-bff4-7c04a91eac06
+id: 4b2e0990-ab86-5c34-b553-94460397725a
+
+---
+data:
+  definition: []
+  examples: []
+  id: '278'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Filter Encoding Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: FE or FES
+  language_code: eng
+id: d1e77c6b-b81a-58da-bff4-7c04a91eac06

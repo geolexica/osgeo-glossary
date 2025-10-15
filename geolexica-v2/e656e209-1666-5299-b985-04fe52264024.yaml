@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '439'
+  localized_concepts:
+    eng: f046cb3d-77ad-562b-b7ac-395c382b75db
+id: e656e209-1666-5299-b985-04fe52264024
+
+---
+data:
+  definition: []
+  examples: []
+  id: '439'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: World Geodetic System
+  - type: abbreviation
+    normative_status: preferred
+    designation: WGS
+  language_code: eng
+id: f046cb3d-77ad-562b-b7ac-395c382b75db

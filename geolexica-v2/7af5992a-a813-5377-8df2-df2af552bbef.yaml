@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '18'
+  localized_concepts:
+    eng: 2317bd82-b1a0-5159-890f-a685c92a6857
+id: 7af5992a-a813-5377-8df2-df2af552bbef
+
+---
+data:
+  definition: []
+  examples: []
+  id: '18'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Association of Geographic Information Laboratories in Europe
+  - type: abbreviation
+    normative_status: preferred
+    designation: AGILE
+  language_code: eng
+id: 2317bd82-b1a0-5159-890f-a685c92a6857

@@ -1,0 +1,24 @@
+---
+data:
+  identifier: '328'
+  localized_concepts:
+    eng: bbf079c0-175c-5fcd-89f6-d65ad9e75515
+id: 5bbd3038-2f23-5d29-be92-062ed251f505
+
+---
+data:
+  definition: []
+  examples: []
+  id: '328'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OWS Context SWG
+  language_code: eng
+id: bbf079c0-175c-5fcd-89f6-d65ad9e75515

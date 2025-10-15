@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '279'
+  localized_concepts:
+    eng: 8839c758-5014-5430-bdf2-fcd4b3a984b4
+id: 966ee8b9-f9b6-5b8b-8e0b-5158c8d3ea84
+
+---
+data:
+  definition:
+  - content: Java API that provides a set programming interfaces for geospatial applications
+      developed by OGC
+  examples: []
+  id: '279'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC GeoAPI Interface Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: GeoAPI
+  language_code: eng
+id: 8839c758-5014-5430-bdf2-fcd4b3a984b4

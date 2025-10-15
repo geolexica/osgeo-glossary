@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '73'
+  localized_concepts:
+    eng: e3530c27-8a49-58a4-8b11-84c1d36c1b31
+id: 76cc2b9e-fd97-57a0-9140-b73a2b350a6f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '73'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Defense and Intelligence Domain Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: D&I DWG
+  language_code: eng
+id: e3530c27-8a49-58a4-8b11-84c1d36c1b31

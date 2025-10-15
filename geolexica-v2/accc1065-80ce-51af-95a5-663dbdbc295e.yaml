@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '397'
+  localized_concepts:
+    eng: 0e724ede-2874-50c0-ab8d-bd038e25894b
+id: accc1065-80ce-51af-95a5-663dbdbc295e
+
+---
+data:
+  definition: []
+  examples: []
+  id: '397'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Technical Committee
+  - type: abbreviation
+    normative_status: preferred
+    designation: TC
+  language_code: eng
+id: 0e724ede-2874-50c0-ab8d-bd038e25894b

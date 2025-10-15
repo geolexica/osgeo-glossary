@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '316'
+  localized_concepts:
+    eng: 11406e70-c058-566b-852c-ba2fa89d71a9
+id: 8bc65ae0-d5e0-51de-81d8-20550c14e066
+
+---
+data:
+  definition:
+  - content: consortium responsible for developing standards and specifications for
+      geospatial services
+  examples: []
+  id: '316'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Open Geospatial Consortium
+  - type: abbreviation
+    normative_status: preferred
+    designation: OGC
+  language_code: eng
+id: 11406e70-c058-566b-852c-ba2fa89d71a9

@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '30'
+  localized_concepts:
+    eng: 263cb531-7c87-52a4-859f-96cefa68e999
+id: 3edaaf3a-52f9-5b58-a816-1e323981138d
+
+---
+data:
+  definition: []
+  examples: []
+  id: '30'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Canadian Geospatial Data Infrastructure
+  - type: abbreviation
+    normative_status: preferred
+    designation: CGDI
+  language_code: eng
+id: 263cb531-7c87-52a4-859f-96cefa68e999

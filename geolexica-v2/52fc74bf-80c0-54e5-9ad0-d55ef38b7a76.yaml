@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '93'
+  localized_concepts:
+    eng: 91982548-2c6e-561b-93cf-42d7357fd0c2
+id: 52fc74bf-80c0-54e5-9ad0-d55ef38b7a76
+
+---
+data:
+  definition: []
+  examples: []
+  id: '93'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Earth Observation Science
+  - type: abbreviation
+    normative_status: preferred
+    designation: EOS
+  language_code: eng
+id: 91982548-2c6e-561b-93cf-42d7357fd0c2

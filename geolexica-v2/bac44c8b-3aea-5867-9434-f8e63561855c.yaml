@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '149'
+  localized_concepts:
+    eng: 0e53c5db-61f7-55d4-af06-d674bb7b14e2
+id: bac44c8b-3aea-5867-9434-f8e63561855c
+
+---
+data:
+  definition:
+  - content: 'OGC OpenGIS Geographic Objects Implementation Specification '
+  examples: []
+  id: '149'
+  notes:
+  - content: Retired OGC standard.
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Geospatial Objects
+  - type: abbreviation
+    normative_status: preferred
+    designation: GO
+  language_code: eng
+id: 0e53c5db-61f7-55d4-af06-d674bb7b14e2

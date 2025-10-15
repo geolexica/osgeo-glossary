@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '410'
+  localized_concepts:
+    eng: 0fd48894-428d-5126-9f45-607cf4890783
+id: d4757a58-4495-5bc4-8e8b-fc535e38ead4
+
+---
+data:
+  definition: []
+  examples: []
+  id: '410'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: United Nations Global Geospatial Information Management
+  - type: abbreviation
+    normative_status: preferred
+    designation: UN-GGIM
+  language_code: eng
+id: 0fd48894-428d-5126-9f45-607cf4890783

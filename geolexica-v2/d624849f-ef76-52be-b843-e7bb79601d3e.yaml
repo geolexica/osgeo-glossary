@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '171'
+  localized_concepts:
+    eng: 96e9a78d-4cb4-52ba-bd99-031c53b086af
+id: d624849f-ef76-52be-b843-e7bb79601d3e
+
+---
+data:
+  definition: []
+  examples: []
+  id: '171'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Hibernate Query Language.
+  - type: abbreviation
+    normative_status: preferred
+    designation: HQL
+  language_code: eng
+id: 96e9a78d-4cb4-52ba-bd99-031c53b086af

@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '265'
+  localized_concepts:
+    eng: 8e7c9471-9c5f-5dfc-88e0-2119fe90f592
+id: ac3cc81b-1eac-5111-bb28-37ec98506b4f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '265'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Architecture Board
+  - type: abbreviation
+    normative_status: preferred
+    designation: OAB
+  language_code: eng
+id: 8e7c9471-9c5f-5dfc-88e0-2119fe90f592

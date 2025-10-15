@@ -1,0 +1,22 @@
+---
+data:
+  identifier: '420'
+  localized_concepts:
+    eng: 5c735bb9-e648-585f-a524-81bca25053bd
+id: 3bfa62ff-732a-5cf9-91e3-6da2f81da709
+
+---
+data:
+  definition: []
+  examples: []
+  id: '420'
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Vector Product Format
+  - type: abbreviation
+    normative_status: preferred
+    designation: VPF
+  language_code: eng
+id: 5c735bb9-e648-585f-a524-81bca25053bd

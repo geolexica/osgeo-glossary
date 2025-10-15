@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '3'
+  localized_concepts:
+    eng: b39620b9-b11e-5918-a579-0f9d612f7df6
+id: 7229c50e-1572-537e-88c3-2f64f3444a75
+
+---
+data:
+  definition: []
+  examples: []
+  id: '3'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 3D Portrayal Interoperability Experiment
+  - type: abbreviation
+    normative_status: preferred
+    designation: IE3D Portrayal
+  language_code: eng
+id: b39620b9-b11e-5918-a579-0f9d612f7df6

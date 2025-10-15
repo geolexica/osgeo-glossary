@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '340'
+  localized_concepts:
+    eng: 9f0741c5-1818-5c83-858c-bf6bdd59d227
+id: 63747533-f85a-579a-ba03-612f219dc1b3
+
+---
+data:
+  definition:
+  - content: parameter or set of parameters that realize the position of the origin,
+      the scale, and the orientation of a coordinate system
+  examples: []
+  id: '340'
+  notes: []
+  sources:
+  - origin:
+      ref: ISO 19111:2019
+      locality:
+        type: clause
+        reference_from: 3.1.15
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: reference frame
+  - type: expression
+    normative_status: preferred
+    designation: datum
+  language_code: eng
+id: 9f0741c5-1818-5c83-858c-bf6bdd59d227

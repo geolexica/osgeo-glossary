@@ -1,0 +1,25 @@
+---
+data:
+  identifier: '276'
+  localized_concepts:
+    eng: 4e0df5a8-01e7-506c-bc21-d73a5ffcb470
+id: 4960ef66-b9ff-51d7-91f4-393f882dfe9d
+
+---
+data:
+  definition:
+  - content: OGC Empire Challenge 08 Pilot Project
+  examples: []
+  id: '276'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC EC08 Pilot
+  language_code: eng
+id: 4e0df5a8-01e7-506c-bc21-d73a5ffcb470

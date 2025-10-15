@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '264'
+  localized_concepts:
+    eng: 53315b3c-c251-5079-b93c-0bfc0671cb0e
+id: e3078e87-b0c8-520f-9624-8b2d5dbb327b
+
+---
+data:
+  definition: []
+  examples: []
+  id: '264'
+  notes:
+  - content: Within Australia.
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Office of Spatial Data Management
+  - type: abbreviation
+    normative_status: preferred
+    designation: OSDM
+  language_code: eng
+id: 53315b3c-c251-5079-b93c-0bfc0671cb0e
