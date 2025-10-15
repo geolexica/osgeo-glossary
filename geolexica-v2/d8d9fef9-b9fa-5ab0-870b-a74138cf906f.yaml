@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '180'
+  localized_concepts:
+    eng: b066699f-ae6e-585a-bbd2-280db964bc91
+id: d8d9fef9-b9fa-5ab0-870b-a74138cf906f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '180'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Implementation Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: IS
+  language_code: eng
+id: b066699f-ae6e-585a-bbd2-280db964bc91

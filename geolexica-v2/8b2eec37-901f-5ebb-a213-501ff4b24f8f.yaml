@@ -1,0 +1,22 @@
+---
+data:
+  identifier: '241'
+  localized_concepts:
+    eng: c653456c-4fcf-552e-9d12-9762918686a1
+id: 8b2eec37-901f-5ebb-a213-501ff4b24f8f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '241'
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Center for Atmospheric Research
+  - type: abbreviation
+    normative_status: preferred
+    designation: NCAR
+  language_code: eng
+id: c653456c-4fcf-552e-9d12-9762918686a1

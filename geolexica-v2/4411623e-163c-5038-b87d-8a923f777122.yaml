@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '50'
+  localized_concepts:
+    eng: 44eaf521-254c-5a96-b795-d46164e89e7f
+id: 4411623e-163c-5038-b87d-8a923f777122
+
+---
+data:
+  definition:
+  - content: technique used to reduce the space used by data
+  examples:
+  - content: GIF and JPG for the digital images respectively.
+  id: '50'
+  notes:
+  - content: 'The technique reduces the space used by data by reducing the amount
+      of bits needed to store and transmit information. Alternatively, there are techniques
+      for lossless or destructive compressions. '
+  sources:
+  - origin:
+      ref: ISO 19145:2013
+      locality:
+        type: clause
+        reference_from: 4.1.1
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: compression
+  language_code: eng
+id: 44eaf521-254c-5a96-b795-d46164e89e7f

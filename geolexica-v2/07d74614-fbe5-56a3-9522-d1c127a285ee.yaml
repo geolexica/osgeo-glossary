@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '393'
+  localized_concepts:
+    eng: 1cd1a9b5-1f36-59af-8a6e-45c06da07728
+id: 07d74614-fbe5-56a3-9522-d1c127a285ee
+
+---
+data:
+  definition: []
+  examples: []
+  id: '393'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Symbology Encoding
+  - type: abbreviation
+    normative_status: preferred
+    designation: SE
+  language_code: eng
+id: 1cd1a9b5-1f36-59af-8a6e-45c06da07728

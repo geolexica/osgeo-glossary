@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '142'
+  localized_concepts:
+    eng: aad03308-55bf-53b3-88ca-4b828cae0baa
+id: ef9192a0-66c2-501c-be70-776807d7142d
+
+---
+data:
+  definition: []
+  examples: []
+  id: '142'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoServices REST (REpresentational State Transfer) Standards Working
+      Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: GServRestSWG
+  language_code: eng
+id: aad03308-55bf-53b3-88ca-4b828cae0baa

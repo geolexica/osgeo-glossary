@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '39'
+  localized_concepts:
+    eng: 932c20be-6b38-56e4-a395-1ec436868f65
+id: 9483d397-c2f4-565b-ae64-7ae1062424ef
+
+---
+data:
+  definition: []
+  examples: []
+  id: '39'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Center of Excellence for Geospatial Information Science
+  - type: abbreviation
+    normative_status: preferred
+    designation: CEGIS
+  language_code: eng
+id: 932c20be-6b38-56e4-a395-1ec436868f65

@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '433'
+  localized_concepts:
+    eng: 0f7ce1b8-c234-5092-b00c-7451e040c206
+id: e2f66480-7c6c-547b-a686-488366b97638
+
+---
+data:
+  definition:
+  - content: binary representation of geometries described in the Simple Features
+      for SQL (SFSQL) specification
+  examples: []
+  id: '433'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Well-Known Binary
+  - type: abbreviation
+    normative_status: preferred
+    designation: WKB
+  language_code: eng
+id: 0f7ce1b8-c234-5092-b00c-7451e040c206

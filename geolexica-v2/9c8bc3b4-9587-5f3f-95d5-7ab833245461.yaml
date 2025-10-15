@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '280'
+  localized_concepts:
+    eng: 6883ecd8-7a42-567e-9ee2-a1e0255cc265
+id: 9c8bc3b4-9587-5f3f-95d5-7ab833245461
+
+---
+data:
+  definition:
+  - content: OGC standard which defines an abstract model for geographic features
+  examples: []
+  id: '280'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Geography Markup Language Encoding Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: GML
+  language_code: eng
+id: 6883ecd8-7a42-567e-9ee2-a1e0255cc265

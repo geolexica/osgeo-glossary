@@ -1,0 +1,24 @@
+---
+data:
+  identifier: '384'
+  localized_concepts:
+    eng: c298fae6-bbae-5ed9-af58-7188a35488d0
+id: af1b7719-879e-5a3e-bc9d-e3021217512a
+
+---
+data:
+  definition: []
+  examples: []
+  id: '384'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: SPIDER
+  language_code: eng
+id: c298fae6-bbae-5ed9-af58-7188a35488d0

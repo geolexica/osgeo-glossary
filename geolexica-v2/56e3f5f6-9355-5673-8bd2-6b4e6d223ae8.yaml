@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '382'
+  localized_concepts:
+    eng: 0db754d9-72fd-57d4-b450-962547f604be
+id: 56e3f5f6-9355-5673-8bd2-6b4e6d223ae8
+
+---
+data:
+  definition: []
+  examples: []
+  id: '382'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Special Interest Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: SIG
+  language_code: eng
+id: 0db754d9-72fd-57d4-b450-962547f604be

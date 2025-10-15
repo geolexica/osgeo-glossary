@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '329'
+  localized_concepts:
+    eng: 8c9160f2-d020-52e4-a694-581ebdc1dc9b
+id: 56a0a93b-9db6-5944-960a-e9dd9249b450
+
+---
+data:
+  definition: []
+  examples: []
+  id: '329'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Pan American Institute of Geography and History
+  - type: abbreviation
+    normative_status: preferred
+    designation: IPGH
+  language_code: eng
+id: 8c9160f2-d020-52e4-a694-581ebdc1dc9b

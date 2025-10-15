@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '266'
+  localized_concepts:
+    eng: 4b54707c-37ec-569b-8947-61a7de726eaa
+id: 0bedf185-29df-5963-9511-2965ee999f5d
+
+---
+data:
+  definition: []
+  examples: []
+  id: '266'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Australasia
+  - type: abbreviation
+    normative_status: preferred
+    designation: OGC-A
+  language_code: eng
+id: 4b54707c-37ec-569b-8947-61a7de726eaa

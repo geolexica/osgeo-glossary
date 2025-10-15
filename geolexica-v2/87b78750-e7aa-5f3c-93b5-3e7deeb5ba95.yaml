@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '206'
+  localized_concepts:
+    eng: b089da87-1b6d-5e68-804e-6dfbedc0676b
+id: 87b78750-e7aa-5f3c-93b5-3e7deeb5ba95
+
+---
+data:
+  definition:
+  - content: ISO technical committee responsible for geographic information and geomatics
+  examples: []
+  id: '206'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ISO Technical Committee 211
+  - type: abbreviation
+    normative_status: preferred
+    designation: ISO TC/211
+  language_code: eng
+id: b089da87-1b6d-5e68-804e-6dfbedc0676b

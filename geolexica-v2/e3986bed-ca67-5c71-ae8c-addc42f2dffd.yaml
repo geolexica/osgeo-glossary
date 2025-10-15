@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '183'
+  localized_concepts:
+    eng: b78ed237-90eb-5443-96b4-55522aa6303a
+id: e3986bed-ca67-5c71-ae8c-addc42f2dffd
+
+---
+data:
+  definition: []
+  examples: []
+  id: '183'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Information Communities and Semantics
+  - type: abbreviation
+    normative_status: preferred
+    designation: ICS
+  language_code: eng
+id: b78ed237-90eb-5443-96b4-55522aa6303a

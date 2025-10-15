@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '78'
+  localized_concepts:
+    eng: f199cef3-7b84-58d6-a361-ddc414ce94cf
+id: 442a2c98-57f4-5307-9dfc-e61106423191
+
+---
+data:
+  definition:
+  - content: multi-national body to provide strategic guidance and recommendations
+      to its defence organization membership on the standardisation of geospatial
+      data, products, and services
+  examples: []
+  id: '78'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Digital Geospatial Information Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: DGIWG
+  language_code: eng
+id: f199cef3-7b84-58d6-a361-ddc414ce94cf

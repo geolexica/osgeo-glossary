@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '209'
+  localized_concepts:
+    eng: fd8bc789-93fc-5c19-b097-fdf9d2203f06
+id: 30956f53-6eaa-58ac-bf36-f9424817ff53
+
+---
+data:
+  definition:
+  - content: Java API for database-independent connectivity between the Java programming
+      language and a wide range of databases
+  examples: []
+  id: '209'
+  notes:
+  - content: JDBC supports SQL databases and other tabular data sources, such as spreadsheets
+      or flat files.
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Java Database Connectivity
+  - type: abbreviation
+    normative_status: preferred
+    designation: JDBC
+  language_code: eng
+id: fd8bc789-93fc-5c19-b097-fdf9d2203f06

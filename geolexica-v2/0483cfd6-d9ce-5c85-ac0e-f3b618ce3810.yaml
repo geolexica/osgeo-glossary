@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '349'
+  localized_concepts:
+    eng: 91aa2997-8f01-52da-932f-eff68c4746c7
+id: '0483cfd6-d9ce-5c85-ac0e-f3b618ce3810'
+
+---
+data:
+  definition: []
+  examples: []
+  id: '349'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Request for Participation
+  - type: abbreviation
+    normative_status: preferred
+    designation: RFP
+  language_code: eng
+id: 91aa2997-8f01-52da-932f-eff68c4746c7

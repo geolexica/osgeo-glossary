@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '20'
+  localized_concepts:
+    eng: 55fe9d9e-d9c1-5fd1-85e5-af6be114db58
+id: e9ac3776-24f3-539f-9fab-796f567b3563
+
+---
+data:
+  definition:
+  - content: organization charged with development of SDI in Australia and New Zealand
+  examples: []
+  id: '20'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Australian and New Zealand Land Information Council
+  - type: abbreviation
+    normative_status: preferred
+    designation: ANZLIC
+  language_code: eng
+id: 55fe9d9e-d9c1-5fd1-85e5-af6be114db58

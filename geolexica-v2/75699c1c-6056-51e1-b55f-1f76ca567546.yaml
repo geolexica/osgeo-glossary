@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '318'
+  localized_concepts:
+    eng: d53f6305-6c51-588d-b0a8-afcc4a83dd55
+id: 75699c1c-6056-51e1-b55f-1f76ca567546
+
+---
+data:
+  definition: []
+  examples: []
+  id: '318'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Open Mobile Alliance
+  - type: abbreviation
+    normative_status: preferred
+    designation: OMA
+  language_code: eng
+id: d53f6305-6c51-588d-b0a8-afcc4a83dd55

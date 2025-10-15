@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '74'
+  localized_concepts:
+    eng: a14eb54f-5f0b-5363-84dc-419efe282ec4
+id: 75a1d212-fd93-571c-9302-370334c7e702
+
+---
+data:
+  definition:
+  - content: Microstation drawing format file
+  examples: []
+  id: '74'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: DesiGN file
+  - type: abbreviation
+    normative_status: preferred
+    designation: DGN
+  language_code: eng
+id: a14eb54f-5f0b-5363-84dc-419efe282ec4

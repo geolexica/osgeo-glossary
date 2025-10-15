@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '137'
+  localized_concepts:
+    eng: 6a7ae9f5-ee7f-5cfc-9f75-ee1f8ea4b618
+id: e2593448-c7f0-5aa8-9c01-037b947e44b9
+
+---
+data:
+  definition:
+  - content: geopositioning an object using a Correspondence Model derived from a
+      set of points for which both ground and image coordinates are known
+  examples: []
+  id: '137'
+  notes: []
+  sources:
+  - origin:
+      ref: ISO 19130-1:2018
+      locality:
+        type: clause
+        reference_from: '3.38'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: georeferencing
+  language_code: eng
+id: 6a7ae9f5-ee7f-5cfc-9f75-ee1f8ea4b618

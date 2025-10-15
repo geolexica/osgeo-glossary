@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '298'
+  localized_concepts:
+    eng: 502d850c-a2cb-5ddf-9f48-db31f5fd2efe
+id: 1b5018c6-d9c5-53a0-9590-01a698385431
+
+---
+data:
+  definition: []
+  examples: []
+  id: '298'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Strategic Member Advisory Committee
+  - type: abbreviation
+    normative_status: preferred
+    designation: SMAC
+  language_code: eng
+id: 502d850c-a2cb-5ddf-9f48-db31f5fd2efe

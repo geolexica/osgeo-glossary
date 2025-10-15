@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '164'
+  localized_concepts:
+    eng: e201e5d5-063e-5ce5-ab16-b025f42bb446
+id: ff5b4622-b4c7-5a41-aded-6563c85e5e88
+
+---
+data:
+  definition:
+  - content: platform­-independent graphics format developed by CompuServe
+  examples: []
+  id: '164'
+  notes:
+  - content: The GIF format is generally recommended for simple images and limited
+      to a maximum of 256 colours.
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Graphic Interchange Format
+  - type: abbreviation
+    normative_status: preferred
+    designation: GIF
+  language_code: eng
+id: e201e5d5-063e-5ce5-ab16-b025f42bb446

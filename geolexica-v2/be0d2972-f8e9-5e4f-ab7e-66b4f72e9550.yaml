@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '42'
+  localized_concepts:
+    eng: b28bb3ad-f7bb-5e77-b3a9-47edf7dbd8de
+id: be0d2972-f8e9-5e4f-ab7e-66b4f72e9550
+
+---
+data:
+  definition:
+  - content: Clearinghouse for Networked Information Discovery and Retrieval z39.50
+      server
+  examples: []
+  id: '42'
+  notes:
+  - content: Also known as zDist.
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CNIDR z39.50 Server
+  language_code: eng
+id: b28bb3ad-f7bb-5e77-b3a9-47edf7dbd8de

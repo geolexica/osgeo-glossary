@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '189'
+  localized_concepts:
+    eng: 4e7a4998-f519-54dc-a4d6-74e4c6988c0e
+id: 4514d109-cc3c-5cdb-952a-79bc35a2269b
+
+---
+data:
+  definition: []
+  examples: []
+  id: '189'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International Cartographic Association
+  - type: abbreviation
+    normative_status: preferred
+    designation: ICA
+  language_code: eng
+id: 4e7a4998-f519-54dc-a4d6-74e4c6988c0e

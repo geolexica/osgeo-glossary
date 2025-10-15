@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '188'
+  localized_concepts:
+    eng: 3c6331c0-6150-55c3-9175-92d7d796d10f
+id: ed3dc39e-aeea-541b-ac3d-2099c6f45360
+
+---
+data:
+  definition: []
+  examples: []
+  id: '188'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Intellectual Property Rights
+  - type: abbreviation
+    normative_status: preferred
+    designation: IPR
+  language_code: eng
+id: 3c6331c0-6150-55c3-9175-92d7d796d10f

@@ -1,0 +1,24 @@
+---
+data:
+  identifier: '376'
+  localized_concepts:
+    eng: 995f3308-9b8d-5804-bfe5-3df12a79f716
+id: '019606b3-4046-590d-95ba-20316dfab177'
+
+---
+data:
+  definition: []
+  examples: []
+  id: '376'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: SP
+  language_code: eng
+id: 995f3308-9b8d-5804-bfe5-3df12a79f716

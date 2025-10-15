@@ -1,0 +1,26 @@
+---
+data:
+  identifier: '203'
+  localized_concepts:
+    eng: 3bf15d30-4ae9-5b55-807b-8e8920a8d445
+id: 27823589-30be-55c9-b17d-8eea03f5b805
+
+---
+data:
+  definition:
+  - content: ISO working group responsible for computer graphics, image processing
+      and environmental presentation
+  examples: []
+  id: '203'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ISO IEC JTC 1/SC 24/WG 8
+  language_code: eng
+id: 3bf15d30-4ae9-5b55-807b-8e8920a8d445

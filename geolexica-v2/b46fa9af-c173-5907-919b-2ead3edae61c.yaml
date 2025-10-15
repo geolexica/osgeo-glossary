@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '354'
+  localized_concepts:
+    eng: 8369c8a4-012c-524e-bbbd-2e130147dc59
+id: b46fa9af-c173-5907-919b-2ead3edae61c
+
+---
+data:
+  definition: []
+  examples: []
+  id: '354'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Risk and Crisis Management
+  - type: abbreviation
+    normative_status: preferred
+    designation: RCM
+  language_code: eng
+id: 8369c8a4-012c-524e-bbbd-2e130147dc59

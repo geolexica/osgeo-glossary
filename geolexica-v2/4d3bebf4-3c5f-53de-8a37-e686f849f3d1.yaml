@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '29'
+  localized_concepts:
+    eng: d0f73e1c-65c6-59f6-b56d-6f44eec780d5
+id: 4d3bebf4-3c5f-53de-8a37-e686f849f3d1
+
+---
+data:
+  definition: []
+  examples: []
+  id: '29'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Building Information Modelling
+  - type: abbreviation
+    normative_status: preferred
+    designation: BIM
+  language_code: eng
+id: d0f73e1c-65c6-59f6-b56d-6f44eec780d5

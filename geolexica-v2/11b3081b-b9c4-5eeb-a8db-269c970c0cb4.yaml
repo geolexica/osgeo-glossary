@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '82'
+  localized_concepts:
+    eng: 8deda997-cd72-5fdd-bc0a-d59b31ba9485
+id: 11b3081b-b9c4-5eeb-a8db-269c970c0cb4
+
+---
+data:
+  definition: []
+  examples: []
+  id: '82'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Digital Terrain Model
+  - type: abbreviation
+    normative_status: preferred
+    designation: DTM
+  language_code: eng
+id: 8deda997-cd72-5fdd-bc0a-d59b31ba9485

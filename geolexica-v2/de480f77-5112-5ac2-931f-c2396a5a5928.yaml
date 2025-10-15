@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '239'
+  localized_concepts:
+    eng: 9a7fe259-9384-5694-bed7-44f8db95b9b5
+id: de480f77-5112-5ac2-931f-c2396a5a5928
+
+---
+data:
+  definition:
+  - content: collection of georeferenced raster data sources merged together to create
+      a seamless raster dataset
+  examples: []
+  id: '239'
+  notes:
+  - content: 'See also: imagemosaic'
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: mosaic
+  language_code: eng
+id: 9a7fe259-9384-5694-bed7-44f8db95b9b5

@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '290'
+  localized_concepts:
+    eng: f0d73b05-46f4-5310-be7f-4aafff5dcd04
+id: be83c3bf-6133-5a48-9afe-1733afd2cb06
+
+---
+data:
+  definition: []
+  examples: []
+  id: '290'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Observations and Measurements Encoding Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: O&M
+  language_code: eng
+id: f0d73b05-46f4-5310-be7f-4aafff5dcd04

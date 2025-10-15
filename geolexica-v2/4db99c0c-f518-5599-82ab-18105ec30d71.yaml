@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '5'
+  localized_concepts:
+    eng: 3be2f229-0ef1-5637-bf47-57249fb1730a
+id: 4db99c0c-f518-5599-82ab-18105ec30d71
+
+---
+data:
+  definition:
+  - content: de facto set of rules used to define the relation between a toponym and
+      its coordinates
+  examples: []
+  id: '5'
+  notes:
+  - content: Other attributes such as the region where the toponym is located or the
+      defined datum can also be supplied.
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ADL Gazetteer Content Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: ADL GCS
+  language_code: eng
+id: 3be2f229-0ef1-5637-bf47-57249fb1730a

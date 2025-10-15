@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '84'
+  localized_concepts:
+    eng: 1e616a23-7ffc-5342-a254-3af3c929bdf3
+id: f765f1fb-9c46-5e95-bc86-10902052e8aa
+
+---
+data:
+  definition:
+  - content: NASA EOSDIS center that archives, documents, and distributes data from
+      NASA's past and current Earth Observing System satellites and field measurement
+      programs
+  examples: []
+  id: '84'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Distributed Active Archive Center
+  - type: abbreviation
+    normative_status: preferred
+    designation: DAAC
+  language_code: eng
+id: 1e616a23-7ffc-5342-a254-3af3c929bdf3

@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '400'
+  localized_concepts:
+    eng: 063d7eb7-6183-5cf7-899d-fbacdf389060
+id: 6ee83b3c-d8c6-5b53-9945-0c108583b1a4
+
+---
+data:
+  definition: []
+  examples: []
+  id: '400'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Test, Evaluation, And Measurement Engine
+  - type: abbreviation
+    normative_status: preferred
+    designation: TEAM Engine
+  language_code: eng
+id: 063d7eb7-6183-5cf7-899d-fbacdf389060

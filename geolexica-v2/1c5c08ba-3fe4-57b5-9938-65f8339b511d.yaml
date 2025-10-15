@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '260'
+  localized_concepts:
+    eng: 00f5a8d8-1254-57b9-8473-22d204347cc9
+id: 1c5c08ba-3fe4-57b5-9938-65f8339b511d
+
+---
+data:
+  definition: []
+  examples: []
+  id: '260'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Object Linking and Embedding/Common Object Model (Microsoft)
+  - type: abbreviation
+    normative_status: preferred
+    designation: OLE/COM
+  language_code: eng
+id: 00f5a8d8-1254-57b9-8473-22d204347cc9

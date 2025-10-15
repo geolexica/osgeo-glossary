@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '194'
+  localized_concepts:
+    eng: 19846dc9-cd3b-5a85-81e5-04f1f66c7b67
+id: 5f37373b-d300-57c7-b032-796e1d274a85
+
+---
+data:
+  definition: []
+  examples: []
+  id: '194'
+  notes:
+  - content: See http://www.iso.org
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International Organization for Standardization
+  - type: abbreviation
+    normative_status: preferred
+    designation: ISO
+  language_code: eng
+id: 19846dc9-cd3b-5a85-81e5-04f1f66c7b67

@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '51'
+  localized_concepts:
+    eng: f9db086c-4b77-5ce3-ab51-eb00c85d2dec
+id: ddb54b49-e81b-55a9-af7d-235bb806af6b
+
+---
+data:
+  definition: []
+  examples: []
+  id: '51'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Compute Unified Device Architecture
+  - type: abbreviation
+    normative_status: preferred
+    designation: CUDA
+  language_code: eng
+id: f9db086c-4b77-5ce3-ab51-eb00c85d2dec

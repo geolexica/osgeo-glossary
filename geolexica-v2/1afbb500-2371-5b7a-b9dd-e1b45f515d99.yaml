@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '132'
+  localized_concepts:
+    eng: 74d5ed2b-1f8c-5c69-a184-67f3837d64dc
+id: 1afbb500-2371-5b7a-b9dd-e1b45f515d99
+
+---
+data:
+  definition:
+  - content: standards based, Free and Open Source catalog application to manage spatially
+      referenced resources through the web
+  examples: []
+  id: '132'
+  notes:
+  - content: 'Available from: http://geonetwork-opensource.org'
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoNetwork
+  language_code: eng
+id: 74d5ed2b-1f8c-5c69-a184-67f3837d64dc

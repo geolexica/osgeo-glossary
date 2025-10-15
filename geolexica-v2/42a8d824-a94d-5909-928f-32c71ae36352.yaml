@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '17'
+  localized_concepts:
+    eng: 11f6f121-5b2b-5b14-9c06-1781fe19707b
+id: 42a8d824-a94d-5909-928f-32c71ae36352
+
+---
+data:
+  definition: []
+  examples: []
+  id: '17'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Association of American Geographers
+  - type: abbreviation
+    normative_status: preferred
+    designation: AAG
+  language_code: eng
+id: 11f6f121-5b2b-5b14-9c06-1781fe19707b

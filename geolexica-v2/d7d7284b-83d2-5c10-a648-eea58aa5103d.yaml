@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '141'
+  localized_concepts:
+    eng: 7d4c2313-b98d-5150-bc55-dc044b18fa94
+id: d7d7284b-83d2-5c10-a648-eea58aa5103d
+
+---
+data:
+  definition:
+  - content: GeoServer data store supporting the creation of a mosaic based on a number
+      of georeferenced raster data sources
+  examples: []
+  id: '141'
+  notes:
+  - content: See also Data Store and Mosaic.
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoServer ImageMosaic
+  language_code: eng
+id: 7d4c2313-b98d-5150-bc55-dc044b18fa94

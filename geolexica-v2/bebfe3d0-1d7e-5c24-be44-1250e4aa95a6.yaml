@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '272'
+  localized_concepts:
+    eng: 3a9a8fe2-5c07-5a72-9c34-150eb7c798f1
+id: bebfe3d0-1d7e-5c24-be44-1250e4aa95a6
+
+---
+data:
+  definition: []
+  examples: []
+  id: '272'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Coordinate Transformation Encoding Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: CT
+  language_code: eng
+id: 3a9a8fe2-5c07-5a72-9c34-150eb7c798f1

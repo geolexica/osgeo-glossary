@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '88'
+  localized_concepts:
+    eng: 7a79ded6-c463-5fe6-a1df-b53d0741d320
+id: af6b3b25-7f4f-5fae-bc37-f4a87ee56507
+
+---
+data:
+  definition:
+  - content: CAD data file format developed by Autodesk for enabling data interoperability
+      between AutoCAD and other programs
+  examples: []
+  id: '88'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Drawing eXchange Format
+  - type: abbreviation
+    normative_status: preferred
+    designation: DXF
+  language_code: eng
+id: 7a79ded6-c463-5fe6-a1df-b53d0741d320

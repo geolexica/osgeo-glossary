@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '348'
+  localized_concepts:
+    eng: 53edee25-7220-53d9-91d5-28437c1edab4
+id: dde4add8-f011-51ff-87f9-e73871388a1a
+
+---
+data:
+  definition: []
+  examples: []
+  id: '348'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Request for Information
+  - type: abbreviation
+    normative_status: preferred
+    designation: RFI
+  language_code: eng
+id: 53edee25-7220-53d9-91d5-28437c1edab4

@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '52'
+  localized_concepts:
+    eng: 493f5a4c-20aa-5738-8698-305a21d41a5c
+id: 6c3cbc28-c6aa-564b-bde5-2521989c4dde
+
+---
+data:
+  definition:
+  - content: automatic system oriented to design, draw and graphical visualization
+  examples: []
+  id: '52'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: computer-aided design
+  - type: abbreviation
+    normative_status: preferred
+    designation: CAD
+  language_code: eng
+id: 493f5a4c-20aa-5738-8698-305a21d41a5c

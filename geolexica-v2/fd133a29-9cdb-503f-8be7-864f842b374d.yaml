@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '87'
+  localized_concepts:
+    eng: 5f07d8b9-7ddd-588a-bae3-ffa778d8edcb
+id: fd133a29-9cdb-503f-8be7-864f842b374d
+
+---
+data:
+  definition:
+  - content: OGC working group of horizontal concerns
+  examples: []
+  id: '87'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: domain working group
+  - type: abbreviation
+    normative_status: preferred
+    designation: DWG
+  language_code: eng
+id: 5f07d8b9-7ddd-588a-bae3-ffa778d8edcb

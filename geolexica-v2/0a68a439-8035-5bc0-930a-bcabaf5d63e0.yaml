@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '293'
+  localized_concepts:
+    eng: 73978e0c-cf2b-53f6-8bf7-3db60d296f2c
+id: 0a68a439-8035-5bc0-930a-bcabaf5d63e0
+
+---
+data:
+  definition: []
+  examples: []
+  id: '293'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Sensor Model Language Encoding Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: SensorML
+  language_code: eng
+id: 73978e0c-cf2b-53f6-8bf7-3db60d296f2c

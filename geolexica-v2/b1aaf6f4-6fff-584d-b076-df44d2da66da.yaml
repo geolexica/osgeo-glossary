@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '345'
+  localized_concepts:
+    eng: 076ed332-ad6c-5584-a57c-6fe229bfda06
+id: b1aaf6f4-6fff-584d-b076-df44d2da66da
+
+---
+data:
+  definition: []
+  examples: []
+  id: '345'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: REpresentational State Transfer programming style
+  - type: abbreviation
+    normative_status: preferred
+    designation: RESTful
+  language_code: eng
+id: 076ed332-ad6c-5584-a57c-6fe229bfda06

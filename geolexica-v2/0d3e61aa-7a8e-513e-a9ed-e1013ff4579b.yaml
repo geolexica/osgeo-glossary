@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '304'
+  localized_concepts:
+    eng: ecfb3999-8c6c-5ede-9f42-f5bbcebe0d99
+id: 0d3e61aa-7a8e-513e-a9ed-e1013ff4579b
+
+---
+data:
+  definition:
+  - content: OGC standard that allows for the sharing of map views of WMS layers in
+      multiple applications
+  examples: []
+  id: '304'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Web Map Context Encoding Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: WMC
+  language_code: eng
+id: ecfb3999-8c6c-5ede-9f42-f5bbcebe0d99

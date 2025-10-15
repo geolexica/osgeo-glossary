@@ -1,0 +1,23 @@
+---
+data:
+  identifier: '108'
+  localized_concepts:
+    eng: fc442d11-3de7-5045-b029-0092f203808d
+id: 64299c87-b4de-56cd-9f49-78bd01dc74ca
+
+---
+data:
+  definition: []
+  examples: []
+  id: '108'
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Committee for Electrotechnical Standardization (Comité Européen
+      de Normalisation Électrotechnique)
+  - type: abbreviation
+    normative_status: preferred
+    designation: CENELEC
+  language_code: eng
+id: fc442d11-3de7-5045-b029-0092f203808d

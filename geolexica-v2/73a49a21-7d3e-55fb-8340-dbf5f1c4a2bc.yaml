@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '416'
+  localized_concepts:
+    eng: bd4203ef-e776-5f9a-a0c2-47db815bdf6f
+id: 73a49a21-7d3e-55fb-8340-dbf5f1c4a2bc
+
+---
+data:
+  definition: []
+  examples: []
+  id: '416'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: University Corporation for Atmospheric Research
+  - type: abbreviation
+    normative_status: preferred
+    designation: UCAR
+  language_code: eng
+id: bd4203ef-e776-5f9a-a0c2-47db815bdf6f

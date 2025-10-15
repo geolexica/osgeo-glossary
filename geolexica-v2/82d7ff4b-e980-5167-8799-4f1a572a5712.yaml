@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '147'
+  localized_concepts:
+    eng: fd97969e-ecb3-56a0-a771-a345f9835755
+id: 82d7ff4b-e980-5167-8799-4f1a572a5712
+
+---
+data:
+  definition:
+  - content: single and specific metadata document, typically created in conformance
+      with a metadata standard
+  examples:
+  - content: In a GIS that managed road data and car accident data in ESRI Shapefiles,
+      you would have a metadata instance for each shapefile. One metadata instance
+      might be named roads_metadata.txt while the other was named car_accidents_metadata.txt.
+  id: '147'
+  notes:
+  - content: There is typically a metadata instance for each geospatial dataset in
+      a GIS.
+  sources:
+  - origin:
+      ref:
+      link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geospatial metadata instance
+  language_code: eng
+id: fd97969e-ecb3-56a0-a771-a345f9835755

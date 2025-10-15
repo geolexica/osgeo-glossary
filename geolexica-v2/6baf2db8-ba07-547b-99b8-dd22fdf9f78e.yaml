@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '110'
+  localized_concepts:
+    eng: babeec7e-6115-53b8-bb09-b68f899cb155
+id: 6baf2db8-ba07-547b-99b8-dd22fdf9f78e
+
+---
+data:
+  definition: []
+  examples: []
+  id: '110'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Environment Agency
+  - type: abbreviation
+    normative_status: preferred
+    designation: EEA
+  language_code: eng
+id: babeec7e-6115-53b8-bb09-b68f899cb155

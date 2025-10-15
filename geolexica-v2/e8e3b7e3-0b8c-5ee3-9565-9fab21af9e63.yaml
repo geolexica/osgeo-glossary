@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '224'
+  localized_concepts:
+    eng: f170b78f-a0cf-5df6-8bb8-ef31b7314da2
+id: e8e3b7e3-0b8c-5ee3-9565-9fab21af9e63
+
+---
+data:
+  definition: []
+  examples: []
+  id: '224'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Location Organizer Folder
+  - type: abbreviation
+    normative_status: preferred
+    designation: LOS
+  language_code: eng
+id: f170b78f-a0cf-5df6-8bb8-ef31b7314da2

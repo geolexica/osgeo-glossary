@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '215'
+  localized_concepts:
+    eng: e420349f-a312-5592-9e15-6a7fca474124
+id: 23b45d97-cfff-50c1-bb13-882b09a281ff
+
+---
+data:
+  definition: []
+  examples: []
+  id: '215'
+  notes:
+  - content: Additionally a reference to a common image compression method
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Joint Photographics Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: JPEG
+  language_code: eng
+id: e420349f-a312-5592-9e15-6a7fca474124

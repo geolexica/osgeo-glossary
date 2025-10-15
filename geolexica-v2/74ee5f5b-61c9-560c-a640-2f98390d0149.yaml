@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '217'
+  localized_concepts:
+    eng: afdf833c-ef5c-5813-92b4-74638104a7a0
+id: 74ee5f5b-61c9-560c-a640-2f98390d0149
+
+---
+data:
+  definition: []
+  examples: []
+  id: '217'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Law Enforcement and Public Safety Domain Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: LEAPS DWG
+  language_code: eng
+id: afdf833c-ef5c-5813-92b4-74638104a7a0

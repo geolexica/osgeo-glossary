@@ -1,0 +1,23 @@
+---
+data:
+  identifier: '385'
+  localized_concepts:
+    eng: abbd7f4e-a86e-5ab0-b717-6e3bacc68c51
+id: f2292323-fdaa-5c70-a51c-5d13c1e13d1b
+
+---
+data:
+  definition:
+  - content: part of a sphere which is divided by two meridians or maximum circles
+  examples: []
+  id: '385'
+  notes:
+  - content: In the UTM projection, each spindle is defined by two meridians separated
+      by a distance of 6 degrees (for a total circle round of 360 degrees) and by
+      two parallels of 80 degrees latitude North and South.
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: spindle
+  language_code: eng
+id: abbd7f4e-a86e-5ab0-b717-6e3bacc68c51

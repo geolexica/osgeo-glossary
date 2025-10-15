@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '177'
+  localized_concepts:
+    eng: 43e7f4e5-7f06-5173-8502-a527130ec487
+id: 6aa77859-f06d-55a0-8e7a-e21e00c5a47f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '177'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: IEEE Geoscience and Remote Sensing Society
+  - type: abbreviation
+    normative_status: preferred
+    designation: GRSS
+  language_code: eng
+id: 43e7f4e5-7f06-5173-8502-a527130ec487

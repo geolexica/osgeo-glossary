@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '114'
+  localized_concepts:
+    eng: 0e275d69-84e3-5c8f-b6e7-945a5ce10a71
+id: 5f5c4b37-160e-520b-abcf-f1a805edb1fa
+
+---
+data:
+  definition: []
+  examples: []
+  id: '114'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Spatial Data Information Infrastructure
+  - type: abbreviation
+    normative_status: preferred
+    designation: ESDI
+  language_code: eng
+id: 0e275d69-84e3-5c8f-b6e7-945a5ce10a71

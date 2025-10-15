@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '152'
+  localized_concepts:
+    eng: f6bfdf57-16f0-516a-8a0b-fbea4e594959
+id: 8c459e07-a03a-58e8-89d3-21e49e8246ff
+
+---
+data:
+  definition: []
+  examples: []
+  id: '152'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Global Flood Awareness System
+  - type: abbreviation
+    normative_status: preferred
+    designation: GloFAS
+  language_code: eng
+id: f6bfdf57-16f0-516a-8a0b-fbea4e594959

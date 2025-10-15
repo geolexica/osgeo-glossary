@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '213'
+  localized_concepts:
+    eng: fbaaa031-33cc-5593-87a1-422c0377d804
+id: e7ebe4ff-613a-50fe-981e-c173ca9c90b4
+
+---
+data:
+  definition:
+  - content: scripting system for Java server applications that allows the interleaving
+      of markup and Java procedural code
+  examples: []
+  id: '213'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: JavaServer Pages
+  - type: abbreviation
+    normative_status: preferred
+    designation: JSP
+  language_code: eng
+id: fbaaa031-33cc-5593-87a1-422c0377d804

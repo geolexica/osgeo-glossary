@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '40'
+  localized_concepts:
+    eng: 30b9b516-8d75-5618-81bb-cd96848efad8
+id: 8067a3d1-648a-58a6-bac6-7ed8f33709ac
+
+---
+data:
+  definition: []
+  examples: []
+  id: '40'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CEOS Working Group on Capacity Building and Data Democracy
+  - type: abbreviation
+    normative_status: preferred
+    designation: WGCapD
+  language_code: eng
+id: 30b9b516-8d75-5618-81bb-cd96848efad8

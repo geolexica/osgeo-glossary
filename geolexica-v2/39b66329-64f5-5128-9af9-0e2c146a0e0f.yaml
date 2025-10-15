@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '372'
+  localized_concepts:
+    eng: e800e00b-35d9-5fb0-9855-3e3a3ca28976
+id: 39b66329-64f5-5128-9af9-0e2c146a0e0f
+
+---
+data:
+  definition:
+  - content: protocol for exchanging structured information for the implementation
+      of Web Services
+  examples: []
+  id: '372'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Simple Object Access Protocol
+  - type: abbreviation
+    normative_status: preferred
+    designation: SOAP
+  language_code: eng
+id: e800e00b-35d9-5fb0-9855-3e3a3ca28976

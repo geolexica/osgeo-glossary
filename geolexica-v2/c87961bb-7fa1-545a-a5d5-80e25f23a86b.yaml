@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '299'
+  localized_concepts:
+    eng: fdf5ea98-e020-5be5-b0ba-4de4680b20ec
+id: c87961bb-7fa1-545a-a5d5-80e25f23a86b
+
+---
+data:
+  definition: []
+  examples: []
+  id: '299'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Transducer Markup Language Encoding Standard (retired)
+  - type: abbreviation
+    normative_status: preferred
+    designation: TML
+  language_code: eng
+id: fdf5ea98-e020-5be5-b0ba-4de4680b20ec

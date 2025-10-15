@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '245'
+  localized_concepts:
+    eng: c7cb1b5d-4d48-56c4-8c0e-5fb664f86be0
+id: a4e01431-5613-5c6a-b7e9-8549e3e5091e
+
+---
+data:
+  definition: []
+  examples: []
+  id: '245'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Hydrologic Dataset
+  - type: abbreviation
+    normative_status: preferred
+    designation: NHD
+  language_code: eng
+id: c7cb1b5d-4d48-56c4-8c0e-5fb664f86be0

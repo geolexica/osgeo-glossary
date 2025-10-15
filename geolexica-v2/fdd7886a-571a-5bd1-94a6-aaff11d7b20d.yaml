@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '205'
+  localized_concepts:
+    eng: f76d5d3b-9458-55ac-9a68-94880cc0d690
+id: fdd7886a-571a-5bd1-94a6-aaff11d7b20d
+
+---
+data:
+  definition:
+  - content: ISO technical committee responsible for intelligent transport systems
+  examples: []
+  id: '205'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ISO Technical Committee 204
+  - type: abbreviation
+    normative_status: preferred
+    designation: ISO TC/204
+  language_code: eng
+id: f76d5d3b-9458-55ac-9a68-94880cc0d690

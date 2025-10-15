@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '80'
+  localized_concepts:
+    eng: 65ba29b6-fdef-5ba3-b46d-b278b3206b8c
+id: 19342139-dc50-548a-ab3f-9705ee3ba7e7
+
+---
+data:
+  definition: []
+  examples: []
+  id: '80'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Digital Line Graph
+  - type: abbreviation
+    normative_status: preferred
+    designation: DLG
+  language_code: eng
+id: 65ba29b6-fdef-5ba3-b46d-b278b3206b8c
