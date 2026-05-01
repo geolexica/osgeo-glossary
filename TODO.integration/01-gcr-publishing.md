@@ -2,7 +2,7 @@
 
 ## Goal
 
-This repository publishes versioned GCR packages as GitHub Release assets.
+This repository publishes versioned GCR packages as GitHub Releases, triggered by version tags.
 
 ## Repository Info
 
@@ -17,85 +17,28 @@ This repository publishes versioned GCR packages as GitHub Release assets.
 
 ## Release Convention
 
-| Trigger | Tag | Asset |
-|---------|-----|-------|
-| Push to `main` | `gcr-latest` (rolling) | `osgeo.gcr` |
-| Tag `gcr-v1.2.0` | `gcr-v1.2.0` (pinned) | `osgeo-1.2.0.gcr` |
+| Trigger | Tag | Assets |
+|---------|-----|--------|
+| Push tag `v1.2.0` | `v1.2.0` | `osgeo-1.2.0.gcr` + `osgeo.gcr` |
+| workflow_dispatch | `v{version}` | `osgeo-{version}.gcr` + `osgeo.gcr` |
 
-## Tasks
-
-### 1. Replace publish-gcr.yml with glossarist gem
-
-```yaml
-name: publish-gcr
-
-on:
-  push:
-    branches: [main]
-    tags: ['gcr-v*']
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  publish-gcr:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.2'
-
-      - run: gem install glossarist
-
-      - name: Determine version
-        id: version
-        run: |
-          if [[ "${GITHUB_REF}" == refs/tags/gcr-v* ]]; then
-            VERSION="${GITHUB_REF_NAME#gcr-v}"
-            echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
-            echo "tag=gcr-v${VERSION}" >> "$GITHUB_OUTPUT"
-            echo "filename=osgeo-${VERSION}.gcr" >> "$GITHUB_OUTPUT"
-          else
-            DATEVER=$(date +%Y.%m.%d)
-            echo "version=${DATEVER}" >> "$GITHUB_OUTPUT"
-            echo "tag=gcr-latest" >> "$GITHUB_OUTPUT"
-            echo "filename=osgeo.gcr" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Build GCR package
-        run: |
-          glossarist package . -o "${{ steps.version.outputs.filename }}" \
-            --shortname osgeo \
-            --version "${{ steps.version.outputs.version }}" \
-            --title "OSGeo Lexicon" \
-            --owner "OSGeo"
-
-      - name: Publish release
-        uses: softprops/action-gh-release@v2
-        with:
-          tag_name: ${{ steps.version.outputs.tag }}
-          name: "GCR Package ${{ steps.version.outputs.version }}"
-          files: ${{ steps.version.outputs.filename }}
+### Download URLs
+```
+https://github.com/geolexica/osgeo-glossary/releases/latest/download/osgeo.gcr
+https://github.com/geolexica/osgeo-glossary/releases/download/v1.2.0/osgeo-1.2.0.gcr
 ```
 
-### 2. Verify locally
+## How to publish
 
 ```bash
-gem install glossarist
-glossarist package . -o osgeo-test.gcr \
-  --shortname osgeo --version 0.0.1 \
-  --title "OSGeo Lexicon" --owner "OSGeo"
-glossarist validate osgeo-test.gcr
+git tag v1.2.0
+git push origin v1.2.0
 ```
-
-### 3. Remove vocabulary-browser dependency
 
 ## Acceptance Criteria
 
-- [ ] `publish-gcr.yml` uses `gem install glossarist` only
-- [ ] GCR contains 444 concepts
+- [ ] `publish-gcr.yml` triggers on `v*` tag push only
+- [ ] `glossarist package` handles `geolexica-v2/` format
+- [ ] Release has both versioned and unversioned GCR assets
 - [ ] `metadata.yaml` has `shortname: osgeo` and `version`
 - [ ] No checkout of vocabulary-browser
