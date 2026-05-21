@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '150'
+  localized_concepts:
+    eng: 78216003-44fd-594d-8222-c274ceeb2f7b
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 55a2fd31-4728-59c3-880c-b9ab6323d87f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '150'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Geospatial Rights Management Domain Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: GeoRM DWG
+  language_code: eng
+id: 78216003-44fd-594d-8222-c274ceeb2f7b

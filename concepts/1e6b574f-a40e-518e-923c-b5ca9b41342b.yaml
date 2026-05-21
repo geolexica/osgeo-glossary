@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '249'
+  localized_concepts:
+    eng: dd75b6e4-a4c5-5258-a33b-adb1cdbc1252
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 1e6b574f-a40e-518e-923c-b5ca9b41342b
+
+---
+data:
+  definition: []
+  examples: []
+  id: '249'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Mapping Agency
+  - type: abbreviation
+    normative_status: preferred
+    designation: NMA
+  language_code: eng
+id: dd75b6e4-a4c5-5258-a33b-adb1cdbc1252

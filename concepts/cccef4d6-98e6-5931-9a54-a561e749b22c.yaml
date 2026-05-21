@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '186'
+  localized_concepts:
+    eng: 275abd87-6cec-5309-8ece-52ff00864dff
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: cccef4d6-98e6-5931-9a54-a561e749b22c
+
+---
+data:
+  definition: []
+  examples: []
+  id: '186'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Integrated Justice Information Systems (IJIS) Institute
+  - type: abbreviation
+    normative_status: preferred
+    designation: IJIS Institute
+  language_code: eng
+id: 275abd87-6cec-5309-8ece-52ff00864dff

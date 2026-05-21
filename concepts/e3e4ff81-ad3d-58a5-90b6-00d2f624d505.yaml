@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '440'
+  localized_concepts:
+    eng: 9e2791e9-1ce1-5da6-a2e1-acfccd55894c
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: e3e4ff81-ad3d-58a5-90b6-00d2f624d505
+
+---
+data:
+  definition: []
+  examples: []
+  id: '440'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: World Meteorological Organization
+  - type: abbreviation
+    normative_status: preferred
+    designation: WMO
+  language_code: eng
+id: 9e2791e9-1ce1-5da6-a2e1-acfccd55894c

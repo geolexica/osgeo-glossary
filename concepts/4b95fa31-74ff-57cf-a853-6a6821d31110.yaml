@@ -1,0 +1,25 @@
+---
+data:
+  identifier: '187'
+  localized_concepts:
+    eng: 1e462bc6-38db-5e32-b414-cc9eaa607e80
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 4b95fa31-74ff-57cf-a853-6a6821d31110
+
+---
+data:
+  definition: []
+  examples: []
+  id: '187'
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Intellectual Property
+  - type: abbreviation
+    normative_status: preferred
+    designation: IP
+  language_code: eng
+id: 1e462bc6-38db-5e32-b414-cc9eaa607e80

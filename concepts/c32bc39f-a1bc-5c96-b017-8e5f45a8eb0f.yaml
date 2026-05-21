@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '389'
+  localized_concepts:
+    eng: '0870d2b3-84f8-5688-aec8-b50b6ae341e7'
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: c32bc39f-a1bc-5c96-b017-8e5f45a8eb0f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '389'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Standards Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: SWG
+  language_code: eng
+id: '0870d2b3-84f8-5688-aec8-b50b6ae341e7'

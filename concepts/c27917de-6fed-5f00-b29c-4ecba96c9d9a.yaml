@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '269'
+  localized_concepts:
+    eng: 96aaf9d9-faae-5492-9f98-744e4a3b6654
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: c27917de-6fed-5f00-b29c-4ecba96c9d9a
+
+---
+data:
+  definition: []
+  examples: []
+  id: '269'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Catalogue Service Interface Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: CS
+  language_code: eng
+id: 96aaf9d9-faae-5492-9f98-744e4a3b6654

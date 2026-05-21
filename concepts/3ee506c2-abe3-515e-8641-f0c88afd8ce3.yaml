@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '103'
+  localized_concepts:
+    eng: fe6783ee-50b0-50aa-b848-b954be3b5211
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 3ee506c2-abe3-515e-8641-f0c88afd8ce3
+
+---
+data:
+  definition: []
+  examples: []
+  id: '103'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Enterprise Java Beans.
+  - type: abbreviation
+    normative_status: preferred
+    designation: EJB
+  language_code: eng
+id: fe6783ee-50b0-50aa-b848-b954be3b5211

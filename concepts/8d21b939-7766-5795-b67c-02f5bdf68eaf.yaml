@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '172'
+  localized_concepts:
+    eng: 17e7820b-8209-5b3d-9b41-325fbcf00127
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 8d21b939-7766-5795-b67c-02f5bdf68eaf
+
+---
+data:
+  definition: []
+  examples: []
+  id: '172'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Hierarchical Data Format
+  - type: abbreviation
+    normative_status: preferred
+    designation: HDF
+  language_code: eng
+id: 17e7820b-8209-5b3d-9b41-325fbcf00127

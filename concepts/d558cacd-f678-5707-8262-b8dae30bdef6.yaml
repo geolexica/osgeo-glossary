@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '41'
+  localized_concepts:
+    eng: 9c1ae1cd-6455-5a3c-b8e6-8bcf7d6aba79
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d558cacd-f678-5707-8262-b8dae30bdef6
+
+---
+data:
+  definition:
+  - content: distributed service for metadata about geospatial data locating. Allows
+      to search in one or several nodes or servers that have been registered in the
+      Clearinghouse of the Internet. It is the term used by FGDC, equivalent to the
+      OGC’s Catalogue Service.
+  examples: []
+  id: '41'
+  notes: []
+  sources:
+  - origin:
+      ref: GVSIG_1-0_2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: clearinghouse
+  language_code: eng
+id: 9c1ae1cd-6455-5a3c-b8e6-8bcf7d6aba79

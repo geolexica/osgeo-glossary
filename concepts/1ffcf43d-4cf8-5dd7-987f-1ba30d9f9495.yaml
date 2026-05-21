@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '159'
+  localized_concepts:
+    eng: 6b058316-3f04-5b25-8a98-59549f83f975
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 1ffcf43d-4cf8-5dd7-987f-1ba30d9f9495
+
+---
+data:
+  definition:
+  - content: OGC standard that defines how GML is used in JPEG 2000 images
+  examples: []
+  id: '159'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GML in JPEG 2000
+  language_code: eng
+id: 6b058316-3f04-5b25-8a98-59549f83f975

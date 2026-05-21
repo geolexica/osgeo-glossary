@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '1'
+  localized_concepts:
+    eng: 7809e86b-c213-5eb4-a214-058cecc854d5
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 4d712992-30d6-5850-985b-1962ad6db59b
+
+---
+data:
+  definition: []
+  examples: []
+  id: '1'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: 3-D Elevation Program
+  - type: abbreviation
+    normative_status: preferred
+    designation: 3DEP
+  language_code: eng
+id: 7809e86b-c213-5eb4-a214-058cecc854d5

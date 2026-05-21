@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '36'
+  localized_concepts:
+    eng: 5aeb8ffe-a914-5b26-82a4-c4ae8deda21b
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 39605a29-fb9f-50e7-8401-d70cbe79c195
+
+---
+data:
+  definition:
+  - content: open-source computer application for creating and editing geographic
+      metadata based upon the ISO 19115:2003 standard
+  examples: []
+  id: '36'
+  notes:
+  - content: It is a multiplatform (Windows / UNIX) and multilingual (Spanish and
+      English) application.
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: CatMDEdit
+  language_code: eng
+id: 5aeb8ffe-a914-5b26-82a4-c4ae8deda21b

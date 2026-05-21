@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '236'
+  localized_concepts:
+    eng: 90e59d5a-fcd8-59cd-b051-9f691554c234
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 5e4ec918-946c-5804-92ef-d520d244c6bb
+
+---
+data:
+  definition:
+  - content: metadata export format developed by the GeoNetwork community
+  examples: []
+  id: '236'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Metadata Exchange Format
+  - type: abbreviation
+    normative_status: preferred
+    designation: MEF
+  language_code: eng
+id: 90e59d5a-fcd8-59cd-b051-9f691554c234

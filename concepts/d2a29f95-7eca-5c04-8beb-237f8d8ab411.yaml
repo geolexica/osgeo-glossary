@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '69'
+  localized_concepts:
+    eng: '08849d5a-798e-508c-a741-d4c12830b517'
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d2a29f95-7eca-5c04-8beb-237f8d8ab411
+
+---
+data:
+  definition:
+  - content: structured data set that enables storage, consultation, and upgrades
+      in a computer system
+  examples:
+  - content: Relational database, centralised database, personalised datbase, etc.
+  id: '69'
+  notes:
+  - content: There are different types of databases.
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: database
+  language_code: eng
+id: '08849d5a-798e-508c-a741-d4c12830b517'

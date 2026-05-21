@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '292'
+  localized_concepts:
+    eng: 903d28cc-4cb4-5fb9-874b-23d0687a66a6
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: ca95da1d-1fc9-5330-b576-e0de9e565efd
+
+---
+data:
+  definition:
+  - content: complete set of OGC reference models
+  examples: []
+  id: '292'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Reference Model
+  - type: abbreviation
+    normative_status: preferred
+    designation: ORM
+  language_code: eng
+id: 903d28cc-4cb4-5fb9-874b-23d0687a66a6

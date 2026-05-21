@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '76'
+  localized_concepts:
+    eng: 99f70f66-eb71-5018-bef9-63b0fa0912af
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 514a21ea-c28d-5822-a3c1-70a6c62a48fa
+
+---
+data:
+  definition: []
+  examples: []
+  id: '76'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Digital Elevation Model
+  - type: abbreviation
+    normative_status: preferred
+    designation: DEM
+  language_code: eng
+id: 99f70f66-eb71-5018-bef9-63b0fa0912af

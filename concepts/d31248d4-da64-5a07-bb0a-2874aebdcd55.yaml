@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '19'
+  localized_concepts:
+    eng: e628b7ec-a412-5c5b-b3c4-e32d4bd906f7
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d31248d4-da64-5a07-bb0a-2874aebdcd55
+
+---
+data:
+  definition: []
+  examples: []
+  id: '19'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Augmented Reality Markup Language
+  - type: abbreviation
+    normative_status: preferred
+    designation: ARML
+  language_code: eng
+id: e628b7ec-a412-5c5b-b3c4-e32d4bd906f7

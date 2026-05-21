@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '246'
+  localized_concepts:
+    eng: 3b079fa6-00b2-5245-aff3-fc9a1a088112
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 2f7cd564-5f83-5ec9-8cc2-5eafddfa25e9
+
+---
+data:
+  definition: []
+  examples: []
+  id: '246'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Institute for Building Standards
+  - type: abbreviation
+    normative_status: preferred
+    designation: NIBS
+  language_code: eng
+id: 3b079fa6-00b2-5245-aff3-fc9a1a088112

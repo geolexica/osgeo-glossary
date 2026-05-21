@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '285'
+  localized_concepts:
+    eng: 36698d5b-08ca-5c94-9292-c95d356160ea
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 101392a9-7b7d-5a96-bb21-2ef5083dc73f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '285'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Iberian and Latin-American Forum
+  - type: abbreviation
+    normative_status: preferred
+    designation: ILAF
+  language_code: eng
+id: 36698d5b-08ca-5c94-9292-c95d356160ea

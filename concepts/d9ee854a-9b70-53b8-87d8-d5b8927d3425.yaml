@@ -1,0 +1,29 @@
+---
+data:
+  identifier: iso-19155
+  localized_concepts:
+    eng: 95631f86-75b1-5117-9a8a-2e6675fbfc8b
+  domains:
+  - ref:
+related:
+- content: '380'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d9ee854a-9b70-53b8-87d8-d5b8927d3425
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19155
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19155
+  language_code: eng
+  entry_status: valid
+id: 95631f86-75b1-5117-9a8a-2e6675fbfc8b

@@ -1,0 +1,29 @@
+---
+data:
+  identifier: iso-19129
+  localized_concepts:
+    eng: fcc296c5-c79c-58c7-92aa-dc16c79ae997
+  domains:
+  - ref:
+related:
+- content: '67'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: f928359f-7862-59c9-8a61-c3da6b97716b
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19129
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19129
+  language_code: eng
+  entry_status: valid
+id: fcc296c5-c79c-58c7-92aa-dc16c79ae997

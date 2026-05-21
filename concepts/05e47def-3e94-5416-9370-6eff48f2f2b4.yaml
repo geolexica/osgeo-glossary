@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '256'
+  localized_concepts:
+    eng: cb98df3f-932e-5435-a251-5b42601ba019
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 05e47def-3e94-5416-9370-6eff48f2f2b4
+
+---
+data:
+  definition: []
+  examples: []
+  id: '256'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: NEw Partnership for African Development
+  - type: abbreviation
+    normative_status: preferred
+    designation: NEPAD
+  language_code: eng
+id: cb98df3f-932e-5435-a251-5b42601ba019

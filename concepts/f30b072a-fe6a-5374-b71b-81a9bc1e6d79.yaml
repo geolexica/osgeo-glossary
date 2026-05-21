@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '363'
+  localized_concepts:
+    eng: b154b57a-a5c7-5996-91ff-959abce06034
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: f30b072a-fe6a-5374-b71b-81a9bc1e6d79
+
+---
+data:
+  definition:
+  - content: open-source project that provides Single Sign-On capabilities and allows
+      sites to make informed authorization decisions for individual access of protected
+      online resources in a privacy-preserving manner
+  examples: []
+  id: '363'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Shibboleth
+  language_code: eng
+id: b154b57a-a5c7-5996-91ff-959abce06034

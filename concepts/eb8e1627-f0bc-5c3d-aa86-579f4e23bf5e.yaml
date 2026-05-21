@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '443'
+  localized_concepts:
+    eng: e234b60d-0c2d-504c-a024-44634c0e2d51
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: eb8e1627-f0bc-5c3d-aa86-579f4e23bf5e
+
+---
+data:
+  definition:
+  - content: recommendation of the World Wide Web Consortium (W3C) that specifies
+      how to formally describe the elements in an Extensible Markup Language (XML)
+      document
+  examples: []
+  id: '443'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: XML Schema Definition
+  - type: abbreviation
+    normative_status: preferred
+    designation: XSD
+  language_code: eng
+id: e234b60d-0c2d-504c-a024-44634c0e2d51

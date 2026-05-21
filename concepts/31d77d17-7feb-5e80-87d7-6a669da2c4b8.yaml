@@ -1,0 +1,38 @@
+---
+data:
+  identifier: iso-19115-1
+  localized_concepts:
+    eng: cce4c202-c434-5cc7-8215-4322c4c0687e
+  domains:
+  - ref:
+related:
+- content: '233'
+  type: narrower
+  ref:
+- content: '234'
+  type: narrower
+  ref:
+- content: '235'
+  type: narrower
+  ref:
+- content: '71'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 31d77d17-7feb-5e80-87d7-6a669da2c4b8
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19115-1
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19115-1
+  language_code: eng
+  entry_status: valid
+id: cce4c202-c434-5cc7-8215-4322c4c0687e

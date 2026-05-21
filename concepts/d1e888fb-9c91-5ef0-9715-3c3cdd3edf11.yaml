@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '12'
+  localized_concepts:
+    eng: 5a6fe4ff-adbd-5ccd-b721-bd838172e9df
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d1e888fb-9c91-5ef0-9715-3c3cdd3edf11
+
+---
+data:
+  definition: []
+  examples: []
+  id: '12'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: American Standard Code for Information Interchange
+  - type: abbreviation
+    normative_status: preferred
+    designation: ASCII
+  language_code: eng
+id: 5a6fe4ff-adbd-5ccd-b721-bd838172e9df

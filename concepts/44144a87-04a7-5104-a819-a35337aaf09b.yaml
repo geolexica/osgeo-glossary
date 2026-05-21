@@ -1,0 +1,37 @@
+---
+data:
+  identifier: '218'
+  localized_concepts:
+    eng: 789a7e8f-f28c-5321-9e9d-967d54226f71
+  domains:
+  - ref:
+related:
+- content: iso-19128
+  type: broader
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 44144a87-04a7-5104-a819-a35337aaf09b
+
+---
+data:
+  definition:
+  - content: basic unit of geographic information that may be requested as a map from
+      a server
+  examples: []
+  id: '218'
+  notes: []
+  sources:
+  - origin:
+      ref: ISO 19128:2005
+      locality:
+        type: clause
+        reference_from: '4.6'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: layer
+  language_code: eng
+id: 789a7e8f-f28c-5321-9e9d-967d54226f71

@@ -1,0 +1,40 @@
+---
+data:
+  identifier: '234'
+  localized_concepts:
+    eng: ce99e726-0703-58f8-8179-9574bf2c24c1
+  domains:
+  - ref:
+related:
+- content: iso-19115-1
+  type: broader
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 8ca5b646-69e7-5d20-87af-fd421dff7bd7
+
+---
+data:
+  definition:
+  - content: discrete unit of metadata
+  examples: []
+  id: '234'
+  notes:
+  - content: Metadata elements are unique within a metadata class.
+  - content: Equivalent to an attribute and/or an association in UML terminology.
+  - content: Class attributes and relationships are referred to collectively as metadata
+      elements.
+  sources:
+  - origin:
+      ref: ISO 19115-1:2014
+      locality:
+        type: clause
+        reference_from: '4.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: metadata element
+  language_code: eng
+id: ce99e726-0703-58f8-8179-9574bf2c24c1

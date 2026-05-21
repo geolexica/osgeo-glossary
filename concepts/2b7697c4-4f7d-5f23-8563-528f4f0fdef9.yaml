@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '252'
+  localized_concepts:
+    eng: 5ebbf59b-4700-550a-85f6-4fad1ecb957f
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 2b7697c4-4f7d-5f23-8563-528f4f0fdef9
+
+---
+data:
+  definition: []
+  examples: []
+  id: '252'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Natural Resources and Environment
+  - type: abbreviation
+    normative_status: preferred
+    designation: NRE
+  language_code: eng
+id: 5ebbf59b-4700-550a-85f6-4fad1ecb957f

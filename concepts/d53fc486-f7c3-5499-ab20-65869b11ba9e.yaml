@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '23'
+  localized_concepts:
+    eng: '01978b70-bb32-569a-86f1-6b8b733d2ab2'
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d53fc486-f7c3-5499-ab20-65869b11ba9e
+
+---
+data:
+  definition: []
+  examples: []
+  id: '23'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Automated Mapping/Facilities Management
+  - type: abbreviation
+    normative_status: preferred
+    designation: AM/FM
+  language_code: eng
+id: '01978b70-bb32-569a-86f1-6b8b733d2ab2'

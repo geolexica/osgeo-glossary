@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '335'
+  localized_concepts:
+    eng: 7e35048d-7411-5dce-980a-6f9f778bce02
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 6b4c85b4-4644-58d7-84d3-ce086c6a59de
+
+---
+data:
+  definition: []
+  examples: []
+  id: '335'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Public Participation in Scientific Research
+  - type: abbreviation
+    normative_status: preferred
+    designation: PPSR
+  language_code: eng
+id: 7e35048d-7411-5dce-980a-6f9f778bce02

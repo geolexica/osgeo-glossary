@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '22'
+  localized_concepts:
+    eng: 5b90b527-afde-57ac-b3d9-9e95cc5c47c0
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 5b8b0b40-3c48-50f5-9d0b-71c96cbc3b3f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '22'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Authentication Interoperability Experiment
+  - type: abbreviation
+    normative_status: preferred
+    designation: AUTH ie
+  language_code: eng
+id: 5b90b527-afde-57ac-b3d9-9e95cc5c47c0

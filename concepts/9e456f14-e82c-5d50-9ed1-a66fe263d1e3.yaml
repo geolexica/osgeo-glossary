@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '156'
+  localized_concepts:
+    eng: d7cfb77d-fd09-5aeb-944d-4f59c8785e41
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 9e456f14-e82c-5d50-9ed1-a66fe263d1e3
+
+---
+data:
+  definition: []
+  examples: []
+  id: '156'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Global Spatial Data Infrastructure
+  - type: abbreviation
+    normative_status: preferred
+    designation: GSDI
+  language_code: eng
+id: d7cfb77d-fd09-5aeb-944d-4f59c8785e41

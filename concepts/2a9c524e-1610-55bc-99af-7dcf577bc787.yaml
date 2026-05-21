@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '122'
+  localized_concepts:
+    eng: bf2a9b8d-7bef-5949-ab69-58ee6ad5fd1e
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 2a9c524e-1610-55bc-99af-7dcf577bc787
+
+---
+data:
+  definition:
+  - content: specialised agency of the United Nations that leads international efforts
+      to defeat hunger
+  examples: []
+  id: '122'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Food and Agriculture Organisation
+  - type: abbreviation
+    normative_status: preferred
+    designation: FAO
+  language_code: eng
+id: bf2a9b8d-7bef-5949-ab69-58ee6ad5fd1e

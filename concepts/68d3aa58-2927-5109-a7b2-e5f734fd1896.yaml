@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '373'
+  localized_concepts:
+    eng: 2a0c6cbe-a376-5b40-8f48-9aac298cbe70
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 68d3aa58-2927-5109-a7b2-e5f734fd1896
+
+---
+data:
+  definition:
+  - content: MapServer library used for generating all language bindings other than
+      C/C++ and PHP
+  examples: []
+  id: '373'
+  notes:
+  - content: MapScript describes these bindings.
+  sources:
+  - origin:
+      ref:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Simplified Wrapper Interface Generator
+  - type: abbreviation
+    normative_status: preferred
+    designation: SWIG
+  language_code: eng
+id: 2a0c6cbe-a376-5b40-8f48-9aac298cbe70

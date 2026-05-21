@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '45'
+  localized_concepts:
+    eng: 91a3962f-eb36-538d-a5f2-62ba9d57615a
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 5da357ae-c65f-5a23-901f-fbbb110b5395
+
+---
+data:
+  definition: []
+  examples: []
+  id: '45'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Committee on Earth Observation Satellites
+  - type: abbreviation
+    normative_status: preferred
+    designation: CEOS
+  language_code: eng
+id: 91a3962f-eb36-538d-a5f2-62ba9d57615a

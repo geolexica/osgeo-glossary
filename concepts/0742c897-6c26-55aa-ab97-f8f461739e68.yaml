@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '191'
+  localized_concepts:
+    eng: 9c920c28-3526-573b-a185-ea12021609f9
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 0742c897-6c26-55aa-ab97-f8f461739e68
+
+---
+data:
+  definition:
+  - content: international organization that prepares and publishes international
+      standards for all electrical, electronic and related technologies
+  examples: []
+  id: '191'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International Electrotechnical Commission
+  - type: abbreviation
+    normative_status: preferred
+    designation: IEC
+  language_code: eng
+id: 9c920c28-3526-573b-a185-ea12021609f9

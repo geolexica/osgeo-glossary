@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '248'
+  localized_concepts:
+    eng: e03aafac-6a79-595d-962e-bea4914ff616
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 8fdfb550-8ee6-52e2-b7ee-2e485c999a8f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '248'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Land Cover Dataset
+  - type: abbreviation
+    normative_status: preferred
+    designation: NLCD
+  language_code: eng
+id: e03aafac-6a79-595d-962e-bea4914ff616

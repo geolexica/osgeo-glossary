@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '111'
+  localized_concepts:
+    eng: d711bead-0290-5212-9593-50fd08e06d11
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 343084ba-10ce-5a96-8937-45da201d9533
+
+---
+data:
+  definition:
+  - content: scientific organization with ties to the European petroleum industry
+      consisting of specialists working in applied geodesy, surveying, and cartography
+      related to oil exploration, part of the IOGP
+  examples: []
+  id: '111'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Petroleum Survey Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: EPSG
+  language_code: eng
+id: d711bead-0290-5212-9593-50fd08e06d11

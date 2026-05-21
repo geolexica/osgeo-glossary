@@ -1,0 +1,39 @@
+---
+data:
+  identifier: '380'
+  localized_concepts:
+    eng: 0434c20e-a32f-5965-b687-213077ab8e03
+  domains:
+  - ref:
+related:
+- content: iso-19155
+  type: broader
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 9758efa4-5435-5716-b398-574a36e53cb0
+
+---
+data:
+  definition:
+  - content: system for identifying position in the real world
+  examples: []
+  id: '380'
+  notes: []
+  sources:
+  - origin:
+      ref: ISO 19155:2012
+      locality:
+        type: clause
+        reference_from: '4.20'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Spatial reference system
+  - type: abbreviation
+    normative_status: preferred
+    designation: SRS
+  language_code: eng
+id: 0434c20e-a32f-5965-b687-213077ab8e03

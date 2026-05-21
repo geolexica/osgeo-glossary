@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '247'
+  localized_concepts:
+    eng: 8d47b560-63ca-51c9-b4f6-e8488142f0af
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d046264f-086a-5daf-85b8-4b1ab322ff90
+
+---
+data:
+  definition: []
+  examples: []
+  id: '247'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Institute of Standards and Technology
+  - type: abbreviation
+    normative_status: preferred
+    designation: NIST
+  language_code: eng
+id: 8d47b560-63ca-51c9-b4f6-e8488142f0af

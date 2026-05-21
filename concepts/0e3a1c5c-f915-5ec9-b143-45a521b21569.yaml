@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '212'
+  localized_concepts:
+    eng: 5163d753-d166-5716-925d-592a229fcd8b
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 0e3a1c5c-f915-5ec9-b143-45a521b21569
+
+---
+data:
+  definition:
+  - content: JSP tag library that encapsulates many of the standard functions handled
+      in JSP
+  examples: []
+  id: '212'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: JavaServer Page Template Library
+  - type: abbreviation
+    normative_status: preferred
+    designation: JSTL
+  language_code: eng
+id: 5163d753-d166-5716-925d-592a229fcd8b

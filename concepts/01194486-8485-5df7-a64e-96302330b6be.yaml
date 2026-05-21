@@ -1,0 +1,39 @@
+---
+data:
+  identifier: '67'
+  localized_concepts:
+    eng: a60dcadc-5ec4-52fb-9514-4614de2673d2
+  domains:
+  - ref:
+related:
+- content: iso-19129
+  type: broader
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: '01194486-8485-5df7-a64e-96302330b6be'
+
+---
+data:
+  definition:
+  - content: "technique that reduces either the amount of storage space required to
+      store a given amount of data, or the length of message required to transfer
+      a given amount of information\n\n"
+  examples: []
+  id: '67'
+  notes:
+  - content: 'Adapted from ANSI T1.523-2001. '
+  sources:
+  - origin:
+      ref: ISO/TS 19129:2009
+      locality:
+        type: clause
+        reference_from: 4.1.8
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: data compression
+  language_code: eng
+id: a60dcadc-5ec4-52fb-9514-4614de2673d2

@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '170'
+  localized_concepts:
+    eng: 7b4b30ef-2f61-5536-aae7-c104913ef4ab
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 51209b42-689c-5cb1-9887-8041f7ddcb59
+
+---
+data:
+  definition:
+  - content: specific Geographical Information handling tool for common vector and
+      raster formats with a user interface
+  examples: []
+  id: '170'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: gvSIG
+  language_code: eng
+id: 7b4b30ef-2f61-5536-aae7-c104913ef4ab

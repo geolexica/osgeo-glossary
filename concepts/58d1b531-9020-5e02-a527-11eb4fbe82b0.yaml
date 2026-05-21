@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '325'
+  localized_concepts:
+    eng: 692a19df-2450-5ab0-b11f-2234aa1ca7bb
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 58d1b531-9020-5e02-a527-11eb4fbe82b0
+
+---
+data:
+  definition: []
+  examples: []
+  id: '325'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Organisation for Economic Co-Operation and Development
+  - type: abbreviation
+    normative_status: preferred
+    designation: OECD
+  language_code: eng
+id: 692a19df-2450-5ab0-b11f-2234aa1ca7bb

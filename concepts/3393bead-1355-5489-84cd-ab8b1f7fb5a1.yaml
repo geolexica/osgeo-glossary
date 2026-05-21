@@ -1,0 +1,34 @@
+---
+data:
+  identifier: '89'
+  localized_concepts:
+    eng: 6fb3c165-1800-5957-826c-e19aa0e10817
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 3393bead-1355-5489-84cd-ab8b1f7fb5a1
+
+---
+data:
+  definition:
+  - content: standardized metadata element set for cross-domain information resource
+      description
+  examples: []
+  id: '89'
+  notes:
+  - content: Dublin Core provides a simple and standardised set of conventions for
+      describing things online in ways that make them easier to find.
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Dublin Core
+  - type: abbreviation
+    normative_status: preferred
+    designation: DC
+  language_code: eng
+id: 6fb3c165-1800-5957-826c-e19aa0e10817

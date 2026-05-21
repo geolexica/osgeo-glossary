@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '369'
+  localized_concepts:
+    eng: 42769175-93eb-5b9e-82af-e256341b25e7
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 7f0467af-34d5-5e28-a7ff-7f0bccd7f12d
+
+---
+data:
+  definition: []
+  examples: []
+  id: '369'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Simple Features OLE/COM
+  - type: abbreviation
+    normative_status: preferred
+    designation: SF OLE/COM
+  language_code: eng
+id: 42769175-93eb-5b9e-82af-e256341b25e7

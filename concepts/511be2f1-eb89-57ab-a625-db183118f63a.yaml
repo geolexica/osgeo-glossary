@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '127'
+  localized_concepts:
+    eng: eff1ea9d-0bbb-5cf7-bb0c-0e67698228c2
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 511be2f1-eb89-57ab-a625-db183118f63a
+
+---
+data:
+  definition:
+  - content: system that captures, stores, analyzes, manages, and presents data that
+      is linked to location
+  examples: []
+  id: '127'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geographic information system
+  - type: abbreviation
+    normative_status: preferred
+    designation: GIS
+  language_code: eng
+id: eff1ea9d-0bbb-5cf7-bb0c-0e67698228c2

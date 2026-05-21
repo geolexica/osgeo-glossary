@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '174'
+  localized_concepts:
+    eng: c5b1d4f6-444d-5302-9ac4-f48d8208e031
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: f691066d-6154-5354-b42a-48154bcc2b2a
+
+---
+data:
+  definition: []
+  examples: []
+  id: '174'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: high performance computing
+  - type: abbreviation
+    normative_status: preferred
+    designation: HPC
+  language_code: eng
+id: c5b1d4f6-444d-5302-9ac4-f48d8208e031

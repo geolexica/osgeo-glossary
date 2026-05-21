@@ -1,0 +1,43 @@
+---
+data:
+  identifier: '59'
+  localized_concepts:
+    eng: 1cbea05e-110f-5293-9568-0179108a89bc
+  domains:
+  - ref:
+related:
+- content: iso-19111
+  type: broader
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 83979cbb-f52a-589b-8e92-4c7329d475c3
+
+---
+data:
+  definition:
+  - content: coordinate system that is related to an object by a datum
+  examples: []
+  id: '59'
+  notes:
+  - content: Geodetic and vertical datums are referred to as reference frames.
+  - content: For geodetic and vertical reference frames, the object will be the Earth.
+      In planetary applications, geodetic and vertical reference frames may be applied
+      to other celestial bodies.
+  sources:
+  - origin:
+      ref: ISO 19111:2019
+      locality:
+        type: clause
+        reference_from: 3.1.9
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Coordinate Reference System
+  - type: abbreviation
+    normative_status: preferred
+    designation: CRS
+  language_code: eng
+id: 1cbea05e-110f-5293-9568-0179108a89bc

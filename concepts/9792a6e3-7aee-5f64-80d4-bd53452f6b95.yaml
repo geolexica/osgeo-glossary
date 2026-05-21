@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '107'
+  localized_concepts:
+    eng: df5764af-089a-59bc-a029-f867ccbc69bc
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 9792a6e3-7aee-5f64-80d4-bd53452f6b95
+
+---
+data:
+  definition: []
+  examples: []
+  id: '107'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: European Center for Medium range Weather Forecasting
+  - type: abbreviation
+    normative_status: preferred
+    designation: ECMWF
+  language_code: eng
+id: df5764af-089a-59bc-a029-f867ccbc69bc

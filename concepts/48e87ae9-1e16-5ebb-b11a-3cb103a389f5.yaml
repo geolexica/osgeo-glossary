@@ -1,0 +1,40 @@
+---
+data:
+  identifier: '223'
+  localized_concepts:
+    eng: fa5c912c-c60e-536a-8bde-6b9f8a21c1ee
+  domains:
+  - ref:
+related:
+- content: iso-19133
+  type: broader
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 48e87ae9-1e16-5ebb-b11a-3cb103a389f5
+
+---
+data:
+  definition:
+  - content: service whose return or other property is dependent on the location of
+      the client requesting the service or of some other thing, object or person
+  examples: []
+  id: '223'
+  notes: []
+  sources:
+  - origin:
+      ref: ISO 19133:2005
+      locality:
+        type: clause
+        reference_from: '4.11'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Location Based Service
+  - type: abbreviation
+    normative_status: preferred
+    designation: LBS
+  language_code: eng
+id: fa5c912c-c60e-536a-8bde-6b9f8a21c1ee

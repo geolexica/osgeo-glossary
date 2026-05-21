@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '138'
+  localized_concepts:
+    eng: 857c1019-f13a-56c2-a008-a0f733c22864
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: b28741f7-8704-5114-ad09-248b7ec40608
+
+---
+data:
+  definition:
+  - content: RSS feed containing geographic information in GML format
+  examples: []
+  id: '138'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoRSS
+  language_code: eng
+id: 857c1019-f13a-56c2-a008-a0f733c22864

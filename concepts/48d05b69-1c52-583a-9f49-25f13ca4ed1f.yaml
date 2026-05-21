@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '381'
+  localized_concepts:
+    eng: 2785558f-037c-5be4-b233-2614fd96fcb5
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 48d05b69-1c52-583a-9f49-25f13ca4ed1f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '381'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Special Activity Airspace Pilot
+  - type: abbreviation
+    normative_status: preferred
+    designation: SAA Pilot
+  language_code: eng
+id: 2785558f-037c-5be4-b233-2614fd96fcb5

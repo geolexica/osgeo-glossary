@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '214'
+  localized_concepts:
+    eng: 465c5c9c-6832-5769-b845-8ae913e0e537
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 10228744-aec1-5e92-9eae-e9e7607473a0
+
+---
+data:
+  definition: []
+  examples: []
+  id: '214'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Joint Advisory Committee between OGC and ISO TC 211
+  - type: abbreviation
+    normative_status: preferred
+    designation: JAG
+  language_code: eng
+id: 465c5c9c-6832-5769-b845-8ae913e0e537

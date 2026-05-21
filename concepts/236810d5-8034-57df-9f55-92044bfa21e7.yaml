@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '407'
+  localized_concepts:
+    eng: 607247c6-1467-591d-b0fe-1a34e941ef6e
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 236810d5-8034-57df-9f55-92044bfa21e7
+
+---
+data:
+  definition:
+  - content: organization that coordinates United Nations environmental activities,
+      assisting developing countries in implementing environmentally sound policies
+      and encourages sustainable development through sound environmental practices
+  examples: []
+  id: '407'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: UN Environment Programme
+  - type: abbreviation
+    normative_status: preferred
+    designation: UNEP
+  language_code: eng
+id: 607247c6-1467-591d-b0fe-1a34e941ef6e

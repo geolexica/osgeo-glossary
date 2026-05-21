@@ -1,0 +1,25 @@
+---
+data:
+  identifier: '437'
+  localized_concepts:
+    eng: c688c0a3-b210-515a-8072-eccb415b3eb3
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: a6d3e0c2-1596-580d-8959-e904a2d59259
+
+---
+data:
+  definition:
+  - content: organizational structure for grouping related data
+  examples:
+  - content: GeoServer uses a workspace for related data stores. Other geospatial
+      software store related datasets in a workspace.
+  id: '437'
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: workspace
+  language_code: eng
+id: c688c0a3-b210-515a-8072-eccb415b3eb3

@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '155'
+  localized_concepts:
+    eng: 7cccddde-e9b2-59a1-bfaa-174aff941466
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 54da9801-5390-58c1-b9df-cf1e9f47ab5a
+
+---
+data:
+  definition:
+  - content: system by means of which it is possible to approximately calculate a
+      position in the Earth using a signal received from several satellites simultaneously
+  examples: []
+  id: '155'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Global Positioning System
+  - type: abbreviation
+    normative_status: preferred
+    designation: GPS
+  language_code: eng
+id: 7cccddde-e9b2-59a1-bfaa-174aff941466

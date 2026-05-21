@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '275'
+  localized_concepts:
+    eng: a3fdf2a4-9e73-5f22-b8d7-65183bfc5b88
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 771dface-3f42-5efe-9299-ed9cf0b5afd4
+
+---
+data:
+  definition:
+  - content: OGC Standards Working Group developing an an extension to the OASIS ebXML
+      RegRep standard
+  examples: []
+  id: '275'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC ebXML RegRep SWG
+  language_code: eng
+id: a3fdf2a4-9e73-5f22-b8d7-65183bfc5b88

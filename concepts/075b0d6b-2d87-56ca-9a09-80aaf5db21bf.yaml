@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '313'
+  localized_concepts:
+    eng: ea6232cb-e3ec-58dc-be8f-31bf45b9b630
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 075b0d6b-2d87-56ca-9a09-80aaf5db21bf
+
+---
+data:
+  definition:
+  - content: protocol used to harvest (or collect) metadata descriptions of records
+      in an archive enabling services to be built using metadata from other archives
+  examples: []
+  id: '313'
+  notes:
+  - content: Developed by the Open Archives Initiative.
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Open Archive Initiative Protocol for Metadata Harvesting
+  - type: abbreviation
+    normative_status: preferred
+    designation: OAI-PMH
+  language_code: eng
+id: ea6232cb-e3ec-58dc-be8f-31bf45b9b630

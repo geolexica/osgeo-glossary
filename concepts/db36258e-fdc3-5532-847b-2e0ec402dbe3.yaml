@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '31'
+  localized_concepts:
+    eng: 8437edbf-012c-5835-9262-bff71e59b727
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: db36258e-fdc3-5532-847b-2e0ec402dbe3
+
+---
+data:
+  definition: []
+  examples: []
+  id: '31'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Canadian Space Agency
+  - type: abbreviation
+    normative_status: preferred
+    designation: CSA
+  language_code: eng
+id: 8437edbf-012c-5835-9262-bff71e59b727

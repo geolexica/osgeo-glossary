@@ -1,0 +1,25 @@
+---
+data:
+  identifier: '196'
+  localized_concepts:
+    eng: cdb435a3-3b3e-5a78-bc30-ccfb12ce705f
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: c045c77c-d40d-59d6-b0d6-b574a4393201
+
+---
+data:
+  definition: []
+  examples: []
+  id: '196'
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: IS
+  language_code: eng
+id: cdb435a3-3b3e-5a78-bc30-ccfb12ce705f

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '193'
+  localized_concepts:
+    eng: aa5218aa-a4c8-55c6-82aa-e931a11ca449
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 0c2ea468-4b78-5891-8796-d6474941c944
+
+---
+data:
+  definition: []
+  examples: []
+  id: '193'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International Modeling & Software Society Secretariat
+  - type: abbreviation
+    normative_status: preferred
+    designation: iEMSs
+  language_code: eng
+id: aa5218aa-a4c8-55c6-82aa-e931a11ca449

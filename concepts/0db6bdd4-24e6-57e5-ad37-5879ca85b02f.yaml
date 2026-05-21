@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '185'
+  localized_concepts:
+    eng: 6e31f01e-c775-509e-b22f-6c170e013471
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 0db6bdd4-24e6-57e5-ad37-5879ca85b02f
+
+---
+data:
+  definition: []
+  examples: []
+  id: '185'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Infrastructure for Spatial Information in Europe
+  - type: abbreviation
+    normative_status: preferred
+    designation: INSPIRE
+  language_code: eng
+id: 6e31f01e-c775-509e-b22f-6c170e013471

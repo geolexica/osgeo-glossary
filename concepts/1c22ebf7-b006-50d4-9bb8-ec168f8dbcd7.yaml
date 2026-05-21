@@ -1,0 +1,38 @@
+---
+data:
+  identifier: '134'
+  localized_concepts:
+    eng: c42921e9-01d0-590f-9317-a9577ee7de5f
+  domains:
+  - ref:
+related:
+- content: iso-19130-1
+  type: broader
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 1c22ebf7-b006-50d4-9bb8-ec168f8dbcd7
+
+---
+data:
+  definition:
+  - content: determination of the geographic position of an object
+  examples: []
+  id: '134'
+  notes:
+  - content: While there are many methods for geopositioning, this document is focused
+      on geopositioning from image coordinates.
+  sources:
+  - origin:
+      ref: ISO 19130-1:2018
+      locality:
+        type: clause
+        reference_from: '3.36'
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geopositioning
+  language_code: eng
+id: c42921e9-01d0-590f-9317-a9577ee7de5f

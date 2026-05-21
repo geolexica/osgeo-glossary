@@ -1,0 +1,25 @@
+---
+data:
+  identifier: '350'
+  localized_concepts:
+    eng: 173f27bb-5dfd-59b5-8c36-b94f584b7097
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: fcdeacc8-76fa-5481-9ca5-15f0a466a122
+
+---
+data:
+  definition: []
+  examples: []
+  id: '350'
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Request for Proposals
+  - type: abbreviation
+    normative_status: preferred
+    designation: RFP
+  language_code: eng
+id: 173f27bb-5dfd-59b5-8c36-b94f584b7097

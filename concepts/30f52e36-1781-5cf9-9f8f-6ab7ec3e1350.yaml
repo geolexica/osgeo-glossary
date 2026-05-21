@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '398'
+  localized_concepts:
+    eng: 44de35fc-df57-520e-8d2f-c067e74f4de2
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 30f52e36-1781-5cf9-9f8f-6ab7ec3e1350
+
+---
+data:
+  definition: []
+  examples: []
+  id: '398'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Technical Committee Policies and Procedures
+  - type: abbreviation
+    normative_status: preferred
+    designation: TC P&P
+  language_code: eng
+id: 44de35fc-df57-520e-8d2f-c067e74f4de2

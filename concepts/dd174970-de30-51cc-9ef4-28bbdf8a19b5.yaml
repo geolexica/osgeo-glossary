@@ -1,0 +1,29 @@
+---
+data:
+  identifier: iso-19156
+  localized_concepts:
+    eng: 0066b14e-19ab-5cd8-9647-87b8c691de7c
+  domains:
+  - ref:
+related:
+- content: '120'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: dd174970-de30-51cc-9ef4-28bbdf8a19b5
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19156
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19156
+  language_code: eng
+  entry_status: valid
+id: 0066b14e-19ab-5cd8-9647-87b8c691de7c

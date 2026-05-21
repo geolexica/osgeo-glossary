@@ -1,0 +1,27 @@
+---
+data:
+  identifier: '143'
+  localized_concepts:
+    eng: '07909675-5a8a-5fb6-9feb-d88c9e674838'
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: e5e0a29b-6ec4-5583-a336-477f0205915a
+
+---
+data:
+  definition: []
+  examples: []
+  id: '143'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoSPARQL SWG
+  language_code: eng
+id: '07909675-5a8a-5fb6-9feb-d88c9e674838'

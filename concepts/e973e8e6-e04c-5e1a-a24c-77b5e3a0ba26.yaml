@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '55'
+  localized_concepts:
+    eng: d2759feb-b7fc-5c62-b5d0-4247535584ac
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: e973e8e6-e04c-5e1a-a24c-77b5e3a0ba26
+
+---
+data:
+  definition: []
+  examples: []
+  id: '55'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Consortium of Universities for the Advancement of Hydrologic Science
+  - type: abbreviation
+    normative_status: preferred
+    designation: CUAHSI
+  language_code: eng
+id: d2759feb-b7fc-5c62-b5d0-4247535584ac

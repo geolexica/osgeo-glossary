@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '200'
+  localized_concepts:
+    eng: a37e8671-7079-5afe-b91c-73cdfa7adcfb
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: aee1f1c2-810f-58f7-bfca-596a53304ec8
+
+---
+data:
+  definition: []
+  examples: []
+  id: '200'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Interoperability Experiment
+  - type: abbreviation
+    normative_status: preferred
+    designation: IE
+  language_code: eng
+id: a37e8671-7079-5afe-b91c-73cdfa7adcfb

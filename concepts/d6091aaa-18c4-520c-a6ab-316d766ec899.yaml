@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '25'
+  localized_concepts:
+    eng: 05aa0871-a43d-5d45-851c-2128f6bcac57
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d6091aaa-18c4-520c-a6ab-316d766ec899
+
+---
+data:
+  definition: []
+  examples: []
+  id: '25'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Best Practice
+  - type: abbreviation
+    normative_status: preferred
+    designation: BP
+  language_code: eng
+id: 05aa0871-a43d-5d45-851c-2128f6bcac57

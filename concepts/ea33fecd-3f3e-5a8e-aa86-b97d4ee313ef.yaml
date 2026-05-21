@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '32'
+  localized_concepts:
+    eng: 2be97f51-5531-5072-beef-f3ff3aa1c54d
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: ea33fecd-3f3e-5a8e-aa86-b97d4ee313ef
+
+---
+data:
+  definition: []
+  examples: []
+  id: '32'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Cartograhy and Geographic Information Society
+  - type: abbreviation
+    normative_status: preferred
+    designation: CaGIS
+  language_code: eng
+id: 2be97f51-5531-5072-beef-f3ff3aa1c54d

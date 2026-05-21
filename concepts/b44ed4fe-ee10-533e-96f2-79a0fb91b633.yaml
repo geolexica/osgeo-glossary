@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '81'
+  localized_concepts:
+    eng: 9cb37bbd-a66d-571b-87e8-caee1be57435
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: b44ed4fe-ee10-533e-96f2-79a0fb91b633
+
+---
+data:
+  definition: []
+  examples: []
+  id: '81'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Digital Surface Models
+  - type: abbreviation
+    normative_status: preferred
+    designation: DSM
+  language_code: eng
+id: 9cb37bbd-a66d-571b-87e8-caee1be57435

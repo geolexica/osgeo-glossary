@@ -1,0 +1,29 @@
+---
+data:
+  identifier: iso-19128
+  localized_concepts:
+    eng: 94922198-4c52-56a7-affe-9c4c41be4979
+  domains:
+  - ref:
+related:
+- content: '218'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 96bd2939-3e5f-5bb9-bcd1-9019d3eae171
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19128
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19128
+  language_code: eng
+  entry_status: valid
+id: 94922198-4c52-56a7-affe-9c4c41be4979

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '317'
+  localized_concepts:
+    eng: 889531d2-ab09-5260-bf8f-5f23faec379b
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 2055a8f9-53b4-54ce-b8fc-fbbee3532a1d
+
+---
+data:
+  definition: []
+  examples: []
+  id: '317'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Open Grid Forum
+  - type: abbreviation
+    normative_status: preferred
+    designation: OGF
+  language_code: eng
+id: 889531d2-ab09-5260-bf8f-5f23faec379b

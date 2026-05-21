@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '228'
+  localized_concepts:
+    eng: 9fded6bc-48c3-57bc-8afb-b209ba94bc29
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 944d97e0-20a3-5b94-83a9-88895b3a42c6
+
+---
+data:
+  definition:
+  - content: declarative language having a hierarchial format that is used by MapServer
+      to define data connections, map styling, templating, and server directives
+  examples: []
+  id: '228'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Mapfile
+  language_code: eng
+id: 9fded6bc-48c3-57bc-8afb-b209ba94bc29

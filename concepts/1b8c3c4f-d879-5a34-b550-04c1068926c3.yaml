@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '319'
+  localized_concepts:
+    eng: 3d7e6982-62e5-541a-b8f9-d7a6b7c8622c
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 1b8c3c4f-d879-5a34-b550-04c1068926c3
+
+---
+data:
+  definition: []
+  examples: []
+  id: '319'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Open Standards Consortium for Real Estate
+  - type: abbreviation
+    normative_status: preferred
+    designation: OSCRE
+  language_code: eng
+id: 3d7e6982-62e5-541a-b8f9-d7a6b7c8622c

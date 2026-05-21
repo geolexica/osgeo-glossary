@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '90'
+  localized_concepts:
+    eng: 8fe8cb12-7b4f-51e9-b304-f2fd31b82c63
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 526d193a-299d-58b8-8f5c-1f979378f925
+
+---
+data:
+  definition:
+  - content: binary file format used for containing 2D and 3D design data
+  examples: []
+  id: '90'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: DWG file
+  language_code: eng
+id: 8fe8cb12-7b4f-51e9-b304-f2fd31b82c63

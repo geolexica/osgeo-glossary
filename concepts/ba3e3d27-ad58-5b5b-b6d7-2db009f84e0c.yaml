@@ -1,0 +1,38 @@
+---
+data:
+  identifier: '129'
+  localized_concepts:
+    eng: ee8bb420-6d1f-5a20-93a3-cd09dd12d206
+  domains:
+  - ref:
+related:
+- content: iso-19111
+  type: broader
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: ba3e3d27-ad58-5b5b-b6d7-2db009f84e0c
+
+---
+data:
+  definition:
+  - content: equipotential surface of the Earth’s gravity field which is perpendicular
+      to the direction of gravity and which best fits mean sea level either locally,
+      regionally or globally
+  examples: []
+  id: '129'
+  notes: []
+  sources:
+  - origin:
+      ref: ISO 19111:2019
+      locality:
+        type: clause
+        reference_from: 3.1.36
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geoid
+  language_code: eng
+id: ee8bb420-6d1f-5a20-93a3-cd09dd12d206

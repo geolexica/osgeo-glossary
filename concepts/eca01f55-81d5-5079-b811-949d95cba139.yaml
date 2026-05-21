@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '102'
+  localized_concepts:
+    eng: cf08b860-de75-5a7c-87cb-f1d45e6b35de
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: eca01f55-81d5-5079-b811-949d95cba139
+
+---
+data:
+  definition:
+  - content: OASIS standard that defines an XML format for sharing business information
+      between companies
+  examples: []
+  id: '102'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Enterprise Business XML
+  - type: abbreviation
+    normative_status: preferred
+    designation: ebXML
+  language_code: eng
+id: cf08b860-de75-5a7c-87cb-f1d45e6b35de

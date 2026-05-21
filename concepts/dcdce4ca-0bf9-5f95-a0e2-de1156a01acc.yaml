@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '270'
+  localized_concepts:
+    eng: dae50d20-cdef-58a4-839a-74bc65c8eaf4
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: dcdce4ca-0bf9-5f95-a0e2-de1156a01acc
+
+---
+data:
+  definition: []
+  examples: []
+  id: '270'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC City Geography Markup Language (CityGML) Encoding Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: CityGML
+  language_code: eng
+id: dae50d20-cdef-58a4-839a-74bc65c8eaf4

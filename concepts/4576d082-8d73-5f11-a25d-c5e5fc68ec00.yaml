@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '390'
+  localized_concepts:
+    eng: c6a9c3ca-24ff-5a8c-829c-ef98db3d0df5
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 4576d082-8d73-5f11-a25d-c5e5fc68ec00
+
+---
+data:
+  definition:
+  - content: standard programming language for querying relational databases
+  examples: []
+  id: '390'
+  notes:
+  - content: See http://en.wikipedia.org/wiki/SQL
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Structured Query Language
+  - type: abbreviation
+    normative_status: preferred
+    designation: SQL
+  language_code: eng
+id: c6a9c3ca-24ff-5a8c-829c-ef98db3d0df5

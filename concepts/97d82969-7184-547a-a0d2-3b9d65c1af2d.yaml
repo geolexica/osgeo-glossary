@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '125'
+  localized_concepts:
+    eng: b46f8331-82c3-51a5-bb2c-009750ca5885
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 97d82969-7184-547a-a0d2-3b9d65c1af2d
+
+---
+data:
+  definition:
+  - content: software graphics library for dynamic generation of images
+  examples: []
+  id: '125'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GD Graphics (Draw) Library
+  - type: abbreviation
+    normative_status: preferred
+    designation: GD
+  language_code: eng
+id: b46f8331-82c3-51a5-bb2c-009750ca5885

@@ -1,0 +1,32 @@
+---
+data:
+  identifier: iso-19115-2
+  localized_concepts:
+    eng: 5faefdc8-d9af-5c83-8690-4bb17b8237ec
+  domains:
+  - ref:
+related:
+- content: '136'
+  type: narrower
+  ref:
+- content: '179'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 5b363fe3-39ae-58b1-af0a-9769a9708d56
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19115-2
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19115-2
+  language_code: eng
+  entry_status: valid
+id: 5faefdc8-d9af-5c83-8690-4bb17b8237ec

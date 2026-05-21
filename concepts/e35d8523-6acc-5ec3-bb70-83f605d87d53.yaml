@@ -1,0 +1,47 @@
+---
+data:
+  identifier: iso-19111
+  localized_concepts:
+    eng: cc46f9e7-7b0b-56dc-b725-9847462c15f3
+  domains:
+  - ref:
+related:
+- content: '129'
+  type: narrower
+  ref:
+- content: '227'
+  type: narrower
+  ref:
+- content: '340'
+  type: narrower
+  ref:
+- content: '57'
+  type: narrower
+  ref:
+- content: '59'
+  type: narrower
+  ref:
+- content: '60'
+  type: narrower
+  ref:
+- content: '98'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: e35d8523-6acc-5ec3-bb70-83f605d87d53
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19111
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19111
+  language_code: eng
+  entry_status: valid
+id: cc46f9e7-7b0b-56dc-b725-9847462c15f3

@@ -1,0 +1,35 @@
+---
+data:
+  identifier: iso-19123
+  localized_concepts:
+    eng: 99bd3800-1f01-59cf-af53-1ddc739b4d4a
+  domains:
+  - ref:
+related:
+- content: '167'
+  type: narrower
+  ref:
+- content: '338'
+  type: narrower
+  ref:
+- content: '61'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 93d3dec7-1adf-51d0-82a6-53be358b3137
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19123
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19123
+  language_code: eng
+  entry_status: valid
+id: 99bd3800-1f01-59cf-af53-1ddc739b4d4a

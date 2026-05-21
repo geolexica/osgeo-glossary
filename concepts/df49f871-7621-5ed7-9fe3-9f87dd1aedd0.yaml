@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '326'
+  localized_concepts:
+    eng: 0bca569b-c2be-5bdf-9cf4-aa3c647a69a3
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: df49f871-7621-5ed7-9fe3-9f87dd1aedd0
+
+---
+data:
+  definition: []
+  examples: []
+  id: '326'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Organization for the Advancement of Structured Information Standards
+  - type: abbreviation
+    normative_status: preferred
+    designation: OASIS
+  language_code: eng
+id: 0bca569b-c2be-5bdf-9cf4-aa3c647a69a3

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '202'
+  localized_concepts:
+    eng: 283fdb74-4b9f-5fb0-99d1-8e441bdf9f71
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 0551bf8b-3483-5657-8805-e26d73bf5aeb
+
+---
+data:
+  definition: []
+  examples: []
+  id: '202'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Interoperability Program Team
+  - type: abbreviation
+    normative_status: preferred
+    designation: IPTeam
+  language_code: eng
+id: 283fdb74-4b9f-5fb0-99d1-8e441bdf9f71

@@ -1,0 +1,34 @@
+---
+data:
+  identifier: '262'
+  localized_concepts:
+    eng: d3ff90fd-684e-5c09-8bbf-9f8e54012d4e
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: cca6afa2-27ca-592d-89a7-86ce460caf9f
+
+---
+data:
+  definition:
+  - content: computer programming model that organizes software design around data,
+      or objects, rather than functions and logic
+  examples: []
+  id: '262'
+  notes:
+  - content: Here an object can be defined as a data field that has unique attributes
+      and behavior.
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Object Oriented
+  - type: abbreviation
+    normative_status: preferred
+    designation: OO
+  language_code: eng
+id: d3ff90fd-684e-5c09-8bbf-9f8e54012d4e

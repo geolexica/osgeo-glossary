@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '408'
+  localized_concepts:
+    eng: d12fd073-acec-5fb6-b31e-5dc397009a40
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 389b9951-37cd-56ba-97ee-7061c37ada27
+
+---
+data:
+  definition: []
+  examples: []
+  id: '408'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Unified Modeling Language
+  - type: abbreviation
+    normative_status: preferred
+    designation: Unified Modeling Language
+  language_code: eng
+id: d12fd073-acec-5fb6-b31e-5dc397009a40

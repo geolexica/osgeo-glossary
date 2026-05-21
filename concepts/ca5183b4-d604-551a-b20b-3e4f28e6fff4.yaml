@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '148'
+  localized_concepts:
+    eng: ecd9e3c4-0b4e-5712-8659-4c5f38cd6581
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: ca5183b4-d604-551a-b20b-3e4f28e6fff4
+
+---
+data:
+  definition:
+  - content: "guidelines for creating the content and structure of a metadata file\n "
+  examples:
+  - content: The FGDC metadata standard.
+  id: '148'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://wiki.osgeo.org/wiki/Starter_Dictionary
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: geospatial metadata standard
+  language_code: eng
+id: ecd9e3c4-0b4e-5712-8659-4c5f38cd6581

@@ -1,0 +1,29 @@
+---
+data:
+  identifier: iso-19145
+  localized_concepts:
+    eng: 0e458cd6-1041-5e80-809b-b43100cbe1bc
+  domains:
+  - ref:
+related:
+- content: '50'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 6d39753b-ecb8-5898-b4fe-43a9a990b0f3
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19145
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19145
+  language_code: eng
+  entry_status: valid
+id: 0e458cd6-1041-5e80-809b-b43100cbe1bc

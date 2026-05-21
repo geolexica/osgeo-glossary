@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '401'
+  localized_concepts:
+    eng: cb58d264-0888-5a79-b721-55aec79c7be8
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 3fc46748-8f4e-5a90-8ce5-bab14a2e09e1
+
+---
+data:
+  definition: []
+  examples: []
+  id: '401'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: The Council of European Geodetic Surveyors
+  - type: abbreviation
+    normative_status: preferred
+    designation: CLGE
+  language_code: eng
+id: cb58d264-0888-5a79-b721-55aec79c7be8

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '140'
+  localized_concepts:
+    eng: b708ec28-01c9-5dc3-8940-5d815a9eaee1
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d420d991-b0d5-5c05-9e02-380b26d71f52
+
+---
+data:
+  definition:
+  - content: GeoServer connection to a source of raster or vector data
+  examples:
+  - content: A GeoServer Data Store can be a file or group of files, a database table,
+      etc.
+  id: '140'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoServer Data Store
+  language_code: eng
+id: b708ec28-01c9-5dc3-8940-5d815a9eaee1

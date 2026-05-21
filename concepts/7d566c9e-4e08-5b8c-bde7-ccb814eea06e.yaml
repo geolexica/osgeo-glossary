@@ -1,0 +1,43 @@
+---
+data:
+  identifier: '98'
+  localized_concepts:
+    eng: e17d0ac1-08c0-5784-847e-fcecf5e9bae2
+  domains:
+  - ref:
+related:
+- content: iso-19111
+  type: broader
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 7d566c9e-4e08-5b8c-bde7-ccb814eea06e
+
+---
+data:
+  definition:
+  - content: "<geodesy> geometric reference surface embedded in 3D Euclidean space
+      formed by an ellipse that is rotated about a main axis"
+  examples: []
+  id: '98'
+  notes:
+  - content: For the Earth the ellipsoid is bi-axial with rotation about the polar
+      axis. This results in an oblate ellipsoid with the midpoint of the foci located
+      at the nominal centre of the Earth.
+  sources:
+  - origin:
+      ref: ISO 19111:2019
+      locality:
+        type: clause
+        reference_from: 3.1.22
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ellipsoid
+  - type: expression
+    normative_status: preferred
+    designation: reference ellipsoid
+  language_code: eng
+id: e17d0ac1-08c0-5784-847e-fcecf5e9bae2

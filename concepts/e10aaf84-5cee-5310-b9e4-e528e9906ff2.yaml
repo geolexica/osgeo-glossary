@@ -1,0 +1,29 @@
+---
+data:
+  identifier: iso-19133
+  localized_concepts:
+    eng: fbc6ba0a-2344-51dd-8960-bf28c350e95a
+  domains:
+  - ref:
+related:
+- content: '223'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: e10aaf84-5cee-5310-b9e4-e528e9906ff2
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19133
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19133
+  language_code: eng
+  entry_status: valid
+id: fbc6ba0a-2344-51dd-8960-bf28c350e95a

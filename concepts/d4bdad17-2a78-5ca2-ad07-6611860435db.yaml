@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '344'
+  localized_concepts:
+    eng: cd5c1211-4e36-5274-bc06-7e87d5d92960
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d4bdad17-2a78-5ca2-ad07-6611860435db
+
+---
+data:
+  definition: []
+  examples: []
+  id: '344'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Remote Procedure Call
+  - type: abbreviation
+    normative_status: preferred
+    designation: RPC
+  language_code: eng
+id: cd5c1211-4e36-5274-bc06-7e87d5d92960

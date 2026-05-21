@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '48'
+  localized_concepts:
+    eng: df155b60-04d6-5fb8-91d8-d9729f279605
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 1062ffde-5d80-5f4f-ad20-41d9c5f77f92
+
+---
+data:
+  definition: []
+  examples: []
+  id: '48'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Compliance Test Language
+  - type: abbreviation
+    normative_status: preferred
+    designation: CTL
+  language_code: eng
+id: df155b60-04d6-5fb8-91d8-d9729f279605

@@ -1,0 +1,38 @@
+---
+data:
+  identifier: '377'
+  localized_concepts:
+    eng: 45f323ce-607c-54c0-b72b-af0993d839b5
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 2173d383-1d7e-52f5-9d48-1ca5a55d03cb
+
+---
+data:
+  definition:
+  - content: computer system integrated by a set of resources to manage geographic
+      information available from the Internet, that follow a set of interoperational
+      capacity conditions that allow access through a simple browser and can be combined
+      based on user needs
+  examples:
+  - content: Catalogues, servers, programs, data, applications, web pages are examples
+      of various resources.
+  - content: Rules, specifications, protocols, and interfaces are examples of interoperational
+      capacity conditions.
+  id: '377'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://joinup.ec.europa.eu/sites/default/files/document/2011-12/gvsig-1_0-man-v1-en_01.pdf
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Spatial Data Infrastructure
+  - type: abbreviation
+    normative_status: preferred
+    designation: SDI
+  language_code: eng
+id: 45f323ce-607c-54c0-b72b-af0993d839b5

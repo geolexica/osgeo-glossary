@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '204'
+  localized_concepts:
+    eng: c7b11349-7795-5669-b883-e2dcea2e0eab
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 39e6f736-5f7d-5bca-bf4c-64f030a598d1
+
+---
+data:
+  definition:
+  - content: database language intended for for spatial applications based on SQL
+      defined by ISO/IEC 13249-3:2016
+  examples: []
+  id: '204'
+  notes: []
+  sources:
+  - origin:
+      ref: Sandro
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: ISO SQL/MM
+  language_code: eng
+id: c7b11349-7795-5669-b883-e2dcea2e0eab

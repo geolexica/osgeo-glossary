@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '330'
+  localized_concepts:
+    eng: 35177c35-5be7-5dcd-bf3d-4f2b46739dbc
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: b67617e9-9d90-5fdf-bd4b-457cc105b49b
+
+---
+data:
+  definition: []
+  examples: []
+  id: '330'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Planning Committee
+  - type: abbreviation
+    normative_status: preferred
+    designation: PC
+  language_code: eng
+id: 35177c35-5be7-5dcd-bf3d-4f2b46739dbc

@@ -34,18 +34,28 @@ jobs:
             VERSION="${{ inputs.version }}"
           fi
           echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
-          echo "filename=osgeo-${VERSION}.gcr" >> "$GITHUB_OUTPUT"
 
-      - name: Build GCR package
+      - name: Build standard GCR package
         run: |
-          glossarist package . -o "${{ steps.version.outputs.filename }}" \
+          glossarist package . -o "osgeo-${{ steps.version.outputs.version }}.gcr" \
             --shortname osgeo \
             --version "${{ steps.version.outputs.version }}" \
             --title "OSGeo Lexicon" \
             --owner "OSGeo"
 
-      - name: Create unversioned alias
-        run: cp "${{ steps.version.outputs.filename }}" osgeo.gcr
+      - name: Build full GCR package (with compiled formats)
+        run: |
+          glossarist package . -o "osgeo-${{ steps.version.outputs.version }}-full.gcr" \
+            --shortname osgeo \
+            --version "${{ steps.version.outputs.version }}" \
+            --title "OSGeo Lexicon" \
+            --owner "OSGeo" \
+            --compiled-formats tbx,jsonld,turtle,jsonl
+
+      - name: Create unversioned aliases
+        run: |
+          cp "osgeo-${{ steps.version.outputs.version }}.gcr" osgeo.gcr
+          cp "osgeo-${{ steps.version.outputs.version }}-full.gcr" osgeo-full.gcr
 
       - name: Publish GitHub Release
         uses: softprops/action-gh-release@v2
@@ -54,5 +64,7 @@ jobs:
           name: "GCR Package v${{ steps.version.outputs.version }}"
           body: "Auto-generated GCR package containing OSGeo concepts."
           files: |
-            ${{ steps.version.outputs.filename }}
+            osgeo-${{ steps.version.outputs.version }}.gcr
             osgeo.gcr
+            osgeo-${{ steps.version.outputs.version }}-full.gcr
+            osgeo-full.gcr

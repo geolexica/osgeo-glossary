@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '391'
+  localized_concepts:
+    eng: 8648b6ae-3299-5c32-b68c-8b758f07080f
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 290139cb-6bb5-508f-aa09-0ff0542fdbc8
+
+---
+data:
+  definition:
+  - content: OGC specification format defining the cartographic rendering of vector
+      features
+  examples: []
+  id: '391'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Styled Layer Descriptor
+  - type: abbreviation
+    normative_status: preferred
+    designation: SLD
+  language_code: eng
+id: 8648b6ae-3299-5c32-b68c-8b758f07080f

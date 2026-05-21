@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '118'
+  localized_concepts:
+    eng: fbec6df5-f641-5256-9f1a-3b9219d39805
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d9128870-e2df-5cf3-87da-7e1d9cf77747
+
+---
+data:
+  definition: []
+  examples: []
+  id: '118'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: eXtensible Style Sheet Transformation
+  - type: abbreviation
+    normative_status: preferred
+    designation: XSLT
+  language_code: eng
+id: fbec6df5-f641-5256-9f1a-3b9219d39805

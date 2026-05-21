@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '85'
+  localized_concepts:
+    eng: 3dac4586-57e6-5523-ac7d-76ee6d639d5b
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: b191263c-b420-5073-b70a-18d0bbd602db
+
+---
+data:
+  definition: []
+  examples: []
+  id: '85'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Distributed Computing Environment
+  - type: abbreviation
+    normative_status: preferred
+    designation: DCE
+  language_code: eng
+id: 3dac4586-57e6-5523-ac7d-76ee6d639d5b

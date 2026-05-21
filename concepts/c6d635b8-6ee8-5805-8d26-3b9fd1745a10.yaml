@@ -1,0 +1,25 @@
+---
+data:
+  identifier: '435'
+  localized_concepts:
+    eng: '078039b3-af48-5b26-babb-767629669641'
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: c6d635b8-6ee8-5805-8d26-3b9fd1745a10
+
+---
+data:
+  definition: []
+  examples: []
+  id: '435'
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Workflow Management Coalition
+  - type: abbreviation
+    normative_status: preferred
+    designation: WfMC
+  language_code: eng
+id: '078039b3-af48-5b26-babb-767629669641'

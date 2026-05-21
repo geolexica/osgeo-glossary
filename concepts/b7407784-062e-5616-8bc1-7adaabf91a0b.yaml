@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '314'
+  localized_concepts:
+    eng: 570594d0-c6ce-5743-bcf9-e713c0a4975f
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: b7407784-062e-5616-8bc1-7adaabf91a0b
+
+---
+data:
+  definition: []
+  examples: []
+  id: '314'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Open Educational Resources
+  - type: abbreviation
+    normative_status: preferred
+    designation: OER
+  language_code: eng
+id: 570594d0-c6ce-5743-bcf9-e713c0a4975f

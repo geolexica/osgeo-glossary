@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '86'
+  localized_concepts:
+    eng: dafaa671-b9f9-5fb7-931b-8f5a0b3057f0
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: fc280ca9-2bc7-56a2-9eed-0a482ae304d5
+
+---
+data:
+  definition: []
+  examples: []
+  id: '86'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Distributed Computing Platform
+  - type: abbreviation
+    normative_status: preferred
+    designation: DCP
+  language_code: eng
+id: dafaa671-b9f9-5fb7-931b-8f5a0b3057f0

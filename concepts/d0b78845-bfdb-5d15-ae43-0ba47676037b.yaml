@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '308'
+  localized_concepts:
+    eng: 7db99b15-fcc2-52fe-b629-bd7ed09905bb
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d0b78845-bfdb-5d15-ae43-0ba47676037b
+
+---
+data:
+  definition: []
+  examples: []
+  id: '308'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Web Service Common Interface Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: WSC
+  language_code: eng
+id: 7db99b15-fcc2-52fe-b629-bd7ed09905bb

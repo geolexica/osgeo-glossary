@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '441'
+  localized_concepts:
+    eng: f28bc3ac-85fa-5107-824c-882d5a9bcaa5
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 700cb5c3-4761-51c7-b9f8-4e292d201bfe
+
+---
+data:
+  definition: []
+  examples: []
+  id: '441'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: World Wide Web Consortium
+  - type: abbreviation
+    normative_status: preferred
+    designation: W3C
+  language_code: eng
+id: f28bc3ac-85fa-5107-824c-882d5a9bcaa5

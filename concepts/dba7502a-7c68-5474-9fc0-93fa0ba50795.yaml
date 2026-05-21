@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '427'
+  localized_concepts:
+    eng: 840ef46d-6410-5e58-b5b1-5c99551c6aab
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: dba7502a-7c68-5474-9fc0-93fa0ba50795
+
+---
+data:
+  definition: []
+  examples: []
+  id: '427'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Web Mapping Testbed
+  - type: abbreviation
+    normative_status: preferred
+    designation: WMT
+  language_code: eng
+id: 840ef46d-6410-5e58-b5b1-5c99551c6aab

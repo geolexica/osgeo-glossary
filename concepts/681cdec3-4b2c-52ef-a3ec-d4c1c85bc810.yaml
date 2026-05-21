@@ -1,0 +1,33 @@
+---
+data:
+  identifier: '123'
+  localized_concepts:
+    eng: e8d9dcf6-2617-5e1a-8177-1d51703eba73
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 681cdec3-4b2c-52ef-a3ec-d4c1c85bc810
+
+---
+data:
+  definition:
+  - content: software which is liberally licensed to grant the right of users to study,
+      change, and improve its design through the availability of its source code
+  examples: []
+  id: '123'
+  notes:
+  - content: Also F/OSS, FOSS, or FLOSS (free/libre/open source software). See http://en.wikipedia.org/wiki/FOSS
+  sources:
+  - origin:
+      ref:
+      link: https://geonetwork-opensource.org/manuals/2.10.4/eng/users/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Free and Open Source Software
+  - type: abbreviation
+    normative_status: preferred
+    designation: FOSS
+  language_code: eng
+id: e8d9dcf6-2617-5e1a-8177-1d51703eba73

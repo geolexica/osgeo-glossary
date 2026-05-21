@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '243'
+  localized_concepts:
+    eng: 6868dca5-33e5-5f11-a726-97a410bc3757
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: '049be33f-1e09-54b1-87f2-640cf7506fc7'
+
+---
+data:
+  definition: []
+  examples: []
+  id: '243'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: National Elevation Dataset
+  - type: abbreviation
+    normative_status: preferred
+    designation: NED
+  language_code: eng
+id: 6868dca5-33e5-5f11-a726-97a410bc3757

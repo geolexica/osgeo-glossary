@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '130'
+  localized_concepts:
+    eng: 854b3b5f-5de1-5221-aabc-6100b62744b9
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: cc768612-2007-532e-a83b-02c8b2a95684
+
+---
+data:
+  definition:
+  - content: format for encoding a variety of geographic data structures using JSON
+  examples: []
+  id: '130'
+  notes:
+  - content: GeoJSON is commonly used in spatial applications.
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: GeoJSON
+  language_code: eng
+id: 854b3b5f-5de1-5221-aabc-6100b62744b9

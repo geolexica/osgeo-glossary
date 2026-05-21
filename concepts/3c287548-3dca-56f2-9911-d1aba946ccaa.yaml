@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '72'
+  localized_concepts:
+    eng: 7a1fbcf3-fdbc-55ff-b191-3ecc5d323809
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 3c287548-3dca-56f2-9911-d1aba946ccaa
+
+---
+data:
+  definition: []
+  examples: []
+  id: '72'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Decision Support Domain Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: DS DWG
+  language_code: eng
+id: 7a1fbcf3-fdbc-55ff-b191-3ecc5d323809

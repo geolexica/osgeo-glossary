@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '21'
+  localized_concepts:
+    eng: 859b36f6-cdfc-5732-b76e-c5dee4e60cf0
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 95401d31-95f6-57ef-a9a6-695d5df783f2
+
+---
+data:
+  definition: []
+  examples: []
+  id: '21'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Australian Urban Research Infrastructure Network
+  - type: abbreviation
+    normative_status: preferred
+    designation: AURIN
+  language_code: eng
+id: 859b36f6-cdfc-5732-b76e-c5dee4e60cf0

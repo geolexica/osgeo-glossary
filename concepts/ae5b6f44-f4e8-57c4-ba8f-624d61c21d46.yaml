@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '79'
+  localized_concepts:
+    eng: 3d5e56fb-0b84-590f-9b18-5f380a048d45
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: ae5b6f44-f4e8-57c4-ba8f-624d61c21d46
+
+---
+data:
+  definition: []
+  examples: []
+  id: '79'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Digital Landscape Model
+  - type: abbreviation
+    normative_status: preferred
+    designation: DLM
+  language_code: eng
+id: 3d5e56fb-0b84-590f-9b18-5f380a048d45

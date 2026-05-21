@@ -1,0 +1,28 @@
+---
+data:
+  identifier: '357'
+  localized_concepts:
+    eng: 628fba06-7f27-574e-95b5-0f95bda30a35
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 574c3fa7-8fc7-5ca7-87ce-d9acaa3be704
+
+---
+data:
+  definition:
+  - content: constant relation between a distance in a map and the corresponding real
+      distance
+  examples: []
+  id: '357'
+  notes: []
+  sources:
+  - origin:
+      ref: GVSIG_1-0_2011
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: scale, of a map
+  language_code: eng
+id: 628fba06-7f27-574e-95b5-0f95bda30a35

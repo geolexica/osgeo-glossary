@@ -1,0 +1,32 @@
+---
+data:
+  identifier: '13'
+  localized_concepts:
+    eng: f0791ab3-2052-5ba5-9895-35e4d7c35a05
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 314bb15a-4495-53e7-a0f6-0b4b1c90e94b
+
+---
+data:
+  definition:
+  - content: graphic rendering engine, supporting sub-pixel anti-aliasing, for MapServer
+      5.0 or greater
+  examples: []
+  id: '13'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Anti-Grain Geometry
+  - type: abbreviation
+    normative_status: preferred
+    designation: AGG
+  language_code: eng
+id: f0791ab3-2052-5ba5-9895-35e4d7c35a05

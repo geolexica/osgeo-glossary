@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '351'
+  localized_concepts:
+    eng: c98e0400-133f-5d4d-879d-0928b8e17189
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 818656d7-f839-5503-88cd-6b6b4cc97770
+
+---
+data:
+  definition: []
+  examples: []
+  id: '351'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Request for Technology
+  - type: abbreviation
+    normative_status: preferred
+    designation: RFT
+  language_code: eng
+id: c98e0400-133f-5d4d-879d-0928b8e17189

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '75'
+  localized_concepts:
+    eng: 8091abe9-2e4d-5703-8314-fe4a62178499
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 3ce849a3-ca83-5234-b327-763c035453ab
+
+---
+data:
+  definition:
+  - content: cartography transfer standard defined by GOST R 50828-95
+  examples: []
+  id: '75'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Digital and Electronic Maps Transfer Standard
+  - type: abbreviation
+    normative_status: preferred
+    designation: DEMTS
+  language_code: eng
+id: 8091abe9-2e4d-5703-8314-fe4a62178499

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '198'
+  localized_concepts:
+    eng: 7ef2325c-ae46-5410-8ff0-81b169439c63
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: e0005834-b9ca-512a-a1fa-5c8bd33bfc77
+
+---
+data:
+  definition: []
+  examples: []
+  id: '198'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Internet Engineering Task Force
+  - type: abbreviation
+    normative_status: preferred
+    designation: IETF
+  language_code: eng
+id: 7ef2325c-ae46-5410-8ff0-81b169439c63

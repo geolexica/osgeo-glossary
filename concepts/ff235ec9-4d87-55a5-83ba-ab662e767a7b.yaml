@@ -1,0 +1,29 @@
+---
+data:
+  identifier: '288'
+  localized_concepts:
+    eng: d8260098-ffb8-56c0-a66b-c1fcda670165
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: ff235ec9-4d87-55a5-83ba-ab662e767a7b
+
+---
+data:
+  definition:
+  - content: Meteorology & Oceanography Domain Working Group
+  examples: []
+  id: '288'
+  notes:
+  - content: the group exists in the Open Geospatial Consortium (OGC)
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: OGC Met Ocean DWG
+  language_code: eng
+id: d8260098-ffb8-56c0-a66b-c1fcda670165

@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '192'
+  localized_concepts:
+    eng: 7832f728-cce4-5a3b-b80a-1f2eb9152647
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 31d4da21-7e19-51e5-9e79-0bb0eab0773c
+
+---
+data:
+  definition: []
+  examples: []
+  id: '192'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: International Hydrographic Office
+  - type: abbreviation
+    normative_status: preferred
+    designation: OHI
+  language_code: eng
+id: 7832f728-cce4-5a3b-b80a-1f2eb9152647

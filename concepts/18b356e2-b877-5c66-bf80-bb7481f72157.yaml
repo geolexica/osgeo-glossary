@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '153'
+  localized_concepts:
+    eng: 4d5b274e-3f06-5d3b-8af7-e1c071b46943
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 18b356e2-b877-5c66-bf80-bb7481f72157
+
+---
+data:
+  definition: []
+  examples: []
+  id: '153'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Global Navigational Satellite System
+  - type: abbreviation
+    normative_status: preferred
+    designation: GNSS
+  language_code: eng
+id: 4d5b274e-3f06-5d3b-8af7-e1c071b46943

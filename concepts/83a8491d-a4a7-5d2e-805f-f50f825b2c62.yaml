@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '428'
+  localized_concepts:
+    eng: 0d7fb23c-69ee-51bb-b537-484f8aec9d22
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 83a8491d-a4a7-5d2e-805f-f50f825b2c62
+
+---
+data:
+  definition: []
+  examples: []
+  id: '428'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Web Processing Service
+  - type: abbreviation
+    normative_status: preferred
+    designation: WPS
+  language_code: eng
+id: 0d7fb23c-69ee-51bb-b537-484f8aec9d22

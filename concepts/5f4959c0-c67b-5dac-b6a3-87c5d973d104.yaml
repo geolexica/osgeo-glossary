@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '169'
+  localized_concepts:
+    eng: fb7b397a-84eb-57dc-827e-80cc842be613
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 5f4959c0-c67b-5dac-b6a3-87c5d973d104
+
+---
+data:
+  definition: []
+  examples: []
+  id: '169'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Group on Earth Observations
+  - type: abbreviation
+    normative_status: preferred
+    designation: GEO
+  language_code: eng
+id: fb7b397a-84eb-57dc-827e-80cc842be613

@@ -1,0 +1,31 @@
+---
+data:
+  identifier: '263'
+  localized_concepts:
+    eng: 03c597eb-42d5-5957-9065-466c7e7bfe52
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 71c5095c-831d-5394-a752-c37237b34460
+
+---
+data:
+  definition:
+  - content: OGC standard which defines an abstract model for sensor based data
+  examples: []
+  id: '263'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://mapserver.org/glossary.html
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Observations and Measurements
+  - type: abbreviation
+    normative_status: preferred
+    designation: OM
+  language_code: eng
+id: 03c597eb-42d5-5957-9065-466c7e7bfe52

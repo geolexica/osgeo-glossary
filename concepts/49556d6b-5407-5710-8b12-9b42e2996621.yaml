@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '259'
+  localized_concepts:
+    eng: c2b36810-362a-52ed-8e4a-9ae733ffbfba
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 49556d6b-5407-5710-8b12-9b42e2996621
+
+---
+data:
+  definition: []
+  examples: []
+  id: '259'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: North American Datum
+  - type: abbreviation
+    normative_status: preferred
+    designation: NAD
+  language_code: eng
+id: c2b36810-362a-52ed-8e4a-9ae733ffbfba

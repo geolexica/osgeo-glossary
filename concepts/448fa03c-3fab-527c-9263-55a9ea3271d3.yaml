@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '442'
+  localized_concepts:
+    eng: e14a82d7-4f14-5191-937c-39aec3a9abd2
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 448fa03c-3fab-527c-9263-55a9ea3271d3
+
+---
+data:
+  definition: []
+  examples: []
+  id: '442'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: XML for Imagery and Map Annotations
+  - type: abbreviation
+    normative_status: preferred
+    designation: XIMA
+  language_code: eng
+id: e14a82d7-4f14-5191-937c-39aec3a9abd2

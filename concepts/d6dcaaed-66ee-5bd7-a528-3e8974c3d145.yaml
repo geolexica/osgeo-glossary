@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '15'
+  localized_concepts:
+    eng: e1e5c5d0-2afd-5334-9cfb-2fa291f2f4d8
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: d6dcaaed-66ee-5bd7-a528-3e8974c3d145
+
+---
+data:
+  definition: []
+  examples: []
+  id: '15'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Architecture Domain Working Group
+  - type: abbreviation
+    normative_status: preferred
+    designation: Arch DWG
+  language_code: eng
+id: e1e5c5d0-2afd-5334-9cfb-2fa291f2f4d8

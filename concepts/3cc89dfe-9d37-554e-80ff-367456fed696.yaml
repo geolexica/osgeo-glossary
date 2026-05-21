@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '417'
+  localized_concepts:
+    eng: 0222c8d4-77ad-5a42-9a65-1acea814e9f4
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 3cc89dfe-9d37-554e-80ff-367456fed696
+
+---
+data:
+  definition: []
+  examples: []
+  id: '417'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Unmanned Aerial Vehicle
+  - type: abbreviation
+    normative_status: preferred
+    designation: UAV
+  language_code: eng
+id: 0222c8d4-77ad-5a42-9a65-1acea814e9f4

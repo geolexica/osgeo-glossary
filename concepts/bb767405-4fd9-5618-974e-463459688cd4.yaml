@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '175'
+  localized_concepts:
+    eng: 946019d3-533b-552c-a05b-8d29b629ef6a
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: bb767405-4fd9-5618-974e-463459688cd4
+
+---
+data:
+  definition: []
+  examples: []
+  id: '175'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Human Technology Interface
+  - type: abbreviation
+    normative_status: preferred
+    designation: HTI
+  language_code: eng
+id: 946019d3-533b-552c-a05b-8d29b629ef6a

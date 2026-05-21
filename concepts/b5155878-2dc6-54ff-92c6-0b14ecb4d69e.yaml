@@ -1,0 +1,29 @@
+---
+data:
+  identifier: iso-19136
+  localized_concepts:
+    eng: a26273a2-394e-5c40-9e7f-1de94aa54beb
+  domains:
+  - ref:
+related:
+- content: '240'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: b5155878-2dc6-54ff-92c6-0b14ecb4d69e
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19136
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19136
+  language_code: eng
+  entry_status: valid
+id: a26273a2-394e-5c40-9e7f-1de94aa54beb

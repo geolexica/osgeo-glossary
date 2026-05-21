@@ -1,0 +1,32 @@
+---
+data:
+  identifier: iso-19130-1
+  localized_concepts:
+    eng: 99beeb50-3cda-55e9-a40c-bb7b1dcf59cf
+  domains:
+  - ref:
+related:
+- content: '134'
+  type: narrower
+  ref:
+- content: '137'
+  type: narrower
+  ref:
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: e89e3e43-fd8e-5c2b-912d-a76a06485872
+
+---
+data:
+  definition: []
+  examples: []
+  id: iso-19130-1
+  notes: []
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: iso-19130-1
+  language_code: eng
+  entry_status: valid
+id: 99beeb50-3cda-55e9-a40c-bb7b1dcf59cf

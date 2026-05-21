@@ -1,0 +1,30 @@
+---
+data:
+  identifier: '154'
+  localized_concepts:
+    eng: c4bafc37-cc6f-5a8d-bdcf-6d82703e306b
+date_accepted: '2011-01-01T00:00:00+00:00'
+status: valid
+schema_version: '3'
+id: 1ebf31b2-b73d-521e-99c7-5f513385fa72
+
+---
+data:
+  definition: []
+  examples: []
+  id: '154'
+  notes: []
+  sources:
+  - origin:
+      ref:
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Global Open Data for Agriculture and Nutrition
+  - type: abbreviation
+    normative_status: preferred
+    designation: GODAN
+  language_code: eng
+id: c4bafc37-cc6f-5a8d-bdcf-6d82703e306b
