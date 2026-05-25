@@ -43,7 +43,7 @@ jobs:
             --title "OSGeo Lexicon" \
             --owner "OSGeo"
 
-      - name: Build full GCR package (with formats)
+      - name: Build full GCR package (with compiled formats)
         run: |
           glossarist package . -o "osgeo-${{ steps.version.outputs.version }}-full.gcr" \
             --shortname osgeo \

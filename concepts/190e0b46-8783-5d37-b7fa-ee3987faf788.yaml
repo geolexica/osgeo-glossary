@@ -1,0 +1,35 @@
+data:
+  identifier: '201'
+  localized_concepts:
+    eng: 5a1eeb97-4cad-58ad-b482-7ec9ef9bdc3b
+status: valid
+date_accepted: '2021-01-20T00:00:00+00:00'
+schema_version: '3'
+id: 190e0b46-8783-5d37-b7fa-ee3987faf788
+related:
+- content: '187'
+  type: supersedes
+  ref:
+    source: OSGeo
+    id: '187'
+---
+data:
+  definition: []
+  examples: []
+  id: '201'
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: https://www.opengeospatial.org/acronyms
+      link: https://www.opengeospatial.org/acronyms
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Interoperability Program
+  - type: abbreviation
+    normative_status: preferred
+    designation: IP
+  language_code: eng
+id: 5a1eeb97-4cad-58ad-b482-7ec9ef9bdc3b
