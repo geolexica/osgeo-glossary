@@ -1,4 +1,5 @@
 name: OSGeo Lexicon
+schema_version: '3'
 
 description: >-
   Online glossary for OSGeo.

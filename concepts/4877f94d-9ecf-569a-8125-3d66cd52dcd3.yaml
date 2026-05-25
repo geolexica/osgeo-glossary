@@ -1,0 +1,29 @@
+data:
+  identifier: '220'
+  localized_concepts:
+    eng: b6ced2be-c636-5da5-9a4e-61b6081784da
+status: valid
+date_accepted: '2021-01-20T00:00:00+00:00'
+schema_version: '3'
+id: 4877f94d-9ecf-569a-8125-3d66cd52dcd3
+---
+data:
+  definition: []
+  examples: []
+  id: '220'
+  notes: []
+  sources:
+  - origin:
+      ref:
+        source: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+      link: https://www.osgeo.org/initiatives/geo-for-all/geo-newsletters-archive/
+    type: authoritative
+  terms:
+  - type: expression
+    normative_status: preferred
+    designation: Light Detection and Ranging
+  - type: abbreviation
+    normative_status: preferred
+    designation: LiDAR
+  language_code: eng
+id: b6ced2be-c636-5da5-9a4e-61b6081784da
