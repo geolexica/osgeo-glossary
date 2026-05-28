@@ -1,15 +1,87 @@
-== OSGeo Glossary Database
+= OSGeo Lexicon
 
-This proto-type repository contains the latest snapshot of the glossary in YAML format.
-The intended use is to serve as data backend for https://osgeo.geolexica.org/
-and the https://github.com/geolexica/osgeo-glossarist[osgeo-glossarist] desktop app.
+https://glossarist.org[Glossarist] concept database for OSGeo, implementing the https://github.com/glossarist/concept-model[Glossarist Concept Model] (ISO 10241-1 compliant).
 
-=== Migrating from legacy glossary sources
+Live site: https://osgeo.geolexica.org
 
-For data migration period, facilities to automatically populate the glossary
-from legacy sources are included.
+== Overview
 
-To rewrite YAML glossary with data migrated from those sources, run:
+This repository contains the glossary data for the OSGeo Lexicon — a collection of geospatial terms curated by the Open Source Geospatial Foundation. Each concept is stored as a YAML file in the https://github.com/glossarist/concept-model/blob/main/schemas/v3[Glossarist v3 schema] format.
+
+[cols="1,4"]
+|===
+| Owner | OSGeo
+| Manager | OSGeo Lexicon Committee
+| Concepts | ~450
+| Languages | eng
+| Concept model | https://github.com/glossarist/concept-model[v3]
+|===
+
+== Repository structure
+
+[source]
+├── register.yaml           # Register metadata and language subregisters
+└── concepts/               # One YAML file per concept (UUID-named)
+    ├── 00a69f25-832e-...yaml
+    └── ...
+
+== Concept file format
+
+Each concept file is a multi-document YAML stream containing the managed concept followed by its localizations. See the https://github.com/glossarist/concept-model/tree/main/schemas/v3/examples[concept model examples] for the full schema.
+
+== Editing concepts
+
+=== Using Glossarist Desktop
+
+Open this repository in the https://glossarist.org/desktop[Glossarist Desktop] application. The app reads and writes YAML files directly.
+
+=== Manual editing
+
+Each concept file can be edited in any text editor. Key fields:
+
+* `data.terms[].designation` — the term/designation text
+* `data.definition[].content` — the definition text
+* `data.examples[].content` — example sentences
+* `data.notes[].content` — notes
+* `data.sources[]` — bibliographic sources
+* `status` — `valid`, `superseded`, or `withdrawn`
+
+When adding a new concept:
+
+. Create a new YAML file in `concepts/` with a deterministic UUID
+. Add the concept UUID to `register.yaml` under the appropriate language subregister
+. Commit and push
+
+== Browsing with Concept Browser
+
+This data is built and deployed using https://github.com/glossarist/concept-browser[`@glossarist/concept-browser`].
+
+The deployment configuration lives in https://github.com/geolexica/osgeo.geolexica.org[`geolexica/osgeo.geolexica.org`].
+
+To build and preview locally:
+
+[source,sh]
+----
+git clone https://github.com/geolexica/osgeo.geolexica.org
+cd osgeo.geolexica.org
+npm install
+npx concept-browser build
+# Output in dist/
+----
+
+== Data pipeline
+
+[source]
+glossary YAML (this repo)
+  → GCR package (GitHub Release .gcr)
+    → concept-browser build (fetch + generate + vite build)
+      → GitHub Pages deployment (osgeo.geolexica.org)
+
+GCR packages are built automatically by the `publish-gcr` workflow on push to `main`.
+
+== Legacy migration
+
+For the initial data migration period, facilities to populate the glossary from legacy sources are available:
 
 [source,sh]
 ----
