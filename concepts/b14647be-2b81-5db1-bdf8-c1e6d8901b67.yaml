@@ -1,9 +1,11 @@
+---
 data:
   identifier: '240'
   localized_concepts:
     eng: a8cf10c4-4544-5529-a85b-0ed6cf412a15
 related:
-- content: iso-19136
+- content:
+    eng: iso-19136
   type: broader
   ref:
     source: ISO
@@ -12,6 +14,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: b14647be-2b81-5db1-bdf8-c1e6d8901b67
+---
 ---
 data:
   definition:

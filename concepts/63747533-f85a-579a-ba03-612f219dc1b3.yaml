@@ -1,9 +1,11 @@
+---
 data:
   identifier: '340'
   localized_concepts:
     eng: 9f0741c5-1818-5c83-858c-bf6bdd59d227
 related:
-- content: iso-19111
+- content:
+    eng: iso-19111
   type: broader
   ref:
     source: ISO
@@ -12,6 +14,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: 63747533-f85a-579a-ba03-612f219dc1b3
+---
 ---
 data:
   definition:

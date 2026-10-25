@@ -1,9 +1,11 @@
+---
 data:
   identifier: iso-19145
   localized_concepts:
     eng: 0e458cd6-1041-5e80-809b-b43100cbe1bc
 related:
-- content: '50'
+- content:
+    eng: '50'
   type: narrower
   ref:
     source: ISO
@@ -12,6 +14,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: 6d39753b-ecb8-5898-b4fe-43a9a990b0f3
+---
 ---
 data:
   definition: []

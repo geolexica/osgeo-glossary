@@ -1,9 +1,11 @@
+---
 data:
   identifier: '233'
   localized_concepts:
     eng: 90d0707a-c9f0-5a1d-9267-3d174dfd8103
 related:
-- content: iso-19115-1
+- content:
+    eng: iso-19115-1
   type: broader
   ref:
     source: ISO
@@ -12,6 +14,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: da7fc1c7-416e-5d03-9d08-9b078ad4e4ff
+---
 ---
 data:
   definition:

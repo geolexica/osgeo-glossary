@@ -1,9 +1,11 @@
+---
 data:
   identifier: '98'
   localized_concepts:
     eng: e17d0ac1-08c0-5784-847e-fcecf5e9bae2
 related:
-- content: iso-19111
+- content:
+    eng: iso-19111
   type: broader
   ref:
     source: ISO
@@ -12,6 +14,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: 7d566c9e-4e08-5b8c-bde7-ccb814eea06e
+---
 ---
 data:
   definition:

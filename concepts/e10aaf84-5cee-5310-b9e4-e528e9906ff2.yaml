@@ -1,9 +1,11 @@
+---
 data:
   identifier: iso-19133
   localized_concepts:
     eng: fbc6ba0a-2344-51dd-8960-bf28c350e95a
 related:
-- content: '223'
+- content:
+    eng: '223'
   type: narrower
   ref:
     source: ISO
@@ -12,6 +14,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: e10aaf84-5cee-5310-b9e4-e528e9906ff2
+---
 ---
 data:
   definition: []

@@ -1,9 +1,11 @@
+---
 data:
   identifier: '380'
   localized_concepts:
     eng: 0434c20e-a32f-5965-b687-213077ab8e03
 related:
-- content: iso-19155
+- content:
+    eng: iso-19155
   type: broader
   ref:
     source: ISO
@@ -12,6 +14,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: 9758efa4-5435-5716-b398-574a36e53cb0
+---
 ---
 data:
   definition:
