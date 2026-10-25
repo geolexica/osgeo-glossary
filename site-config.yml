@@ -1,0 +1,19 @@
+id: osgeo
+domain: osgeo.geolexica.org
+uri_base: https://osgeo.geolexica.org
+base_path: /
+title: OSGeo Glossary
+subtitle: Open Source Geospatial Foundation terminology
+description: >-
+  Terminology of the Open Source Geospatial Foundation ( OSGeo ),
+  maintained as a Glossarist dataset.
+ui_languages:
+- code: eng
+  label: English
+datasets:
+- id: osgeo
+  title: OSGeo Glossary
+  local_path: .
+  owner: OSGeo
+  color: '#54791f'
+routing: []
