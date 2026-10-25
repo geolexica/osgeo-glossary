@@ -1,39 +1,47 @@
+---
 data:
   identifier: iso-19111
   localized_concepts:
     eng: cc46f9e7-7b0b-56dc-b725-9847462c15f3
 related:
-- content: '129'
+- content:
+    eng: '129'
   type: narrower
   ref:
     source: ISO
     id: '129'
-- content: '227'
+- content:
+    eng: '227'
   type: narrower
   ref:
     source: ISO
     id: '227'
-- content: '340'
+- content:
+    eng: '340'
   type: narrower
   ref:
     source: ISO
     id: '340'
-- content: '57'
+- content:
+    eng: '57'
   type: narrower
   ref:
     source: ISO
     id: '57'
-- content: '59'
+- content:
+    eng: '59'
   type: narrower
   ref:
     source: ISO
     id: '59'
-- content: '60'
+- content:
+    eng: '60'
   type: narrower
   ref:
     source: ISO
     id: '60'
-- content: '98'
+- content:
+    eng: '98'
   type: narrower
   ref:
     source: ISO
@@ -42,6 +50,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: e35d8523-6acc-5ec3-bb70-83f605d87d53
+---
 ---
 data:
   definition: []

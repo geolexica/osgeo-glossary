@@ -1,14 +1,17 @@
+---
 data:
   identifier: '59'
   localized_concepts:
     eng: 1cbea05e-110f-5293-9568-0179108a89bc
 related:
-- content: iso-19111
+- content:
+    eng: iso-19111
   type: broader
   ref:
     source: ISO
     id: iso-19111
-- content: '60'
+- content:
+    eng: '60'
   type: supersedes
   ref:
     source: OSGeo
@@ -17,6 +20,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: 83979cbb-f52a-589b-8e92-4c7329d475c3
+---
 ---
 data:
   definition:

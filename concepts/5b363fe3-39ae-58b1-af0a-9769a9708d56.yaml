@@ -1,14 +1,17 @@
+---
 data:
   identifier: iso-19115-2
   localized_concepts:
     eng: 5faefdc8-d9af-5c83-8690-4bb17b8237ec
 related:
-- content: '136'
+- content:
+    eng: '136'
   type: narrower
   ref:
     source: ISO
     id: '136'
-- content: '179'
+- content:
+    eng: '179'
   type: narrower
   ref:
     source: ISO
@@ -17,6 +20,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: 5b363fe3-39ae-58b1-af0a-9769a9708d56
+---
 ---
 data:
   definition: []

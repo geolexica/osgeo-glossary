@@ -1,3 +1,4 @@
+---
 data:
   identifier: '201'
   localized_concepts:
@@ -7,11 +8,13 @@ date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: 190e0b46-8783-5d37-b7fa-ee3987faf788
 related:
-- content: '187'
+- content:
+    eng: '187'
   type: supersedes
   ref:
     source: OSGeo
     id: '187'
+---
 ---
 data:
   definition: []

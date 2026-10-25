@@ -1,9 +1,11 @@
+---
 data:
   identifier: iso-19129
   localized_concepts:
     eng: fcc296c5-c79c-58c7-92aa-dc16c79ae997
 related:
-- content: '67'
+- content:
+    eng: '67'
   type: narrower
   ref:
     source: ISO
@@ -12,6 +14,7 @@ status: valid
 date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: f928359f-7862-59c9-8a61-c3da6b97716b
+---
 ---
 data:
   definition: []

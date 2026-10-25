@@ -1,3 +1,4 @@
+---
 data:
   identifier: '350'
   localized_concepts:
@@ -7,11 +8,13 @@ date_accepted: '2021-01-20T00:00:00+00:00'
 schema_version: '3'
 id: fcdeacc8-76fa-5481-9ca5-15f0a466a122
 related:
-- content: '349'
+- content:
+    eng: '349'
   type: superseded_by
   ref:
     source: OSGeo
     id: '349'
+---
 ---
 data:
   definition: []
